@@ -1,0 +1,2030 @@
+[
+ {
+  "label": "Lorains 2011",
+  "query": "Lorains[au] AND comorbid AND gambling AND 2011[dp]",
+  "pmids": [
+   "21210880"
+  ],
+  "hits": [
+   {
+    "pmid": "21210880",
+    "title": "Prevalence of comorbid disorders in problem and pathological gambling: systematic review and meta-analysis of population surveys.",
+    "journal": "Addiction (Abingdon, England)",
+    "year": "2011",
+    "volume": "106",
+    "issue": "3",
+    "pages": "490-8",
+    "doi": "10.1111/j.1360-0443.2010.03300.x",
+    "pmc": "",
+    "authors": [
+     "Lorains FK",
+     "Cowlishaw S",
+     "Thomas SA"
+    ],
+    "abstract": "This paper reviews evidence pertaining to the prevalence of common comorbid disorders, including alcohol use disorder, depression, substance use disorders, nicotine dependence, anxiety disorders and antisocial personality disorder, in population-representative samples of problem and pathological gamblers. A systematic search was conducted for peer-reviewed and unpublished articles reported between 1 January 1998 and 20 September 2010. Only studies which examined the prevalence of comorbid conditions in problem and/or pathological gamblers from a general population sample using randomized sampling methods and standardized measurement tools were included. Meta-analysis techniques were then performed to synthesize the included studies and estimate the weighted mean effect size and heterogeneity across studies. Eleven eligible studies were identified from the literature. Results from across the studies indicated that problem and pathological gamblers had high rates of other comorbid disorders. The highest mean prevalence was for nicotine dependence (60.1%), followed by a substance use disorder (57.5%), any type of mood disorder (37.9%) and any type of anxiety disorder (37.4%). However, there was evidence of moderate heterogeneity across studies, suggesting that rate estimates do not necessarily converge around a single population figure, and that weighted means should be interpreted with caution. Problem and pathological gamblers experience high levels of other comorbid mental health disorders and screening for comorbid disorders upon entering treatment for gambling problems is recommended. Further research is required to explore the underlying causes of variability observed in the prevalence estimates."
+   }
+  ],
+  "full": 0
+ },
+ {
+  "label": "Dowling 2015a Axis I",
+  "query": "Dowling NA[au] AND 2015[dp] AND \"treatment-seeking problem gamblers\" AND co-morbidity",
+  "pmids": [
+   "25735959",
+   "25248010"
+  ],
+  "hits": [
+   {
+    "pmid": "25735959",
+    "title": "Prevalence of psychiatric co-morbidity in treatment-seeking problem gamblers: A systematic review and meta-analysis.",
+    "journal": "The Australian and New Zealand journal of psychiatry",
+    "year": "2015",
+    "volume": "49",
+    "issue": "6",
+    "pages": "519-39",
+    "doi": "10.1177/0004867415575774",
+    "pmc": "PMC4438101",
+    "authors": [
+     "Dowling NA",
+     "Cowlishaw S",
+     "Jackson AC",
+     "Merkouris SS",
+     "Francis KL",
+     "Christensen DR"
+    ],
+    "abstract": "The aim of this paper was to systematically review and meta-analyse the prevalence of co-morbid psychiatric disorders (DSM-IV Axis I disorders) among treatment-seeking problem gamblers. A systematic search was conducted for peer-reviewed studies that provided prevalence estimates of Axis I psychiatric disorders in individuals seeking psychological or pharmacological treatment for problem gambling (including pathological gambling). Meta-analytic techniques were performed to estimate the weighted mean effect size and heterogeneity across studies. Results from 36 studies identified high rates of co-morbid current (74.8%, 95% CI 36.5-93.9) and lifetime (75.5%, 95% CI 46.5-91.8) Axis I disorders. There were high rates of current mood disorders (23.1%, 95% CI 14.9-34.0), alcohol use disorders (21.2%, 95% CI 15.6-28.1), anxiety disorders (17.6%, 95% CI 10.8-27.3) and substance (non-alcohol) use disorders (7.0%, 95% CI 1.7-24.9). Specifically, the highest mean prevalence of current psychiatric disorders was for nicotine dependence (56.4%, 95% CI 35.7-75.2) and major depressive disorder (29.9%, 95% CI 20.5-41.3), with smaller estimates for alcohol abuse (18.2%, 95% CI 13.4-24.2), alcohol dependence (15.2%, 95% CI 10.2-22.0), social phobia (14.9%, 95% CI 2.0-59.8), generalised anxiety disorder (14.4%, 95% CI 3.9-40.8), panic disorder (13.7%, 95% CI 6.7-26.0), post-traumatic stress disorder (12.3%, 95% CI 3.4-35.7), cannabis use disorder (11.5%, 95% CI 4.8-25.0), attention-deficit hyperactivity disorder (9.3%, 95% CI 4.1-19.6), adjustment disorder (9.2%, 95% CI 4.8-17.2), bipolar disorder (8.8%, 95% CI 4.4-17.1) and obsessive-compulsive disorder (8.2%, 95% CI 3.4-18.6). There were no consistent patterns according to gambling problem severity, type of treatment facility and study jurisdiction. Although these estimates were robust to the inclusion of studies with non-representative sampling biases, they should be interpreted with caution as they were highly variable across studies. The findings highlight the need for gambling treatment services to undertake routine screening and assessment of psychiatric co-morbidity and provide treatment approaches that adequately manage these co-morbid disorders. Further research is required to explore the reasons for the variability observed in the prevalence estimates."
+   },
+   {
+    "pmid": "25248010",
+    "title": "The Prevalence of Comorbid Personality Disorders in Treatment-Seeking Problem Gamblers: A Systematic Review and Meta-Analysis.",
+    "journal": "Journal of personality disorders",
+    "year": "2015",
+    "volume": "29",
+    "issue": "6",
+    "pages": "735-54",
+    "doi": "10.1521/pedi_2014_28_168",
+    "pmc": "",
+    "authors": [
+     "Dowling NA",
+     "Cowlishaw S",
+     "Jackson AC",
+     "Merkouris SS",
+     "Francis KL",
+     "Christensen DR"
+    ],
+    "abstract": "The aim of this study was to systematically review and meta-analyze the prevalence of comorbid personality disorders among treatment-seeking problem gamblers. Almost one half (47.9%) of problem gamblers displayed comorbid personality disorders. They were most likely to display Cluster B disorders (17.6%), with smaller proportions reporting Cluster C disorders (12.6%) and Cluster A disorders (6.1%). The most prevalent personality disorders were narcissistic (16.6%), antisocial (14.0%), avoidant (13.4%), obsessive-compulsive (13.4%), and borderline (13.1%) personality disorders. Sensitivity analyses suggested that these prevalence estimates were robust to the inclusion of clinical trials and self-selected samples. Although there was significant variability in reported rates, subgroup analyses revealed no significant differences in estimates of antisocial personality disorder according to problem gambling severity, measure of comorbidity employed, and study jurisdiction. The findings highlight the need for gambling treatment services to conduct routine screening and assessment of co-occurring personality disorders and to provide treatment approaches that adequately address these comorbid conditions."
+   }
+  ],
+  "full": 0
+ },
+ {
+  "label": "Dowling 2015b PD",
+  "query": "Dowling NA[au] AND 2015[dp] AND personality disorders AND gamblers",
+  "pmids": [
+   "25373399",
+   "25248010"
+  ],
+  "hits": [
+   {
+    "pmid": "25373399",
+    "title": "The Application of an Etiological Model of Personality Disorders to Problem Gambling.",
+    "journal": "Journal of gambling studies",
+    "year": "2015",
+    "volume": "31",
+    "issue": "4",
+    "pages": "1179-99",
+    "doi": "10.1007/s10899-014-9504-z",
+    "pmc": "",
+    "authors": [
+     "Brown M",
+     "Allen JS",
+     "Dowling NA"
+    ],
+    "abstract": "Problem gambling is a significant mental health problem that creates a multitude of intrapersonal, interpersonal, and social difficulties. Recent empirical evidence suggests that personality disorders, and in particular borderline personality disorder (BPD), are commonly co-morbid with problem gambling. Despite this finding there has been very little research examining overlapping factors between these two disorders. The aim of this review is to summarise the literature exploring the relationship between problem gambling and personality disorders. The co-morbidity of personality disorders, particularly BPD, is reviewed and the characteristics of problem gamblers with co-morbid personality disorders are explored. An etiological model from the more advanced BPD literature-the biosocial developmental model of BPD-is used to review the similarities between problem gambling and BPD across four domains: early parent-child interactions, emotion regulation, co-morbid psychopathology and negative outcomes. It was concluded that personality disorders, in particular BPD are commonly co-morbid among problem gamblers and the presence of a personality disorder complicates the clinical picture. Furthermore BPD and problem gambling share similarities across the biosocial developmental model of BPD. Therefore clinicians working with problem gamblers should incorporate routine screening for personality disorders and pay careful attention to the therapeutic alliance, client motivations and therapeutic boundaries. Furthermore adjustments to therapy structure, goals and outcomes may be required. Directions for future research include further research into the applicability of the biosocial developmental model of BPD to problem gambling."
+   },
+   {
+    "pmid": "25248010",
+    "title": "The Prevalence of Comorbid Personality Disorders in Treatment-Seeking Problem Gamblers: A Systematic Review and Meta-Analysis.",
+    "journal": "Journal of personality disorders",
+    "year": "2015",
+    "volume": "29",
+    "issue": "6",
+    "pages": "735-54",
+    "doi": "10.1521/pedi_2014_28_168",
+    "pmc": "",
+    "authors": [
+     "Dowling NA",
+     "Cowlishaw S",
+     "Jackson AC",
+     "Merkouris SS",
+     "Francis KL",
+     "Christensen DR"
+    ],
+    "abstract": "The aim of this study was to systematically review and meta-analyze the prevalence of comorbid personality disorders among treatment-seeking problem gamblers. Almost one half (47.9%) of problem gamblers displayed comorbid personality disorders. They were most likely to display Cluster B disorders (17.6%), with smaller proportions reporting Cluster C disorders (12.6%) and Cluster A disorders (6.1%). The most prevalent personality disorders were narcissistic (16.6%), antisocial (14.0%), avoidant (13.4%), obsessive-compulsive (13.4%), and borderline (13.1%) personality disorders. Sensitivity analyses suggested that these prevalence estimates were robust to the inclusion of clinical trials and self-selected samples. Although there was significant variability in reported rates, subgroup analyses revealed no significant differences in estimates of antisocial personality disorder according to problem gambling severity, measure of comorbidity employed, and study jurisdiction. The findings highlight the need for gambling treatment services to conduct routine screening and assessment of co-occurring personality disorders and to provide treatment approaches that adequately address these comorbid conditions."
+   }
+  ],
+  "full": 0
+ },
+ {
+  "label": "Cowlishaw 2014",
+  "query": "Cowlishaw S[au] AND 2014[dp] AND \"substance use treatment\" AND gambling",
+  "pmids": [
+   "24074847"
+  ],
+  "hits": [
+   {
+    "pmid": "24074847",
+    "title": "Pathological and problem gambling in substance use treatment: a systematic review and meta-analysis.",
+    "journal": "Journal of substance abuse treatment",
+    "year": "2014",
+    "volume": "46",
+    "issue": "2",
+    "pages": "98-105",
+    "doi": "10.1016/j.jsat.2013.08.019",
+    "pmc": "",
+    "authors": [
+     "Cowlishaw S",
+     "Merkouris S",
+     "Chapman A",
+     "Radermacher H"
+    ],
+    "abstract": "Pathological and problem gambling refer to a class of disorders, including those meeting criteria for a psychiatric diagnosis (i.e., pathological gambling), and others comprising a spectrum of severity defined by significant personal and social harm (i.e., problem gambling), that may be common in substance use treatment but are frequently unrecognized. This paper presents a systematic review and meta-analysis of available evidence indicating the prevalence of such gambling disorders in substance use treatment. It provides weighted mean estimates from across studies of clinical samples of substance users, and suggests around 14% of patients that demonstrate comorbid pathological gambling. Around 23% suffer conditions along the broader spectrum of problem gambling. The review also highlights important limitations of existing evidence, including scant data on current versus lifetime comorbidity, as well as reliance on convenience samples and self-administered measures of gambling problems. Notwithstanding a concomitant need for caution when applying these results, the findings suggest a strong need to identify and manage gambling comorbidity in substance use treatment. Strategies for identification of gambling disorders, and therapies that may provide useful adjunctive interventions in substance use treatment are discussed."
+   }
+  ],
+  "full": 0
+ },
+ {
+  "label": "Petry 2005 NESARC",
+  "query": "Petry NM[au] AND Stinson FS[au] AND 2005[dp] AND pathological gambling",
+  "pmids": [
+   "15889941"
+  ],
+  "hits": [
+   {
+    "pmid": "15889941",
+    "title": "Comorbidity of DSM-IV pathological gambling and other psychiatric disorders: results from the National Epidemiologic Survey on Alcohol and Related Conditions.",
+    "journal": "The Journal of clinical psychiatry",
+    "year": "2005",
+    "volume": "66",
+    "issue": "5",
+    "pages": "564-74",
+    "doi": "10.4088/jcp.v66n0504",
+    "pmc": "",
+    "authors": [
+     "Petry NM",
+     "Stinson FS",
+     "Grant BF"
+    ],
+    "abstract": "To present nationally representative data on lifetime prevalence and comorbidity of pathological gambling with other psychiatric disorders and to evaluate sex differences in the strength of the comorbid associations. Data were derived from a large national sample of the United States. Some 43,093 household and group quarters residents age 18 years and older participated in the 2001-2002 survey. Prevalence and associations of lifetime pathological gambling and other lifetime psychiatric disorders are presented. The diagnostic interview was the National Institute on Alcohol Abuse and Alcoholism Alcohol Use Disorder and Associated Disabilities Interview Schedule-DSM-IV Version. Fifteen symptom items operationalized the 10 pathological gambling criteria. The lifetime prevalence rate of pathological gambling was 0.42%. Almost three quarters (73.2%) of pathological gamblers had an alcohol use disorder, 38.1% had a drug use disorder, 60.4% had nicotine dependence, 49.6% had a mood disorder, 41.3% had an anxiety disorder, and 60.8% had a personality disorder. A large majority of the associations between pathological gambling and substance use, mood, anxiety, and personality disorders were overwhelmingly positive and significant (p < .05), even after controlling for sociodemographic and socioeconomic characteristics. Male sex, black race, divorced/separated/widowed marital status, middle age, and living in the West and Midwest were associated with increased risk for pathological gambling. Further, associations between alcohol dependence, any drug use disorder, drug abuse, nicotine dependence, major depressive episode, and generalized anxiety disorder and pathological gambling were stronger among women than men (p > .05). Pathological gambling is highly comorbid with substance use, mood, anxiety, and personality disorders, suggesting that treatment for one condition should involve assessment and possible concomitant treatment for comorbid conditions."
+   }
+  ],
+  "full": 0
+ },
+ {
+  "label": "Weintraub 2010",
+  "query": "Weintraub D[au] AND 2010[dp] AND impulse control AND Parkinson AND cross-sectional",
+  "pmids": [
+   "21154480",
+   "20457959"
+  ],
+  "hits": [
+   {
+    "pmid": "21154480",
+    "title": "Amantadine use associated with impulse control disorders in Parkinson disease in cross-sectional study.",
+    "journal": "Annals of neurology",
+    "year": "2010",
+    "volume": "68",
+    "issue": "6",
+    "pages": "963-8",
+    "doi": "10.1002/ana.22164",
+    "pmc": "",
+    "authors": [
+     "Weintraub D",
+     "Sohr M",
+     "Potenza MN",
+     "Siderowf AD",
+     "Stacy M",
+     "Voon V",
+     "Whetteckey J",
+     "Wunderlich GR",
+     "Lang AE"
+    ],
+    "abstract": "A recent controlled clinical trial suggested a role for amantadine as a treatment for pathological gambling in patients with Parkinson disease (PD). Analyzing data from a large cross-sectional study of impulse control disorders (ICDs) in PD, amantadine use (n = 728), vs no amantadine use (n = 2,357), was positively associated with a diagnosis of any ICD (17.6% vs 12.4%, p < 0.001) and compulsive gambling specifically (7.4% vs 4.2%, p < 0.001). This amantadine association remained after controlling for covariates of amantadine use, including both dopamine agonist use and levodopa dosage. Further research, including larger clinical trials, is needed to assess the role of amantadine in the development and treatment of ICDs in PD."
+   },
+   {
+    "pmid": "20457959",
+    "title": "Impulse control disorders in Parkinson disease: a cross-sectional study of 3090 patients.",
+    "journal": "Archives of neurology",
+    "year": "2010",
+    "volume": "67",
+    "issue": "5",
+    "pages": "589-95",
+    "doi": "10.1001/archneurol.2010.65",
+    "pmc": "",
+    "authors": [
+     "Weintraub D",
+     "Koester J",
+     "Potenza MN",
+     "Siderowf AD",
+     "Stacy M",
+     "Voon V",
+     "Whetteckey J",
+     "Wunderlich GR",
+     "Lang AE"
+    ],
+    "abstract": "An association between dopamine-replacement therapies and impulse control disorders (ICDs) in Parkinson disease (PD) has been suggested in preliminary studies. To ascertain point prevalence estimates of 4 ICDs in PD and examine their associations with dopamine-replacement therapies and other clinical characteristics. Cross-sectional study using an a priori established sampling procedure for subject recruitment and raters blinded to PD medication status. Three thousand ninety patients with treated idiopathic PD receiving routine clinical care at 46 movement disorder centers in the United States and Canada. The Massachusetts Gambling Screen score for current problem/pathological gambling, the Minnesota Impulsive Disorders Interview score for compulsive sexual behavior and buying, and Diagnostic and Statistical Manual of Mental Disorders research criteria for binge-eating disorder. An ICD was identified in 13.6% of patients (gambling in 5.0%, compulsive sexual behavior in 3.5%, compulsive buying in 5.7%, and binge-eating disorder in 4.3%), and 3.9% had 2 or more ICDs. Impulse control disorders were more common in patients treated with a dopamine agonist than in patients not taking a dopamine agonist (17.1% vs 6.9%; odds ratio [OR], 2.72; 95% confidence interval [CI], 2.08-3.54; P < .001). Impulse control disorder frequency was similar for pramipexole and ropinirole (17.7% vs 15.5%; OR, 1.22; 95% CI, 0.94-1.57; P = .14). Additional variables independently associated with ICDs were levodopa use, living in the United States, younger age, being unmarried, current cigarette smoking, and a family history of gambling problems. Dopamine agonist treatment in PD is associated with 2- to 3.5-fold increased odds of having an ICD. This association represents a drug class relationship across ICDs. The association of other demographic and clinical variables with ICDs suggests a complex relationship that requires additional investigation to optimize prevention and treatment strategies. clinicaltrials.gov Identifier: NCT00617019."
+   }
+  ],
+  "full": 0
+ },
+ {
+  "label": "Corvol 2018",
+  "query": "Corvol JC[au] AND 2018[dp] AND impulse control disorders AND Parkinson",
+  "pmids": [
+   "30444952",
+   "29925549",
+   "29066517"
+  ],
+  "hits": [
+   {
+    "pmid": "30444952",
+    "title": "Suggestive association between OPRM1 and impulse control disorders in Parkinson's disease.",
+    "journal": "Movement disorders : official journal of the Movement Disorder Society",
+    "year": "2018",
+    "volume": "33",
+    "issue": "12",
+    "pages": "1878-1886",
+    "doi": "10.1002/mds.27519",
+    "pmc": "",
+    "authors": [
+     "Cormier-Dequaire F",
+     "Bekadar S",
+     "Anheim M",
+     "Lebbah S",
+     "Pelissolo A",
+     "Krack P",
+     "Lacomblez L",
+     "Lhommée E",
+     "Castrioto A",
+     "Azulay JP",
+     "Defebvre L",
+     "Kreisler A",
+     "Durif F",
+     "Marques-Raquel A",
+     "Brefel-Courbon C",
+     "Grabli D",
+     "Roze E",
+     "Llorca PM",
+     "Ory-Magne F",
+     "Benatru I",
+     "Ansquer S",
+     "Maltête D",
+     "Tir M",
+     "Krystkowiak P",
+     "Tranchant C",
+     "Lagha-Boukbiza O",
+     "Lebrun-Vignes B",
+     "Mangone G",
+     "Vidailhet M",
+     "Charbonnier-Beaupel F",
+     "Rascol O",
+     "Lesage S",
+     "Brice A",
+     "Tezenas du Montcel S",
+     "Corvol JC",
+     "BADGE-PD study group"
+    ],
+    "abstract": "Impulse control disorders are frequently associated with dopaminergic therapy in Parkinson's disease. Genetic studies have suggested a high heritability of impulse control disorders in the general population and in PD. The aim of this study was to identify candidate gene variants associated with impulse control disorders and related behaviors in PD. We performed a multicenter case-control study in PD patients with (cases) or without impulse control disorders and related behaviors despite significant dopamine agonist exposure of >300 mg levodopa-equivalent daily dose during 12 months (controls). Behavioral disorders were assessed using the Ardouin scale. We investigated 50 variants in 24 candidate genes by a multivariate logistic regression analysis adjusted for sex and age at PD onset. The analysis was performed on 172 cases and 132 controls. Cases were younger (60 ± 8 vs 63 ± 8 years; P < 0.001) and had a higher family history of pathological gambling (12% vs 5%, P = 0.03). No variant was significantly associated with impulse control disorders or related behaviors after correction for multiple testing, although the 2 top variants were close to significant (OPRM1 rs179991, OR, 0.49; 95%CI, 0.32-0.76; P = 0.0013; Bonferroni adjusted P = 0.065; DAT1 40-base pair variable number tandem repeat, OR, 1.82; 95%CI, 1.24-2.68; P = 0.0021; Bonferroni adjusted P = 0.105). Our results are suggestive of a novel association of the opioid receptor gene OPRM1 with impulse control disorders and related behaviors in PD and confirm a previous association with DAT1. Although replication in independent studies is needed, our results bring potential new insights to the understanding of molecular mechanisms of impulse control disorders. © 2018 International Parkinson and Movement Disorder Society."
+   },
+   {
+    "pmid": "29925549",
+    "title": "Longitudinal analysis of impulse control disorders in Parkinson disease.",
+    "journal": "Neurology",
+    "year": "2018",
+    "volume": "91",
+    "issue": "3",
+    "pages": "e189-e201",
+    "doi": "10.1212/WNL.0000000000005816",
+    "pmc": "PMC6059034",
+    "authors": [
+     "Corvol JC",
+     "Artaud F",
+     "Cormier-Dequaire F",
+     "Rascol O",
+     "Durif F",
+     "Derkinderen P",
+     "Marques AR",
+     "Bourdain F",
+     "Brandel JP",
+     "Pico F",
+     "Lacomblez L",
+     "Bonnet C",
+     "Brefel-Courbon C",
+     "Ory-Magne F",
+     "Grabli D",
+     "Klebe S",
+     "Mangone G",
+     "You H",
+     "Mesnage V",
+     "Lee PC",
+     "Brice A",
+     "Vidailhet M",
+     "Elbaz A",
+     "DIGPD Study Group"
+    ],
+    "abstract": "To investigate the longitudinal dose-effect relationship between dopamine replacement therapy and impulse control disorders (ICDs) in Parkinson disease (PD). We used data from a multicenter longitudinal cohort of consecutive patients with PD with ≤5 years' disease duration at baseline followed up annually up to 5 years. ICDs were evaluated during face-to-face semistructured interviews with movement disorder specialists. Generalized estimating equations and Poisson models with robust variance were used to study the association between several time-dependent definitions of dopamine agonist (DA) use, taking dose and duration of treatment into account, and ICDs at each visit. Other antiparkinsonian drugs were also examined. Among 411 patients (40.6% women, mean age 62.3 years, average follow-up 3.3 years, SD 1.7 years), 356 (86.6%) took a DA at least once since disease onset. In 306 patients without ICDs at baseline, the 5-year cumulative incidence of ICDs was 46.1% (95% confidence interval [CI] 37.4-55.7, DA ever users 51.5% [95% CI 41.8-62.1], DA never users 12.4% [95% CI 4.8-30.0]). ICD prevalence increased from 19.7% at baseline to 32.8% after 5 years. ICDs were associated with ever DA use (prevalence ratio 4.23, 95% CI 1.78-10.09). Lifetime average daily dose and duration of treatment were independently associated with ICDs with significant dose-effect relationships. Similar analyses for levodopa were not in favor of a strong association. ICDs progressively resolved after DA discontinuation. In this longitudinal study of patients with PD characterized by a high prevalence of DA treatment, the 5-year cumulative incidence of ICDs was ≈46%. ICDs were strongly associated with DA use with a dose-effect relationship; both increasing duration and dose were associated with ICDs. ICDs progressively resolved after DA discontinuation. NCT01564992."
+   },
+   {
+    "pmid": "29066517",
+    "title": "Sleep and REM sleep behaviour disorder in Parkinson's disease with impulse control disorder.",
+    "journal": "Journal of neurology, neurosurgery, and psychiatry",
+    "year": "2018",
+    "volume": "89",
+    "issue": "3",
+    "pages": "305-310",
+    "doi": "10.1136/jnnp-2017-316576",
+    "pmc": "",
+    "authors": [
+     "Fantini ML",
+     "Figorilli M",
+     "Arnulf I",
+     "Zibetti M",
+     "Pereira B",
+     "Beudin P",
+     "Puligheddu M",
+     "Cormier-Dequaire F",
+     "Lacomblez L",
+     "Benchetrit E",
+     "Corvol JC",
+     "Cicolin A",
+     "Lopiano L",
+     "Marques A",
+     "Durif F"
+    ],
+    "abstract": "Because the association between rapid eye movement sleep behaviour disorder (RBD) and impulse control disorders (ICDs) in Parkinson's disease (PD) has been debated, we assessed the sleep characteristics and the frequency of RBD using video-polysomnography (v-PSG) in patients with PD with versus without ICDs. Eighty non-demented patients with PD consecutively identified during routine evaluation at three movement disorders centres were enrolled in a case-control study. Forty patients (22 men; mean age: 62.6±9.7 years, Hoehn & Yahr: 2.1±0.6) with one or more current ICDs were age-matched and sex-matched with 40 patients with no history of ICDs (22 men, mean age: 64.9±7.8 years, Hoehn & Yahr: 2.2±0.6). They underwent a detailed sleep interview followed by a full-night in-lab v-PSG. Sleep was scored blindly to ICDs condition and RBD diagnosis included a clinical complaint of enacted dreams and/or documented behaviour during rapid eye movement (REM) sleep, with the presence of quantified REM sleep without atonia (RSWA). Patients with ICDs had a higher arousal index and higher RSWA than those without ICDs (51.9%±28.2%vs 32.2±27.1%, p=0.004). In addition, RBD was more frequent in the ICD group (85%vs53%, p=0.0001). RBD was still associated with ICDs in a multivariate regression analysis including age of onset, PD duration and severity, treatment duration, levodopa-equivalent and dopamine agonist-equivalent daily doses and antidepressant use (OR: 4.9 (95% CI 1.3 to 18.5), p=0.02). This large, controlled series of patients with PD with ICDs assessed by v-PSG confirms the association between ICDs and RBD. Increased surveillance of symptoms of ICDs should be recommended in patients with PD with RBD."
+   }
+  ],
+  "full": 0
+ },
+ {
+  "label": "Sodhi 2019",
+  "query": "Sodhi M[au] AND 2019[dp] AND dopamine agonists AND gambling",
+  "pmids": [
+   "31688453"
+  ],
+  "hits": [
+   {
+    "pmid": "31688453",
+    "title": "Risk of Pathological Gambling and Impulse Control Disorders With Dopamine Agonists: A Retrospective Cohort Study.",
+    "journal": "Journal of clinical psychopharmacology",
+    "year": "2019",
+    "volume": "39",
+    "issue": "6",
+    "pages": "675-676",
+    "doi": "10.1097/JCP.0000000000001122",
+    "pmc": "",
+    "authors": [
+     "Sodhi M",
+     "Etminan M",
+     "Carleton B",
+     "Samii A"
+    ],
+    "abstract": ""
+   }
+  ],
+  "full": 0
+ },
+ {
+  "label": "Jones 2015 bipolar",
+  "query": "Jones L[au] AND Craddock N[au] AND gambling AND bipolar",
+  "pmids": [
+   "26089303"
+  ],
+  "hits": [
+   {
+    "pmid": "26089303",
+    "title": "Gambling problems in bipolar disorder in the UK: prevalence and distribution.",
+    "journal": "The British journal of psychiatry : the journal of mental science",
+    "year": "2015",
+    "volume": "207",
+    "issue": "4",
+    "pages": "328-33",
+    "doi": "10.1192/bjp.bp.114.154286",
+    "pmc": "PMC4589664",
+    "authors": [
+     "Jones L",
+     "Metcalf A",
+     "Gordon-Smith K",
+     "Forty L",
+     "Perry A",
+     "Lloyd J",
+     "Geddes JR",
+     "Goodwin GM",
+     "Jones I",
+     "Craddock N",
+     "Rogers RD"
+    ],
+    "abstract": "North American studies show bipolar disorder is associated with elevated rates of problem gambling; however, little is known about rates in the different presentations of bipolar illness. To determine the prevalence and distribution of problem gambling in people with bipolar disorder in the UK. The Problem Gambling Severity Index was used to measure gambling problems in 635 participants with bipolar disorder. Moderate to severe gambling problems were four times higher in people with bipolar disorder than in the general population, and were associated with type 2 disorder (OR = 1.74, P = 0.036), history of suicidal ideation or attempt (OR = 3.44, P = 0.02) and rapid cycling (OR = 2.63, P = 0.008). Approximately 1 in 10 patients with bipolar disorder may be at moderate to severe risk of problem gambling, possibly associated with suicidal behaviour and a rapid cycling course. Elevated rates of gambling problems in type 2 disorder highlight the probable significance of modest but unstable mood disturbance in the development and maintenance of such problems."
+   }
+  ],
+  "full": 0
+ },
+ {
+  "label": "Stevens 2021 global prevalence",
+  "query": "Stevens MWR[au] AND gaming disorder AND prevalence AND meta-analysis",
+  "pmids": [
+   "41222133"
+  ],
+  "hits": [
+   {
+    "pmid": "41222133",
+    "title": "The association between gaming disorder and impulsivity: A systematic review and meta-analysis.",
+    "journal": "The Australian and New Zealand journal of psychiatry",
+    "year": "2026",
+    "volume": "60",
+    "issue": "1",
+    "pages": "26-41",
+    "doi": "10.1177/00048674251388779",
+    "pmc": "PMC12759103",
+    "authors": [
+     "Nuske J",
+     "Nuske L",
+     "Stevens MWR",
+     "Billieux J",
+     "Delfabbro PH",
+     "Hides L",
+     "Johnson D",
+     "King DL"
+    ],
+    "abstract": "Impulsivity, the tendency to act quickly without careful consideration, is a known risk factor and correlate of substance use and addictive disorders, including International Classification of Diseases (ICD)-11 gaming disorder (GD). The aim of this meta-analytic review was to critically evaluate associations between GD symptoms and trait impulsivity and its subtypes. Following the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines, 33 studies (N = 24,818) met inclusion criteria, including being published between 2019 and 2024 (i.e. to focus on studies in ICD-11 era) and reporting data on problem gaming and trait impulsivity using psychometrically validated tools. Pooled effect sizes were calculated using reported correlations or means and standard deviations. Sources of heterogeneity, such as sample type, age, gender, region, assessment tool and impulsivity subtype, were examined using subgroup and moderator analyses. The pooled association between GD and impulsivity was r = 0.29 (95% confidence interval [CI] = [0.24, 0.34]). Significant between-study heterogeneity was detected based on study region, with larger correlations in Asian studies compared to European and Western studies. Larger correlations were reported in studies employing the YIAT and IGDS9-SF and in studies employing the Barratt Impulsiveness Scale (BIS)-11 compared to other impulsivity tools. This meta-analytic review identified a consistent moderate association between trait impulsivity and GD. The result suggests that clinical evaluation and monitoring of GD should consider the influence of impulsivity on risk and recovery. Moreover, assessing specific subtype patterns of impulsivity may inform the implementation of tailored treatment. Future research should examine the relative influence of impulsivity subtypes in the initiation, maintenance and relapse of problematic gaming behaviour."
+   }
+  ],
+  "full": 0
+ },
+ {
+  "label": "Hartmann Blaszczynski 2018",
+  "query": "Hartmann M[au] AND Blaszczynski A[au]",
+  "pmids": [],
+  "hits": [],
+  "full": 0
+ },
+ {
+  "label": "Nower 2022 pathways main",
+  "query": "Nower L[au] AND Blaszczynski A[au] AND Anthony WL[au] AND 2022[dp]",
+  "pmids": [
+   "34792223"
+  ],
+  "hits": [
+   {
+    "pmid": "34792223",
+    "title": "Clarifying gambling subtypes: the revised pathways model of problem gambling.",
+    "journal": "Addiction (Abingdon, England)",
+    "year": "2022",
+    "volume": "117",
+    "issue": "7",
+    "pages": "2000-2008",
+    "doi": "10.1111/add.15745",
+    "pmc": "PMC9299878",
+    "authors": [
+     "Nower L",
+     "Blaszczynski A",
+     "Anthony WL"
+    ],
+    "abstract": "The pathways model is a highly cited etiological model of problem gambling. In the past two decades, a number of studies have found support for the model's utility in classifying gambling subtypes. The aims of this paper were to refine empirically the model subtypes and to revise and update the model based on those findings. Observational study using data collected from treatment-seeking problem gamblers using the Problem Gambling Severity Index (PGSI) and the Gambling Pathways Questionnaire (GPQ). Treatment clinics in Canada, Australia and the United States. A convenience sample of 1168 treatment-seeking problem gamblers, aged 18 years or older. Empirically validated risk factors were analyzed using latent class analyses, identifying a three-class solution as the best-fitting model. Those in the largest class (class 1: 44.3%, n = 517) reported the lowest levels of all etiological risk factors. Participants in class 2 (39.5%, n = 461) reported the highest rates of anxiety and depression, both before and after gambling became a problem, as well as childhood maltreatment, and a high level of gambling for stress-coping. Those in class 3 (16.3%, n = 190) reported high levels of impulsivity; risk-taking, including sexual risk-taking; antisocial traits; and coping to provide meaning in life and to alleviate stress. The revised pathways model of problem gambling includes three classes of gamblers similar to the three subtypes in the original pathways model, but class 3 in the revised pathways model is distinct from class 2, showing higher levels of risk-taking and antisocial traits and gambling motivated by a desire for meaning/purpose and/or to alleviate stress. Class 2 in the revised pathways model demonstrates high levels of childhood maltreatment as well as gambling for stress-coping."
+   }
+  ],
+  "full": 0
+ },
+ {
+  "label": "Pfund 2023 PAB recovery",
+  "query": "Pfund RA[au] AND 2023[dp] AND gambling AND \"quality of life\"",
+  "pmids": [
+   "36821338"
+  ],
+  "hits": [
+   {
+    "pmid": "36821338",
+    "title": "Effects of cognitive behavioral techniques for gambling on recovery defined by gambling, psychological functioning, and quality of life: A systematic review and meta-analysis.",
+    "journal": "Psychology of addictive behaviors : journal of the Society of Psychologists in Addictive Behaviors",
+    "year": "2023",
+    "volume": "37",
+    "issue": "7",
+    "pages": "936-945",
+    "doi": "10.1037/adb0000910",
+    "pmc": "PMC10444908",
+    "authors": [
+     "Pfund RA",
+     "King SA",
+     "Forman DP",
+     "Zech JM",
+     "Ginley MK",
+     "Peter SC",
+     "McAfee NW",
+     "Witkiewitz K",
+     "Whelan JP"
+    ],
+    "abstract": "Individuals who experience gambling harms report that sustained recovery involves changing both gambling behaviors and psychological symptoms, as well as building a meaningful life. However, there is limited understanding about the effect of cognitive behavioral (CB) techniques on psychological symptoms and quality of life. The purpose of the present study was to examine the effect of CB techniques for gambling-related harms on broader recovery outcomes such as psychological symptoms and quality of life. A systematic article search was conducted to identify randomized controlled trials of CB techniques with nonactive and minimal treatment control groups that assessed psychological symptoms or quality of life as outcomes. Random-effects meta-analysis was used to examine the effect of CB techniques relative to nonactive and minimal treatment control groups. A total of nine studies representing 658 participants were included. Eight studies reported outcomes on depression and anxiety, three on substance use, and six on quality of life. CB techniques significantly reduced anxiety (g = -0.44) and depression (g = -0.35) at posttreatment, but not substance use. CB techniques also significantly increased quality of life at posttreatment (g = 0.40). There was a large amount of heterogeneity suggesting the magnitude of effects could vary significantly in future randomized trials. Future studies should examine the longitudinal associations between gambling harms, psychological symptoms, and quality of life and to assess whether changes in gambling harms throughout treatment precede or are a consequence of changes in psychological symptoms and quality of life. (PsycInfo Database Record (c) 2023 APA, all rights reserved)."
+   }
+  ],
+  "full": 1
+ },
+ {
+  "label": "Corbeil 2024 Acta",
+  "query": "38566334[uid]",
+  "pmids": [
+   "38566334"
+  ],
+  "hits": [
+   {
+    "pmid": "38566334",
+    "title": "Problem gambling in psychotic disorders: A systematic review and meta-analysis of prevalence.",
+    "journal": "Acta psychiatrica Scandinavica",
+    "year": "2024",
+    "volume": "149",
+    "issue": "6",
+    "pages": "445-457",
+    "doi": "10.1111/acps.13686",
+    "pmc": "",
+    "authors": [
+     "Corbeil O",
+     "Anderson É",
+     "Béchard L",
+     "Desmeules C",
+     "Huot-Lavoie M",
+     "Bachand L",
+     "Brodeur S",
+     "Carmichael PH",
+     "Jacques C",
+     "Solmi M",
+     "Giroux I",
+     "Dorval M",
+     "Demers MF",
+     "Roy MA"
+    ],
+    "abstract": "Problem gambling (PBG) is more common in people with mental health disorders, including substance use, bipolar, and personality disorders, than in the general population. Although individuals with psychotic disorders might be expected to be more vulnerable to PBG, fewer studies have focused on this comorbidity. The aim of this review was to estimate the prevalence of PBG in people with psychotic disorders. Medline (Ovid), EMBASE, PsycINFO (Ovid), CINAHL, CENTRAL, Web of science, and ProQuest were searched on November 1, 2023, without language restrictions. Observational and experimental studies including individuals with psychotic disorders and reporting the prevalence of PBG were included. Risk of bias was assessed using the Joanna Briggs Institute critical appraisal for systematic reviews of prevalence data. The pooled prevalence of PBG was calculated using a fixed effects generalized linear mixed model and presented through forest plots. Of 1271 records screened, 12 studies (n = 3443) were included. The overall prevalence of PBG was 8.7% (95% CI = 7.8%-9.7%, I2 = 69%). A lower prevalence was found in studies with a low risk of bias (5.6%; 95% CI = 4.4%-7.0%) compared with studies with a moderate risk of bias (10.4%; 95% CI = 9.2%-11.7%). Different methods used to assess PBG also contributed to the heterogeneity found. This meta-analysis found substantial heterogeneity, partly due to the risk of bias of the included studies and a lack of uniformity in PBG assessment. Although more research is needed to identify those at increased risk for PBG, its relatively high prevalence warrants routine screening for gambling in clinical practice."
+   }
+  ],
+  "full": 1
+ },
+ {
+  "label": "Kristensen 2024",
+  "query": "38095933[uid]",
+  "pmids": [
+   "38095933"
+  ],
+  "hits": [
+   {
+    "pmid": "38095933",
+    "title": "Suicidality among individuals with gambling problems: A meta-analytic literature review.",
+    "journal": "Psychological bulletin",
+    "year": "2024",
+    "volume": "150",
+    "issue": "1",
+    "pages": "82-106",
+    "doi": "10.1037/bul0000411",
+    "pmc": "",
+    "authors": [
+     "Kristensen JH",
+     "Pallesen S",
+     "Bauer J",
+     "Leino T",
+     "Griffiths MD",
+     "Erevik EK"
+    ],
+    "abstract": "Gambling problems have consistently been linked to suicidality, including suicidal ideation, attempts, and suicide. However, the magnitude of the relationship has varied significantly across studies and the potential causal link between gambling problems and suicidality is currently unclear. A meta-analytic literature review was conducted to (a) synthesize pooled prevalence rates of suicidality among individuals with gambling problems; (b) determine if individuals with gambling problems had an increased likelihood of reporting suicidality compared to individuals without gambling problems; and (c) review evidence on causality and directionality. A search in Web of Science, APA PsycInfo, APA PsycNet, Medline, CINAHL, ProQuest, Embase, and Google Scholar electronic databases identified 107 unique studies (N = 4,691,899) that were included for review. Studies were included if they were available in any European language and provided sufficient data for the calculation of prevalence rates or effect sizes. Two researchers extracted the data independently using a predefined coding schema that included the Newcastle-Ottawa Quality Assessment Scale. Random-effects meta-analyses yielded pooled prevalence rates of 31.6% (95% CI [29.1%, 34.3%]) for lifetime suicidal ideation and 13.2% (95% CI [11.3%, 15.5%]) for lifetime suicide attempts. Individuals with gambling problems had significantly increased odds of reporting lifetime suicidal ideation (OR = 2.17, 95% CI [1.90, 2.48]) and lifetime suicide attempts (OR = 2.81, 95% CI [2.23, 3.54]) compared to individuals without gambling problems. Two studies reported that individuals with pathological gambling had an increased risk of dying by suicide. Metaregression analyses suggested that the risk of study bias was positively related to the prevalence rates of suicidal ideation. Sex proportions were found to moderate the odds of suicidal ideation, but the direction of the effect was inconsistent. For suicide attempts, psychiatric comorbidity and sample size were positively and inversely, respectively, associated with prevalence rates. The synthesis indicates that suicidality is common among individuals with gambling problems and hence should be addressed by help agencies. Inferences on causality and directionality are hampered by a lack of longitudinal studies. (PsycInfo Database Record (c) 2024 APA, all rights reserved)."
+   }
+  ],
+  "full": 1
+ },
+ {
+  "label": "Wardle 2020",
+  "query": "Wardle H[au] AND 2020[dp] AND suicidality AND gambling AND England",
+  "pmids": [
+   "32409100"
+  ],
+  "hits": [
+   {
+    "pmid": "32409100",
+    "title": "Problem gambling and suicidality in England: secondary analysis of a representative cross-sectional survey.",
+    "journal": "Public health",
+    "year": "2020",
+    "volume": "184",
+    "issue": "",
+    "pages": "11-16",
+    "doi": "10.1016/j.puhe.2020.03.024",
+    "pmc": "",
+    "authors": [
+     "Wardle H",
+     "John A",
+     "Dymond S",
+     "McManus S"
+    ],
+    "abstract": "Problem gamblers in treatment are known to be at high risk for suicidality, but few studies have examined if this is evident in community samples. Evidence is mixed on the extent to which an association between problem gambling and suicidality may be explained by psychiatric comorbidity. We tested whether they are associated after adjustment for co-occurring mental disorders and other factors. Secondary analysis of the Adult Psychiatric Morbidity Survey 2007, a cross-sectional national probability sample survey of 7403 adults living in households in England. Rates of suicidality in problem gamblers and the rest of the population were compared. A series of logistic regression models assessed the impact of adjustment on the relationship between problem gambling and suicidality. Past year suicidality was reported in 19.2% of problem gamblers, compared with 4.4% in the rest of the population. Their unadjusted odds ratios (OR) of suicidality were 5.3 times higher. Odds attenuated but remained significant when depression and anxiety disorders, substance dependences, attention-deficit/hyperactivity disorder, and other factors were accounted for (adjusted OR = 2.9, 95% confidence interval = 1. 1, 8.1 P = 0.023). Problem gamblers are a high-risk group for suicidality. This should be recognised in individual suicide prevention plans and local and national suicide prevention strategies. While some of this relationship is explained by other factors, a significant and substantial association between problem gambling and suicidality remains."
+   }
+  ],
+  "full": 1
+ },
+ {
+  "label": "Karlsson Håkansson 2018",
+  "query": "Karlsson A[au] AND Håkansson A[au] AND 2018[dp] AND mortality AND gambling",
+  "pmids": [
+   "30427214"
+  ],
+  "hits": [
+   {
+    "pmid": "30427214",
+    "title": "Gambling disorder, increased mortality, suicidality, and associated comorbidity: A longitudinal nationwide register study.",
+    "journal": "Journal of behavioral addictions",
+    "year": "2018",
+    "volume": "7",
+    "issue": "4",
+    "pages": "1091-1099",
+    "doi": "10.1556/2006.7.2018.112",
+    "pmc": "PMC6376387",
+    "authors": [
+     "Karlsson A",
+     "Håkansson A"
+    ],
+    "abstract": "Gambling disorder (GD) appears to be an independent risk factor for suicide, and all-cause mortality has been sparsely studied in patients with GD. This study aims to explore mortality and suicide rates in individuals with GD compared to the general population as well as explore risk factors associated with all-cause mortality and suicide mortality. This is a nationwide register study on 2,099 individuals with a GD diagnosis in the Swedish inpatient and/or outpatient specialist health care system between the years of 2005-2016. Comorbid diagnoses from treatment episodes included in national registers were categorized into diagnostic groups according to the 10th revision of International Classification of Diseases, and prevalence rates (any occurrence during 2005-2016) were calculated for each diagnostic group. Multivariate Cox regression analyses on risk factors for death and suicide were performed, controlling for age, gender, and major categories of comorbidity. Standardized mortality ratios (SMRs) were calculated for men and women with regard to overall mortality and suicide compared to the general Swedish population. The population consisted of 1,625 men and 474 women ranging from 18 to 83 years of age at first GD diagnosis (mean: 36.5 years). Sixty-seven individuals passed away, among whom 21 deaths were due to suicide. SMR calculations showed a 1.8-fold increase in mortality for individuals 20-74 years old with GD compared to the general population, and a 15-fold increase in suicide mortality. All-cause mortality was predicted by higher age and any treatment episode for cardiovascular disease, whereas suicide death was predicted by depression. Mortality and suicide rates are significantly elevated among individuals with GD. Although common mental health comorbidities did not predict overall mortality, depression predicted suicide death. Findings call for attention to long-term risk of death in GD patients and interventions against comorbid health problems."
+   }
+  ],
+  "full": 1
+ },
+ {
+  "label": "Sharma Weinstein 2025",
+  "query": "Sharma R[au] AND Weinstein A[au] AND gambling AND comorbidity AND 2025[dp]",
+  "pmids": [
+   "40177908"
+  ],
+  "hits": [
+   {
+    "pmid": "40177908",
+    "title": "Gambling disorder comorbidity a narrative review.",
+    "journal": "Dialogues in clinical neuroscience",
+    "year": "2025",
+    "volume": "27",
+    "issue": "1",
+    "pages": "1-18",
+    "doi": "10.1080/19585969.2025.2484288",
+    "pmc": "PMC11980244",
+    "authors": [
+     "Sharma R",
+     "Weinstein A"
+    ],
+    "abstract": "Introduction: Problematic and pathological gambling (PG) lead to major adverse consequences for individuals, their families, and society and is highly comorbid with numerous other mental health disorders. Methods: This narrative review summarized population-based, cross-sectional, treatment and prospective studies on gambling disorder and comorbidity over the past 14 years. Results: These studies show a high rate of comorbidity of PG and substance and alcohol use disorders, mood and anxiety disorders. Prospective studies indicate that, in some cases, gambling precedes the onset of the comorbid disorder, while in other instances, the temporal relationship is reversed. Women face greater psychiatric comorbidity and are more likely to have mood disorders, suicidality, mania, anxiety and alcohol dependence. Treatment of PG can be effective by improving the gambling and depressive symptoms of PG. Conclusions: Over the past 15 years, significant progress has been made in understanding and treating GD and its psychiatric comorbidities, with evidence highlighting the reciprocal relationships between GD and conditions like substance use, mood and anxiety disorders."
+   }
+  ],
+  "full": 0
+ },
+ {
+  "label": "Szerman 2020",
+  "query": "Szerman N[au] AND 2020[dp] AND gambling AND dual disorder",
+  "pmids": [
+   "33329137"
+  ],
+  "hits": [
+   {
+    "pmid": "33329137",
+    "title": "Gambling Dual Disorder: A Dual Disorder and Clinical Neuroscience Perspective.",
+    "journal": "Frontiers in psychiatry",
+    "year": "2020",
+    "volume": "11",
+    "issue": "",
+    "pages": "589155",
+    "doi": "10.3389/fpsyt.2020.589155",
+    "pmc": "PMC7732481",
+    "authors": [
+     "Szerman N",
+     "Ferre F",
+     "Basurte-Villamor I",
+     "Vega P",
+     "Mesias B",
+     "Marín-Navarrete R",
+     "Arango C"
+    ],
+    "abstract": "Several behaviors, including compulsive gambling, have been considered non-substance-related addictive disorders. Categorical mental disorders (e.g., DSM-5) are usually accompanied by very different symptomatic expressions (affective, behavioral, cognitive, substance abuse, personality traits). When these mental disorders occur with addictive disorders, either concomitantly or sequentially over the life span, this clinical condition is called a dual disorder. Gambling disorder (GD) has been associated with other categorical psychiatric diagnoses: attention deficit hyperactivity disorder, depression, bipolar disorder, social anxiety, schizophrenia, substance use disorder, antisocial personality disorder; and dimensional symptoms including higher impulsivity, poorer emotional wellbeing, cognitive distortion, psychosis, deficient self-regulation, suicide, poorer family environment, and greater mental distress. We are calling this clinical condition Gambling Dual Disorder. From a clinical perspective, it is clear that Gambling Dual Disorder is not the exception but rather the expectation, and this holds true not just for GD, but also for other mental disorders including other addictions. Mental disorders are viewed as biological disorders that involve brain circuits that implicate specific domains of cognition, emotion, and behavior. This narrative review presents the state of the art with respect to GD in order to address current matters from a dual disorder, precision psychiatry, and clinical neuroscience perspective, rather than the more subjective approach of symptomatology and clinical presentation. This review also presents Gambling Dual Disorder as a brain and neurodevelopmental disorder, including from the perspectives of evolutionary psychiatry, genetics, impulsivity as an endophenotype, the self-medication hypothesis, and sexual biological differences. The wide vision of the disease advances a paradigm shift, highlighting how GD and dual disorders should be conceptualized, diagnosed, and treated. Rethinking GD as part of a dual disorder is crucial for its appropriate conceptualization from the perspective of clinical neuroscience and precision psychiatry."
+   }
+  ],
+  "full": 0
+ },
+ {
+  "label": "Echeburúa 2011",
+  "query": "Echeburúa E[au] AND 2011[dp] AND schizophrenia AND gambling",
+  "pmids": [
+   "21920501"
+  ],
+  "hits": [
+   {
+    "pmid": "21920501",
+    "title": "Cognitive-behavioural treatment of pathological gambling in individuals with chronic schizophrenia: a pilot study.",
+    "journal": "Behaviour research and therapy",
+    "year": "2011",
+    "volume": "49",
+    "issue": "11",
+    "pages": "808-14",
+    "doi": "10.1016/j.brat.2011.08.009",
+    "pmc": "",
+    "authors": [
+     "Echeburúa E",
+     "Gómez M",
+     "Freixa M"
+    ],
+    "abstract": "The current study aimed to test the clinical effectiveness of a cognitive-behavioural program (CBT) specifically adapted for pathological gamblers with chronic schizophrenia, carried out in a naturalistic setting of community Mental Health Centres. Forty-four pathological gamblers with chronic schizophrenia were assigned either to a standard drug therapy for schizophrenia (control group) or to cognitive-behavioural therapy for pathological gambling plus a standard drug therapy for schizophrenia (experimental group). Psychological treatment comprised a 20-session program including psychoeducation, stimulus control, gradual exposure and relapse prevention. Therapeutic success was defined as abstinence or the occurrence of only 1 or 2 episodes of gambling during the follow-up period. While the patients treated in the experimental group showed a rate of success of 73.9%, only 19% of the participants belonging to the control group gave up gambling at the 3-month follow-up. The CBT group also did better than the control group in the number of gambling episodes and in the amount of money spent on gambling. However, the improvement of the experimental group was weaker at the 6- and 12-month follow-up. These findings support the beneficial effects of CBT as adjunctive therapy for patients with dual diagnoses (schizophrenia and pathological gambling)."
+   }
+  ],
+  "full": 1
+ },
+ {
+  "label": "Najavits 2013",
+  "query": "Najavits LM[au] AND 2013[dp] AND gambling AND PTSD",
+  "pmids": [
+   "23662327"
+  ],
+  "hits": [
+   {
+    "pmid": "23662327",
+    "title": "Seeking safety therapy for pathological gambling and PTSD: a pilot outcome study.",
+    "journal": "Journal of psychoactive drugs",
+    "year": "2013",
+    "volume": "45",
+    "issue": "1",
+    "pages": "10-6",
+    "doi": "10.1080/02791072.2013.763557",
+    "pmc": "",
+    "authors": [
+     "Najavits LM",
+     "Smylie D",
+     "Johnson K",
+     "Lung J",
+     "Gallop RJ",
+     "Classen CC"
+    ],
+    "abstract": "This pilot study evaluated Seeking Safety (SS) therapy for seven outpatients with current comorbid pathological gambling (PG) and posttraumatic stress disorder (PTSD). This represents the first treatment outcome study of this population, and included both genders and 29% minorities. We found significant improvements in: PTSD/trauma (the PTSD Checklist criterion B symptoms; the Trauma Symptom Inventory overall mean and subscales anxiety, dissociation, sexual abuse trauma index, sex problems; and the World Assumptions Scale benevolence subscale); gambling (the Gamblers Beliefs Questionnaire overall mean and subscales illusion of control); functioning (the Basis-32 overall mean and depression/anxiety subscale); psychopathology (the Brief Symptom Inventory overall mean and subscales anxiety and depression; and the Addiction Severity Index, ASI, psychiatric composite score); self-compassion (the Self-Compassion Scale overall mean and subscales isolation, overidentified, and self-judgment); and helping alliance (the Helping Alliance Questionnaire overall mean). One variable indicated worsening (employment composite subscale on the ASI), possibly reflecting measurement issues. SS attendance was excellent. PTSD onset occurred prior to PG onset for most of the sample, and most believed the two disorders were related. Overall, we found that SS can be effectively conducted for comorbid PTSD and PG, with improvements in numerous domains and high acceptability. Limitations are discussed."
+   }
+  ],
+  "full": 1
+ },
+ {
+  "label": "Hollander 2005 lithium",
+  "query": "Hollander E[au] AND 2005[dp] AND lithium AND gambling",
+  "pmids": [
+   "16311876",
+   "16041292",
+   "15625212"
+  ],
+  "hits": [
+   {
+    "pmid": "16311876",
+    "title": "Reliability and validity of the pathological gambling adaptation of the Yale-Brown Obsessive-Compulsive Scale (PG-YBOCS).",
+    "journal": "Journal of gambling studies",
+    "year": "2005",
+    "volume": "21",
+    "issue": "4",
+    "pages": "431-43",
+    "doi": "10.1007/s10899-005-5557-3",
+    "pmc": "",
+    "authors": [
+     "Pallanti S",
+     "DeCaria CM",
+     "Grant JE",
+     "Urpe M",
+     "Hollander E"
+    ],
+    "abstract": "The Yale Brown Obsessive Compulsive Scale adapted for Pathological Gambling (PG-YBOCS) was developed to measure the severity and change in severity of pathological gambling symptoms. The PG-YBOCS is a 10-item clinician-administered questionnaire that measures the severity of PG over a recent time interval (usually within the past one/two week(s)). In order to assess and validate the scale, it was administered to 337 subjects: 188 pathological gamblers and 149 healthy controls. Internal consistency and correlations between individual items and total score were assessed for various permutations of the sample. Other scales were administered to assess convergent, discriminant and content validity. Sensitivity to change was evaluated in treatment studies with fluovoxamine, lithium, and valproate. Each item was frequently endorsed across a range of severity. Good inter-rater reliability and internal consistency were obtained. The PG-YBOCS showed high validity and reliability for total score, item-total correlations, and for each subscale (Thoughts/Urges and Behavior). PG-YBOCS scores correlated with global severity and South Oaks Gambling Screen (SOGS) scores. The scale was also sensitive to change in pathological gambling severity. PG-YBOCS thus appears to be a reliable and valid measure of pathological gambling severity, and can be regarded as an important tool for clinicians and researchers treating pathological gamblers."
+   },
+   {
+    "pmid": "16041292",
+    "title": "The impact of comorbidity on the management of pathological gambling.",
+    "journal": "CNS spectrums",
+    "year": "2005",
+    "volume": "10",
+    "issue": "8",
+    "pages": "619-21",
+    "doi": "10.1017/s109285290001957x",
+    "pmc": "",
+    "authors": [
+     "Dell'Osso B",
+     "Hollander E"
+    ],
+    "abstract": "A 30-year-old woman with severe pathological gambling and cyclothymia presented to our program with no previous history of pharmacologic or psychotherapeutic treatment. Pathological gambling is an impulse -control disorder not otherwise specified (Diagnostic and Statistical Manual of Mental Disorders, Fourth Edition) in which comorbidity is common, particularly with substance abuse, obsessive-compulsive disorder and mood disorders. As described in this case, pathological gamblers with bipolar comorbidity may be effectively treated with mood stabilizers such as lithium. After receiving 10 weeks of lithium treatment, the patient showed improvement in both gambling behavior and affective instability. The identification of specific subtypes among patients with pathological gambling may be relevant to the choice of pharmacologic treatment."
+   },
+   {
+    "pmid": "15625212",
+    "title": "Does sustained-release lithium reduce impulsive gambling and affective instability versus placebo in pathological gamblers with bipolar spectrum disorders?",
+    "journal": "The American journal of psychiatry",
+    "year": "2005",
+    "volume": "162",
+    "issue": "1",
+    "pages": "137-45",
+    "doi": "10.1176/appi.ajp.162.1.137",
+    "pmc": "",
+    "authors": [
+     "Hollander E",
+     "Pallanti S",
+     "Allen A",
+     "Sood E",
+     "Baldini Rossi N"
+    ],
+    "abstract": "Selective serotonin reuptake inhibitors may be effective for some patients with pathological gambling, but those with comorbid conditions, such as bipolar spectrum disorders, may relapse during treatment. To the authors' knowledge, this is the first placebo-controlled treatment study in pathological gamblers with bipolar spectrum disorders; it compares sustained-release lithium carbonate to placebo. Forty pathological gambling patients with bipolar spectrum disorders entered a 10-week randomized, double-blind, placebo-controlled treatment study of sustained-release lithium carbonate. Outcome measures included gambling severity, mood, anxiety, and impulsivity scales. Pathological gambling patients with bipolar spectrum disorders significantly improved while taking sustained-release lithium carbonate compared to placebo on total pathological gambling scores on the Yale-Brown Obsessive Compulsive Scale, including both thoughts/urges and behavior, as well as on the Clinical Global Impression severity of pathological gambling scale. Affective instability (the Clinician-Administered Rating Scale for Mania score) was also lower in the group treated with sustained-release lithium carbonate compared to placebo. Ten (83%) of 12 completers were rated as responders in the sustained-release lithium group versus five (29%) of 17 in the placebo group. Of note, improvement in gambling severity was significantly correlated with improvement in mania ratings. Sustained-released lithium may be an effective treatment in reducing both gambling behavior and affective instability in pathological gamblers with bipolar spectrum disorder. This study highlights the need to identify subgroups of pathological gambling patients with bipolar spectrum conditions because this may have important treatment implications."
+   }
+  ],
+  "full": 1
+ },
+ {
+  "label": "Han 2009 methylphenidate",
+  "query": "Han DH[au] AND 2009[dp] AND methylphenidate AND video game",
+  "pmids": [
+   "19374970"
+  ],
+  "hits": [
+   {
+    "pmid": "19374970",
+    "title": "The effect of methylphenidate on Internet video game play in children with attention-deficit/hyperactivity disorder.",
+    "journal": "Comprehensive psychiatry",
+    "year": "2009",
+    "volume": "50",
+    "issue": "3",
+    "pages": "251-6",
+    "doi": "10.1016/j.comppsych.2008.08.011",
+    "pmc": "",
+    "authors": [
+     "Han DH",
+     "Lee YS",
+     "Na C",
+     "Ahn JY",
+     "Chung US",
+     "Daniels MA",
+     "Haws CA",
+     "Renshaw PF"
+    ],
+    "abstract": "A number of studies about attention-deficit/hyperactivity disorder (ADHD) and Internet video game play have examined the prefrontal cortex and dopaminergic system. Stimulants such as methylphenidate (MPH), given to treat ADHD, and video game play have been found to increase synaptic dopamine. We hypothesized that MPH treatment would reduce Internet use in subjects with co-occurring ADHD and Internet video game addictions. Sixty-two children (52 males and 10 females), drug-naive, diagnosed with ADHD, and Internet video game players, participated in this study. At the beginning of the study and after 8 weeks of treatment with Concerta (OROS methylphenidate HCl, Seoul, Korea), participants were assessed with Young's Internet Addiction Scale, Korean version (YIAS-K), Korean DuPaul's ADHD Rating Scale, and the Visual Continuous Performance Test. Their Internet usage time was also recorded. After 8 weeks of treatment, the YIAS-K scores and Internet usage times were significantly reduced. The changes in the YIAS-K scores between the baseline and 8-week assessments were positively correlated with the changes in total and inattention scores from the Korean DuPaul's ADHD Rating Scale, as well as omission errors from the Visual Continuous Performance Test. There was also a significant difference in the number of omission errors among non-Internet-addicted, mildly Internet addicted, and severely Internet addicted participants. We suggest that Internet video game playing might be a means of self-medication for children with ADHD. In addition, we cautiously suggest that MPH might be evaluated as a potential treatment of Internet addiction."
+   }
+  ],
+  "full": 1
+ },
+ {
+  "label": "Han Renshaw 2012 bupropion",
+  "query": "Han DH[au] AND Renshaw PF[au] AND 2012[dp] AND bupropion AND depressive",
+  "pmids": [
+   "21447539"
+  ],
+  "hits": [
+   {
+    "pmid": "21447539",
+    "title": "Bupropion in the treatment of problematic online game play in patients with major depressive disorder.",
+    "journal": "Journal of psychopharmacology (Oxford, England)",
+    "year": "2012",
+    "volume": "26",
+    "issue": "5",
+    "pages": "689-96",
+    "doi": "10.1177/0269881111400647",
+    "pmc": "PMC4638175",
+    "authors": [
+     "Han DH",
+     "Renshaw PF"
+    ],
+    "abstract": "As one of the problematic behaviors in patients with major depressive disorder (MDD), excessive online game play (EOP) has been reported in a number of recent studies. Bupropion has been evaluated as a potential treatment for MDD and substance dependence. We hypothesized that bupropion treatment would reduce the severity of EOP as well as depressive symptoms. Fifty male subjects with comorbid EOP and MDD were randomly assigned to bupropion + education for internet use (EDU) or placebo + EDU groups. The current study consisted in a 12-week, prospective, randomized, double-blind clinical trial, including an eight-week active treatment phase and a four-week post treatment follow-up period. During the active treatment period, Young Internet Addiction Scale (YIAS) scores and the mean time of online game playing in the bupropion group were greatly reduced compared with those of the placebo group. The Beck Depression Inventory (BDI) scores in the bupropion group were also greatly reduced compared with those of the placebo group. During the four-week post-treatment follow-up period, bupropion-associated reductions in online game play persisted, while depressive symptoms recurred. Conclusively, bupropion may improve depressive mood as well as reduce the severity of EOP in patients with comorbid MDD and online game addiction."
+   }
+  ],
+  "full": 1
+ },
+ {
+  "label": "Gentile 2011",
+  "query": "Gentile DA[au] AND 2011[dp] AND pathological video game AND longitudinal",
+  "pmids": [
+   "21242221"
+  ],
+  "hits": [
+   {
+    "pmid": "21242221",
+    "title": "Pathological video game use among youths: a two-year longitudinal study.",
+    "journal": "Pediatrics",
+    "year": "2011",
+    "volume": "127",
+    "issue": "2",
+    "pages": "e319-29",
+    "doi": "10.1542/peds.2010-1353",
+    "pmc": "",
+    "authors": [
+     "Gentile DA",
+     "Choo H",
+     "Liau A",
+     "Sim T",
+     "Li D",
+     "Fung D",
+     "Khoo A"
+    ],
+    "abstract": "We aimed to measure the prevalence and length of the problem of pathological video gaming or Internet use, to identify risk and protective factors, to determine whether pathological gaming is a primary or secondary problem, and to identify outcomes for individuals who become or stop being pathological gamers. A 2-year, longitudinal, panel study was performed with a general elementary and secondary school population in Singapore, including 3034 children in grades 3 (N = 743), 4 (N = 711), 7 (N = 916), and 8 (N = 664). Several hypothesized risk and protective factors for developing or overcoming pathological gaming were measured, including weekly amount of game play, impulsivity, social competence, depression, social phobia, anxiety, and school performance. The prevalence of pathological gaming was similar to that in other countries (∼9%). Greater amounts of gaming, lower social competence, and greater impulsivity seemed to act as risk factors for becoming pathological gamers, whereas depression, anxiety, social phobias, and lower school performance seemed to act as outcomes of pathological gaming. This study adds important information to the discussion about whether video game \"addiction\" is similar to other addictive behaviors, demonstrating that it can last for years and is not solely a symptom of comorbid disorders."
+   }
+  ],
+  "full": 0
+ },
+ {
+  "label": "Krossbakken 2018",
+  "query": "Krossbakken E[au] AND 2018[dp] AND cross-lagged AND video game",
+  "pmids": [
+   "30519203"
+  ],
+  "hits": [
+   {
+    "pmid": "30519203",
+    "title": "A Cross-Lagged Study of Developmental Trajectories of Video Game Engagement, Addiction, and Mental Health.",
+    "journal": "Frontiers in psychology",
+    "year": "2018",
+    "volume": "9",
+    "issue": "",
+    "pages": "2239",
+    "doi": "10.3389/fpsyg.2018.02239",
+    "pmc": "PMC6258776",
+    "authors": [
+     "Krossbakken E",
+     "Pallesen S",
+     "Mentzoni RA",
+     "King DL",
+     "Molde H",
+     "Finserås TR",
+     "Torsheim T"
+    ],
+    "abstract": "Objectives: Video game addiction has been associated with an array of mental health variables. There is a paucity of longitudinal studies investigating such associations, and studies differentiating addicted gaming from problem and engaged (i.e., frequent but non-problem) gaming. The current explorative study investigate the natural course of gaming behavior in three sub-studies. The aim of study 1 was to investigate antecedents and consequences of video game addiction measured as a unidimensional construct (pathological gaming). Aim of study 2 was to investigate the same associations in terms of typologies of gamers (\"engaged,\" \"problem,\" \"addicted\"). Furthermore, study 3 aimed to investigate the estimated stability and transitions occurring between the aforementioned typologies, and a non-pathological gaming group. Methods: A nationally representative sample of 3,000 adolescents aged 17.5 years was drawn from the population registry of Norway in 2012 and invited to participate in annual surveys spanning 3 years (NT1 = 2,059, NT2 = 1,334, NT3 = 1,277). The respondents completed measures of video game addiction, depression, anxiety, loneliness, aggression, and alcohol use disorder. Statistical analysis comprised cross-lagged path modeling, Satorra-Bentler chi square test (study 1), regression analyses (study 2), hidden Markov model of transition probabilities (study 3). Results: Findings in study 1 showed that depression and loneliness were reciprocally associated with pathological gaming. Physical aggression was identified as an antecedent, and anxiety was a consequence of pathological gaming. Investigation of the three typologies of gamers (study 2) identified loneliness and physical aggression as antecedents, and depression as a consequence of all typologies. Depression was found to be an antecedent of problem and engaged gamers. Loneliness was found as a consequence of problem gamers, and anxiety was a consequence of addicted gamers. High alcohol consumption was found antecedent to addicted gamers, and low alcohol consumption was found antecedent to problem gamers. The estimated stability of video game addiction was 35%. Conclusion: A reciprocal relationship between pathological gaming and measures of mental health problems seems to exist. The stability of video game addiction indicates a condition that for a substantial number of people does not resolve spontaneously over the course of 2 years."
+   }
+  ],
+  "full": 0
+ },
+ {
+  "label": "Murray 2022 autism gaming",
+  "query": "Murray A[au] AND Demetrovics Z[au] AND autism AND gaming disorder",
+  "pmids": [],
+  "hits": [],
+  "full": 0
+ },
+ {
+  "label": "Gonzalez-Bueso 2018",
+  "query": "González-Bueso V[au] AND 2018[dp] AND internet gaming disorder AND comorbid",
+  "pmids": [
+   "29614059"
+  ],
+  "hits": [
+   {
+    "pmid": "29614059",
+    "title": "Association between Internet Gaming Disorder or Pathological Video-Game Use and Comorbid Psychopathology: A Comprehensive Review.",
+    "journal": "International journal of environmental research and public health",
+    "year": "2018",
+    "volume": "15",
+    "issue": "4",
+    "pages": "",
+    "doi": "10.3390/ijerph15040668",
+    "pmc": "PMC5923710",
+    "authors": [
+     "González-Bueso V",
+     "Santamaría JJ",
+     "Fernández D",
+     "Merino L",
+     "Montero E",
+     "Ribas J"
+    ],
+    "abstract": "The addictive use of video games is recognized as a problem with clinical relevance and is included in international diagnostic manuals and classifications of diseases. The association between \"Internet addiction\" and mental health has been well documented across a range of investigations. However, a major drawback of these studies is that no controls have been placed on the type of Internet use investigated. The aim of this study is to review systematically the current literature in order to explore the association between Internet Gaming Disorder (IGD) and psychopathology. An electronic literature search was conducted using PubMed, PsychINFO, ScienceDirect, Web of Science and Google Scholar (r.n. CRD42018082398). The effect sizes for the observed correlations were identified or computed. Twenty-four articles met the eligibility criteria. The studies included comprised 21 cross-sectional and three prospective designs. Most of the research was conducted in Europe. The significant correlations reported comprised: 92% between IGD and anxiety, 89% with depression, 85% with symptoms of attention deficit hyperactivity disorder (ADHD), and 75% with social phobia/anxiety and obsessive-compulsive symptoms. Most of the studies reported higher rates of IGD in males. The lack of longitudinal studies and the contradictory results obtained prevent detection of the directionality of the associations and, furthermore, show the complex relationship between both phenomena."
+   }
+  ],
+  "full": 0
+ },
+ {
+  "label": "Stevens 2019 CBT IGD",
+  "query": "Stevens MWR[au] AND 2019[dp] AND cognitive-behavioral therapy AND internet gaming disorder",
+  "pmids": [
+   "30341981"
+  ],
+  "hits": [
+   {
+    "pmid": "30341981",
+    "title": "Cognitive-behavioral therapy for Internet gaming disorder: A systematic review and meta-analysis.",
+    "journal": "Clinical psychology & psychotherapy",
+    "year": "2019",
+    "volume": "26",
+    "issue": "2",
+    "pages": "191-203",
+    "doi": "10.1002/cpp.2341",
+    "pmc": "",
+    "authors": [
+     "Stevens MWR",
+     "King DL",
+     "Dorstyn D",
+     "Delfabbro PH"
+    ],
+    "abstract": "Although there is sufficient research and clinical evidence to support the inclusion of gaming disorder in the latest revision of the International Classification of Diseases, relatively little is known about the effectiveness of first-line psychological treatment for gaming disorder or internet gaming disorder (IGD) as it is listed in the Diagnostic and Statistical Manual. This systematic review employed meta-analytic techniques to determine the effectiveness of cognitive-behavioural therapy (CBT) for IGD on four key outcomes: IGD symptoms, anxiety, depression, and time spent gaming. A database search identified 12 independent CBT studies. Effect size estimates (Hedges' g) with associated confidence intervals, prediction intervals, and p values for each pre-post treatment outcome, were calculated. Study reporting quality was evaluated in accordance with the Consolidated Standards of Reporting Trials guidelines. Subgroup and moderator analyses were undertaken to investigate potential sources of heterogeneity. CBT demonstrated high efficacy in reducing IGD symptoms (g = 0.92; [0.50, 1.34]) and depression (g = 0.80, [0.21, 1.38]), and showed moderate efficacy in reducing anxiety (g = 0.55, [0.17, 0.93]) at post-test. There was insufficient power to determine whether CBT was capable of reducing time spent gaming. Treatment gains at follow-up were nonsignificant across the four treatment outcomes. The pooled findings suggest that CBT for IGD is an effective short-term intervention for reducing IGD and depressive symptoms. However, the effectiveness of CBT for reducing actual time spent gaming was unclear. Given the limitations of this evidence base, there is a need for more rigorous studies to determine the potential long-term benefits of CBT for IGD. Given the rise in treatment demand for internet gaming disorder (IGD) and problematic gaming, it is necessary to determine which treatments are most effective for whom and under which conditions. This review shows that cognitive-behavioural therapy for IGD, which is often considered the first-line therapy, can improve IGD symptoms and comorbid depression. However, treatment gains tend to be short-term and their effect in reducing time spent gaming is unclear. Programs that target problematic gaming may be improved by additional support beyond the standard program of therapy sessions. More funding and resources are needed to support the development of a more rigorous evidence base on IGD and its treatment."
+   }
+  ],
+  "full": 0
+ },
+ {
+  "label": "Zajac 2020",
+  "query": "Zajac K[au] AND Ginley MK[au] AND 2020[dp] AND internet gaming disorder",
+  "pmids": [
+   "31544539"
+  ],
+  "hits": [
+   {
+    "pmid": "31544539",
+    "title": "Treatments of internet gaming disorder: a systematic review of the evidence.",
+    "journal": "Expert review of neurotherapeutics",
+    "year": "2020",
+    "volume": "20",
+    "issue": "1",
+    "pages": "85-93",
+    "doi": "10.1080/14737175.2020.1671824",
+    "pmc": "PMC6930980",
+    "authors": [
+     "Zajac K",
+     "Ginley MK",
+     "Chang R"
+    ],
+    "abstract": "Introduction: The American Psychiatric Association included Internet gaming disorder (IGD) in the 5th Edition of the Diagnostic and Statistical Manual of Mental Disorders, and the World Health Organization included gaming disorder in the 11th revision of the International Classification of Diseases. These recent updates suggest significant concern related to the harms of excessive gaming.Areas covered: This systematic review provides an updated summary of the scientific literature on treatments for IGD. Inclusion criteria were that studies: 1) evaluate the effectiveness of an intervention for IGD or excessive gaming; 2) use an experimental design (i.e. multi-armed [randomized or nonrandomized] or pretest-posttest); 3) include at least 10 participants per group; and 4) include an outcome measure of IGD symptoms or gaming duration. The review identified 22 studies evaluating treatments for IGD: 8 evaluating medication, 7 evaluating cognitive behavioral psychotherapy, and 7 evaluating other interventions and psychosocial treatments.Expert opinion: Even with the recent uptick in publication of such clinical trials, methodological flaws prevent strong conclusions about the efficacy of any treatment for IGD. Additional well-designed clinical trials using common metrics for assessing IGD symptoms are needed to advance the field."
+   }
+  ],
+  "full": 0
+ },
+ {
+  "label": "Kaptsis 2016",
+  "query": "Kaptsis D[au] AND 2016[dp] AND withdrawal AND internet gaming disorder",
+  "pmids": [
+   "29511720",
+   "26704173"
+  ],
+  "hits": [
+   {
+    "pmid": "29511720",
+    "title": "Trajectories of abstinence-induced Internet gaming withdrawal symptoms: A prospective pilot study.",
+    "journal": "Addictive behaviors reports",
+    "year": "2016",
+    "volume": "4",
+    "issue": "",
+    "pages": "24-30",
+    "doi": "10.1016/j.abrep.2016.06.002",
+    "pmc": "PMC5835835",
+    "authors": [
+     "Kaptsis D",
+     "King DL",
+     "Delfabbro PH",
+     "Gradisar M"
+    ],
+    "abstract": "Internet Gaming Disorder (IGD) is positioned in the appendix of the DSM-5 as a condition requiring further study. The IGD criteria refer to withdrawal symptoms, including irritability, anxiety, or sadness, that follow cessation of Internet gaming (APA, 2013). The aim of this study was to prospectively examine the nature of Internet gaming withdrawal symptoms, if they occur, under gaming abstinence conditions. This study employed a repeated-measures protocol to examine the cognitive-affective reactions of participants undertaking an 84-h Internet gaming abstinence period. The sample included individuals who met the IGD criteria as well as those who regularly played Internet games but did not meet the IGD criteria. Outcome variables included affect (positive and negative), psychological distress (depression, anxiety, stress), and Internet gaming withdrawal symptoms (craving/urge, thoughts about gaming, inability to resist gaming). A total of 24 participants (Mage = 24.6 years, SD = 5.8) were recruited from online gaming communities, and completed a series of online surveys before, during, and after abstaining from Massively Multiplayer Online (MMO) games. Both the IGD group and the non-IGD group experienced an abstinence-induced decline in withdrawal symptomatology, negative affect, and psychological distress. The IGD group experienced its largest decline in withdrawal symptomatology within the first 24 h of abstinence. These preliminary data suggest that gaming withdrawal symptoms may follow, at least initially, negative linear and quadratic trends. Further prospective work in larger samples involving longer periods of abstinence is required to verify and expand upon these observations."
+   },
+   {
+    "pmid": "26704173",
+    "title": "Withdrawal symptoms in internet gaming disorder: A systematic review.",
+    "journal": "Clinical psychology review",
+    "year": "2016",
+    "volume": "43",
+    "issue": "",
+    "pages": "58-66",
+    "doi": "10.1016/j.cpr.2015.11.006",
+    "pmc": "",
+    "authors": [
+     "Kaptsis D",
+     "King DL",
+     "Delfabbro PH",
+     "Gradisar M"
+    ],
+    "abstract": "Internet gaming disorder (IGD) is currently positioned in the appendix of the DSM-5 as a condition requiring further study. The aim of this review was to examine the state of current knowledge of gaming withdrawal symptomatology, given the importance of withdrawal in positioning the disorder as a behavioral addiction. A total of 34 studies, including 10 qualitative studies, 17 research reports on psychometric instruments, and 7 treatment studies, were evaluated. The results indicated that the available evidence on Internet gaming withdrawal is very underdeveloped. Internet gaming withdrawal is most consistently referred to as 'irritability' and 'restlessness' following cessation of the activity. There exists a concerning paucity of qualitative studies that provide detailed clinical descriptions of symptoms arising from cessation of internet gaming. This has arguably compromised efforts to quantify withdrawal symptoms in empirical studies of gaming populations. Treatment studies have not reported on the natural course of withdrawal and/or withdrawal symptom trajectory following intervention. It is concluded that many more qualitative clinical studies are needed, and should be prioritised, to develop our understanding of gaming withdrawal. This should improve clinical descriptions of problematic internet gaming and in turn improve the quantification of IGD withdrawal and thus treatments for harmful internet gaming."
+   }
+  ],
+  "full": 0
+ },
+ {
+  "label": "Shannon 2022 social media",
+  "query": "Shannon H[au] AND 2022[dp] AND \"problematic social media use\" AND meta-analysis",
+  "pmids": [
+   "35436240"
+  ],
+  "hits": [
+   {
+    "pmid": "35436240",
+    "title": "Problematic Social Media Use in Adolescents and Young Adults: Systematic Review and Meta-analysis.",
+    "journal": "JMIR mental health",
+    "year": "2022",
+    "volume": "9",
+    "issue": "4",
+    "pages": "e33450",
+    "doi": "10.2196/33450",
+    "pmc": "PMC9052033",
+    "authors": [
+     "Shannon H",
+     "Bush K",
+     "Villeneuve PJ",
+     "Hellemans KG",
+     "Guimond S"
+    ],
+    "abstract": "Technology is ever evolving, with more and more diverse activities becoming possible on screen-based devices. However, participating in a heavy screen-based lifestyle may come at a cost. Our hypothesis was that problematic social media use increased the prevalence of mental health outcomes. This study seeks to systematically examine problematic social media use in youth and its association with symptoms of depression, anxiety, and stress. A systematic search was conducted to identify studies in adolescents and young adults, using the databases Engineering Village, Psycinfo, Pubmed, and Web of Science. A total of 18 studies were identified, with a total of 9269 participants in our review and included in the meta-analysis. Our metaregression shows moderate but statistically significant correlations between problematic social media use and depression (r=0.273, P<.001), anxiety (r=0.348, P<.001), and stress (r=0.313, P<.001). We did not find evidence of heterogeneity of these summary correlations by age, gender, or year of publication. This study provides further evidence of the association between problematic social media use and negative mental health among adolescents and young adults and supports future research to focus on the underlying mechanisms of problematic use of social media. PROSPERO CRD42021222309; https://tinyurl.com/2p9y4bjx."
+   }
+  ],
+  "full": 0
+ },
+ {
+  "label": "Briken 2022 GeSiD",
+  "query": "Briken P[au] AND 2022[dp] AND compulsive sexual behavior disorder AND GeSiD",
+  "pmids": [
+   "36576727",
+   "36006765"
+  ],
+  "hits": [
+   {
+    "pmid": "36576727",
+    "title": "Corrigendum to: Who feels affected by \"out of control\" sexual behavior? Prevalence and correlates of indicators for ICD-11 Compulsive Sexual Behavior Disorder in the German Health and Sexuality Survey (GeSiD).",
+    "journal": "Journal of behavioral addictions",
+    "year": "2022",
+    "volume": "11",
+    "issue": "4",
+    "pages": "1093-1095",
+    "doi": "10.1556/2006.2022.20000",
+    "pmc": "PMC9881667",
+    "authors": [
+     "Briken P",
+     "Wiessner C",
+     "Štulhofer A",
+     "Klein V",
+     "Fuß J",
+     "Reed GM",
+     "Dekker A"
+    ],
+    "abstract": ""
+   },
+   {
+    "pmid": "36006765",
+    "title": "Who feels affected by \"out of control\" sexual behavior? Prevalence and correlates of indicators for ICD-11 Compulsive Sexual Behavior Disorder in the German Health and Sexuality Survey (GeSiD).",
+    "journal": "Journal of behavioral addictions",
+    "year": "2022",
+    "volume": "11",
+    "issue": "3",
+    "pages": "900-911",
+    "doi": "10.1556/2006.2022.00060",
+    "pmc": "PMC9872532",
+    "authors": [
+     "Briken P",
+     "Wiessner C",
+     "Štulhofer A",
+     "Klein V",
+     "Fuß J",
+     "Reed GM",
+     "Dekker A"
+    ],
+    "abstract": "The purpose of this study was to examine the prevalence and correlates of indicators consistent with Compulsive Sexual Behavior Disorder (CSBD)-defined and operationalized according to the ICD-11 guidelines-in a large (n = 4,633; 50.5% male; 49,5% female) probability-based German national sample. Participants were asked if they had ever experienced \"intense and recurring sexual impulses or sexual urges that I had difficulty controlling and resulted in sexual behavior\" over a period of several months. Those who reported this experience were queried about the associated distress. Overall, 4.9% of men [95% CI = 3.9-6.1] and 3.0% of women [95% CI = 2.3-3.9] reported experiences consistent with ICD-11 diagnostic requirements for lifetime diagnosis. In the 12 months preceding the study, 3.2% of men [95% CI = 2.4-4.2] and 1.8% of women [95% CI = 1.2-2.5] reported experiences consistent with CSBD requirements. Compared to controls and participants who reported elements of compulsive sexuality but without accompanying distress, strict religious upbringing was most prevalent in the CSBD group. The CSBD group was more likely to view sexual practices like men having sex with men as unacceptable and to report the belief that pornography has negative impacts on their sex life and life in general. Compared to the other two groups, the CSBD group was significantly more likely to have received psychiatric treatment for depression or another mental health problem during the past 12 months. The current study provides novel and important insights into the prevalence and characteristics of CSBD in the general population."
+   }
+  ],
+  "full": 1
+ },
+ {
+  "label": "Maraz 2016 compulsive buying",
+  "query": "Maraz A[au] AND 2016[dp] AND compulsive buying AND meta-analysis",
+  "pmids": [
+   "26517309"
+  ],
+  "hits": [
+   {
+    "pmid": "26517309",
+    "title": "The prevalence of compulsive buying: a meta-analysis.",
+    "journal": "Addiction (Abingdon, England)",
+    "year": "2016",
+    "volume": "111",
+    "issue": "3",
+    "pages": "408-19",
+    "doi": "10.1111/add.13223",
+    "pmc": "",
+    "authors": [
+     "Maraz A",
+     "Griffiths MD",
+     "Demetrovics Z"
+    ],
+    "abstract": "To estimate the pooled prevalence of compulsive buying behaviour (CBB) in different populations and to determine the effect of age, gender, location and screening instrument on the reported heterogeneity in estimates of CBB and whether publication bias could be identified. Three databases were searched (Medline, PsychInfo, Web of Science) using the terms 'compulsive buying', 'pathological buying' and 'compulsive shopping' to estimate the pooled prevalence of CBB in different populations. Forty studies reporting 49 prevalence estimates from 16 countries were located (n = 32,000). To conduct the meta-analysis, data from non-clinical studies regarding mean age and gender proportion, geographical study location and screening instrument used to assess CBB were extracted by multiple independent observers and evaluated using a random-effects model. Four a priori subgroups were analysed using pooled estimation (Cohen's Q) and covariate testing (moderator and meta-regression analysis). The CBB pooled prevalence of adult representative studies was 4.9% (3.4-6.9%, eight estimates, 10,102 participants), although estimates were higher among university students: 8.3% (5.9-11.5%, 19 estimates, 14,947 participants) in adult non-representative samples: 12.3% (7.6-19.1%, 11 estimates, 3929 participants) and in shopping-specific samples: 16.2% (8.8-27.8%, 11 estimates, 4686 participants). Being young and female were associated with increased tendency, but not location (United States versus non-United States). Meta-regression revealed large heterogeneity within subgroups, due mainly to diverse measures and time-frames (current versus life-time) used to assess CBB. A pooled estimate of compulsive buying behaviour in the populations studied is approximately 5%, but there is large variation between samples accounted for largely by use of different time-frames and measures."
+   }
+  ],
+  "full": 0
+ },
+ {
+  "label": "Erevik 2022 gaming suicidality",
+  "query": "Erevik EK[au] AND 2022[dp] AND gaming AND suicid*",
+  "pmids": [
+   "35340768"
+  ],
+  "hits": [
+   {
+    "pmid": "35340768",
+    "title": "Problem gaming and suicidality: A systematic literature review.",
+    "journal": "Addictive behaviors reports",
+    "year": "2022",
+    "volume": "15",
+    "issue": "",
+    "pages": "100419",
+    "doi": "10.1016/j.abrep.2022.100419",
+    "pmc": "PMC8943245",
+    "authors": [
+     "Erevik EK",
+     "Landrø H",
+     "Mattson ÅL",
+     "Kristensen JH",
+     "Kaur P",
+     "Pallesen S"
+    ],
+    "abstract": "No studies have so far synthesised the current evidence concerning a possible relationship between problem gaming and suicidality. We therefore conducted a systematic review of the literature. Our objective was to investigate the relationship between problem gaming and suicidality. The review was funded by the Norwegian Competence Center for Gambling and Gaming Research. The review was pre-registered in PROSPERO International prospective register of systematic reviews (CRD42021279774). Searches were conducted in Web of Science, PsycINFO, EMBASE, PubMed and Google Scholar, September 2021. Studies that reported data on the relationship between problem gaming and suicidality, published between 2000 and 2021, and written in any European language were included. Studies investigating internet addiction/problematic internet use and not problem gaming, specifically, and studies investigating mental health in general or mental health outcomes other than suicidality, were excluded. Data from the included studies were extracted independently by two coders who also evaluated for risk of bias using the Newcastle-Ottawa Quality Assessment Scale. The results from each included study were presented in a table. A total of 12 cross-sectional studies, with in total 88,732 participants, were included in the review. In total 10 studies investigated the association between problem gaming and suicidal ideation. One of these also investigated the association between problem gaming and suicide attempts. Two studies combined suicidal ideation and suicide attempts into one variable and investigated the association between that variable and problem gaming. In total 11 of the 12 included studies found positive, crude associations between problem gaming and suicidal ideation/attempts. Five studies adjusted for possible confounding variables. Three of these still found significant associations between problem gaming and suicidal ideation, one found a positive but not statistically significant association, and the fifth found an inverse, non-significant association. The current findings indicate that there is an association between problem gaming and suicidal ideation, and likely between problem gaming and suicide attempts. The most important limitation of the included studies is the lack of longitudinal designs. Future studies should aim to investigate the causality and mechanisms in the relationships using more stringent designs."
+   }
+  ],
+  "full": 0
+ },
+ {
+  "label": "Kraus 2018 CSBD ICD-11",
+  "query": "Kraus SW[au] AND 2018[dp] AND \"compulsive sexual behaviour disorder\" AND ICD-11",
+  "pmids": [
+   "29352554"
+  ],
+  "hits": [
+   {
+    "pmid": "29352554",
+    "title": "Compulsive sexual behaviour disorder in the ICD-11.",
+    "journal": "World psychiatry : official journal of the World Psychiatric Association (WPA)",
+    "year": "2018",
+    "volume": "17",
+    "issue": "1",
+    "pages": "109-110",
+    "doi": "10.1002/wps.20499",
+    "pmc": "PMC5775124",
+    "authors": [
+     "Kraus SW",
+     "Krueger RB",
+     "Briken P",
+     "First MB",
+     "Stein DJ",
+     "Kaplan MS",
+     "Voon V",
+     "Abdo CHN",
+     "Grant JE",
+     "Atalla E",
+     "Reed GM"
+    ],
+    "abstract": ""
+   }
+  ],
+  "full": 0
+ },
+ {
+  "label": "Brand 2020/2022 6C5Y",
+  "query": "Brand M[au] AND Rumpf HJ[au] AND \"other specified disorders due to addictive behaviors\"",
+  "pmids": [
+   "32634114"
+  ],
+  "hits": [
+   {
+    "pmid": "32634114",
+    "title": "Which conditions should be considered as disorders in the International Classification of Diseases (ICD-11) designation of \"other specified disorders due to addictive behaviors\"?",
+    "journal": "Journal of behavioral addictions",
+    "year": "2022",
+    "volume": "11",
+    "issue": "2",
+    "pages": "150-159",
+    "doi": "10.1556/2006.2020.00035",
+    "pmc": "PMC9295220",
+    "authors": [
+     "Brand M",
+     "Rumpf HJ",
+     "Demetrovics Z",
+     "Müller A",
+     "Stark R",
+     "King DL",
+     "Goudriaan AE",
+     "Mann K",
+     "Trotzke P",
+     "Fineberg NA",
+     "Chamberlain SR",
+     "Kraus SW",
+     "Wegmann E",
+     "Billieux J",
+     "Potenza MN"
+    ],
+    "abstract": "Gambling and gaming disorders have been included as \"disorders due to addictive behaviors\" in the International Classification of Diseases (ICD-11). Other problematic behaviors may be considered as \"other specified disorders due to addictive behaviors (6C5Y).\" Narrative review, experts' opinions. We suggest the following meta-level criteria for considering potential addictive behaviors as fulfilling the category of \"other specified disorders due to addictive behaviors\": 1. Clinical relevance: Empirical evidence from multiple scientific studies demonstrates that the specific potential addictive behavior is clinically relevant and individuals experience negative consequences and functional impairments in daily life due to the problematic and potentially addictive behavior. 2. Theoretical embedding: Current theories and theoretical models belonging to the field of research on addictive behaviors describe and explain most appropriately the candidate phenomenon of a potential addictive behavior. 3. Empirical evidence: Data based on self-reports, clinical interviews, surveys, behavioral experiments, and, if available, biological investigations (neural, physiological, genetic) suggest that psychological (and neurobiological) mechanisms involved in other addictive behaviors are also valid for the candidate phenomenon. Varying degrees of support for problematic forms of pornography use, buying and shopping, and use of social networks are available. These conditions may fit the category of \"other specified disorders due to addictive behaviors\". It is important not to over-pathologize everyday-life behavior while concurrently not trivializing conditions that are of clinical importance and that deserve public health considerations. The proposed meta-level-criteria may help guide both research efforts and clinical practice."
+   }
+  ],
+  "full": 0
+ },
+ {
+  "label": "Aarseth 2017",
+  "query": "Aarseth E[au] AND 2017[dp] AND gaming disorder",
+  "pmids": [
+   "28033714"
+  ],
+  "hits": [
+   {
+    "pmid": "28033714",
+    "title": "Scholars' open debate paper on the World Health Organization ICD-11 Gaming Disorder proposal.",
+    "journal": "Journal of behavioral addictions",
+    "year": "2017",
+    "volume": "6",
+    "issue": "3",
+    "pages": "267-270",
+    "doi": "10.1556/2006.5.2016.088",
+    "pmc": "PMC5700734",
+    "authors": [
+     "Aarseth E",
+     "Bean AM",
+     "Boonen H",
+     "Colder Carras M",
+     "Coulson M",
+     "Das D",
+     "Deleuze J",
+     "Dunkels E",
+     "Edman J",
+     "Ferguson CJ",
+     "Haagsma MC",
+     "Helmersson Bergmark K",
+     "Hussain Z",
+     "Jansz J",
+     "Kardefelt-Winther D",
+     "Kutner L",
+     "Markey P",
+     "Nielsen RKL",
+     "Prause N",
+     "Przybylski A",
+     "Quandt T",
+     "Schimmenti A",
+     "Starcevic V",
+     "Stutman G",
+     "Van Looy J",
+     "Van Rooij AJ"
+    ],
+    "abstract": "Concerns about problematic gaming behaviors deserve our full attention. However, we claim that it is far from clear that these problems can or should be attributed to a new disorder. The empirical basis for a Gaming Disorder proposal, such as in the new ICD-11, suffers from fundamental issues. Our main concerns are the low quality of the research base, the fact that the current operationalization leans too heavily on substance use and gambling criteria, and the lack of consensus on symptomatology and assessment of problematic gaming. The act of formalizing this disorder, even as a proposal, has negative medical, scientific, public-health, societal, and human rights fallout that should be considered. Of particular concern are moral panics around the harm of video gaming. They might result in premature application of diagnosis in the medical community and the treatment of abundant false-positive cases, especially for children and adolescents. Second, research will be locked into a confirmatory approach, rather than an exploration of the boundaries of normal versus pathological. Third, the healthy majority of gamers will be affected negatively. We expect that the premature inclusion of Gaming Disorder as a diagnosis in ICD-11 will cause significant stigma to the millions of children who play video games as a part of a normal, healthy life. At this point, suggesting formal diagnoses and categories is premature: the ICD-11 proposal for Gaming Disorder should be removed to avoid a waste of public health resources as well as to avoid causing harm to healthy video gamers around the world."
+   }
+  ],
+  "full": 0
+ },
+ {
+  "label": "Rumpf 2018 including gaming disorder",
+  "query": "Rumpf HJ[au] AND 2018[dp] AND \"Including gaming disorder\"",
+  "pmids": [
+   "30589307",
+   "30509450",
+   "30010410"
+  ],
+  "hits": [
+   {
+    "pmid": "30589307",
+    "title": "Ten-Item Internet Gaming Disorder Test (IGDT-10): Measurement invariance and cross-cultural validation across seven language-based samples.",
+    "journal": "Psychology of addictive behaviors : journal of the Society of Psychologists in Addictive Behaviors",
+    "year": "2019",
+    "volume": "33",
+    "issue": "1",
+    "pages": "91-103",
+    "doi": "10.1037/adb0000433",
+    "pmc": "",
+    "authors": [
+     "Király O",
+     "Bőthe B",
+     "Ramos-Diaz J",
+     "Rahimi-Movaghar A",
+     "Lukavska K",
+     "Hrabec O",
+     "Miovsky M",
+     "Billieux J",
+     "Deleuze J",
+     "Nuyens F",
+     "Karila L",
+     "Griffiths MD",
+     "Nagygyörgy K",
+     "Urbán R",
+     "Potenza MN",
+     "King DL",
+     "Rumpf HJ",
+     "Carragher N",
+     "Demetrovics Z"
+    ],
+    "abstract": "The Ten-Item Internet Gaming Disorder Test (IGDT-10) is a short screening instrument developed to assess Internet gaming disorder (IGD) as proposed in the Diagnostic and Statistical Manual of MentalDisorders, fifth edition (DSM-5), adopting a concise, clear, and consistent item-wording. According to initial studies conducted in 2014, the instrument showed promising psychometric characteristics. The present study tested the psychometric properties, including language and gender invariance, in a large international sample of online gamers. In this study, data were collected from 7,193 participants comprising Hungarian (n = 3,924), Iranian (n = 791), English-speaking (n = 754), French-speaking (n = 421), Norwegian (n = 195), Czech (n = 496), and Peruvian (n = 612) online gamers via gaming-related websites and gaming-related social-networking-site groups. A unidimensional factor structure provided a good fit to the data in all language-based samples. In addition, results indicated both language and gender invariance on the level of scalar invariance. Criterion and construct validity of the IGDT-10 was supported by its strong association with the Problematic Online Gaming Questionnaire and moderate association with weekly gaming time, psychopathological symptoms, and impulsivity. The proportions of each sample that met the cut-off score on the IGDT-10 varied between 1.61% and 4.48% in the individual samples, except for the Peruvian sample (13.44%). The IGDT-10 shows robust psychometric properties and appears suitable for conducting cross-cultural and gender comparisons across seven languages. (PsycINFO Database Record (c) 2019 APA, all rights reserved)."
+   },
+   {
+    "pmid": "30509450",
+    "title": "Manifesto for a European research network into Problematic Usage of the Internet.",
+    "journal": "European neuropsychopharmacology : the journal of the European College of Neuropsychopharmacology",
+    "year": "2018",
+    "volume": "28",
+    "issue": "11",
+    "pages": "1232-1246",
+    "doi": "10.1016/j.euroneuro.2018.08.004",
+    "pmc": "PMC6276981",
+    "authors": [
+     "Fineberg NA",
+     "Demetrovics Z",
+     "Stein DJ",
+     "Ioannidis K",
+     "Potenza MN",
+     "Grünblatt E",
+     "Brand M",
+     "Billieux J",
+     "Carmi L",
+     "King DL",
+     "Grant JE",
+     "Yücel M",
+     "Dell'Osso B",
+     "Rumpf HJ",
+     "Hall N",
+     "Hollander E",
+     "Goudriaan A",
+     "Menchon J",
+     "Zohar J",
+     "Burkauskas J",
+     "Martinotti G",
+     "Van Ameringen M",
+     "Corazza O",
+     "Pallanti S",
+     "COST Action Network",
+     "Chamberlain SR"
+    ],
+    "abstract": "The Internet is now all-pervasive across much of the globe. While it has positive uses (e.g. prompt access to information, rapid news dissemination), many individuals develop Problematic Use of the Internet (PUI), an umbrella term incorporating a range of repetitive impairing behaviours. The Internet can act as a conduit for, and may contribute to, functionally impairing behaviours including excessive and compulsive video gaming, compulsive sexual behaviour, buying, gambling, streaming or social networks use. There is growing public and National health authority concern about the health and societal costs of PUI across the lifespan. Gaming Disorder is being considered for inclusion as a mental disorder in diagnostic classification systems, and was listed in the ICD-11 version released for consideration by Member States (http://www.who.int/classifications/icd/revision/timeline/en/). More research is needed into disorder definitions, validation of clinical tools, prevalence, clinical parameters, brain-based biology, socio-health-economic impact, and empirically validated intervention and policy approaches. Potential cultural differences in the magnitudes and natures of types and patterns of PUI need to be better understood, to inform optimal health policy and service development. To this end, the EU under Horizon 2020 has launched a new four-year European Cooperation in Science and Technology (COST) Action Programme (CA 16207), bringing together scientists and clinicians from across the fields of impulsive, compulsive, and addictive disorders, to advance networked interdisciplinary research into PUI across Europe and beyond, ultimately seeking to inform regulatory policies and clinical practice. This paper describes nine critical and achievable research priorities identified by the Network, needed in order to advance understanding of PUI, with a view towards identifying vulnerable individuals for early intervention. The network shall enable collaborative research networks, shared multinational databases, multicentre studies and joint publications."
+   },
+   {
+    "pmid": "30010410",
+    "title": "Including gaming disorder in the ICD-11: The need to do so from a clinical and public health perspective.",
+    "journal": "Journal of behavioral addictions",
+    "year": "2018",
+    "volume": "7",
+    "issue": "3",
+    "pages": "556-561",
+    "doi": "10.1556/2006.7.2018.59",
+    "pmc": "PMC6426367",
+    "authors": [
+     "Rumpf HJ",
+     "Achab S",
+     "Billieux J",
+     "Bowden-Jones H",
+     "Carragher N",
+     "Demetrovics Z",
+     "Higuchi S",
+     "King DL",
+     "Mann K",
+     "Potenza M",
+     "Saunders JB",
+     "Abbott M",
+     "Ambekar A",
+     "Aricak OT",
+     "Assanangkornchai S",
+     "Bahar N",
+     "Borges G",
+     "Brand M",
+     "Chan EM",
+     "Chung T",
+     "Derevensky J",
+     "Kashef AE",
+     "Farrell M",
+     "Fineberg NA",
+     "Gandin C",
+     "Gentile DA",
+     "Griffiths MD",
+     "Goudriaan AE",
+     "Grall-Bronnec M",
+     "Hao W",
+     "Hodgins DC",
+     "Ip P",
+     "Király O",
+     "Lee HK",
+     "Kuss D",
+     "Lemmens JS",
+     "Long J",
+     "Lopez-Fernandez O",
+     "Mihara S",
+     "Petry NM",
+     "Pontes HM",
+     "Rahimi-Movaghar A",
+     "Rehbein F",
+     "Rehm J",
+     "Scafato E",
+     "Sharma M",
+     "Spritzer D",
+     "Stein DJ",
+     "Tam P",
+     "Weinstein A",
+     "Wittchen HU",
+     "Wölfling K",
+     "Zullino D",
+     "Poznyak V"
+    ],
+    "abstract": "The proposed introduction of gaming disorder (GD) in the 11th revision of the International Classification of Diseases (ICD-11) developed by the World Health Organization (WHO) has led to a lively debate over the past year. Besides the broad support for the decision in the academic press, a recent publication by van Rooij et al. (2018) repeated the criticism raised against the inclusion of GD in ICD-11 by Aarseth et al. (2017). We argue that this group of researchers fails to recognize the clinical and public health considerations, which support the WHO perspective. It is important to recognize a range of biases that may influence this debate; in particular, the gaming industry may wish to diminish its responsibility by claiming that GD is not a public health problem, a position which maybe supported by arguments from scholars based in media psychology, computer games research, communication science, and related disciplines. However, just as with any other disease or disorder in the ICD-11, the decision whether or not to include GD is based on clinical evidence and public health needs. Therefore, we reiterate our conclusion that including GD reflects the essence of the ICD and will facilitate treatment and prevention for those who need it."
+   }
+  ],
+  "full": 0
+ },
+ {
+  "label": "van Rooij 2018",
+  "query": "van Rooij AJ[au] AND 2018[dp] AND \"weak scientific basis\"",
+  "pmids": [
+   "29529886"
+  ],
+  "hits": [
+   {
+    "pmid": "29529886",
+    "title": "A weak scientific basis for gaming disorder: Let us err on the side of caution.",
+    "journal": "Journal of behavioral addictions",
+    "year": "2018",
+    "volume": "7",
+    "issue": "1",
+    "pages": "1-9",
+    "doi": "10.1556/2006.7.2018.19",
+    "pmc": "PMC6035022",
+    "authors": [
+     "van Rooij AJ",
+     "Ferguson CJ",
+     "Colder Carras M",
+     "Kardefelt-Winther D",
+     "Shi J",
+     "Aarseth E",
+     "Bean AM",
+     "Bergmark KH",
+     "Brus A",
+     "Coulson M",
+     "Deleuze J",
+     "Dullur P",
+     "Dunkels E",
+     "Edman J",
+     "Elson M",
+     "Etchells PJ",
+     "Fiskaali A",
+     "Granic I",
+     "Jansz J",
+     "Karlsen F",
+     "Kaye LK",
+     "Kirsh B",
+     "Lieberoth A",
+     "Markey P",
+     "Mills KL",
+     "Nielsen RKL",
+     "Orben A",
+     "Poulsen A",
+     "Prause N",
+     "Prax P",
+     "Quandt T",
+     "Schimmenti A",
+     "Starcevic V",
+     "Stutman G",
+     "Turner NE",
+     "van Looy J",
+     "Przybylski AK"
+    ],
+    "abstract": "We greatly appreciate the care and thought that is evident in the 10 commentaries that discuss our debate paper, the majority of which argued in favor of a formalized ICD-11 gaming disorder. We agree that there are some people whose play of video games is related to life problems. We believe that understanding this population and the nature and severity of the problems they experience should be a focus area for future research. However, moving from research construct to formal disorder requires a much stronger evidence base than we currently have. The burden of evidence and the clinical utility should be extremely high, because there is a genuine risk of abuse of diagnoses. We provide suggestions about the level of evidence that might be required: transparent and preregistered studies, a better demarcation of the subject area that includes a rationale for focusing on gaming particularly versus a more general behavioral addictions concept, the exploration of non-addiction approaches, and the unbiased exploration of clinical approaches that treat potentially underlying issues, such as depressive mood or social anxiety first. We acknowledge there could be benefits to formalizing gaming disorder, many of which were highlighted by colleagues in their commentaries, but we think they do not yet outweigh the wider societal and public health risks involved. Given the gravity of diagnostic classification and its wider societal impact, we urge our colleagues at the WHO to err on the side of caution for now and postpone the formalization."
+   }
+  ],
+  "full": 0
+ },
+ {
+  "label": "Fauth-Bühler 2017",
+  "query": "Fauth-Bühler M[au] AND 2017[dp] AND pathological gambling AND classification",
+  "pmids": [
+   "28816494",
+   "26935000"
+  ],
+  "hits": [
+   {
+    "pmid": "28816494",
+    "title": "Gaming disorder: Its delineation as an important condition for diagnosis, management, and prevention.",
+    "journal": "Journal of behavioral addictions",
+    "year": "2017",
+    "volume": "6",
+    "issue": "3",
+    "pages": "271-279",
+    "doi": "10.1556/2006.6.2017.039",
+    "pmc": "PMC5700714",
+    "authors": [
+     "Saunders JB",
+     "Hao W",
+     "Long J",
+     "King DL",
+     "Mann K",
+     "Fauth-Bühler M",
+     "Rumpf HJ",
+     "Bowden-Jones H",
+     "Rahimi-Movaghar A",
+     "Chung T",
+     "Chan E",
+     "Bahar N",
+     "Achab S",
+     "Lee HK",
+     "Potenza M",
+     "Petry N",
+     "Spritzer D",
+     "Ambekar A",
+     "Derevensky J",
+     "Griffiths MD",
+     "Pontes HM",
+     "Kuss D",
+     "Higuchi S",
+     "Mihara S",
+     "Assangangkornchai S",
+     "Sharma M",
+     "Kashef AE",
+     "Ip P",
+     "Farrell M",
+     "Scafato E",
+     "Carragher N",
+     "Poznyak V"
+    ],
+    "abstract": "Online gaming has greatly increased in popularity in recent years, and with this has come a multiplicity of problems due to excessive involvement in gaming. Gaming disorder, both online and offline, has been defined for the first time in the draft of 11th revision of the International Classification of Diseases (ICD-11). National surveys have shown prevalence rates of gaming disorder/addiction of 10%-15% among young people in several Asian countries and of 1%-10% in their counterparts in some Western countries. Several diseases related to excessive gaming are now recognized, and clinics are being established to respond to individual, family, and community concerns, but many cases remain hidden. Gaming disorder shares many features with addictions due to psychoactive substances and with gambling disorder, and functional neuroimaging shows that similar areas of the brain are activated. Governments and health agencies worldwide are seeking for the effects of online gaming to be addressed, and for preventive approaches to be developed. Central to this effort is a need to delineate the nature of the problem, which is the purpose of the definitions in the draft of ICD-11."
+   },
+   {
+    "pmid": "26935000",
+    "title": "Pathological gambling: a review of the neurobiological evidence relevant for its classification as an addictive disorder.",
+    "journal": "Addiction biology",
+    "year": "2017",
+    "volume": "22",
+    "issue": "4",
+    "pages": "885-897",
+    "doi": "10.1111/adb.12378",
+    "pmc": "PMC5808418",
+    "authors": [
+     "Fauth-Bühler M",
+     "Mann K",
+     "Potenza MN"
+    ],
+    "abstract": "In light of the upcoming eleventh edition of the International Classification of Diseases (ICD-11), the question arises as to the most appropriate classification of 'Pathological Gambling' ('PG'). Some academic opinion favors leaving PG in the 'Impulse Control Disorder' ('ICD') category, as in ICD-10, whereas others argue that new data especially from the neurobiological area favor allocating it to the category of 'Substance-related and Addictive Disorders' ('SADs'), following the decision in the fifth revision of the Diagnostic and Statistical Manual of Mental Disorders. The current review examines important findings in relation to PG, with the aim of enabling a well-informed decision to be made with respect to the classification of PG as a SAD or ICD in ICD-11. Particular attention is given to cognitive deficits and underlying neurobiological mechanisms that play a role in SADs and ICDs. These processes are impulsivity, compulsivity, reward/punishment processing and decision-making. In summary, the strongest arguments for subsuming PG under a larger SAD category relate to the existence of similar diagnostic characteristics; the high co-morbidity rates between the disorders; their common core features including reward-related aspects (positive reinforcement: behaviors are pleasurable at the beginning which is not the case for ICDs); the findings that the same brain structures are involved in PG and SADs, including the ventral striatum. Research on compulsivity suggests a relationship with PG and SAD, particularly in later stages of the disorders. Although research is limited for ICDs, current data do not support continuing to classify PG as an ICD."
+   }
+  ],
+  "full": 0
+ },
+ {
+  "label": "Petry 2014 DSM-5 rationale",
+  "query": "Petry NM[au] AND 2014[dp] AND \"DSM-5\" AND pathological gambling AND rationale",
+  "pmids": [
+   "23526033"
+  ],
+  "hits": [
+   {
+    "pmid": "23526033",
+    "title": "An overview of and rationale for changes proposed for pathological gambling in DSM-5.",
+    "journal": "Journal of gambling studies",
+    "year": "2014",
+    "volume": "30",
+    "issue": "2",
+    "pages": "493-502",
+    "doi": "10.1007/s10899-013-9370-0",
+    "pmc": "PMC3722301",
+    "authors": [
+     "Petry NM",
+     "Blanco C",
+     "Auriacombe M",
+     "Borges G",
+     "Bucholz K",
+     "Crowley TJ",
+     "Grant BF",
+     "Hasin DS",
+     "O'Brien C"
+    ],
+    "abstract": "The fifth revision of the Diagnostic and Statistical Manual of Mental Disorders (DSM-5) is scheduled for publication in 2013. It will include several changes to the diagnosis of pathological gambling: the name of the disorder will be altered, the threshold for diagnosis will decrease, and one criterion will be removed. This paper reviews the rationale for these changes and addresses how they may impact diagnosis and treatment of the disorder, as well as potential for future research in the field."
+   }
+  ],
+  "full": 0
+ },
+ {
+  "label": "Billieux 2015 overpathologizing",
+  "query": "Billieux J[au] AND 2015[dp] AND overpathologizing",
+  "pmids": [
+   "26014667"
+  ],
+  "hits": [
+   {
+    "pmid": "26014667",
+    "title": "Are we overpathologizing everyday life? A tenable blueprint for behavioral addiction research.",
+    "journal": "Journal of behavioral addictions",
+    "year": "2015",
+    "volume": "4",
+    "issue": "3",
+    "pages": "119-23",
+    "doi": "10.1556/2006.4.2015.009",
+    "pmc": "PMC4627665",
+    "authors": [
+     "Billieux J",
+     "Schimmenti A",
+     "Khazaal Y",
+     "Maurage P",
+     "Heeren A"
+    ],
+    "abstract": "Background Behavioral addiction research has been particularly flourishing over the last two decades. However, recent publications have suggested that nearly all daily life activities might lead to a genuine addiction. Methods and aim In this article, we discuss how the use of atheoretical and confirmatory research approaches may result in the identification of an unlimited list of \"new\" behavioral addictions. Results Both methodological and theoretical shortcomings of these studies were discussed. Conclusions We suggested that studies overpathologizing daily life activities are likely to prompt a dismissive appraisal of behavioral addiction research. Consequently, we proposed several roadmaps for future research in the field, centrally highlighting the need for longer tenable behavioral addiction research that shifts from a mere criteria-based approach toward an approach focusing on the psychological processes involved."
+   }
+  ],
+  "full": 0
+ },
+ {
+  "label": "Kiraly 2017 IGDT-10",
+  "query": "Király O[au] AND 2017[dp] AND IGDT-10",
+  "pmids": [
+   "26632194"
+  ],
+  "hits": [
+   {
+    "pmid": "26632194",
+    "title": "Validation of the Ten-Item Internet Gaming Disorder Test (IGDT-10) and evaluation of the nine DSM-5 Internet Gaming Disorder criteria.",
+    "journal": "Addictive behaviors",
+    "year": "2017",
+    "volume": "64",
+    "issue": "",
+    "pages": "253-260",
+    "doi": "10.1016/j.addbeh.2015.11.005",
+    "pmc": "",
+    "authors": [
+     "Király O",
+     "Sleczka P",
+     "Pontes HM",
+     "Urbán R",
+     "Griffiths MD",
+     "Demetrovics Z"
+    ],
+    "abstract": "The inclusion of Internet Gaming Disorder (IGD) in the DSM-5 (Section 3) has given rise to much scholarly debate regarding the proposed criteria and their operationalization. The present study's aim was threefold: to (i) develop and validate a brief psychometric instrument (Ten-Item Internet Gaming Disorder Test; IGDT-10) to assess IGD using definitions suggested in DSM-5, (ii) contribute to ongoing debate regards the usefulness and validity of each of the nine IGD criteria (using Item Response Theory [IRT]), and (iii) investigate the cut-off threshold suggested in the DSM-5. An online gamer sample of 4887 gamers (age range 14-64years, mean age 22.2years [SD=6.4], 92.5% male) was collected through Facebook and a gaming-related website with the cooperation of a popular Hungarian gaming magazine. A shopping voucher of approx. 300 Euros was drawn between participants to boost participation (i.e., lottery incentive). Confirmatory factor analysis and a structural regression model were used to test the psychometric properties of the IGDT-10 and IRT analysis was conducted to test the measurement performance of the nine IGD criteria. Finally, Latent Class Analysis along with sensitivity and specificity analysis were used to investigate the cut-off threshold proposed in the DSM-5. Analysis supported IGDT-10's validity, reliability, and suitability to be used in future research. Findings of the IRT analysis suggest IGD is manifested through a different set of symptoms depending on the level of severity of the disorder. More specifically, \"continuation\", \"preoccupation\", \"negative consequences\" and \"escape\" were associated with lower severity of IGD, while \"tolerance\", \"loss of control\", \"giving up other activities\" and \"deception\" criteria were associated with more severe levels. \"Preoccupation\" and \"escape\" provided very little information to the estimation IGD severity. Finally, the DSM-5 suggested threshold appeared to be supported by our statistical analyses. IGDT-10 is a valid and reliable instrument to assess IGD as proposed in the DSM-5. Apparently the nine criteria do not explain IGD in the same way, suggesting that additional studies are needed to assess the characteristics and intricacies of each criterion and how they account to explain IGD."
+   }
+  ],
+  "full": 0
+ },
+ {
+  "label": "Paschke 2020 GADIS-A",
+  "query": "Paschke K[au] AND 2020[dp] AND GADIS-A",
+  "pmids": [
+   "32252305"
+  ],
+  "hits": [
+   {
+    "pmid": "32252305",
+    "title": "Assessing ICD-11 Gaming Disorder in Adolescent Gamers: Development and Validation of the Gaming Disorder Scale for Adolescents (GADIS-A).",
+    "journal": "Journal of clinical medicine",
+    "year": "2020",
+    "volume": "9",
+    "issue": "4",
+    "pages": "",
+    "doi": "10.3390/jcm9040993",
+    "pmc": "PMC7230491",
+    "authors": [
+     "Paschke K",
+     "Austermann MI",
+     "Thomasius R"
+    ],
+    "abstract": "Adolescents affected by Gaming Disorder (GD) show substantial impairments in daily functioning. GD was included in the 11th revision of the International Classification of Diseases (ICD-11) as a new diagnosis coming into effect in January 2022. An instrument to screen for GD in adolescents has not yet been published and is urgently needed for scientific research and clinical practice. In the present study, the ICD-11-based Gaming Disorder Scale for Adolescents (GADIS-A) was developed by clinical experts and scientists. It was validated with 819 frequent gamers of 10 to 17 years and a respective caregiver in an online survey. Criterion validity was examined by assessing gaming behavior, emotional dysregulation, and academic performance. Item structure was investigated by factorial analyses. ROC- and Latent Profile Analyses were computed for differentiation between GD and Non-GD. In line with the ICD-11 approach and accounting for cognitive-behavioral symptoms and negative consequences equally, GADIS-A items were best described by two factors. The new instrument showed excellent internal consistency, good criterion validity, and excellent discriminatory power. GADIS-A is the first successfully validated questionnaire to assess ICD-11 GD in adolescents. Thus, it can significantly contribute to reliably identify affected adolescents in clinical and research settings."
+   }
+  ],
+  "full": 0
+ },
+ {
+  "label": "Slutske 2006 natural recovery",
+  "query": "Slutske WS[au] AND 2006[dp] AND natural recovery AND gambling",
+  "pmids": [
+   "16449485"
+  ],
+  "hits": [
+   {
+    "pmid": "16449485",
+    "title": "Natural recovery and treatment-seeking in pathological gambling: results of two U.S. national surveys.",
+    "journal": "The American journal of psychiatry",
+    "year": "2006",
+    "volume": "163",
+    "issue": "2",
+    "pages": "297-302",
+    "doi": "10.1176/appi.ajp.163.2.297",
+    "pmc": "",
+    "authors": [
+     "Slutske WS"
+    ],
+    "abstract": "Pathological gambling is described in DSM-IV as a chronic and persisting disorder, but recent community-based longitudinal studies that have highlighted the transitory nature of gambling-related problems have called into question whether this is an accurate characterization. This emerging evidence of high rates of recovery coupled with low rates of treatment-seeking for pathological gambling suggests that natural recovery might be common. The purpose of the present study was to document the rates of recovery, treatment-seeking, and natural recovery among individuals with DSM-IV pathological gambling disorder in two large and representative U.S. national surveys. Prevalences of recovery, treatment-seeking, and natural recovery were estimated among individuals from the Gambling Impact and Behavior Study (N=2,417) and the National Epidemiologic Survey on Alcohol and Related Conditions (N=43,093) who reported a lifetime history of DSM-IV pathological gambling disorder (N=21 and N=185, respectively). Among individuals with a lifetime history of DSM-IV pathological gambling, 36%-39% did not experience any gambling-related problems in the past year, even though only 7%-12% had ever sought either formal treatment or attended meetings of Gamblers Anonymous. About one-third of the individuals with pathological gambling disorder in these two nationally representative U.S. samples were characterized by natural recovery. Pathological gambling may not always follow a chronic and persisting course. A substantial portion of individuals with a history of pathological gambling eventually recover, most without formal treatment. The results of large epidemiological surveys of pathological gambling may eventually overturn the established wisdom about pathological gambling disorder."
+   }
+  ],
+  "full": 1
+ },
+ {
+  "label": "Grant 2012 telescoping",
+  "query": "Grant JE[au] AND 2012[dp] AND telescoping AND gambling",
+  "pmids": [
+   "23124186"
+  ],
+  "hits": [
+   {
+    "pmid": "23124186",
+    "title": "Telescoping phenomenon in pathological gambling: association with gender and comorbidities.",
+    "journal": "The Journal of nervous and mental disease",
+    "year": "2012",
+    "volume": "200",
+    "issue": "11",
+    "pages": "996-8",
+    "doi": "10.1097/NMD.0b013e3182718a4d",
+    "pmc": "PMC3499774",
+    "authors": [
+     "Grant JE",
+     "Odlaug BL",
+     "Mooney ME"
+    ],
+    "abstract": "The course of pathological gambling (PG) in women has been described as having a later age of initiation but a shorter time to problematic gambling (\"telescoped\"). This study examined evidence for telescoping and its relationship with comorbidities. Seventy-one treatment-seeking individuals with PG underwent a diagnostic interview to examine gambling behaviors, age at initiation of gambling, and time from initiation to meeting criteria for PG. The women had a higher mean age at gambling initiation compared with that of the men (mean [SD] age, 31.3 [13.0] years, compared with 22.4 [7.9] years; p = 0.0003) and a significantly shorter time from initiation of gambling to meeting the criteria for PG (8.33 [8.7] years compared with 11.97 [9.1] years; p = 0.0476) after controlling for demographic and clinical variables. This study presents evidence for a gender-specific course of PG unrelated to psychiatric comorbidities and suggests a need for greater clinical focus on the gender differences of gambling behavior."
+   }
+  ],
+  "full": 0
+ },
+ {
+  "label": "Moghaddam 2015 suicidality NESARC",
+  "query": "Moghaddam JF[au] AND 2015[dp] AND gambling AND suicid*",
+  "pmids": [
+   "25808267"
+  ],
+  "hits": [
+   {
+    "pmid": "25808267",
+    "title": "Suicidal ideation and suicide attempts in five groups with different severities of gambling: Findings from the National Epidemiologic Survey on Alcohol and Related Conditions.",
+    "journal": "The American journal on addictions",
+    "year": "2015",
+    "volume": "24",
+    "issue": "4",
+    "pages": "292-8",
+    "doi": "10.1111/ajad.12197",
+    "pmc": "",
+    "authors": [
+     "Moghaddam JF",
+     "Yoon G",
+     "Dickerson DL",
+     "Kim SW",
+     "Westermeyer J"
+    ],
+    "abstract": "Problem and pathological gamblers show high rates of suicidal behavior. However, previous research of suicide among this population has been inconsistent. Discrepancies may stem from methodological issues, including variable use of suicide nomenclature and selection bias in study samples. Furthermore, earlier research has rarely examined gambling severity aside from problem or pathological categories. This study utilized subgroups derived from a nationally representative data set, examining different characteristics of suicidal behavior and several gambling levels, including subclinical groups. Participants included 13,578 individuals who participated in the National Epidemiologic Survey on Alcohol and Related Conditions (NESARC) and provided information on gambling behavior, lifetime suicidal ideation, and/or lifetime suicide attempts. Five gambling groups were derived using DSM-IV criteria for pathological gambling; non-gambling, low-risk gambling, at-risk gambling, problem gambling, and pathological gambling. Problem gambling was associated with suicidal ideation [adjusted odds ratio (AOR) = 1.64, 95% confidence interval (CI) = 1.19-2.26] and suicide attempts [(AOR) = 2.42, 95% (CI) = 1.60-3.67] after adjustment for sociodemographic variables. Pathological gambling was associated with suicidal ideation [(AOR) = 2.86, 95% (CI) = 1.98-4.11] and suicide attempts [(AOR) = 2.77, 95% (CI) = 1.72-4.47) after adjustment for sociodemographic variables. Our results from this population sample reinforce increased rates of suicidal behavior amongst smaller, clinical samples of problem and pathological gamblers. Education for providers about gambling is recommended, including screening for gambling-related symptoms such as suicidal behavior."
+   }
+  ],
+  "full": 1
+ },
+ {
+  "label": "Slutske 2013 twins",
+  "query": "Slutske WS[au] AND 2013[dp] AND gambling AND alcohol AND twin",
+  "pmids": [
+   "23889901",
+   "23527679"
+  ],
+  "hits": [
+   {
+    "pmid": "23889901",
+    "title": "Genetic and environmental influences on the ages of drinking and gambling initiation: evidence for distinct aetiologies and sex differences.",
+    "journal": "Addiction (Abingdon, England)",
+    "year": "2014",
+    "volume": "109",
+    "issue": "2",
+    "pages": "323-31",
+    "doi": "10.1111/add.12310",
+    "pmc": "PMC3947163",
+    "authors": [
+     "Richmond-Rakerd LS",
+     "Slutske WS",
+     "Heath AC",
+     "Martin NG"
+    ],
+    "abstract": "To investigate the genetic and environmental contributions to age at first drink (AFD) and age first gambled (AFG), assess their overlap and examine sex differences. Univariate twin models were fitted to decompose the variation in AFD and AFG into additive genetic, shared environmental and unique environmental factors. Bivariate genetic models were fitted to assess the genetic and environmental contributions to the sources of covariation in AFD and AFG. National Australian Twin Registry. A total of 4542 same-sex and opposite-sex twins aged 32-43 years, 42% male and 58% female. AFD and AFG were assessed via structured psychiatric telephone interviews. Age of onset was treated as both continuous and categorical (early/late onset). AFD and AFG were modestly correlated (r = 0.18). Unique environmental influences explained a substantial proportion of the variation in both AFD (0.55, 95% confidence interval [CI] = 0.50-0.61) and AFG (0.66, 95% CI = 0.59-0.72), but these influences were uncorrelated (rE = 0.01). Additive genetic factors explained a notable proportion of variation in AFG (0.21, 95% CI = 0.003-0.39), while shared environmental factors were important for AFD (0.31, 95% CI = 0.15-0.46). Among men, genetic factors influenced variation in AFG but not in AFD and shared environmental factors influenced variation in AFD but not in AFG. Among women, shared environmental factors influenced variation in both AFD and AFG, but these environmental factors were not significantly correlated (rC = 0.09). Among Australian twins, age at first drink and age first gambled are influenced by distinct unique environmental factors, and the genetic and environmental underpinnings of both phenotypes differ in men and women."
+   },
+   {
+    "pmid": "23527679",
+    "title": "Shared genetic vulnerability for disordered gambling and alcohol use disorder in men and women: evidence from a national community-based Australian Twin Study.",
+    "journal": "Twin research and human genetics : the official journal of the International Society for Twin Studies",
+    "year": "2013",
+    "volume": "16",
+    "issue": "2",
+    "pages": "525-34",
+    "doi": "10.1017/thg.2013.11",
+    "pmc": "PMC3974625",
+    "authors": [
+     "Slutske WS",
+     "Ellingson JM",
+     "Richmond-Rakerd LS",
+     "Zhu G",
+     "Martin NG"
+    ],
+    "abstract": "Disordered gambling (DG) will soon be included along with the substance use disorders in a revised diagnostic category of the Diagnostic and Statistical Manual of Mental Disorders DSM-5 called 'Substance Use and Addictive Disorders'. This was premised in part on the common etiologies of DG and the substance use disorders. Using data from the national community-based Australian Twin Registry, we used biometric model fitting to examine the extent to which the genetic liabilities for DG and alcohol use disorder (AUD) were shared, and whether this differed for men and women. The effect of using categorical versus dimensional DG and AUD phenotypes was explored, as was the effect of using diagnoses based on the DSM-IV and the proposed DSM-5 diagnostic criteria. The genetic correlations between DG and AUD ranged from 0.29 to 0.44. There was a significantly larger genetic correlation between DG and AUD among men than women when using dimensional phenotypes. Overall, about one-half to two-thirds of the association between DG and AUD was due to a shared genetic vulnerability. This study represents one of the few empirical demonstrations of an overlap in the genetic risk for DG and another substance-related addictive disorder. More research is needed on the genetic overlap between DG and other substance use disorders, as well as the genetic overlap between DG and other (non-substance-related) psychiatric disorders."
+   }
+  ],
+  "full": 0
+ },
+ {
+  "label": "Meyer 2015 PAGE design",
+  "query": "25583586[uid]",
+  "pmids": [
+   "25583586"
+  ],
+  "hits": [
+   {
+    "pmid": "25583586",
+    "title": "The \"Pathological Gambling and Epidemiology\" (PAGE) study program: design and fieldwork.",
+    "journal": "International journal of methods in psychiatric research",
+    "year": "2015",
+    "volume": "24",
+    "issue": "1",
+    "pages": "11-31",
+    "doi": "10.1002/mpr.1458",
+    "pmc": "PMC6878536",
+    "authors": [
+     "Meyer C",
+     "Bischof A",
+     "Westram A",
+     "Jeske C",
+     "de Brito S",
+     "Glorius S",
+     "Schön D",
+     "Porz S",
+     "Gürtler D",
+     "Kastirke N",
+     "Hayer T",
+     "Jacobi F",
+     "Lucht M",
+     "Premper V",
+     "Gilberg R",
+     "Hess D",
+     "Bischof G",
+     "John U",
+     "Rumpf HJ"
+    ],
+    "abstract": "The German federal states initiated the \"Pathological Gambling and Epidemiology\" (PAGE) program to evaluate the public health relevance of pathological gambling. The aim of PAGE was to estimate the prevalence of pathological gambling and cover the heterogenic presentation in the population with respect to comorbid substance use and mental disorders, risk and protective factors, course aspects, treatment utilization, triggering and maintenance factors of remission, and biological markers. This paper describes the methodological details of the study and reports basic prevalence data. Two sampling frames (landline and mobile telephone numbers) were used to generate a random sample from the general population consisting of 15,023 individuals (ages 14 to 64) completing a telephone interview. Additionally, high-risk populations have been approached in gambling locations, via media announcements, outpatient addiction services, debt counselors, probation assistants, self-help groups and specialized inpatient treatment facilities. The assessment included two steps: (1) a diagnostic interview comprising the gambling section of the Composite International Diagnostic Interview (CIDI) for case finding; (2) an in-depth clinical interview with participants reporting gambling problems. The in-depth clinical interview was completed by 594 participants, who were recruited from the general or high-risk populations. The program provides a rich epidemiological database which is available as a scientific use file."
+   }
+  ],
+  "full": 0
+ },
+ {
+  "label": "Teng 2021 gaming depression longitudinal",
+  "query": "Teng Z[au] AND Pontes HM[au] AND 2021[dp] AND internet gaming disorder AND COVID",
+  "pmids": [
+   "33704085"
+  ],
+  "hits": [
+   {
+    "pmid": "33704085",
+    "title": "Depression and anxiety symptoms associated with internet gaming disorder before and during the COVID-19 pandemic: A longitudinal study.",
+    "journal": "Journal of behavioral addictions",
+    "year": "2021",
+    "volume": "10",
+    "issue": "1",
+    "pages": "169-180",
+    "doi": "10.1556/2006.2021.00016",
+    "pmc": "PMC8969853",
+    "authors": [
+     "Teng Z",
+     "Pontes HM",
+     "Nie Q",
+     "Griffiths MD",
+     "Guo C"
+    ],
+    "abstract": "The coronavirus disease-2019 (COVID-19) pandemic has profoundly impacted aspects of human life globally. Playing videogames has been encouraged by several organizations to help individuals cope with the COVID-19 pandemic and associated restrictive measures. This longitudinal study was the first to examine gaming in the context of the pandemic and its association with depressive and anxiety symptoms. The sample comprised 1,778 children and adolescents (50.7% male) who were part of the Project of School Mental Health in Southwest China. Data were collected at two-time intervals: before the COVID-19 pandemic (October to November 2019 - [T1]) and during the COVID-19 pandemic (April to May 2020 - [T2]). Data were collected on perceived COVID-19 impacts, videogame use, Internet Gaming Disorder (IGD), and depressive and anxiety symptoms. Cross-lagged panel models were computed to examine longitudinal relationships. The results indicated that both videogame use and IGD increased significantly for adolescents at T2. The cross-lagged panel model results suggested that depressive and anxiety symptoms at T1 positively predicted IGD and videogame use at T2 (especially for boys), but not inversely. Perceived COVID-19 impacts mediated the relationship between depressive and anxiety symptoms at T1 and IGD at T2. Children and adolescents both increased videogame use at T2, but only adolescents significantly increased IGD severity at T2. The findings supported the compensatory hypothesis, and are consistent with the Interaction of Person-Affect-Cognition-Execution model as individual responses to COVID-19 may function as a mediator between personal predisposing variables and IGD."
+   }
+  ],
+  "full": 0
+ },
+ {
+  "label": "Richard 2020 gaming depression",
+  "query": "Richard J[au] AND 2020[dp] AND gaming AND depress* AND systematic review",
+  "pmids": [
+   "32750033"
+  ],
+  "hits": [
+   {
+    "pmid": "32750033",
+    "title": "Conduct problems and depressive symptoms in association with problem gambling and gaming: A systematic review.",
+    "journal": "Journal of behavioral addictions",
+    "year": "2020",
+    "volume": "9",
+    "issue": "3",
+    "pages": "497-533",
+    "doi": "10.1556/2006.2020.00045",
+    "pmc": "PMC8943658",
+    "authors": [
+     "Richard J",
+     "Fletcher É",
+     "Boutin S",
+     "Derevensky J",
+     "Temcheff C"
+    ],
+    "abstract": "Behavioral addictions such as gambling and gaming disorder are significant public health issues that are of increasing importance to policy makers and health care providers. Problem gambling and gaming behaviors have been identified as being associated with externalizing and internalizing problems, with theoretical models suggesting that both conduct problems and depressive symptoms may be significant risk factors in the development of problem gambling and gaming. As such, the purpose of this systematic review is to provide an overview of research identifying the relationship between conduct problems, depressive symptoms and problem gambling and gaming among adolescents and young adults. Systematic literature searches in accordance with PRISMA guidelines found 71 eligible studies that met the inclusion criteria, 47 for problem gambling, 23 for problem gaming and one for both problem behaviors. Based on cross-sectional evidence, both problem gambling and gaming are consistently concurrently associated with conduct problems and depressive symptoms. Longitudinal evidence appears to be clearer for conduct problems as a risk factor for problem gambling, and depressive symptoms as a risk factor for problem gaming. However, both risk factors appear to increase the risk for these problem behaviors. Results from the literature review suggest that problem gambling and gaming are associated with the presence of conduct problems and depressive symptoms, with the potential of sharing common etiological factors. Additional research is necessary to confirm these longitudinal relationships with an emphasis on investigating the interaction of both early conduct problems and depressive symptoms."
+   }
+  ],
+  "full": 0
+ },
+ {
+  "label": "Gaming disorder psychosis scoping 2023",
+  "query": "gaming disorder AND psychotic disorders AND scoping review AND 2023[dp]",
+  "pmids": [
+   "36318899"
+  ],
+  "hits": [
+   {
+    "pmid": "36318899",
+    "title": "Gaming Disorder and Psychotic Disorders: A Scoping Review.",
+    "journal": "Psychopathology",
+    "year": "2023",
+    "volume": "56",
+    "issue": "4",
+    "pages": "315-323",
+    "doi": "10.1159/000527143",
+    "pmc": "",
+    "authors": [
+     "Huot-Lavoie M",
+     "Gabriel-Courval M",
+     "Béchard L",
+     "Corbeil O",
+     "Brodeur S",
+     "Massé C",
+     "Fournier É",
+     "Essiambre AM",
+     "Anderson E",
+     "Cayouette A",
+     "Giroux I",
+     "Khazaal Y",
+     "Demers MF",
+     "Roy MA"
+    ],
+    "abstract": "There is a growing interest in understanding the impact of video games in the clinical field, given that their excessive use could be associated with health issues. Particularly, gaming disorder (GD) is considered as an addictive behavioral disorder. Clinicians widely recognize the comorbidity of gaming and psychotic disorders (PDs). Furthermore, association between addictive (i.e., substance use disorders) and PDs are well recognized by clinicians. It seems of high interest to explore GD among people with PDs. To this day, little is known about the consequences of GD in vulnerable populations. The aim of this scoping review was to summarize the available research on the comorbidity between GD and PD and to identify the knowledge gaps in this field. We used Levac's six-stage methodology for scoping review. Two-hundred and forty-two articles from seven databases were identified. Eight articles respected our inclusion and exclusion criteria. No available study has assessed the prevalence or incidence of GD among patients with PDs. The cases reported highlight the possibility that excessive video gameplay or abrupt gaming disruption could trigger psychosis in some patients. The results highlight a significant lack of knowledge concerning PDs associated with GD as only a few reported cases and one empirical study exposed the potential association between those conditions."
+   }
+  ],
+  "full": 1
+ }
+]

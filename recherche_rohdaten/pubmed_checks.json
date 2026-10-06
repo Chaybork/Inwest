@@ -1,0 +1,1045 @@
+[
+ {
+  "label": "Kessler 2008 NCS-R",
+  "query": "Kessler RC[au] AND pathological gambling AND 2008[dp] AND \"Psychological medicine\"[ta]",
+  "pmids": [
+   "18257941"
+  ],
+  "hits": [
+   {
+    "pmid": "18257941",
+    "title": "DSM-IV pathological gambling in the National Comorbidity Survey Replication.",
+    "journal": "Psychological medicine",
+    "year": "2008",
+    "volume": "38",
+    "issue": "9",
+    "pages": "1351-60",
+    "doi": "10.1017/S0033291708002900",
+    "authors": [
+     "Kessler RC",
+     "Hwang I",
+     "LaBrie R",
+     "Petukhova M",
+     "Sampson NA",
+     "Winters KC"
+    ],
+    "abstract": "Little is known about the prevalence or correlates of DSM-IV pathological gambling (PG). Data from the US National Comorbidity Survey Replication (NCS-R), a nationally representative US household survey, were used to assess lifetime gambling symptoms and PG along with other DSM-IV disorders. Age of onset (AOO) of each lifetime disorder was assessed retrospectively. AOO reports were used to study associations between temporally primary disorders and the subsequent risk of secondary disorders. Most respondents (78.4%) reported lifetime gambling. Lifetime problem gambling (at least one Criterion A symptom of PG) (2.3%) and PG (0.6%) were much less common. PG was significantly associated with being young, male, and Non-Hispanic Black. People with PG reported first gambling significantly earlier than non-problem gamblers (mean age 16.7 v. 23.9 years, z=12.7, p<0.001), with gambling problems typically beginning during the mid-20s and persisting for an average of 9.4 years. During this time the largest annual gambling losses averaged US$4800. Onset and persistence of PG were predicted by a variety of prior DSM-IV anxiety, mood, impulse-control and substance use disorders. PG also predicted the subsequent onset of generalized anxiety disorder, post-traumatic stress disorder (PTSD) and substance dependence. Although none of the NCS-R respondents with PG ever received treatment for gambling problems, 49.0% were treated at some time for other mental disorders. DSM-IV PG is a comparatively rare, seriously impairing, and undertreated disorder whose symptoms typically start during early adulthood and is frequently secondary to other mental or substance disorders that are associated with both PG onset and persistence."
+   }
+  ]
+ },
+ {
+  "label": "Goslar 2019",
+  "query": "Goslar M[au] AND gambling AND meta-analysis AND pharmacological",
+  "pmids": [
+   "32359229",
+   "30570700"
+  ],
+  "hits": [
+   {
+    "pmid": "32359229",
+    "title": "Treatments for internet addiction, sex addiction and compulsive buying: A meta-analysis.",
+    "journal": "Journal of behavioral addictions",
+    "year": "2020",
+    "volume": "9",
+    "issue": "1",
+    "pages": "14-43",
+    "doi": "10.1007/s11655-012-0990-5",
+    "authors": [
+     "Goslar M",
+     "Leibetseder M",
+     "Muench HM",
+     "Hofmann SG",
+     "Laireiter AR"
+    ],
+    "abstract": "Internet addiction, sex addiction and compulsive buying are common behavioral problems, which share similarities with gambling disorder and substance use disorders. However, little is known about the efficacy of their treatments. The objective of this meta-analysis was to examine the efficacy of the treatments of such problem behaviors, and to draw parallels to gambling disorder and substance use disorders in terms of treatment response. Literature search yielded 91 studies totaling 3,531 participants to provide a comprehensive evaluation of the short-term and long-term efficacy of psychological, pharmacological and combined treatments for internet addiction, sex addiction, and compulsive buying. Psychological, pharmacological, and combined treatments were associated with robust pre-post improvements in the global severity of internet addiction (Hedges's g: 1.51, 1.13, and 2.51, respectively) and sex addiction (Hedges's g: 1.09, 1.21, and 1.91, respectively). For compulsive buying, psychological and pharmacological treatments were also associated with a large-sized pre-post reduction in global severity (Hedges's g: 1.00 and 1.52, respectively). The controlled pre-post and within-group pre-follow-up effect sizes were in the similar range, with few exceptions. Moderator analyses suggest that psychological interventions are effective for reducing compulsive behaviors, especially when delivered face-to-face and conducted over extended periods of time. Combinations of cognitive-behavioral approaches with medications showed an advantage over monotherapies. The results suggest that treatments for common behavioral addictions are effective in the short term, similar to those implemented for gambling disorder and substance use disorders, but more rigorous clinical trials are needed."
+   },
+   {
+    "pmid": "30570700",
+    "title": "Pharmacological Treatments for Disordered Gambling: A Meta-analysis.",
+    "journal": "Journal of gambling studies",
+    "year": "2019",
+    "volume": "35",
+    "issue": "2",
+    "pages": "415-445",
+    "doi": "10.4088/JCP.v63n0704",
+    "authors": [
+     "Goslar M",
+     "Leibetseder M",
+     "Muench HM",
+     "Hofmann SG",
+     "Laireiter AR"
+    ],
+    "abstract": "Disordered gambling is a public health concern associated with detrimental consequences for affected individuals and social costs. Currently, opioid antagonists are considered the first-line treatments to reduce symptoms of uncontrolled gambling. Only recently, glutamatergic agents and combined pharmacological and psychological treatments have been examined appearing promising options for the management of gambling disorder. A multilevel literature search yielded 34 studies including open-label and placebo-controlled trials totaling 1340 participants to provide a comprehensive evaluation of the short- and long-term efficacies of pharmacological and combined treatments. Pharmacological treatments were associated with large and medium pre-post reductions in global severity, frequency, and financial loss (Hedges's g: 1.35, 1.22, 0.80, respectively). The controlled effect sizes for the outcome variables were significantly smaller (Hedges's g: 0.41, 0.11, 0.22), but robust for the reduction of global severity at short-term. In general, medication classes yielded comparable effect sizes independent of predictors of treatment outcome. Of the placebo controlled studies, results showed that opioid antagonists and mood stabilizers, particularly the glutamatergic agent topiramate combined with a cognitive intervention and lithium for gamblers with bipolar disorders demonstrated promising results. However, more rigorously designed, large-scale randomized controlled trials with extended placebo lead-in periods are necessary. Moreover, future studies need to monitor concurrent psychosocial treatments, the type of comorbidity, use equivalent measurement tools, include outcome variables according to the Banff, Alberta Consensus, and provide follow-up data in order to broaden the knowledge about the efficacy of pharmacological treatments for this disabling condition."
+   }
+  ]
+ },
+ {
+  "label": "Etminan 2017",
+  "query": "Etminan M[au] AND aripiprazole AND gambling",
+  "pmids": [
+   "31688453",
+   "27930495"
+  ],
+  "hits": [
+   {
+    "pmid": "31688453",
+    "title": "Risk of Pathological Gambling and Impulse Control Disorders With Dopamine Agonists: A Retrospective Cohort Study.",
+    "journal": "Journal of clinical psychopharmacology",
+    "year": "2019",
+    "volume": "39",
+    "issue": "6",
+    "pages": "675-676",
+    "doi": "10.1097/JCP.0000000000001122",
+    "authors": [
+     "Sodhi M",
+     "Etminan M",
+     "Carleton B",
+     "Samii A"
+    ],
+    "abstract": ""
+   },
+   {
+    "pmid": "27930495",
+    "title": "Risk of Gambling Disorder and Impulse Control Disorder With Aripiprazole, Pramipexole, and Ropinirole: A Pharmacoepidemiologic Study.",
+    "journal": "Journal of clinical psychopharmacology",
+    "year": "2017",
+    "volume": "37",
+    "issue": "1",
+    "pages": "102-104",
+    "doi": "10.1097/JCP.0000000000000634",
+    "authors": [
+     "Etminan M",
+     "Sodhi M",
+     "Samii A",
+     "Procyshyn RM",
+     "Guo M",
+     "Carleton BC"
+    ],
+    "abstract": "Recently, the US Food and Drug Administration issued a warning regarding the potential risk of gambling disorder, but large epidemiologic studies are lacking. We used a large health claims database from the United States and conducted a nested case-control study. Cases were defined as subjects newly diagnosed with gambling disorder or impulse control disorder. For each case, 10 controls were selected and matched to cases by age and follow-up time and calendar time. Adjusted rate ratios were computed with conditional logistic regression. There are 355 cases of gambling disorder and 3550 controls along with 4341 cases of impulse control disorder and 43,410 corresponding controls. After adjusting for confounders, users of aripiprazole demonstrated an increased risk of pathologic gambling (rate ratio [RR], 5.23; 95% confidence interval [CI], 1.78-15.38) and impulse control disorder (RR, 7.71; 95% CI, 5.81-10.34). The risk was also elevated for pramipexole or ropinirole for both gambling disorder and impulse control disorder (RR, 7.61; 95% CI, 2.75-21.07; RR, 3.28; 95% CI, 2.31-4.66, respectively). Our study confirms an association between aripiprazole, pramipexole, or ropinirole and impulse control disorder and gambling disorder."
+   }
+  ]
+ },
+ {
+  "label": "Grubbs PTSD gambling",
+  "query": "Grubbs JB[au] AND gambling AND (posttraumatic OR PTSD OR trauma)",
+  "pmids": [
+   "39080051",
+   "37643505",
+   "36216746"
+  ],
+  "hits": [
+   {
+    "pmid": "39080051",
+    "title": "Can Positive Play Deficits Explain the Associations Between Posttraumatic Stress Symptoms, Gambling Motives, and Problem Gambling? Results of a National U.S. Sample.",
+    "journal": "Journal of gambling studies",
+    "year": "2024",
+    "volume": "40",
+    "issue": "4",
+    "pages": "2093-2117",
+    "doi": "10.3389/fpsyg.2017.00227",
+    "authors": [
+     "King A",
+     "Kraus SW",
+     "Wong-Padoongpatt G",
+     "Grubbs JB"
+    ],
+    "abstract": "Past research has demonstrated a consistent connection between symptoms of posttraumatic stress disorder (PTSD) and problematic gambling in both general and clinical United States (U.S.) populations. Little is known, however, about the mediating role that responsible gambling practices related to positive play might have in the relationships between symptoms of PTSD, problem gambling (PG) severity, and different motives for gambling. Therefore, using mediation analysis, this study investigated these associations within a census-matched national sample of U.S. adults (N = 2,806). Results indicated PTSD symptoms and PG often co-occur in this population (r = .43, p < .01), and coping motives for gambling were the key mechanism connecting PTSD symptoms to PG severity rather than deficits in positive play practices or other gambling motives. Moreover, it was found that the average gambler who had sought treatment for gambling in the past not only had more severe PTSD symptoms and PG but also had the strongest gambling motives, the largest deficits in positive play, and was more likely to be younger than 50 years old. In this sample, approximately 1 in 10 people who gambled in the past year were classified as problem gamblers, 1 in 5 met criteria for a provisional PTSD diagnosis, and 1 in 33 sought out gambling treatment previously. These findings provide further evidence for the relationship between symptoms of posttraumatic stress and problematic gambling behaviors in the U.S. population and offer critical insights into the explanatory roles of coping motives and positive play practices in this connection."
+   },
+   {
+    "pmid": "37643505",
+    "title": "Comorbid psychiatric diagnoses and gaming preferences in US armed forces veterans receiving inpatient treatment for gambling disorder.",
+    "journal": "Addictive behaviors",
+    "year": "2023",
+    "volume": "147",
+    "issue": null,
+    "pages": "107840",
+    "doi": "10.1016/j.addbeh.2023.107840",
+    "authors": [
+     "Grubbs JB",
+     "Chapman H",
+     "Milner LA",
+     "Floyd CG",
+     "Kraus SW"
+    ],
+    "abstract": "Armed Forces Veterans are uniquely vulnerable to problem gambling and gambling disorder. Even so, research regarding the full clinical profile of veterans with gambling problems lags. Gambling activities vary widely from each other, but most gambling activities can be understood as either strategic (i.e., involving some measure of skill and decision-making as a part of the gambling practice) or non-strategic (i.e., gambling activities that are entirely based on chance). Prior works have found that gamblers that prefer strategic gambling activities and those that prefer nonstrategic gambling activities often differ from each other in key ways, with the two preferences being linked to varying motivations for gambling, varying cognitions about gambling, and the course of gambling disorder. The present work sought to examine how preferences for strategic vs. nonstrategic gambling might be related to psychiatric comorbidities among U.S. Armed Forces Veterans receiving inpatient treatment for Gambling Disorder. Data from U.S. Armed Forces Veterans (N = 401) receiving residential treatment for GD between the years of 2010-2016 were analyzed. Results demonstrated that gamblers that preferred strategic gambling, as opposed to non-strategic gambling, were more likely to be younger, more likely to be men, less likely to have a nicotine use disorder, and less likely to have PTSD. Such findings suggest that gamblers with PTSD are likely to prefer nonstrategic games and may imply a unique vulnerability to gambling problems related to non-strategic gambling among armed forces veterans."
+   },
+   {
+    "pmid": "36216746",
+    "title": "Cross-Sectional and Longitudinal Associations Between Posttraumatic Stress Symptoms and Hypersexual Behaviors Among Individuals Who have Gambled in Their Lifetimes.",
+    "journal": "The journal of sexual medicine",
+    "year": "2022",
+    "volume": "19",
+    "issue": "12",
+    "pages": "1813-1823",
+    "doi": "10.1016/j.jsxm.2022.09.003",
+    "authors": [
+     "Rosansky JA",
+     "Borgogna NC",
+     "Kraus SW",
+     "Grubbs JB"
+    ],
+    "abstract": "Exposure to traumatic experiences represent one factor that may contribute to the development of hypersexual behaviors. We investigated the associations between posttraumatic stress symptoms and hypersexual behaviors by analyzing survey data from 2 samples. The first sample consisted of n = 585 college students, and the second consisted of n = 786 adults recruited via Amazon's Mechanical Turk (MTurk), n = 337 of whom completed a 6-month follow-up survey. We conducted 3 hierarchical regression analyses adjusting for age, gender, sexual orientation, impulsivity, drug use, alcohol use, and gambling. The primary outcomes for this investigation were associations between posttraumatic stress symptoms, measured using the PTSD Checklist for DSM-IV and DSM-5 (PCL-C and PCL-5), and hypersexual behaviors, measured using the Hypersexual Behavior Inventory (HBI). A significant regression, R2 = 0.230, R2adjusted = 0.211, F (14,570) = 12.17, P < .001, revealed posttraumatic stress symptoms were associated with hypersexual behaviors in the university student sample (β = 0.154). A significant regression using the MTurk sample, R2 = 0.403, R2adjusted = 0.392, F (14,771) = 37.13, P < .001, confirmed this finding (β = 0.259). In addition, a significant regression, R2 = 0.562, R2adjusted = 0.541, F (15,321) = 27.42, P < .001, indicated that posttraumatic stress symptoms were longitudinally associated with increased hypersexual behaviors (β = .190) after adjusting for all variables, including baseline hypersexuality. Results suggest that individuals experiencing posttraumatic stress symptoms are at increased risk for current and future hypersexual behaviors. This investigation involved secondary analyses of adults who had gambled at least once in their lives and findings may not generalize to those who have never gambled. Furthermore, longitudinal findings may be impacted by selection bias (42% completion rate) and may not generalize to follow up periods longer than 6-months. This study provides support for the hypothesis that posttraumatic stress symptoms are associated with increased hypersexual behavior, and further research is indicated to explore the etiology and directionality of this relationship. Rosansky JA, Borgogna NC, Kraus SW, et al. Cross-Sectional and Longitudinal Associations Between Posttraumatic Stress Symptoms and Hypersexual Behaviors Among Individuals Who have Gambled in Their Lifetimes. J Sex Med 2022;19:1813-1823."
+   }
+  ]
+ },
+ {
+  "label": "Koncz 2023",
+  "query": "Koncz P[au] AND gaming disorder AND ADHD",
+  "pmids": [
+   "39141972",
+   "37883910"
+  ],
+  "hits": [
+   {
+    "pmid": "39141972",
+    "title": "Gender-specific motivational pathways in ADHD-related inattention and gaming disorder symptoms.",
+    "journal": "Addictive behaviors",
+    "year": "2024",
+    "volume": "158",
+    "issue": null,
+    "pages": "108120",
+    "doi": "10.1016/j.addbeh.2024.108120",
+    "authors": [
+     "Koncz P",
+     "Demetrovics Z",
+     "Urbán R",
+     "Griffiths MD",
+     "Király O"
+    ],
+    "abstract": "Comorbidity between attention-deficit/hyperactivity disorder (ADHD) and gaming disorder (GD) is widely recognized in the literature. Previous research has indicated gender-dependent underlying mechanisms in the development and maintenance of problematic gaming. Motivational research presents an opportunity to provide further insight regarding the nature of this association. Self-report data were collected from videogame players (N = 14,740) using an online survey in collaboration with a popular gaming magazine. The survey included items concerning symptoms of ADHD and GD, motives for gaming, and time spent playing videogames. Structural equation modeling was used to create two parallel mediation models (one for males, one for females), including motives to play games as mediators. This was done to potentially explain psychological drivers of the association between ADHD and GD. Results demonstrated a common pathway from inattention to GD symptom severity through the immersion/escapism motivation for both males (β = 0.068; p < 0.001) and females (β = 0.081; p < 0.05), while the paths from inattention to GD symptom severity through the habit/boredom motive (β = 0.094; p < 0.001) and competition motive (β = 0.021; p < 0.001) were only significant for males. Gamers experiencing symptoms of ADHD, especially inattentive symptoms, are at risk of the occurrence of GD symptoms through videogames becoming a source of maladaptive coping with daily psychological disturbances. Males experiencing inattentive symptoms tend to additionally develop problematic patterns of use through videogame playing, becoming a subjectively meaningless and boredom-reduction-oriented habitual activity or a platform of virtual competition. Unique differences suggest the necessity of different treatment approaches for males and females."
+   },
+   {
+    "pmid": "37883910",
+    "title": "The emerging evidence on the association between symptoms of ADHD and gaming disorder: A systematic review and meta-analysis.",
+    "journal": "Clinical psychology review",
+    "year": "2023",
+    "volume": "106",
+    "issue": null,
+    "pages": "102343",
+    "doi": "10.1016/j.cpr.2023.102343",
+    "authors": [
+     "Koncz P",
+     "Demetrovics Z",
+     "Takacs ZK",
+     "Griffiths MD",
+     "Nagy T",
+     "Király O"
+    ],
+    "abstract": "The co-existence of gaming disorder (GD) with other mental health problems has been widely reported. Despite the growing research interest in the comorbidity of GD with attention-deficit/hyperactivity disorder (ADHD), to date, no quantitative synthesis has been performed. The present study comprised a systematic literature search using Scopus, Science Direct, Web of Science, and PubMed databases. Three types of studies were included in the analyses: studies reporting (i) correlation coefficients between the symptoms of GD and ADHD, (ii) means, and standard deviations for comparison of GD severity between ADHD/non-ADHD individuals, and (iii) comparison of ADHD severity between GD/non-GD individuals. The results indicated a moderate relationship between GD and ADHD symptom severity when both subdomains of ADHD were combined (r = 0.296), and also when only inattention (r = 0.306) or hyperactivity (r = 0.266) symptoms were analyzed, which was also confirmed in a structural equation model meta-analysis. Studies showed a large average difference comparing the GD symptom severity of ADHD and non-ADHD individuals (g = 0.693), or ADHD symptom severity of GD and non-GD individuals (g = 0.854). In some cases, higher estimates of association were reported among studies that (i) had a higher proportion of males, (ii) assessed problematic internet use among predominantly videogame player samples rather than assessing only GD, and (iii) had been more recently published. The present review shows that this is an emerging field demonstrating significant results in cross-sectional correlational studies. However, future research should apply more rigorous methodologies to investigate the relationship further (e.g., longitudinal studies and studies using professional/clinical ratings and diagnosis). These results suggest that screening and treatment for ADHD among individuals with gaming disorder is necessary, and individuals with ADHD should be made aware of their higher susceptibility to gaming disorder."
+   }
+  ]
+ },
+ {
+  "label": "Slutske 2000",
+  "query": "Slutske WS[au] AND 2000[dp] AND pathological gambling AND alcohol dependence",
+  "pmids": [
+   "10891037"
+  ],
+  "hits": [
+   {
+    "pmid": "10891037",
+    "title": "Common genetic vulnerability for pathological gambling and alcohol dependence in men.",
+    "journal": "Archives of general psychiatry",
+    "year": "2000",
+    "volume": "57",
+    "issue": "7",
+    "pages": "666-73",
+    "doi": "10.1001/archpsyc.57.7.666",
+    "authors": [
+     "Slutske WS",
+     "Eisen S",
+     "True WR",
+     "Lyons MJ",
+     "Goldberg J",
+     "Tsuang M"
+    ],
+    "abstract": "In comparison with alcohol dependence (AD), relatively little is known about the causes of pathological gambling (PG). Given the high rate of comorbidity between PG and AD, knowledge about the causes of AD may be applied to understanding those of PG. Subjects were adult male twin pairs from the Vietnam Era Twin Registry. Lifetime histories of PG and AD were assessed by structured psychiatric telephone interview. The validity of a continuum of PG liability was tested to determine whether the causes of subclinical PG, or problem gambling, are quantitatively or qualitatively distinct from those of DSM-III-R PG disorder. Genetic model-fitting methods were used to quantify the extent to which the genetic and environmental risk for PG could be explained by the risk for AD. Tests of the continuity model of PG were all consistent with the hypothesis that subclinical PG and DSM-III-R PG disorder have many, perhaps all, of the same risk factors and thus differ quantitatively rather than qualitatively. Depending on the PG definition, between 12% and 20% of the genetic variation and between 3% and 8% of the nonshared environmental variation in the risk for PG were accounted for by the risk for AD. Subclinical PG, or problem gambling, may be a milder form of PG, rather than an etiologically distinct syndrome. Risk for AD accounts for a significant but modest proportion of the genetic and environmental risk for subclinical PG and DSM-III-R PG disorder."
+   }
+  ]
+ },
+ {
+  "label": "Stevens 2021 corrigendum",
+  "query": "Stevens MWR[au] AND \"Global prevalence of gaming disorder\"",
+  "pmids": [],
+  "hits": []
+ },
+ {
+  "label": "Lorains 2011",
+  "query": "Lorains FK[au] AND 2011[dp] AND gambling",
+  "error": "HTTP Error 429: Too Many Requests"
+ },
+ {
+  "label": "Weintraub 2010 DOMINION",
+  "query": "Weintraub D[au] AND 2010[dp] AND \"impulse control disorders in Parkinson disease\" AND 3090",
+  "pmids": [],
+  "hits": []
+ },
+ {
+  "label": "Haydock 2015",
+  "query": "Haydock M[au] AND gambling AND psychotic",
+  "pmids": [
+   "25684263"
+  ],
+  "hits": [
+   {
+    "pmid": "25684263",
+    "title": "Prevalence and correlates of problem gambling in people with psychotic disorders.",
+    "journal": "Comprehensive psychiatry",
+    "year": "2015",
+    "volume": "58",
+    "issue": null,
+    "pages": "122-9",
+    "doi": "10.1016/j.comppsych.2015.01.003",
+    "authors": [
+     "Haydock M",
+     "Cowlishaw S",
+     "Harvey C",
+     "Castle D"
+    ],
+    "abstract": "There are few published studies on the comorbidity of psychosis and problem gambling. This paper provides estimates of the prevalence and clinical correlates of problem gambling in a representative sample of people with psychotic disorders. The second Australian national survey of psychosis was undertaken in 2010 and included adults (18-64 years) attending mental health services. Problem gambling was measured using the Canadian Problem Gambling Index (CPGI) at two sites of this study, with 442 participants providing data suitable for analysis. There were 151 participants who screened positive to past-year gambling. 4.1% of the total sample was classified as low risk gamblers, 6.4% were moderate risk gamblers and 5.8% were problem gamblers. Moderate risk/problem gamblers were more likely to be male, have left school with no qualifications and have sought financial assistance in the last year. There was a significant association with substance use, including alcohol use disorders and use of cannabis and 'other' drugs (excluding cannabis). People with psychosis are four times more likely to have a gambling problem than the general population. The association of gambling with substance use disorders is consistent with community studies, while the increased need for financial assistance suggests that problem gambling increases the likelihood of financial harm for this population. Clinicians should screen for comorbid gambling problems in people with psychosis, while there is also a need for additional research into this area."
+   }
+  ]
+ },
+ {
+  "label": "Desai Potenza 2009",
+  "query": "Desai RA[au] AND Potenza MN[au] AND schizophrenia AND gambling",
+  "pmids": [
+   "19538900"
+  ],
+  "hits": [
+   {
+    "pmid": "19538900",
+    "title": "A cross-sectional study of problem and pathological gambling in patients with schizophrenia/schizoaffective disorder.",
+    "journal": "The Journal of clinical psychiatry",
+    "year": "2009",
+    "volume": "70",
+    "issue": "9",
+    "pages": "1250-7",
+    "doi": "10.4088/JCP.08m04359",
+    "authors": [
+     "Desai RA",
+     "Potenza MN"
+    ],
+    "abstract": "Community data suggest frequent co-occurrence between schizophrenia/schizoaffective disorder and problem gambling. However, gambling behaviors in large samples of patients with schizophrenia/schizoaffective disorder have not been systematically examined to date. A sample of outpatient subjects (N = 337) diagnosed with either schizophrenia or schizoaffective disorder and who were treated in either the VA Connecticut Healthcare System or the Connecticut Mental Health Center was interviewed in order to examine the prevalence estimates and clinical correlates of problem and pathological gambling. Multinomial logistic regression models investigated clinically relevant measures in recreational or problem/pathological gamblers, as compared to nongamblers. Data were collected between June 2002 and November 2003. Sixty-five participants (19%) met criteria for past-year problem/pathological gambling, with 10% meeting criteria for pathological gambling. Significant correlates of problem and pathological gambling from multivariable models included greater alcohol use severity (P = .007), higher depression scores (P = .04), and more outpatient mental health care utilization (P = .03). Participants with problem/pathological gambling were more likely than recreational gamblers to gamble for excitement, gamble more frequently and heavily, and report either sports or card gambling as favorite. A substantial proportion of individuals in treatment for psychotic disorders report past-year gambling problems. Patients with co-occurring alcohol use problems and depression may be at particularly high risk. These findings suggest the need for improved prevention and treatment efforts related to problem/pathological gambling in individuals with psychotic disorders."
+   }
+  ]
+ },
+ {
+  "label": "Corbeil 2024",
+  "query": "Corbeil O[au] AND gambling AND psychotic AND meta-analysis",
+  "pmids": [
+   "39320504",
+   "38566334"
+  ],
+  "hits": [
+   {
+    "pmid": "39320504",
+    "title": "Prevalence of schizophrenia spectrum and other psychotic disorders in problem gambling: A systematic review and meta-analysis.",
+    "journal": "European psychiatry : the journal of the Association of European Psychiatrists",
+    "year": "2024",
+    "volume": "67",
+    "issue": "1",
+    "pages": "e56",
+    "doi": "10.1007/s11469-022-00983-y",
+    "authors": [
+     "Corbeil O",
+     "Béchard L",
+     "Anderson É",
+     "Huot-Lavoie M",
+     "Desmeules C",
+     "Bachand L"
+    ],
+    "abstract": "High rates of psychiatric comorbidities have been found in people with problem gambling (PBG), including substance use, anxiety, and mood disorders. Psychotic disorders have received less attention, although this comorbidity is expected to have a significant impact on the course, consequences, and treatment of PBG. This review aimed to estimate the prevalence of psychotic disorders in PBG. Medline (Ovid), EMBASE, PsycINFO (Ovid), CINAHL, CENTRAL, Web of Science, and ProQuest were searched on November 1, 2023, without language restrictions. Studies involving people with PBG and reporting the prevalence of schizophrenia spectrum and other psychotic disorders were included. Risk of bias was assessed using the Joanna Briggs Institute critical appraisal checklist for systematic reviews of prevalence data. The pooled prevalence of psychotic disorders was calculated using a random effects generalized linear mixed model and presented with forest plots. Of 1,271 records screened, 22 studies (n = 19,131) were included. The overall prevalence of psychotic disorders was 4.9% (95% CI, 3.6-6.5%, I2 = 88%). A lower prevalence was found in surveyed/recruited populations, compared with treatment-seeking individuals and register-based studies. No differences were found for factors such as treatment setting (inpatient/outpatient), diagnoses of psychotic disorders (schizophrenia only/other psychotic disorders), and assessment time frame (current/lifetime). The majority of included studies had a moderate risk of bias. These findings highlight the relevance of screening problem gamblers for schizophrenia spectrum and other psychotic disorders, as well as any other comorbid mental health conditions, given the significant impact such comorbidities can have on the recovery process."
+   },
+   {
+    "pmid": "38566334",
+    "title": "Problem gambling in psychotic disorders: A systematic review and meta-analysis of prevalence.",
+    "journal": "Acta psychiatrica Scandinavica",
+    "year": "2024",
+    "volume": "149",
+    "issue": "6",
+    "pages": "445-457",
+    "doi": "10.1111/acps.13686",
+    "authors": [
+     "Corbeil O",
+     "Anderson É",
+     "Béchard L",
+     "Desmeules C",
+     "Huot-Lavoie M",
+     "Bachand L"
+    ],
+    "abstract": "Problem gambling (PBG) is more common in people with mental health disorders, including substance use, bipolar, and personality disorders, than in the general population. Although individuals with psychotic disorders might be expected to be more vulnerable to PBG, fewer studies have focused on this comorbidity. The aim of this review was to estimate the prevalence of PBG in people with psychotic disorders. Medline (Ovid), EMBASE, PsycINFO (Ovid), CINAHL, CENTRAL, Web of science, and ProQuest were searched on November 1, 2023, without language restrictions. Observational and experimental studies including individuals with psychotic disorders and reporting the prevalence of PBG were included. Risk of bias was assessed using the Joanna Briggs Institute critical appraisal for systematic reviews of prevalence data. The pooled prevalence of PBG was calculated using a fixed effects generalized linear mixed model and presented through forest plots. Of 1271 records screened, 12 studies (n = 3443) were included. The overall prevalence of PBG was 8.7% (95% CI = 7.8%-9.7%, I2 = 69%). A lower prevalence was found in studies with a low risk of bias (5.6%; 95% CI = 4.4%-7.0%) compared with studies with a moderate risk of bias (10.4%; 95% CI = 9.2%-11.7%). Different methods used to assess PBG also contributed to the heterogeneity found. This meta-analysis found substantial heterogeneity, partly due to the risk of bias of the included studies and a lack of uniformity in PBG assessment. Although more research is needed to identify those at increased risk for PBG, its relatively high prevalence warrants routine screening for gambling in clinical practice."
+   }
+  ]
+ },
+ {
+  "label": "Kristensen 2024 suicidality gambling",
+  "query": "Kristensen JH[au] AND gambling AND suicid* AND meta-analysis",
+  "pmids": [
+   "38095933"
+  ],
+  "hits": [
+   {
+    "pmid": "38095933",
+    "title": "Suicidality among individuals with gambling problems: A meta-analytic literature review.",
+    "journal": "Psychological bulletin",
+    "year": "2024",
+    "volume": "150",
+    "issue": "1",
+    "pages": "82-106",
+    "doi": "10.1037/bul0000411",
+    "authors": [
+     "Kristensen JH",
+     "Pallesen S",
+     "Bauer J",
+     "Leino T",
+     "Griffiths MD",
+     "Erevik EK"
+    ],
+    "abstract": "Gambling problems have consistently been linked to suicidality, including suicidal ideation, attempts, and suicide. However, the magnitude of the relationship has varied significantly across studies and the potential causal link between gambling problems and suicidality is currently unclear. A meta-analytic literature review was conducted to (a) synthesize pooled prevalence rates of suicidality among individuals with gambling problems; (b) determine if individuals with gambling problems had an increased likelihood of reporting suicidality compared to individuals without gambling problems; and (c) review evidence on causality and directionality. A search in Web of Science, APA PsycInfo, APA PsycNet, Medline, CINAHL, ProQuest, Embase, and Google Scholar electronic databases identified 107 unique studies (N = 4,691,899) that were included for review. Studies were included if they were available in any European language and provided sufficient data for the calculation of prevalence rates or effect sizes. Two researchers extracted the data independently using a predefined coding schema that included the Newcastle-Ottawa Quality Assessment Scale. Random-effects meta-analyses yielded pooled prevalence rates of 31.6% (95% CI [29.1%, 34.3%]) for lifetime suicidal ideation and 13.2% (95% CI [11.3%, 15.5%]) for lifetime suicide attempts. Individuals with gambling problems had significantly increased odds of reporting lifetime suicidal ideation (OR = 2.17, 95% CI [1.90, 2.48]) and lifetime suicide attempts (OR = 2.81, 95% CI [2.23, 3.54]) compared to individuals without gambling problems. Two studies reported that individuals with pathological gambling had an increased risk of dying by suicide. Metaregression analyses suggested that the risk of study bias was positively related to the prevalence rates of suicidal ideation. Sex proportions were found to moderate the odds of suicidal ideation, but the direction of the effect was inconsistent. For suicide attempts, psychiatric comorbidity and sample size were positively and inversely, respectively, associated with prevalence rates. The synthesis indicates that suicidality is common among individuals with gambling problems and hence should be addressed by help agencies. Inferences on causality and directionality are hampered by a lack of longitudinal studies. (PsycInfo Database Record (c) 2024 APA, all rights reserved)."
+   }
+  ]
+ },
+ {
+  "label": "Molander 2023 SCI-GD",
+  "query": "Molander O[au] AND gambling disorder AND structured clinical interview",
+  "pmids": [
+   "36680458",
+   "35902829",
+   "34991511"
+  ],
+  "hits": [
+   {
+    "pmid": "36680458",
+    "title": "Assessing Gambling Disorder Using Semistructured Interviews or Self-Report? Evaluation of the Structured Clinical Interview for Gambling Disorder Among Swedish Gamblers.",
+    "journal": "Assessment",
+    "year": "2023",
+    "volume": "30",
+    "issue": "8",
+    "pages": "2387-2397",
+    "doi": "10.1080/14459795.2013.839731",
+    "authors": [
+     "Molander O",
+     "Månsson V",
+     "Berman AH",
+     "Grant JE",
+     "Wennberg P"
+    ],
+    "abstract": "The Structured Clinical Interview for Gambling Disorder (SCI-GD) has the potential to bridge a diagnostic clinical gap, but psychometric evaluations have been scarce, in particular in relation to self-reported diagnostic criteria. This study analyzed existing data, including Swedish gamblers (N = 204) from treatment- and help-seeking contexts, self-help groups, and the general population, who were interviewed with the SCI-GD and completed self-report measures. The results indicated that fewer individuals fulfilled the diagnostic criteria for gambling disorder (GD) with the SCI-GD (n = 110, 54%), compared to a self-report Diagnostic and Statistical Manual of Mental Disorders:5th Edition (DSM-5) questionnaire on GD (n = 145, 71%; p < .001). Agreement between interviews and self-reported criteria was generally low (Fleiss kappa range: 0.31-0.52; r range: 0.35-0.55). A Rasch analysis showed that specific diagnostic criteria varied in difficulty, indicating a general pattern of higher item difficulty for the SCI-GD compared to self-reported DSM-5 criteria. Both the SCI-GD and the self-reported DSM-5 criteria performed well in terms of internal consistency, convergent, and discriminant validity. We conclude that the SCI-GD is a reliable and valid diagnostic tool to assess GD among individuals with various gambling behavior patterns. Further research-related and clinical implications are discussed."
+   },
+   {
+    "pmid": "35902829",
+    "title": "What to target in cognitive behavioral treatment for gambling disorder-A qualitative study of clinically relevant behaviors.",
+    "journal": "BMC psychiatry",
+    "year": "2022",
+    "volume": "22",
+    "issue": "1",
+    "pages": "510",
+    "doi": "10.1177/1049732316665344",
+    "authors": [
+     "Molander O",
+     "Ramnerö J",
+     "Bjureberg J",
+     "Berman AH"
+    ],
+    "abstract": "From a clinical perspective, knowledge of the psychological processes involved in maintaining gambling disorder has been lacking. This qualitative study formulated hypotheses on how gambling disorder is maintained by identifying clinically relevant behaviors at an individual level, as a means to guide the development of new cognitive behavioral interventions. Six individuals from a treatment study, diagnosed with gambling disorder and with diverse symptom profiles of psychiatric comorbidity, were recruited. Participants were interviewed using an in-depth semi-structured functional interview and completed self-report measures assessing gambling behavior. Functional analysis was used as a theoretical framework for a thematic analysis, which yielded the following categories: 1) antecedents that may increase or decrease gambling; 2) experiences accompanying gambling; 3) control strategies; 4) consequences of gambling behavior; and 5) events terminating gambling behavior. Few differences were identified in relation to symptom profiles of psychiatric comorbidity, although some gamblers did not report experiencing abstinence when not being able to gamble. Gambling is a secluded activity mainly triggered by access to money. Positive and negative emotions could be both antecedents and functions of gambling behavior. Avoidance-based strategies used to control gambling might result in a failure to learn to control gambling behavior. Anticipation, selective attention, and chasing could be important reinforcers, which should be addressed in new developments in cognitive behavioral treatment for gambling disorder."
+   },
+   {
+    "pmid": "34991511",
+    "title": "Emotion regulation-enhanced group treatment for gambling disorder: a non-randomized pilot trial.",
+    "journal": "BMC psychiatry",
+    "year": "2022",
+    "volume": "22",
+    "issue": "1",
+    "pages": "16",
+    "doi": "10.1016/j.addbeh.2015.08.006",
+    "authors": [
+     "Månsson V",
+     "Molander O",
+     "Carlbring P",
+     "Rosendahl I",
+     "Berman AH"
+    ],
+    "abstract": "Despite the association of Gambling Disorder (GD) with poor mental health, treatment options generally lack components targeting emotional difficulties. This study investigated the feasibility and acceptability of adding strategies of emotion regulation to an eight-session weekly group treatment. This non-randomized pilot study recruited 21 treatment-seeking adults with GD, (mean age = 36.3, 19% females) from addiction care. In a mixed methods design, measures of within-group changes in self-reported symptoms of GD were complemented with thematic analysis of post-treatment interviews regarding the feasibility of the treatment. Within-group scores on the Gambling Symptoms Assessment Scale (G-SAS) showed a 47% decrease (β: -0.1599, 95% CI: - 0.2526 to - 0.0500) from pre-treatment to 12-month follow-up, with Hedges' g = 1.07 (CI: 0.57-1.60). The number of GD-symptoms according to the Structured Clinical Interview for Gambling Disorder (SCI-GD) decreased from 7.0 (SD = 1.60) at pre-treatment to 2.1 (SD = 2.36) at 12-month follow-up. Participants completed an average of 6.3 sessions and rated the intervention high in satisfaction and acceptability. Feasibility interviews showed no noticeable negative effects or ethical issues. Furthermore, helpful components in the treatment were: increased awareness of emotional processes and strategies to deal with difficult emotions. Adding emotion regulation strategies in the treatment of GD is feasible and acceptable and warrants further investigation in a controlled trial. This study was registered with ClinicalTrials.gov (Identifier NCT03725735 )."
+   }
+  ]
+ },
+ {
+  "label": "Park 2016 atomoxetine methylphenidate gaming",
+  "query": "Park JH[au] AND Han DH[au] AND atomoxetine AND methylphenidate AND gaming",
+  "pmids": [
+   "27859666"
+  ],
+  "hits": [
+   {
+    "pmid": "27859666",
+    "title": "Effectiveness of atomoxetine and methylphenidate for problematic online gaming in adolescents with attention deficit hyperactivity disorder.",
+    "journal": "Human psychopharmacology",
+    "year": "2016",
+    "volume": "31",
+    "issue": "6",
+    "pages": "427-432",
+    "doi": "10.1002/hup.2559",
+    "authors": [
+     "Park JH",
+     "Lee YS",
+     "Sohn JH",
+     "Han DH"
+    ],
+    "abstract": "There is a high prevalence of problematic online gaming in adolescents with attention deficit hyperactivity disorder (ADHD). In the current study, we compared the effectiveness of atomoxetine (ATM) and methylphenidate (MPH) on problematic online gaming in adolescents with ADHD. We recruited 86 adolescents diagnosed with ADHD together with Internet gaming disorder. These participants were divided into two treatment groups: 44 participants were treated with MPH for 12 weeks, and 42 participants were treated with ATM for 12 weeks. During the 3-month study period, the MPH group showed greater improvement in Korean ADHD rating scale scores than the ATM group. The ATM group showed greater improvement in Child Depression Inventory scores than the MPH group. However, Young Internet Addiction Scale and Behavioral Inhibition & Activation Scales score changes did not differ significantly between the MPH and ATM groups. In both groups, changes in Young Internet Addiction Scale scores were positively correlated with the changes in Behavioral Inhibition & Activation Scales scores. Both MPH and ATM reduced the severity of Internet gaming disorder symptoms, and this reduction was correlated with impulsivity reduction, which also resulted from both ADHD medications. These findings suggest impulsivity plays a critical role in the development of problematic online gaming."
+   }
+  ]
+ },
+ {
+  "label": "Grant 2008 naltrexone",
+  "query": "Grant JE[au] AND 2008[dp] AND naltrexone AND pathological gambling AND double-blind",
+  "pmids": [
+   "18581096",
+   "18384246"
+  ],
+  "hits": [
+   {
+    "pmid": "18581096",
+    "title": "Predicting response to opiate antagonists and placebo in the treatment of pathological gambling.",
+    "journal": "Psychopharmacology",
+    "year": "2008",
+    "volume": "200",
+    "issue": "4",
+    "pages": "521-7",
+    "doi": "10.1007/s00213-008-1235-3",
+    "authors": [
+     "Grant JE",
+     "Kim SW",
+     "Hollander E",
+     "Potenza MN"
+    ],
+    "abstract": "Although opiate antagonists have shown promise in the treatment of pathological gambling (PG), individual responses vary. No studies have systematically examined predictors of medication treatment outcome in PG. Understanding clinical variables related to treatment outcome should help generate treatment algorithms for PG. We sought to identify clinical variables associated with treatment outcome in PG subjects receiving opiate antagonists. Two hundred eighty-four subjects [137 (48.2%) women] with DSM-IV PG were treated in one of two double-blind placebo-controlled trials (16 weeks of nalmefene or 18 weeks of naltrexone). Gambling severity was assessed with the Yale Brown Obsessive Compulsive Scale Modified for Pathological Gambling (PG-YBOCS) with positive response defined as > or =35% reduction in PG-YBOCS score for at least 1 month by study endpoint. Depression, anxiety, and psychosocial functioning were included in stepwise logistic regression analyses designed to identify clinical factors independently associated with treatment response. The clinical variable most strongly associated with a positive response to an opiate antagonist was a positive family history of alcoholism (p = 0.006). Among individuals receiving higher doses of opiate antagonists (i.e., nalmefene 50 or 100 mg/day or naltrexone 100 or 150 mg/day), intensity of gambling urges (PG-YBOCS urge subscale) was associated with a positive response on a trend level (p = 0.036). Among individuals receiving placebo, younger age was associated, on a trend level, with positive treatment outcome (p = 0.012). A family history of alcoholism appears to predict response to an opiate antagonist in PG. Future research is needed to identify specific factors (e.g., genetic) mediating favorable responses."
+   },
+   {
+    "pmid": "18384246",
+    "title": "A double-blind, placebo-controlled study of the opiate antagonist naltrexone in the treatment of pathological gambling urges.",
+    "journal": "The Journal of clinical psychiatry",
+    "year": "2008",
+    "volume": "69",
+    "issue": "5",
+    "pages": "783-9",
+    "doi": "10.4088/jcp.v69n0511",
+    "authors": [
+     "Grant JE",
+     "Kim SW",
+     "Hartman BK"
+    ],
+    "abstract": "Pathological gambling (PG) is a disabling disorder experienced by approximately 1% of adults and for which few empirically validated treatments exist. This study examined the efficacy and tolerability of the opioid antagonist naltrexone in adults with PG who have urges to gamble. An 18-week, double-blind, placebo-controlled trial was conducted to evaluate the safety and efficacy of 3 doses of oral naltrexone for PG. Seventy-seven individuals with DSM-IV-TR PG were randomly assigned to naltrexone (50 mg/day, 100 mg/day, or 150 mg/day) or placebo. Subjects were assessed with the Pathological Gambling Adaptation of the Yale-Brown Obsessive Compulsive Scale (PG-YBOCS), the urge and behavior subscales of the PG-YBOCS, the Gambling Symptom Assessment Scale (G-SAS), the Clinical Global Impressions-Severity of Illness scale (CGI-S), and measures of depression, anxiety, and psychosocial functioning. Data were collected from September 2002 to June 2005. Outcomes did not significantly differ between the various doses of naltrexone. Subjects assigned to naltrexone had significantly greater reductions in PG-YBOCS total scores (p = .0094), gambling urges (p = .0053), and gambling behavior (p = .0134) compared to subjects assigned to placebo. Subjects assigned to naltrexone also had greater improvement in overall gambling severity (reflected in the CGI-S scores) (p = .0080) and in psychosocial functioning (p = .0177) than subjects assigned to placebo. A complete analysis (N = 49) demonstrated significantly greater improvement on all variables for subjects assigned to naltrexone. A sex analysis demonstrated that men and women did not differ significantly in their response to naltrexone. Subjects assigned to naltrexone demonstrated statistically significant reductions in gambling urges and behavior in PG. Low-dose naltrexone (50 mg/day) appeared as efficacious as higher doses (100 mg/day and 150 mg/day), and all doses were well tolerated."
+   }
+  ]
+ },
+ {
+  "label": "Grant 2014 N-acetylcysteine",
+  "query": "Grant JE[au] AND N-acetylcysteine AND gambling AND nicotine",
+  "pmids": [
+   "24345329"
+  ],
+  "hits": [
+   {
+    "pmid": "24345329",
+    "title": "A randomized, placebo-controlled trial of N-acetylcysteine plus imaginal desensitization for nicotine-dependent pathological gamblers.",
+    "journal": "The Journal of clinical psychiatry",
+    "year": "2014",
+    "volume": "75",
+    "issue": "1",
+    "pages": "39-45",
+    "doi": "10.4088/JCP.13m08411",
+    "authors": [
+     "Grant JE",
+     "Odlaug BL",
+     "Chamberlain SR",
+     "Potenza MN",
+     "Schreiber LR",
+     "Donahue CB"
+    ],
+    "abstract": "Pathological gambling is associated with elevated proportions of nicotine dependence, and tobacco smoking in pathological gamblers has been associated with increased problem-gambling severity. This study examined the addition of N-acetylcysteine to imaginal desensitization in adults with co-occurring nicotine dependence and pathological gambling. Twenty-eight individuals with co-occurring DSM-IV nicotine dependence and pathological gambling who were receiving behavioral therapy were recruited from December 2009 to February 2012 and randomized to augmentation with N-acetylcysteine or placebo in an 12-week, double-blind trial. Subjects were assessed with measures of nicotine and gambling severity and followed for 3 months after treatment. The primary outcomes were the Fagerström Test for Nicotine Dependence and the pathological gambling adaptation of the Yale-Brown Obsessive-Compulsive Scale. During the first 6 weeks, there was a significant benefit of N-acetylcysteine treatment versus placebo on Fagerström Test for Nicotine Dependence total scores (t = -2.224; P = .031). After the initial 6 weeks, all subjects significantly (P < .001) benefited from imaginal desensitization. During the 3-month follow-up, there was a significant additional benefit for N-acetylcysteine versus placebo on measures of problem-gambling severity (t = 2.069; P = .043). N-acetylcysteine treatment during therapy facilitates long-term application of behavioral therapy techniques once patients are in the community after therapy has been completed. ClinicalTrials.gov identifier: NCT00967005."
+   }
+  ]
+ },
+ {
+  "label": "Christensen 2013 DBT gambling",
+  "query": "Christensen DR[au] AND dialectical AND gambling",
+  "pmids": [],
+  "hits": []
+ },
+ {
+  "label": "Wölfling 2019 STICA",
+  "query": "Wölfling K[au] AND 2019[dp] AND \"JAMA psychiatry\"[ta]",
+  "pmids": [
+   "31290948"
+  ],
+  "hits": [
+   {
+    "pmid": "31290948",
+    "title": "Efficacy of Short-term Treatment of Internet and Computer Game Addiction: A Randomized Clinical Trial.",
+    "journal": "JAMA psychiatry",
+    "year": "2019",
+    "volume": "76",
+    "issue": "10",
+    "pages": "1018-1025",
+    "doi": "10.1016/j.cpr.2013.07.007",
+    "authors": [
+     "Wölfling K",
+     "Müller KW",
+     "Dreier M",
+     "Ruckes C",
+     "Deuster O",
+     "Batra A"
+    ],
+    "abstract": "Internet and computer game addiction represent a growing mental health concern, acknowledged by the World Health Organization. To determine whether manualized cognitive behavioral therapy (CBT), using short-term treatment for internet and computer game addiction (STICA), is efficient in individuals experiencing internet and computer game addiction. A multicenter randomized clinical trial was conducted in 4 outpatient clinics in Germany and Austria from January 24, 2012, to June 14, 2017, including follow-ups. Blinded measurements were conducted. A consecutive sample of 143 men was randomized to the treatment group (STICA; n = 72) or wait-list control (WLC) group (n = 71). Main inclusion criteria were male sex and internet addiction as the primary diagnosis. The STICA group had an additional 6-month follow-up (n = 36). Data were analyzed from November 2018 to March 2019. The manualized CBT program aimed to recover functional internet use. The program consisted of 15 weekly group and up to 8 two-week individual sessions. The predefined primary outcome was the Assessment of Internet and Computer Game Addiction Self-report (AICA-S). Secondary outcomes were self-reported internet addiction symptoms, time spent online on weekdays, psychosocial functioning, and depression. A total of 143 men (mean [SD] age, 26.2 [7.8] years) were analyzed based on intent-to-treat analyses. Of these participants, 50 of 72 men (69.4%) in the STICA group showed remission vs 17 of 71 men (23.9%) in the WLC group. In logistic regression analysis, remission in the STICA vs WLC group was higher (odds ratio, 10.10; 95% CI, 3.69-27.65), taking into account internet addiction baseline severity, comorbidity, treatment center, and age. Compared with the WLC groups, effect sizes at treatment termination of STICA were d = 1.19 for AICA-S, d = 0.88 for time spent online on weekdays, d = 0.64 for psychosocial functioning, and d = 0.67 for depression. Fourteen adverse events and 8 serious adverse events occurred. A causal relationship with treatment was considered likely in 2 AEs, one in each group. Short-term treatment for internet and computer game addiction is a promising, manualized, short-term CBT for a broad range of internet addictions in multiple treatment centers. Further trials investigating the long-term efficacy of STICA and addressing specific groups and subgroups compared with active control conditions are required. ClinicalTrials.gov identifier: NCT01434589."
+   }
+  ]
+ },
+ {
+  "label": "Zadra 2016",
+  "query": "Zadra S[au] AND internet addiction AND personality disorders",
+  "pmids": [
+   "28005417"
+  ],
+  "hits": [
+   {
+    "pmid": "28005417",
+    "title": "The association between Internet addiction and personality disorders in a general population-based sample.",
+    "journal": "Journal of behavioral addictions",
+    "year": "2016",
+    "volume": "5",
+    "issue": "4",
+    "pages": "691-699",
+    "doi": "10.1089/cpb.1998.1.237",
+    "authors": [
+     "Zadra S",
+     "Bischof G",
+     "Besser B",
+     "Bischof A",
+     "Meyer C",
+     "John U"
+    ],
+    "abstract": "Background and aims Data on Internet addiction (IA) and its association with personality disorder are rare. Previous studies are largely restricted to clinical samples and insufficient measurement of IA. Methods Cross-sectional analysis data are based on a German sub-sample (n = 168; 86 males; 71 meeting criteria for IA) with increased levels of excessive Internet use derived from a general population sample (n = 15,023). IA was assessed with a comprehensive standardized interview using the structure of the Composite International Diagnostic Interview and the criteria of Internet Gaming Disorder as suggested in DSM-5. Impulsivity, attention deficit hyperactivity disorder, and self-esteem were assessed with the widely used questionnaires. Results Participants with IA showed higher frequencies of personality disorders (29.6%) compared to those without IA (9.3%; p < .001). In males with IA, Cluster C personality disorders were more prevalent than among non-addicted males. Compared to participants who had IA only, lower rates of remission of IA were found among participants with IA and additional cluster B personality disorder. Personality disorders were significantly associated with IA in multivariate analysis. Comorbidity of IA and personality disorders must be considered in prevention and treatment."
+   }
+  ]
+ },
+ {
+  "label": "Premper Schulz 2008",
+  "query": "Premper V[au] AND gambling",
+  "pmids": [
+   "25583586"
+  ],
+  "hits": [
+   {
+    "pmid": "25583586",
+    "title": "The \"Pathological Gambling and Epidemiology\" (PAGE) study program: design and fieldwork.",
+    "journal": "International journal of methods in psychiatric research",
+    "year": "2015",
+    "volume": "24",
+    "issue": "1",
+    "pages": "11-31",
+    "doi": "10.1176/appi.ajp.163.2.297",
+    "authors": [
+     "Meyer C",
+     "Bischof A",
+     "Westram A",
+     "Jeske C",
+     "de Brito S",
+     "Glorius S"
+    ],
+    "abstract": "The German federal states initiated the \"Pathological Gambling and Epidemiology\" (PAGE) program to evaluate the public health relevance of pathological gambling. The aim of PAGE was to estimate the prevalence of pathological gambling and cover the heterogenic presentation in the population with respect to comorbid substance use and mental disorders, risk and protective factors, course aspects, treatment utilization, triggering and maintenance factors of remission, and biological markers. This paper describes the methodological details of the study and reports basic prevalence data. Two sampling frames (landline and mobile telephone numbers) were used to generate a random sample from the general population consisting of 15,023 individuals (ages 14 to 64) completing a telephone interview. Additionally, high-risk populations have been approached in gambling locations, via media announcements, outpatient addiction services, debt counselors, probation assistants, self-help groups and specialized inpatient treatment facilities. The assessment included two steps: (1) a diagnostic interview comprising the gambling section of the Composite International Diagnostic Interview (CIDI) for case finding; (2) an in-depth clinical interview with participants reporting gambling problems. The in-depth clinical interview was completed by 594 participants, who were recruited from the general or high-risk populations. The program provides a rich epidemiological database which is available as a scientific use file."
+   }
+  ]
+ },
+ {
+  "label": "Bischof 2013 PAGE",
+  "query": "Bischof A[au] AND 2013[dp] AND gambling AND \"Psychiatry research\"[ta]",
+  "pmids": [
+   "23962739"
+  ],
+  "hits": [
+   {
+    "pmid": "23962739",
+    "title": "Comorbid Axis I-disorders among subjects with pathological, problem, or at-risk gambling recruited from the general population in Germany: results of the PAGE study.",
+    "journal": "Psychiatry research",
+    "year": "2013",
+    "volume": "210",
+    "issue": "3",
+    "pages": "1065-70",
+    "doi": "10.1016/j.psychres.2013.07.026",
+    "authors": [
+     "Bischof A",
+     "Meyer C",
+     "Bischof G",
+     "Kastirke N",
+     "John U",
+     "Rumpf HJ"
+    ],
+    "abstract": "The aim of the present study was to analyze comorbid Axis I-disorders in a sample of individuals with at-risk, problem, and pathological gambling. A number of 164 adult gamblers derived from a random sample of 15,023 individuals were compared with a general population sample. The lifetime prevalence of any psychiatric disorder was 93.6% among pathological (five-10 criteria), 83.5% among problem (three or four criteria), and 81.0% among at-risk gamblers (one or two criteria). Substance use disorders were the most common comorbid disorders in gamblers. Logistic regression analyses revealed elevated odds ratios for having a comorbid disorder in at-risk (Conditional Odds Ratio (COR) 3.5, Confidence Interval (CI) 2.6-4.6), problem (COR 4.9, CI 3.3-7.3), and pathological gamblers (COR 4.6, CI 3.0-6.9) compared to the general population. No significant differences were found between at-risk and problem gamblers or problem and pathological gamblers. Compared to at-risk gamblers, pathological gamblers showed elevated rates of comorbid substance use disorders. The data suggest a linear association between gambling disorder severity and comorbid Axis I-disorders. In conclusion, comorbid disorders are very prevalent in individuals with gambling problems. Even at-risk gamblers with one or two DSM-IV criteria show high rates of Axis I-disorders. Therefore, this group should be included in further studies on problematic gambling."
+   }
+  ]
+ },
+ {
+  "label": "Galeazzi 2025",
+  "query": "Galeazzi GM[au] AND gambling AND meta-analysis",
+  "pmids": [
+   "41126668"
+  ],
+  "hits": [
+   {
+    "pmid": "41126668",
+    "title": "Psychiatric morbidity and gambling disorder: A systematic review and meta-analysis of population-based surveys.",
+    "journal": "European psychiatry : the journal of the Association of European Psychiatrists",
+    "year": "2025",
+    "volume": "68",
+    "issue": "1",
+    "pages": "e161",
+    "doi": "10.1080/14459795.2017.1355405",
+    "authors": [
+     "Galeazzi GM",
+     "Marchi M",
+     "Castagnini AC"
+    ],
+    "abstract": "The aim of this study is to determine the prevalence and type of mental disorders associated with pathological gambling/gambling disorder (GD) in the general population. Systematic review and meta-analysis of adult population-based studies reporting on psychiatric comorbidity of GD according to International Classification of Diseases (ICD-10/ICD-11), Diagnostic and Statistical Manual of Mental Disorders (DSM-IV/DSM-5) criteria, or widely used assessment instruments. PubMed, Scopus, and Web of Science databases were searched for relevant studies in English. The study's protocol was preregistered in PROSPERO (CRD42024574210). Of 454 articles published between 1993 and 2024, 12 met the inclusion criteria. Most studies used DSM-IV or DSM-5 criteria (only two ICD-10 criteria), and were evenly distributed across Europe, North America, and Southeast Asia. The weighted average prevalence of any mental disorder in individuals with GD was 82.2%. High comorbidity rates were found for substance use disorders (SUDs) (34.2%), mood disorders (30.9%), and anxiety disorders (29.9%), followed by personality (14.3%) and psychotic (5.9%) disorders. Meta-analysis indicates that individuals with GD are 10.7 (95% confidence interval [CI]: 5.7;20.1) times more likely to develop any mental disorder than the general population. The odds ratio for mental disorders associated with GD were 5-12 times higher for nicotine dependence, drug use disorder, alcohol use disorder, and SUD, and 3-4 times higher for anxiety and mood disorders. These findings add weight to the view that GD is associated with a significantly increased risk for addictive behaviors, mood, and anxiety disorders."
+   }
+  ]
+ },
+ {
+  "label": "Harpas 2025",
+  "query": "Harpas I[au] AND gaming disorder",
+  "pmids": [
+   "41365015",
+   "41187384"
+  ],
+  "hits": [
+   {
+    "pmid": "41365015",
+    "title": "Reporting quality standards in gaming disorder treatment evidence: A systematic review.",
+    "journal": "Acta psychologica",
+    "year": "2026",
+    "volume": "262",
+    "issue": null,
+    "pages": "106063",
+    "doi": "10.1016/j.actpsy.2025.106063",
+    "authors": [
+     "Svendsen O",
+     "Stevens MWR",
+     "Hamamura T",
+     "Harpas I",
+     "Radunz M",
+     "King DL"
+    ],
+    "abstract": "The treatment evidence base for gaming disorder (GD) has grown steadily over the past two decades. A systematic review by King et al. (2017) of 30 studies reported that GD treatment studies tended to favor psychotherapy approaches, but the research was limited by poor reporting standards as assessed by the Consolidated Standards of Reporting Trials (CONSORT) framework. This systematic review aimed to conduct a follow up evaluation of the reporting quality of subsequent GD treatment studies. A literature search of six databases yielded 51,056 records, which resulted in 31 eligible studies after screening. Each study's reporting quality was assessed using the CONSORT statement, and then these assessments were compared to King et al.'s (2017) review. This review identified several methodological improvements since 2017: 61 % of studies were randomized controlled trials (vs. 40 % in 2017), 90 % included control groups (vs. 63 %), and follow-up duration increased to 6.1 months (vs. 3.5 months; p = .032). Reporting improved for participant flow (87.1 % vs. 43.3 %; p = .001) and group-level statistics (74.2 % vs. 36.7 %; p = .003), but some areas showed no improvement. There have been several improvements in GD treatment study design and reporting, including controls, randomization and follow up, reflecting an increasing number of higher quality trials for the condition. Most of the studies with higher reporting quality (i.e., scoring ≥30/46 on the CONSORT framework) were psychotherapy-based. Future research should employ designs with longer follow-ups, broader assessment of outcomes, and standardized ICD-11-aligned tools. Pharmacological treatments, including novel pharmacotherapies for other addictions (e.g., Naltrexone), are underexplored and lack high quality evidence."
+   },
+   {
+    "pmid": "41187384",
+    "title": "Treatment of gaming disorder: A systematic review and meta-analysis.",
+    "journal": "Psychiatry research",
+    "year": "2025",
+    "volume": "354",
+    "issue": null,
+    "pages": "116783",
+    "doi": "10.1016/j.psychres.2025.116783",
+    "authors": [
+     "Harpas I",
+     "Stevens M",
+     "Radunz M",
+     "Williamson P",
+     "Hamamura T",
+     "Svendsen O"
+    ],
+    "abstract": "Treatment for gaming disorder (GD) can be challenging due to comorbidities. This systematic review and meta-analysis assessed the efficacy of interventions for GD, including cognitive behavioral therapy (CBT), pharmacological, and other approaches (e.g., family therapy, mindfulness-based therapy), and extends past reviews by evaluating GD-specific trials and the role of comorbidity. A pre-registered systematic review identified controlled trials of GD interventions published between 2007 and 2025. Eligible studies (n = 21) used validated GD assessments, included control groups, and reported effect sizes at post-intervention and/or follow-up. The primary outcome was GD symptoms; secondary outcomes included gaming time, depression, and anxiety. Random-effects meta-analyses calculated pooled effect sizes (Hedges' g), with mixed-effects subgroup analyses by comorbidity, intervention type, age, gender, and region. Across 1360 participants, interventions significantly reduced GD symptoms (g = 1.38, p<.001) and gaming time (g = 0.90, p=.002), with moderate reductions in depression (g = 0.65, p=.001) and anxiety (g = 0.66, p=.001) at post-intervention. Effects were sustained at 90-day follow-up for GD symptoms (g = 1.15, p<.001) and gaming time (g = 0.79, p=.025). CBT and other interventions demonstrated comparable efficacy. Comorbidity did not moderate outcomes. Adolescents displayed larger treatment effects than adults. Heterogeneity between studies was generally high (i.e., I2>50 %). The GD treatment literature has methodological limitations including inconsistent diagnostic approaches, relatively short follow-ups, and high between-studies heterogeneity. Current evidence suggests treatment can effectively reduce symptoms and gaming time, with sustained benefits at follow-up, regardless of comorbidity. High heterogeneity suggests larger, longer-term trials are needed. Pharmacological interventions require further study, alone or combined with psychological therapies."
+   }
+  ]
+ },
+ {
+  "label": "Ostinelli 2021",
+  "query": "Ostinelli EG[au] AND internet gaming disorder AND depress*",
+  "pmids": [
+   "33592432"
+  ],
+  "hits": [
+   {
+    "pmid": "33592432",
+    "title": "Depressive symptoms and depression in individuals with internet gaming disorder: A systematic review and meta-analysis.",
+    "journal": "Journal of affective disorders",
+    "year": "2021",
+    "volume": "284",
+    "issue": null,
+    "pages": "136-142",
+    "doi": "10.1016/j.jad.2021.02.014",
+    "authors": [
+     "Ostinelli EG",
+     "Zangani C",
+     "Giordano B",
+     "Maestri D",
+     "Gambini O",
+     "D'Agostino A"
+    ],
+    "abstract": "Although depression has frequently been associated with Internet Gaming Disorder (IGD), its epidemiological impact on this emerging condition has not been systematically assessed. In this study, we aimed to synthesize the available evidence focusing on depression and depressive symptoms in individuals with IGD. We searched PubMed, Embase, PsycINFO, GreyLit, OpenGrey, and ProQuest up to March 2020 for observational studies focusing on depression-related outcomes in IGD. We conducted random-effects meta-analyses on 1) rate of comorbid depression in IGD; 2) severity of depressive symptoms in IGD participants without depression. We identified 92 studies from 25 different countries including 15,148 participants. 21 studies (n = 5025 participants) provided data for the first analysis, resulting in a pooled event rate of depression of 0.32 (95% Confidence Interval 0.21-0.43). The pooled Beck Depression Inventory scores in individuals without depression were suggestive of mild severity (13 studies, n = 508; 10.3, 95% Confidence Interval 8.3-12.4). The considerable inconsistency of methods employed across studies limits the transferability of these findings to clinical practice. The prevalence of depression in individuals with IGD varied considerably across studies, affecting approximately one out of three participants overall. Furthermore, a globally major severity of depressive symptoms was found in those without a clinical diagnosis of depression, compared to the general population. These findings confirm a relevant impact of mood disturbances in IGD. PROSPERO (CRD42018100823)."
+   }
+  ]
+ },
+ {
+  "label": "Jones 2015 bipolar gambling",
+  "query": "Jones L[au] AND 2015[dp] AND gambling AND bipolar AND \"British journal of psychiatry\"[ta]",
+  "pmids": [],
+  "hits": []
+ },
+ {
+  "label": "Afifi 2016",
+  "query": "Afifi TO[au] AND 2016[dp] AND gambling AND longitudinal",
+  "pmids": [
+   "27253701",
+   "27074945"
+  ],
+  "hits": [
+   {
+    "pmid": "27253701",
+    "title": "A Longitudinal Study of the Temporal Relation Between Problem Gambling and Mental and Substance Use Disorders Among Young Adults.",
+    "journal": "Canadian journal of psychiatry. Revue canadienne de psychiatrie",
+    "year": "2016",
+    "volume": "61",
+    "issue": "2",
+    "pages": "102-11",
+    "doi": "10.1177/0706743715625950",
+    "authors": [
+     "Afifi TO",
+     "Nicholson R",
+     "Martins SS",
+     "Sareen J"
+    ],
+    "abstract": "Relatively little is known about the temporal relation between at-risk gambling or problem gambling (PG) and mental and substance use disorders (SUDs) in young adulthood. Our study aimed to examine whether past-year, at-risk, or PG is associated with incident mental disorders and SUDs (that is, depression, generalized anxiety disorder, obsessive-compulsive disorder [OCD], or alcohol dependence) and illegal drug use, and whether past-year mental disorders and SUDs and illegal drug use is associated with incident at-risk or PG. Data for this longitudinal study were drawn from the Manitoba Longitudinal Study of Young Adults (MLSYA). Respondents aged 18 to 20 years in 2007 were followed prospectively for 5 years. In cross-sectional analyses, at-risk or PG was associated with increased odds of depression, OCD, alcohol dependence, and illegal drug use. In longitudinal analysis at-risk or PG at cycle 1 was associated with incident major depressive disorder, alcohol dependence, and illegal drug use in the follow-up period. Only illegal drug use at cycle 1 was associated with incident at-risk or PG during follow-up. At-risk or PG was associated with more new onset mental disorders and SUDs (depression, alcohol dependence, and illegal drug use), compared with the reverse (illegal drug use was the only association with new onset at-risk or PG). Preventing at-risk or PG from developing early in adulthood may correspond with decreases in new onset mental disorders and SUDs later in adulthood. Nous en savons relativement peu sur la relation temporelle entre le jeu à risque ou le jeu pathologique et les troubles mentaux et d’utilisation de substances chez les jeunes adultes. La présente étude visait à examiner (1) si l’année précédente, le jeu à risque ou pathologique était associé aux troubles mentaux et d’utilisation de substances incidents (c.-à-d., dépression, trouble d’anxiété généralisée (TAG), trouble obsessionnel-compulsif (TOC), dépendance à l’alcool) et à l’utilisation de drogues illicites et (2) si l’année précédente, les troubles mentaux et d’utilisation de substances et l’utilisation de drogues illicites étaient associés au jeu à risque ou pathologique incident. Les données de cette étude longitudinale ont été tirées de l’Étude longitudinale chez les jeunes adultes au Manitoba (MLSYA). Les répondants qui avaient entre 18 et 20 ans en 2007 ont été suivis prospectivement pendant 5 ans. Dans les analyses transversales, le jeu à risque ou pathologique était associé à des probabilités accrues de dépression, de TOC, de dépendance à l’alcool, et d’utilisation de drogues illicites. Le jeu à risque ou pathologique au Cycle 1 était associé à la dépression majeure, à la dépendance à l’alcool, et à l’utilisation de drogues illicites incidentes dans la période de suivi. Seule l’utilisation de drogues illicites au Cycle 1 était associée au jeu à risque ou pathologique incident durant le suivi. Le jeu à risque ou pathologique était associé avec plus de troubles mentaux et d’utilisation de substances nouvellement apparus (dépression, dépendance à l’alcool, et utilisation de drogues illicites) comparativement à l’inverse (l’utilisation de drogues illicites était la seule association avec le jeu à risque ou pathologique nouvellement apparu). Prévenir le développement du jeu à risque ou pathologique chez les jeunes adultes peut correspondre aux diminutions de l’apparition de troubles mentaux et de problèmes d’utilisation de substances plus tard à l’âge adulte."
+   },
+   {
+    "pmid": "27074945",
+    "title": "The Temporal Relationship Between Faulty Gambling Cognitions and Gambling Severity in Young Adults.",
+    "journal": "Journal of gambling studies",
+    "year": "2016",
+    "volume": "32",
+    "issue": "4",
+    "pages": "1215-1229",
+    "doi": "10.1007/s10899-005-5556-4",
+    "authors": [
+     "Nicholson R",
+     "Graves C",
+     "Ellery M",
+     "Afifi TO"
+    ],
+    "abstract": "Disordered gambling in young adults is hypothesized as being related to mistaken gambling-related cognitions. Few studies have examined the temporal order of this relationship using longitudinal data. The purpose of this study is to understand the directionality of the relationship between gambling cognitions and gambling severity in a longitudinal sample of young adults. Young adults (N = 578), initially aged 18-21 years, completed the Manitoba Longitudinal Survey of Young Adults at two time points approximately 2-3 years apart. Measures of beliefs about randomness related to gambling and gambling severity, as measured by the Problem Gambling Severity Index, were utilized. A cross-sectional relationship between gambling severity and gambling-related cognitions was observed with greater gambling severity being associated with increased endorsement of mistaken cognitions. Evidence for a bidirectional longitudinal relationship was observed with faulty gambling cognitions leading to later problematic gambling behaviors and vice versa when examining a total beliefs scale. When examining specific beliefs about randomness, initial gambling group membership predicted later endorsement of certain beliefs about randomness while initial belief ratings did not impact later gambling group membership. The results of this study suggest a bidirectional relationship between gambling severity and erroneous gambling-related cognitions. However, when examining specific beliefs about randomness, evidence was found for problem gambling behaviors leading to erroneous gambling beliefs. These findings suggest that prevention efforts targeting cognitions may not be as effective in impacting those not yet demonstrating disordered gambling behaviors."
+   }
+  ]
+ },
+ {
+  "label": "Hartmann Blaszczynski 2018",
+  "query": "Hartmann M[au] AND Blaszczynski A[au] AND longitudinal AND gambling",
+  "pmids": [],
+  "hits": []
+ },
+ {
+  "label": "Pfund 2023",
+  "query": "Pfund RA[au] AND 2023[dp] AND gambling AND cognitive-behavioral AND meta-analysis",
+  "pmids": [
+   "37717456",
+   "37381589",
+   "36821338"
+  ],
+  "hits": [
+   {
+    "pmid": "37717456",
+    "title": "Cognitive-behavioral treatment for gambling harm: Umbrella review and meta-analysis.",
+    "journal": "Clinical psychology review",
+    "year": "2023",
+    "volume": "105",
+    "issue": null,
+    "pages": "102336",
+    "doi": "10.1016/j.addbeh.2014.12.011",
+    "authors": [
+     "Pfund RA",
+     "Ginley MK",
+     "Kim HS",
+     "Boness CL",
+     "Horn TL",
+     "Whelan JP"
+    ],
+    "abstract": "The aim of the current umbrella review and meta-analysis was to evaluate the methodological rigor of existing meta-analyses on cognitive-behavioral treatment (CBT) for gambling harm. The Cochrane Database of Systematic Reviews, PsycINFO, and PubMed were searched for meta-analyses of CBT for gambling harm among individuals aged 18 years and older. The search yielded five meta-analyses that met inclusion criteria, representing 56 unique studies and 5389 participants. The methodological rigor for one meta-analyses was rated high, two were moderate, and two were critically low. Including only moderate- to high-quality meta-analyses, a robust variance estimation meta-analysis indicated that CBT significantly reduced gambling disorder severity (g = -0.91), gambling frequency (g = -0.52), and gambling intensity (g = -0.32) relative to minimal and no treatment control at posttreatment, suggesting 65%-82% of participants receiving CBT will show greater reductions in these outcomes than minimal or no treatment controls. Overall, there is strong evidence for CBT in reducing gambling harm and gambling behavior, and this evidence provides individuals, clinicians, managed care companies, and policymakers with clear recommendations about treatment selection."
+   },
+   {
+    "pmid": "37381589",
+    "title": "Effect of cognitive-behavioral techniques for problem gambling and gambling disorder: A systematic review and meta-analysis.",
+    "journal": "Addiction (Abingdon, England)",
+    "year": "2023",
+    "volume": "118",
+    "issue": "9",
+    "pages": "1661-1674",
+    "doi": "10.1002/14651858.CD008936.pub2",
+    "authors": [
+     "Pfund RA",
+     "Forman DP",
+     "Whalen SK",
+     "Zech JM",
+     "Ginley MK",
+     "Peter SC"
+    ],
+    "abstract": "To measure the effect of cognitive-behavioral techniques (CBTs) on gambling disorder severity and gambling behavior at post-treatment and follow-up. Seven databases and two clinical trial registries were searched to identify peer-reviewed studies and unpublished studies of randomized controlled trials. The Cochrane Risk of Bias tool assessed risk of bias in the included studies. A random effect meta-analysis with robust variance estimation was conducted to measure the effect of CBTs relative to minimally treated or no treatment control groups. Twenty-nine studies representing 3991 participants were identified. CBTs significantly reduced gambling disorder severity (g = -1.14, 95% CI = -1.68, -0.60, 95% prediction interval [PI] = -2.97, 0.69), gambling frequency (g = -0.54, 95% CI = -0.80, -0.27, 95% PI = -1.48, 0.40) and gambling intensity (g = -0.32, 95% CI = -0.51, -0.13, 95% PI = -0.76, 0.12) at post-treatment relative to control. CBTs had no significant effect on follow-up outcomes. Analyses supported the presence of publication bias and high heterogeneity in effect size estimates. Cognitive-behavioral techniques are a promising treatment for reducing gambling disorder and gambling behavior; however, the effect of cognitive-behavioral techniques on gambling disorder severity and gambling frequency and intensity at post-treatment is overestimated, and cognitive-behavioral techniques may not be reliably efficacious for all individuals seeking treatment for problem gambling and gambling disorder."
+   },
+   {
+    "pmid": "36821338",
+    "title": "Effects of cognitive behavioral techniques for gambling on recovery defined by gambling, psychological functioning, and quality of life: A systematic review and meta-analysis.",
+    "journal": "Psychology of addictive behaviors : journal of the Society of Psychologists in Addictive Behaviors",
+    "year": "2023",
+    "volume": "37",
+    "issue": "7",
+    "pages": "936-945",
+    "doi": "10.1007/s10899-014-9457-2",
+    "authors": [
+     "Pfund RA",
+     "King SA",
+     "Forman DP",
+     "Zech JM",
+     "Ginley MK",
+     "Peter SC"
+    ],
+    "abstract": "Individuals who experience gambling harms report that sustained recovery involves changing both gambling behaviors and psychological symptoms, as well as building a meaningful life. However, there is limited understanding about the effect of cognitive behavioral (CB) techniques on psychological symptoms and quality of life. The purpose of the present study was to examine the effect of CB techniques for gambling-related harms on broader recovery outcomes such as psychological symptoms and quality of life. A systematic article search was conducted to identify randomized controlled trials of CB techniques with nonactive and minimal treatment control groups that assessed psychological symptoms or quality of life as outcomes. Random-effects meta-analysis was used to examine the effect of CB techniques relative to nonactive and minimal treatment control groups. A total of nine studies representing 658 participants were included. Eight studies reported outcomes on depression and anxiety, three on substance use, and six on quality of life. CB techniques significantly reduced anxiety (g = -0.44) and depression (g = -0.35) at posttreatment, but not substance use. CB techniques also significantly increased quality of life at posttreatment (g = 0.40). There was a large amount of heterogeneity suggesting the magnitude of effects could vary significantly in future randomized trials. Future studies should examine the longitudinal associations between gambling harms, psychological symptoms, and quality of life and to assess whether changes in gambling harms throughout treatment precede or are a consequence of changes in psychological symptoms and quality of life. (PsycInfo Database Record (c) 2023 APA, all rights reserved)."
+   }
+  ]
+ },
+ {
+  "label": "Yakovenko 2015 MI",
+  "query": "Yakovenko I[au] AND motivational interviewing AND gambling AND meta-analysis",
+  "pmids": [
+   "25577724"
+  ],
+  "hits": [
+   {
+    "pmid": "25577724",
+    "title": "The efficacy of motivational interviewing for disordered gambling: systematic review and meta-analysis.",
+    "journal": "Addictive behaviors",
+    "year": "2015",
+    "volume": "43",
+    "issue": null,
+    "pages": "72-82",
+    "doi": "10.1016/j.addbeh.2014.12.011",
+    "authors": [
+     "Yakovenko I",
+     "Quigley L",
+     "Hemmelgarn BR",
+     "Hodgins DC",
+     "Ronksley P"
+    ],
+    "abstract": "Motivational interviewing is a client-centered therapeutic intervention that aims to resolve ambivalence toward change. We conducted a systematic review and meta-analysis on the efficacy of motivational interviewing, compared to non-motivational interviewing controls, in the treatment of disordered gambling. Electronic databases were searched for randomized controlled trials that evaluated change in gambling behavior using motivational interviewing in adult disordered gamblers. The primary outcomes were the weighted mean difference (WMD) for change in average days gambled per month and average dollars lost per month. The search strategy yielded 447 articles, of which 20 met criteria for full text review. Overall, 8 studies (N=730) fulfilled the inclusion criteria for systematic review and 5 (N=477) were included in the meta-analysis. Motivational interviewing was associated with significant reduction in gambling frequency up to a year after treatment delivery. For gambling expenditure, motivational interviewing yielded significant reductions in dollars spent gambling compared to non-motivational controls at post-treatment only (1-3 months). Overall, the results of this review suggest that motivational interviewing is an efficacious style of therapy for disordered gambling in the short term. Whether treatment effects are maintained over time remains unclear."
+   }
+  ]
+ },
+ {
+  "label": "Ioannidis 2019 impulsivity gambling",
+  "query": "Ioannidis K[au] AND 2019[dp] AND impulsivity AND gambling AND meta-analysis",
+  "pmids": [
+   "30986818"
+  ],
+  "hits": [
+   {
+    "pmid": "30986818",
+    "title": "Impulsivity in Gambling Disorder and problem gambling: a meta-analysis.",
+    "journal": "Neuropsychopharmacology : official publication of the American College of Neuropsychopharmacology",
+    "year": "2019",
+    "volume": "44",
+    "issue": "8",
+    "pages": "1354-1361",
+    "doi": "10.1016/j.neubiorev.2017.11.022",
+    "authors": [
+     "Ioannidis K",
+     "Hook R",
+     "Wickham K",
+     "Grant JE",
+     "Chamberlain SR"
+    ],
+    "abstract": "Gambling Disorder is a prevalent psychiatric condition often linked to dysfunction of cognitive domains regulating impulsive behavior. Despite the centrality of impulsivity to neurobiological models of Gambling Disorder, a comprehensive meta-analysis of all impulsive cognitive domains has yet to be conducted. It is also not clear whether cognitive deficits in Gambling Disorder extend to those with problem (at-risk) gambling. A systematic review was undertaken of case-control studies examining the following cognitive domains in Gambling Disorder or in at-risk (problem) gambling: attentional inhibition, motor inhibition, discounting, decision-making, and reflection impulsivity. Case-control differences in cognition were identified using meta-analysis (random-effects modeling). Moderation analysis explored potential influences of age, gender, presence/absence of comorbidities in cases, geographical region, and study quality on cognitive performance. Gambling Disorder was associated with significant impairments in motor (g = 0.39-0.48) and attentional (g = 0.55) inhibition, discounting (g = 0.66), and decision-making (g = 0.63) tasks. For problem gambling, only decision-making had sufficient data for meta-analysis, yielding significant impairment versus controls (g = 0.66); however, study quality was relatively low. Insufficient data were available for meta-analysis of reflection impulsivity. There was evidence for significant publication bias only for the discounting domain, after an outlier study was excluded. Study quality overall was reasonable (mean score 71.9% of maximum), but most studies (~85%) did not screen for comorbid impulse control and related disorders. This meta-analysis indicates heightened impulsivity across a range of cognitive domains in Gambling Disorder. Decision-making impulsivity may extend to problem (at-risk) gambling, but further studies are needed to confirm such candidate cognitive vulnerability markers."
+   }
+  ]
+ },
+ {
+  "label": "Nower 2022 pathways",
+  "query": "Nower L[au] AND 2022[dp] AND pathways AND gambling",
+  "pmids": [
+   "35995016",
+   "35701383",
+   "34792223"
+  ],
+  "hits": [
+   {
+    "pmid": "35995016",
+    "title": "The intergenerational transmission of gambling and other addictive behaviors: Implications of the mediating effects of cross-addiction frequency and problems.",
+    "journal": "Addictive behaviors",
+    "year": "2022",
+    "volume": "135",
+    "issue": null,
+    "pages": "107460",
+    "doi": "10.1016/j.addbeh.2022.107460",
+    "authors": [
+     "Nower L",
+     "Anthony WL",
+     "Stanmyre JF"
+    ],
+    "abstract": "This study examined the degree to which perceptions of familial and household participation in gambling and other addictive behaviors in youth was associated with frequency and problem severity of gambling, alcohol and/or drug use in participants as adults. The study measured perceived frequency of gambling, alcohol use, drug use and other potentially addictive behaviors in family/household members and the frequency and problem severity of gambling, alcohol, and drugs in an epidemiological sample of adults 18 and older (N = 3,499; m = 48.26 %, f = 51.74 %). About 23.45 % of participants reported their father gambled when they were a child or adolescent, followed by mother (13.56 %), grandfather (9.73 %), or grandmother (7.83 %). A pathway model demonstrated cross-addiction inter- and intra-generational influences. Gambling by a father, mother or brother; substance use by a sister; and/or engagement in other behaviors by a brother, sister, grandmother or other household member was related to higher frequency of participant gambling (ps < 0.05), and, in turn, to higher levels of gambling, alcohol, and drug use problem severity (ps < 0.05). Findings demonstrate the complex contributions of specific family and household members in the transmission of addictive behaviors. Frequency of gambling, alcohol use, and drug use mediated the relationship of perceived family behavior with and across addictions. In addition, perceptions regarding use of alcohol and/or other drugs, or engagement in other behaviors by family or household members was related not only to participants' alcohol and drug use but also to problem gambling frequency and severity."
+   },
+   {
+    "pmid": "35701383",
+    "title": "Response to commentaries on: Clarifying gambling subtypes: the revised pathways model of problem gambling.",
+    "journal": "Addiction (Abingdon, England)",
+    "year": "2022",
+    "volume": "117",
+    "issue": "7",
+    "pages": "2013-2014",
+    "doi": "10.1111/add.15890",
+    "authors": [
+     "Nower L",
+     "Blaszczynski A"
+    ],
+    "abstract": ""
+   },
+   {
+    "pmid": "34792223",
+    "title": "Clarifying gambling subtypes: the revised pathways model of problem gambling.",
+    "journal": "Addiction (Abingdon, England)",
+    "year": "2022",
+    "volume": "117",
+    "issue": "7",
+    "pages": "2000-2008",
+    "doi": "10.1111/add.15745",
+    "authors": [
+     "Nower L",
+     "Blaszczynski A",
+     "Anthony WL"
+    ],
+    "abstract": "The pathways model is a highly cited etiological model of problem gambling. In the past two decades, a number of studies have found support for the model's utility in classifying gambling subtypes. The aims of this paper were to refine empirically the model subtypes and to revise and update the model based on those findings. Observational study using data collected from treatment-seeking problem gamblers using the Problem Gambling Severity Index (PGSI) and the Gambling Pathways Questionnaire (GPQ). Treatment clinics in Canada, Australia and the United States. A convenience sample of 1168 treatment-seeking problem gamblers, aged 18 years or older. Empirically validated risk factors were analyzed using latent class analyses, identifying a three-class solution as the best-fitting model. Those in the largest class (class 1: 44.3%, n = 517) reported the lowest levels of all etiological risk factors. Participants in class 2 (39.5%, n = 461) reported the highest rates of anxiety and depression, both before and after gambling became a problem, as well as childhood maltreatment, and a high level of gambling for stress-coping. Those in class 3 (16.3%, n = 190) reported high levels of impulsivity; risk-taking, including sexual risk-taking; antisocial traits; and coping to provide meaning in life and to alleviate stress. The revised pathways model of problem gambling includes three classes of gamblers similar to the three subtypes in the original pathways model, but class 3 in the revised pathways model is distinct from class 2, showing higher levels of risk-taking and antisocial traits and gambling motivated by a desire for meaning/purpose and/or to alleviate stress. Class 2 in the revised pathways model demonstrates high levels of childhood maltreatment as well as gambling for stress-coping."
+   }
+  ]
+ },
+ {
+  "label": "Murrie 2020 (already cited)",
+  "query": "Murrie B[au] AND 2020[dp] AND substance-induced psychoses",
+  "pmids": [
+   "31618428"
+  ],
+  "hits": [
+   {
+    "pmid": "31618428",
+    "title": "Transition of Substance-Induced, Brief, and Atypical Psychoses to Schizophrenia: A Systematic Review and Meta-analysis.",
+    "journal": "Schizophrenia bulletin",
+    "year": "2020",
+    "volume": "46",
+    "issue": "3",
+    "pages": "505-516",
+    "doi": "10.1093/schbul/sbz102",
+    "authors": [
+     "Murrie B",
+     "Lappin J",
+     "Large M",
+     "Sara G"
+    ],
+    "abstract": "Some people who experience substance-induced psychosis later develop an enduring psychotic disorder such as schizophrenia. This study examines the proportion of people with substance-induced psychoses who transition to schizophrenia, compares this to other brief and atypical psychoses, and examines moderators of this risk. A search of MEDLINE, PsychINFO, and Embase identified 50 eligible studies, providing 79 estimates of transition to schizophrenia among 40 783 people, including 25 studies providing 43 substance-specific estimates in 34 244 people. The pooled proportion of transition from substance-induced psychosis to schizophrenia was 25% (95% CI 18%-35%), compared with 36% (95% CI 30%-43%) for brief, atypical and not otherwise specified psychoses. Type of substance was the primary predictor of transition from drug-induced psychosis to schizophrenia, with highest rates associated with cannabis (6 studies, 34%, CI 25%-46%), hallucinogens (3 studies, 26%, CI 14%-43%) and amphetamines (5 studies, 22%, CI 14%-34%). Lower rates were reported for opioid (12%), alcohol (10%) and sedative (9%) induced psychoses. Transition rates were slightly lower in older cohorts but were not affected by sex, country of the study, hospital or community location, urban or rural setting, diagnostic methods, or duration of follow-up. Substance-induced psychoses associated with cannabis, hallucinogens, and amphetamines have a substantial risk of transition to schizophrenia and should be a focus for assertive psychiatric intervention."
+   }
+  ]
+ }
+]

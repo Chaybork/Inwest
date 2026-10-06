@@ -1,0 +1,219 @@
+{
+ "dimension": "Epidemiologie und Verlauf der Komorbidität bei Glücksspielstörung (psychische Störungen und Substanzkonsumstörungen) – Verhaltenssucht (Glücksspiel-/Computerspielstörung) als Doppeldiagnose",
+ "findings": [
+  {
+   "key": true,
+   "claim": "In einer Metaanalyse von elf bevölkerungsrepräsentativen Surveys wiesen Personen mit problematischem oder pathologischem Glücksspielen mittlere Komorbiditätsraten von 60,1 % für Nikotinabhängigkeit, 57,5 % für Substanzkonsumstörungen, 37,9 % für affektive und 37,4 % für Angststörungen auf, was dafür spricht, dass die Glücksspielstörung bereits in der Allgemeinbevölkerung überwiegend als Doppeldiagnose auftritt (Lorains et al., 2011).",
+   "citation": "Lorains, F. K., Cowlishaw, S., & Thomas, S. A. (2011). Prevalence of comorbid disorders in problem and pathological gambling: Systematic review and meta-analysis of population surveys. Addiction, 106(3), 490–498. https://doi.org/10.1111/j.1360-0443.2010.03300.x",
+   "doi": "10.1111/j.1360-0443.2010.03300.x",
+   "url": "https://research-information.bris.ac.uk/en/publications/prevalence-of-comorbid-disorders-in-problem-and-pathological-gamb/",
+   "source_type": "Metaanalyse",
+   "relevance_section": "5",
+   "confidence": "high",
+   "numbers": "11 Bevölkerungssurveys; gepoolte mittlere Prävalenz bei Problem-/pathologischen Spielern: Nikotinabhängigkeit 60,1 %, irgendeine Substanzkonsumstörung 57,5 %, irgendeine affektive Störung 37,9 %, irgendeine Angststörung 37,4 %; antisoziale PS laut Sekundärtabelle 28,8 % (2 Studien) – nicht am Original geprüft"
+  },
+  {
+   "key": true,
+   "claim": "Bei behandlungssuchenden Glücksspielern fand eine Metaanalyse von 36 Studien eine aktuelle Achse-I-Komorbidität von 74,8 % (Lebenszeit 75,5 %), mit Nikotinabhängigkeit (56,4 %) und Major Depression (29,9 %) als häufigsten Einzeldiagnosen, gefolgt von Alkoholmissbrauch (18,2 %), Alkoholabhängigkeit (15,2 %), sozialer Phobie (14,9 %), generalisierter Angststörung (14,4 %), PTBS (12,3 %), ADHS (9,3 %) und bipolarer Störung (8,8 %) (Dowling et al., 2015a).",
+   "citation": "Dowling, N. A., Cowlishaw, S., Jackson, A. C., Merkouris, S. S., Francis, K. L., & Christensen, D. R. (2015a). Prevalence of psychiatric co-morbidity in treatment-seeking problem gamblers: A systematic review and meta-analysis. Australian & New Zealand Journal of Psychiatry, 49(6), 519–539. https://doi.org/10.1177/0004867415575774",
+   "doi": "10.1177/0004867415575774",
+   "url": "https://acuresearchbank.acu.edu.au/item/8q50w/prevalence-of-psychiatric-co-morbidity-in-treatment-seeking-problem-gamblers-a-systematic-review-and-meta-anaylsis",
+   "source_type": "Metaanalyse",
+   "relevance_section": "5",
+   "confidence": "high",
+   "numbers": "36 Studien, behandlungssuchende Problemspieler; aktuelle Achse-I-Störung 74,8 % (95 %-KI 36,5–93,9), Lebenszeit 75,5 % (95 %-KI 46,5–91,8); aktuell: affektive Störungen 23,1 %, Alkoholkonsumstörungen 21,2 %, Angststörungen 17,6 %, andere Substanzkonsumstörungen 7,0 %; Einzeldiagnosen aktuell: Nikotinabhängigkeit 56,4 %, MDD 29,9 %, Alkoholmissbrauch 18,2 %, Alkoholabhängigkeit 15,2 %, soziale Phobie 14,9 %, GAS 14,4 %, Panikstörung 13,7 %, PTBS 12,3 %, Cannabiskonsumstörung 11,5 %, ADHS 9,3 %, Anpassungsstörung 9,2 %, bipolare Störung 8,8 %, Zwangsstörung 8,2 %"
+  },
+  {
+   "key": true,
+   "claim": "Fast die Hälfte der behandlungssuchenden Glücksspieler (47,9 %) weist nach einer Metaanalyse eine komorbide Persönlichkeitsstörung auf, am häufigsten aus Cluster B (17,6 %), wobei narzisstische (16,6 %), antisoziale (14,0 %), vermeidende (13,4 %), zwanghafte (13,4 %) und Borderline-Persönlichkeitsstörungen (13,1 %) die höchsten Einzelraten erreichen (Dowling et al., 2015b).",
+   "citation": "Dowling, N. A., Cowlishaw, S., Jackson, A. C., Merkouris, S. S., Francis, K. L., & Christensen, D. R. (2015b). The prevalence of comorbid personality disorders in treatment-seeking problem gamblers: A systematic review and meta-analysis. Journal of Personality Disorders, 29(6), 735–754. https://doi.org/10.1521/pedi_2014_28_168",
+   "doi": "10.1521/pedi_2014_28_168",
+   "url": "https://research.monash.edu/en/publications/the-prevalence-of-comorbid-personality-disorders-in-treatment-see/",
+   "source_type": "Metaanalyse",
+   "relevance_section": "4.4",
+   "confidence": "high",
+   "numbers": "behandlungssuchende Problemspieler; irgendeine Persönlichkeitsstörung 47,9 %; Cluster B 17,6 %, Cluster C 12,6 %, Cluster A 6,1 %; narzisstisch 16,6 %, antisozial 14,0 %, vermeidend 13,4 %, zwanghaft 13,4 %, Borderline 13,1 %"
+  },
+  {
+   "key": true,
+   "claim": "Umgekehrt erfüllen in Stichproben aus der Behandlung von Substanzkonsumstörungen nach einer Metaanalyse rund 14 % der Patientinnen und Patienten die Kriterien eines pathologischen und rund 23 % die eines problematischen Glücksspielens, sodass die Glücksspielstörung auch in der substanzbezogenen Suchthilfe eine häufige, aber oft nicht erfasste Zweitdiagnose darstellt (Cowlishaw et al., 2014).",
+   "citation": "Cowlishaw, S., Merkouris, S., Chapman, A., & Radermacher, H. (2014). Pathological and problem gambling in substance use treatment: A systematic review and meta-analysis. Journal of Substance Abuse Treatment, 46(2), 98–105. https://doi.org/10.1016/j.jsat.2013.08.019",
+   "doi": "10.1016/j.jsat.2013.08.019",
+   "url": "https://openresearch-repository.anu.edu.au/items/92d95bcc-7bb7-415e-a31e-94f74c0cd595",
+   "source_type": "Metaanalyse",
+   "relevance_section": "5",
+   "confidence": "high",
+   "numbers": "Stichproben aus Suchtbehandlung (Substanzkonsumstörungen), laut Sekundärquelle 25 Studien; pathologisches Glücksspielen ca. 14 %, problematisches Glücksspielen (breiteres Spektrum) ca. 23 %; Konfidenzintervalle nicht verifiziert; überwiegend Lebenszeit-/Selbstbeurteilungsmaße"
+  },
+  {
+   "key": true,
+   "claim": "In der US-amerikanischen NESARC-Erhebung (2001–2002, n = 43.093) hatten 73,2 % der Personen mit pathologischem Glücksspielen (Lebenszeitprävalenz 0,42 %) eine Alkoholkonsumstörung, 38,1 % eine Drogenkonsumstörung, 60,4 % eine Nikotinabhängigkeit, 49,6 % eine affektive, 41,3 % eine Angst- und 60,8 % eine Persönlichkeitsstörung, wobei die Assoziationen auch nach Kontrolle soziodemografischer und sozioökonomischer Merkmale signifikant blieben (Petry et al., 2005).",
+   "citation": "Petry, N. M., Stinson, F. S., & Grant, B. F. (2005). Comorbidity of DSM-IV pathological gambling and other psychiatric disorders: Results from the National Epidemiologic Survey on Alcohol and Related Conditions. Journal of Clinical Psychiatry, 66(5), 564–574. https://doi.org/10.4088/JCP.v66n0504",
+   "doi": "10.4088/JCP.v66n0504",
+   "url": "https://www.psychiatrist.com/jcp/comorbidity-dsm-iv-pathological-gambling-psychiatric/",
+   "source_type": "Survey",
+   "relevance_section": "5",
+   "confidence": "high",
+   "numbers": "NESARC 2001–2002, USA, n = 43.093 (≥ 18 Jahre); Lebenszeit pathologisches Glücksspielen 0,42 %; Lebenszeitkomorbidität: Alkoholkonsumstörung 73,2 %, Drogenkonsumstörung 38,1 %, Nikotinabhängigkeit 60,4 %, affektive Störung 49,6 %, Angststörung 41,3 %, Persönlichkeitsstörung 60,8 %; Odds Ratios nur im Volltext, nicht verifiziert"
+  },
+  {
+   "key": true,
+   "claim": "Im US-amerikanischen National Comorbidity Survey Replication lag die Lebenszeitprävalenz des pathologischen Glücksspielens bei 0,6 % (problematisches Glücksspielen 2,3 %); bei komorbiden Fällen begannen affektive (65,1 %), Angst- (82,1 %) und Substanzkonsumstörungen (57,4 %) überwiegend vor dem Glücksspielen, während das pathologische Glücksspielen seinerseits das spätere Auftreten von generalisierter Angststörung, PTBS und Substanzabhängigkeit vorhersagte, was für bidirektionale Zusammenhänge spricht (Kessler et al., 2008).",
+   "citation": "Kessler, R. C., Hwang, I., LaBrie, R., Petukhova, M., Sampson, N. A., Winters, K. C., & Shaffer, H. J. (2008). DSM-IV pathological gambling in the National Comorbidity Survey Replication. Psychological Medicine, 38(9), 1351–1360. https://doi.org/10.1017/S0033291708002900",
+   "doi": "10.1017/S0033291708002900",
+   "url": "https://hcp.hms.harvard.edu/publication/dsm-iv-pathological-gambling-national-comorbidity-survey-replication",
+   "source_type": "Survey",
+   "relevance_section": "3.1",
+   "confidence": "medium",
+   "numbers": "NCS-R (USA, repräsentativer Haushaltssurvey); Lebenszeit problematisches Glücksspielen 2,3 %, pathologisches Glücksspielen 0,6 %; 49,0 % der PG-Fälle jemals wegen anderer psychischer Störungen behandelt; früherer Beginn der komorbiden Störung bei komorbiden Fällen: affektiv 65,1 %, Angst 82,1 %, Substanz 57,4 % (Prozentwerte aus Sekundärwiedergabe, nicht am Abstract geprüft); Gesamtkomorbidität ('96 %') nicht verifizierbar"
+  },
+  {
+   "key": true,
+   "claim": "In der deutschen PAGE-Studie erfüllten 93,6 % der aus einer Zufallsstichprobe von 15.023 Personen rekrutierten pathologischen Glücksspieler (5–10 Kriterien) lebenszeitlich die Kriterien mindestens einer weiteren Achse-I-Störung (problematische Spieler 83,5 %, riskante Spieler 81,0 %), wobei Substanzkonsumstörungen am häufigsten waren und das Komorbiditätsrisiko gegenüber der Allgemeinbevölkerung bei pathologischem Glücksspielen um das 4,6-Fache erhöht war (Bischof et al., 2013).",
+   "citation": "Bischof, A., Meyer, C., Bischof, G., Kastirke, N., John, U., & Rumpf, H.-J. (2013). Comorbid Axis I-disorders among subjects with pathological, problem, or at-risk gambling recruited from the general population in Germany: Results of the PAGE study. Psychiatry Research, 210(3), 1065–1070. https://doi.org/10.1016/j.psychres.2013.07.026",
+   "doi": "10.1016/j.psychres.2013.07.026",
+   "url": "https://research.uni-luebeck.de/en/publications/comorbid-axis-i-disorders-among-subjects-with-pathological-proble/",
+   "source_type": "Survey",
+   "relevance_section": "5",
+   "confidence": "high",
+   "numbers": "PAGE (Greifswald/Lübeck), Deutschland; 164 erwachsene Glücksspieler aus Zufallsstichprobe n = 15.023 vs. Allgemeinbevölkerungsstichprobe; Lebenszeit irgendeine Achse-I-Störung: pathologisch (5–10 Kriterien) 93,6 %, problematisch (3–4 Kriterien) 83,5 %, riskant (1–2 Kriterien) 81,0 %; konditionale OR für komorbide Störung: riskant 3,5 (KI 2,6–4,6), problematisch 4,9 (KI 3,3–7,3), pathologisch 4,6 (KI 3,0–6,9)"
+  },
+  {
+   "key": false,
+   "claim": "Bei stationär behandelten pathologischen Glücksspielern in Deutschland fanden Premper und Schulz (2008) lebenszeitlich bei 91,1 % mindestens eine komorbide Achse-I-Störung, darunter affektive Störungen bei 61,4 % und Angststörungen bei 47,5 %, sowie bei 50,5 % mindestens eine Persönlichkeitsstörung; Angststörungen gingen dem Glücksspielen überwiegend voraus, affektive Störungen traten häufig als Folge auf.",
+   "citation": "Premper, V., & Schulz, W. (2008). Komorbidität bei Pathologischem Glücksspiel. Sucht, 54(3), 131–140.",
+   "doi": "",
+   "url": "https://www.researchgate.net/publication/274993918_Komorbiditat_bei_Pathologischem_Glucksspiel",
+   "source_type": "Kohorte/Register",
+   "relevance_section": "5",
+   "confidence": "medium",
+   "numbers": "stationäre pathologische Glücksspieler, Deutschland (n nicht verifiziert); Lebenszeit irgendeine Achse-I-Störung 91,1 %; affektive Störungen 61,4 %; Angststörungen 47,5 %; mindestens eine Persönlichkeitsstörung 50,5 %"
+  },
+  {
+   "key": false,
+   "claim": "Nach dem Glücksspiel-Survey 2023 weisen 2,4 % (95 %-KI 2,1–2,7) der 18- bis 70-jährigen Bevölkerung in Deutschland eine glücksspielbezogene Störung nach DSM-5 auf (leicht 1,0 %, mittel 0,7 %, schwer 0,7 %), weitere 6,1 % erfüllen ein bis drei Kriterien, sodass die Grundgesamtheit möglicher Doppeldiagnosen mit Glücksspielstörung in Deutschland erheblich ist (Buth et al., 2024).",
+   "citation": "Buth, S., Meyer, G., Rosenkranz, M., & Kalke, J. (2024). Glücksspielteilnahme und glücksspielbezogene Probleme in der Bevölkerung – Ergebnisse des Glücksspiel-Survey 2023. Institut für interdisziplinäre Sucht- und Drogenforschung (ISD).",
+   "doi": "",
+   "url": "https://www.isd-hamburg.de/wp-content/uploads/2024/03/Gluecksspielsurvey_2023.pdf",
+   "source_type": "Survey",
+   "relevance_section": "5",
+   "confidence": "medium",
+   "numbers": "Glücksspiel-Survey 2023 (ISD Hamburg/Universität Bremen), Bevölkerung 18–70 Jahre, Deutschland; Glücksspielstörung DSM-5 2,4 % (95 %-KI 2,1–2,7): leicht 1,0 %, mittel 0,7 %, schwer 0,7 %; 1–3 DSM-5-Kriterien 6,1 %; Glücksspielteilnahme 12 Monate 37 %; Komorbiditätsangaben (psychische Belastung, Alkohol) im Bericht erhoben, aber nicht abrufbar"
+  },
+  {
+   "key": false,
+   "claim": "In einer britischen Stichprobe von 635 Personen mit bipolarer Störung lag die Rate moderater bis schwerer Glücksspielprobleme (PGSI) etwa viermal so hoch wie in der Allgemeinbevölkerung – rund jede zehnte Person war betroffen –, und Glücksspielprobleme waren mit Bipolar-II-Störung (OR 1,74), Suizidgedanken oder -versuchen (OR 3,44) und Rapid Cycling (OR 2,63) assoziiert (Jones et al., 2015).",
+   "citation": "Jones, L., Metcalf, A., Gordon-Smith, K., Forty, L., Perry, A., Lloyd, J., Geddes, J. R., Goodwin, G. M., Jones, I., Craddock, N., & Rogers, R. D. (2015). Gambling problems in bipolar disorder in the UK: Prevalence and distribution. British Journal of Psychiatry, 207(4), 328–333. https://doi.org/10.1192/bjp.bp.114.154286",
+   "doi": "10.1192/bjp.bp.114.154286",
+   "url": "https://www.cambridge.org/core/journals/the-british-journal-of-psychiatry/article/gambling-problems-in-bipolar-disorder-in-the-uk-prevalence-anddistribution/FFDC24125902367FCC0EDACB05E025B9",
+   "source_type": "Kohorte/Register",
+   "relevance_section": "4.4",
+   "confidence": "medium",
+   "numbers": "n = 635 (bipolare Störung, UK), Problem Gambling Severity Index; moderate–schwere Glücksspielprobleme ca. 4-fach vs. Allgemeinbevölkerung, 'ca. 1 von 10'; Bipolar-II OR 1,74 (p = 0,036); Suizidgedanken/-versuch OR 3,44 (p = 0,02); Rapid Cycling OR 2,63 (p = 0,008)"
+  },
+  {
+   "key": false,
+   "claim": "In der zweiten australischen nationalen Psychoseerhebung (2010) wurden an zwei Standorten (n = 442) 5,8 % der Personen mit psychotischen Störungen als Problemspieler und 6,4 % als Spieler mit moderatem Risiko klassifiziert, was etwa dem Vierfachen der Allgemeinbevölkerung entspricht und mit Alkoholkonsumstörungen sowie Cannabis- und anderem Drogenkonsum assoziiert war (Haydock et al., 2015).",
+   "citation": "Haydock, M., Cowlishaw, S., Harvey, C., & Castle, D. (2015). Prevalence and correlates of problem gambling in people with psychotic disorders. Comprehensive Psychiatry, 58, 122–129. https://doi.org/10.1016/j.comppsych.2015.01.003",
+   "doi": "10.1016/j.comppsych.2015.01.003",
+   "url": "https://researchportalplus.anu.edu.au/en/publications/prevalence-and-correlates-of-problem-gambling-in-people-with-psyc/",
+   "source_type": "Survey",
+   "relevance_section": "4.1",
+   "confidence": "medium",
+   "numbers": "Second Australian National Survey of Psychosis 2010, Personen 18–64 Jahre in psychiatrischer Versorgung, zwei Standorte, n = 442, Canadian Problem Gambling Index; geringes Risiko 4,1 %, moderates Risiko 6,4 %, Problemspielen 5,8 %; ca. 4-fach gegenüber Allgemeinbevölkerung"
+  },
+  {
+   "key": false,
+   "claim": "Eine Metaanalyse von 22 Studien mit 19.131 Teilnehmenden schätzt die gepoolte Prävalenz von Störungen des Schizophreniespektrums und anderen psychotischen Störungen bei Personen mit problematischem Glücksspielen auf 4,9 % (95 %-KI 3,6–6,5; I² = 88 %), wobei die Raten in behandlungssuchenden und registerbasierten Stichproben höher lagen als in Bevölkerungserhebungen (Corbeil et al., 2024).",
+   "citation": "Corbeil, O., Béchard, L., Anderson, É., Huot-Lavoie, M., Desmeules, C., Bachand, L., Brodeur, S., Carmichael, P.-H., Jacques, C., Solmi, M., Dorval, M., Giroux, I., Roy, M.-A., & Demers, M.-F. (2024). Prevalence of schizophrenia spectrum and other psychotic disorders in problem gambling: A systematic review and meta-analysis. European Psychiatry. https://doi.org/10.1192/j.eurpsy.2024.1777",
+   "doi": "10.1192/j.eurpsy.2024.1777",
+   "url": "https://doaj.org/article/9b9f1af12bb14361ad3466997e7eedd9",
+   "source_type": "Metaanalyse",
+   "relevance_section": "4.1",
+   "confidence": "medium",
+   "numbers": "22 Studien, n = 19.131; gepoolte Prävalenz psychotischer Störungen bei Problemspielern 4,9 % (95 %-KI 3,6–6,5), I² = 88 %; niedriger in Bevölkerungs-/Rekrutierungsstichproben als in Behandlungs- und Registerstichproben; Band/Artikelnummer nicht verifiziert"
+  },
+  {
+   "key": false,
+   "claim": "In einer schwedischen landesweiten Registerstudie war die Suizidmortalität bei Personen mit klinisch diagnostizierter Glücksspielstörung (ICD-10 'pathologisches Spielen') gegenüber der Allgemeinbevölkerung um das 15,1-Fache erhöht, was Suizidalität als zentrale Verlaufsgröße der Doppeldiagnose mit Glücksspielstörung unterstreicht (Karlsson & Håkansson, 2018).",
+   "citation": "Karlsson, A., & Håkansson, A. (2018). Gambling disorder, increased mortality, suicidality, and associated comorbidity: A longitudinal nationwide register study. Journal of Behavioral Addictions, 7(4), 1091–1099. https://doi.org/10.1556/2006.7.2018.112",
+   "doi": "10.1556/2006.7.2018.112",
+   "url": "https://real.mtak.hu/91522/",
+   "source_type": "Kohorte/Register",
+   "relevance_section": "5",
+   "confidence": "medium",
+   "numbers": "Schweden, nationales Patientenregister, Personen mit ICD-10-Diagnose pathologisches Spielen, Längsschnitt; standardisierte Suizidmortalität 15,1-fach gegenüber Allgemeinbevölkerung; Gesamtmortalität (SMR ca. 1,8) nur aus Erinnerung, nicht verifiziert; Corrigendum 2023 (Zahlen gegen korrigierte Fassung prüfen)"
+  },
+  {
+   "key": false,
+   "claim": "In der englischen Adult Psychiatric Morbidity Survey 2007 (n = 7.403) berichteten 19,2 % der Problemspieler Suizidalität im vergangenen Jahr gegenüber 4,4 % der übrigen Bevölkerung (unadjustierte OR 5,3); nach Adjustierung für Depression, Angststörungen, Substanzabhängigkeit und ADHS blieb die Assoziation bestehen (OR 2,9; 95 %-KI 1,1–8,1), was dafür spricht, dass Glücksspielprobleme über die komorbiden Störungen hinaus mit Suizidalität verbunden sind (Wardle et al., 2020).",
+   "citation": "Wardle, H., John, A., Dymond, S., & McManus, S. (2020). Problem gambling and suicidality in England: Secondary analysis of a representative cross-sectional survey. Public Health, 184, 11–16. https://doi.org/10.1016/j.puhe.2020.03.024",
+   "doi": "10.1016/j.puhe.2020.03.024",
+   "url": "https://openaccess.city.ac.uk/id/eprint/24181/",
+   "source_type": "Survey",
+   "relevance_section": "5",
+   "confidence": "high",
+   "numbers": "Adult Psychiatric Morbidity Survey 2007, England, Haushaltsstichprobe n = 7.403; Suizidalität 12 Monate: Problemspieler 19,2 % vs. 4,4 % übrige Bevölkerung; OR unadjustiert 5,3; adjustiert OR 2,9 (95 %-KI 1,1–8,1; p = 0,023)"
+  },
+  {
+   "key": false,
+   "claim": "Ein Scoping-Review von 35 Längsschnittpublikationen (2000–2015) kommt zu dem Schluss, dass psychische Störungen sowohl Vorläufer als auch Folge problematischen Glücksspielens sein können und dass gemeinsame Faktoren wie Impulsivität beide zeitlichen Abfolgen antreiben, was eine einfache Selbstmedikations- oder Folgestörungshypothese für die Glücksspielstörung nicht stützt (Hartmann & Blaszczynski, 2018).",
+   "citation": "Hartmann, M., & Blaszczynski, A. (2018). The longitudinal relationships between psychiatric disorders and gambling disorders. International Journal of Mental Health and Addiction, 16(1), 16–44. https://doi.org/10.1007/s11469-016-9705-z",
+   "doi": "10.1007/s11469-016-9705-z",
+   "url": "https://www.springermedicine.com/the-longitudinal-relationships-between-psychiatric-disorders-and/21785222",
+   "source_type": "systematisches Review",
+   "relevance_section": "3.1",
+   "confidence": "medium",
+   "numbers": "35 Publikationen (empirische Längsschnittstudien, Peer-Review und graue Literatur, Januar 2000–März 2015); Populationen: spezifische Gruppen, Kinder/Jugendliche/junge Erwachsene, Erwachsene; Störungsbereiche: affektive und Angststörungen, Suizidalität, Substanzkonsum"
+  },
+  {
+   "key": false,
+   "claim": "In der Manitoba Longitudinal Study of Young Adults (Beginn 2007, 18–20 Jahre, fünf Jahre Follow-up) sagte riskantes oder problematisches Glücksspielen zu Beginn das Neuauftreten von Major Depression, Alkoholabhängigkeit und illegalem Drogenkonsum vorher, während umgekehrt nur illegaler Drogenkonsum das spätere Auftreten von Glücksspielproblemen vorhersagte, was dafür spricht, dass Glücksspielprobleme bei jungen Erwachsenen der komorbiden Störung häufiger vorausgehen als folgen (Afifi et al., 2016).",
+   "citation": "Afifi, T. O., Nicholson, R., Martins, S. S., & Sareen, J. (2016). A longitudinal study of the temporal relation between problem gambling and mental and substance use disorders among young adults. Canadian Journal of Psychiatry, 61(2), 102–111. https://doi.org/10.1177/0706743715625950",
+   "doi": "10.1177/0706743715625950",
+   "url": "https://journals.sagepub.com/doi/10.1177/0706743715625950",
+   "source_type": "Kohorte/Register",
+   "relevance_section": "3.1",
+   "confidence": "medium",
+   "numbers": "MLSYA, Kanada, Baseline 2007, Alter 18–20 Jahre, 5 Jahre prospektiv; Baseline riskantes/problematisches Glücksspielen → inzidente Major Depression, Alkoholabhängigkeit, illegaler Drogenkonsum; nur illegaler Drogenkonsum zu Baseline → inzidentes riskantes/problematisches Glücksspielen; Effektmaße nicht verifiziert"
+  },
+  {
+   "key": false,
+   "claim": "Frauen mit pathologischem Glücksspielen begannen später mit dem Glücksspielen als Männer (31,3 vs. 22,4 Jahre), entwickelten aber signifikant schneller die Vollsymptomatik (8,33 vs. 11,97 Jahre), wobei dieses 'Telescoping' nicht durch Angststörungen oder andere psychiatrische Komorbidität erklärt wurde und daher geschlechtsspezifische Verlaufsunterschiede unabhängig von der Doppeldiagnose nahelegt (Grant et al., 2012).",
+   "citation": "Grant, J. E., Odlaug, B. L., & Mooney, M. E. (2012). Telescoping phenomenon in pathological gambling: Association with gender and comorbidities. Journal of Nervous and Mental Disease, 200(11), 996–998. https://doi.org/10.1097/NMD.0b013e3182718a4d",
+   "doi": "10.1097/NMD.0b013e3182718a4d",
+   "url": "https://www.chemsrc.com/en/amp/Paper/808678.html",
+   "source_type": "Kohorte/Register",
+   "relevance_section": "4.4",
+   "confidence": "high",
+   "numbers": "klinische Stichprobe pathologischer Glücksspieler (USA); mittleres Alter bei Spielbeginn Frauen 31,3 vs. Männer 22,4 Jahre; Zeit vom Spielbeginn bis Erfüllung der PG-Kriterien 8,33 vs. 11,97 Jahre; Telescoping unabhängig von Angststörungen und anderer Komorbidität"
+  },
+  {
+   "key": false,
+   "claim": "Für die Computerspielstörung zeigt eine Metaanalyse (92 Studien aus 25 Ländern, n = 15.148; 21 Studien mit n = 5.025 in der Prävalenzschätzung) eine gepoolte Depressionsrate von 32 % (95 %-KI 21–43 %), sodass etwa jede dritte Person mit Internet Gaming Disorder eine komorbide Depression aufweist und die Doppeldiagnose-Perspektive auch für diese Verhaltenssucht relevant ist (Ostinelli et al., 2021).",
+   "citation": "Ostinelli, E. G., Zangani, C., Giordano, B., Maestri, D., Gambini, O., D'Agostino, A., Furukawa, T. A., & Purgato, M. (2021). Depressive symptoms and depression in individuals with internet gaming disorder: A systematic review and meta-analysis. Journal of Affective Disorders, 284, 136–142. https://doi.org/10.1016/j.jad.2021.02.014",
+   "doi": "10.1016/j.jad.2021.02.014",
+   "url": "https://www.psych.ox.ac.uk/publications/1237277",
+   "source_type": "Metaanalyse",
+   "relevance_section": "4.4",
+   "confidence": "high",
+   "numbers": "92 Studien, 25 Länder, n = 15.148 (Internet Gaming Disorder); Depressionsprävalenz aus 21 Studien (n = 5.025): gepoolte Event-Rate 0,32 (95 %-KI 0,21–0,43); stärkere depressive Symptomatik auch ohne Depressionsdiagnose gegenüber Allgemeinbevölkerung"
+  }
+ ],
+ "gaps": [
+  "Grubbs, Chapman, Milner, Gutierrez & Bradley 2018 als Metaanalyse im Journal of Anxiety Disorders mit gepoolter PTBS-Prävalenz: nicht auffindbar; die Arbeit mit dieser Autorenliste erschien 2018 in Psychology of Addictive Behaviors (PTBS und Glücksspielmotive), das systematische Review zu Glücksspielstörung und PTBS ist Moore & Grubbs (2021, Addictive Behaviors, 91 Stichproben) – gepoolte Prävalenz oder Effektgröße konnte nicht verifiziert werden.",
+  "Petry et al. 2005: Odds Ratios für Alkohol-, Drogen-, Nikotin-, affektive, Angst- und Persönlichkeitsstörungen nicht abrufbar (nur Prozentanteile verifiziert); Geschlechtsunterschiede in den Assoziationen nicht verifiziert.",
+  "Kessler et al. 2008: die Angabe '96 % mit mindestens einer weiteren Störung' konnte nicht bestätigt werden; die Prozentwerte zur zeitlichen Reihenfolge (65,1/82,1/57,4 %) stammen aus einer Sekundärwiedergabe und sollten am Volltext geprüft werden.",
+  "Glücksspiel-Survey 2021/2023 (Buth, Meyer, Kalke): Komorbiditätsangaben (psychische Belastung, Alkoholkonsum) sind laut Projektbeschreibung erhoben, konnten aber nicht abgerufen werden (Berichts-PDF blockiert).",
+  "PAGE-Endbericht 2011 (Meyer et al.): nur 12-Monats-Prävalenzen (pathologisch 0,35 %, problematisch 0,31 %, 14–64 Jahre, ca. 15.000 Befragte) gefunden; der Anteil mit mindestens einer weiteren Störung wurde über Bischof et al. 2013 belegt, nicht über den Endbericht; Bischof et al. 2015 (Suizidversuche in PAGE, Psychiatry Research) ohne verifizierte Prozentwerte.",
+  "Premper & Schulz 2008: Stichprobengröße, Erhebungsinstrumente und DOI nicht verifizierbar.",
+  "Bipolare Störung: Di Nicola et al. 2014 nur als narratives Review identifiziert (schwererer Verlauf bei Komorbidität), keine metaanalytische Prävalenz; der Wert '9 % bipolare Störung bei Problemspielern' stammt aus einer nicht zuordenbaren Sekundärquelle; Kennedy et al. 2010 (Can J Psychiatry, 55(9), 568–576) mit widersprüchlichen Prävalenzangaben in Snippets (9,4 % bei unipolarer Depression), daher nicht übernommen; Datenlage zum diagnostischen Ausschluss Manie nicht recherchierbar.",
+  "ADHS: Brandt & Fischer 2019 (J Atten Disord, 23(12), DOI 10.1177/1087054717690232) ist keine Metaanalyse, sondern eine Studie mit n = 80 (43 % Kindheits-ADHS, 11 % persistierend); eine Metaanalyse mit r = .17 (95 %-KI 0,12–0,22) zwischen ADHS-Symptomatik und Glücksspielschwere existiert, Autorenschaft/Zitation (vermutlich Theule et al., J Atten Disord) konnte nicht verifiziert werden.",
+  "Psychose: Yakovenko et al. 2016/2018 nicht lokalisiert; Desai & Potenza 2009 (n = 337, 19 % Problem-/pathologisches Spielen, 10 % pathologisch; J Clin Psychiatry, 70(9)) gefunden, Seitenzahlen in Snippets inkonsistent, deshalb nicht als eigener Befund aufgenommen.",
+  "Suizidalität: Moghaddam et al. 2015 (NESARC, n = 13.578) nur qualitativ (signifikante Assoziation), keine Prozentwerte/OR gefunden; Karlsson & Håkansson 2018 Gesamtmortalität (SMR) und altersspezifische SMR nicht verifiziert, Corrigendum 2023 beachten.",
+  "Richtung/Längsschnitt: Chinneck et al. 2016 (Can J Psychiatry, 61(2), 93–101, DOI 10.1177/0706743715625934: keine wechselseitige Vorhersage von Depression und Glücksspielproblemen über 4 Wellen) und Dussault et al. 2011 (JCPP, 52(2), 130–138: wechselseitige Einflüsse ab 17 Jahren nach Kontrolle der Impulsivität) gefunden, aber aus Platzgründen nicht als eigene Befunde aufgenommen; Potenza et al. 2001 (Helpline-Studie) nur ohne exakte Zahlen.",
+  "ICD-11 'other specified disorders due to addictive behaviours' (6C5Y) und Abgrenzung zur zwanghaften Sexualverhaltensstörung (6C72): keine epidemiologischen Komorbiditätsdaten im Suchbudget recherchiert; Computerspielstörung außer Depression (Ostinelli 2021) nur mit Korrelationsübersicht (González-Bueso et al. 2018, 24 Studien, ohne gepoolte Prävalenzen) belegt.",
+  "Netzwerk: alle WebFetch-Zugriffe (Wiley, Sage, Springer, Cambridge, Elsevier, Thieme, Frontiers, ResearchGate, Universitätsrepositorien, ISD Hamburg, gluecksspielsucht.de, presseportal.de) wurden blockiert; Suchbudget vor der letzten Verifikationsrunde erschöpft. DOIs/Seitenzahlen bei Lorains 2011, Cowlishaw 2014, Bischof 2013, Haydock 2015, Jones 2015, Hartmann & Blaszczynski 2018 sowie Autorenlisten bei Kessler 2008, Jones 2015 und Afifi 2016 stammen aus Erinnerung und sollten vor der Zotero-Übernahme geprüft werden."
+ ],
+ "notes": "Antwort (ca. 500 Wörter). Die Recherche stützt sich auf 47 WebSearch-Abfragen in Englisch und Deutsch; sämtliche WebFetch-Zugriffe auf Verlags- und Repositoriumsseiten wurden durch die Netzwerk-Policy blockiert, und das Suchbudget war vor der letzten Verifikationsrunde erschöpft. Zahlen stammen daher aus Abstract-Wiedergaben in Suchergebnissen; wo nur Sekundärquellen vorlagen, ist dies im Feld numbers vermerkt. Bibliografische Felder, die nicht am Original geprüft werden konnten, sind unter gaps aufgeführt und sollten vor der Zotero-Übernahme gegengeprüft werden.\n\nInhaltlich ergibt sich ein konsistentes Bild: Die Glücksspielstörung ist in Bevölkerungs- wie Behandlungsstichproben die Regel-Doppeldiagnose. Bevölkerungsbasiert liegen die gepoolten Komorbiditätsraten für Nikotinabhängigkeit (60,1 %) und Substanzkonsumstörungen (57,5 %) am höchsten, gefolgt von affektiven (37,9 %) und Angststörungen (37,4 %) (Lorains et al., 2011); NESARC und NCS-R bestätigen diese Größenordnungen (Petry et al., 2005; Kessler et al., 2008). Bei behandlungssuchenden Spielern erreicht die aktuelle Achse-I-Komorbidität rund drei Viertel, und fast jede zweite Person hat eine Persönlichkeitsstörung (Dowling et al., 2015a, 2015b). Für Deutschland belegen PAGE (Bischof et al., 2013) und die stationäre Stichprobe von Premper und Schulz (2008) Lebenszeitraten über 90 %. Spiegelbildlich findet sich in der Suchthilfe bei rund 14 % pathologisches und bei rund 23 % problematisches Glücksspielen (Cowlishaw et al., 2014). Die Grundgesamtheit in Deutschland umfasst nach dem Glücksspiel-Survey 2023 2,4 % der 18- bis 70-Jährigen mit DSM-5-Glücksspielstörung (Buth et al., 2024).\n\nZur Richtung der Zusammenhänge spricht die Längsschnittevidenz gegen ein einfaches Modell: Angst- und affektive Störungen gehen dem Glücksspielen meist voraus (Kessler et al., 2008; Premper & Schulz, 2008), zugleich sagt problematisches Glücksspielen das Neuauftreten von Depression und Alkoholabhängigkeit vorher (Afifi et al., 2016); Impulsivität wirkt als gemeinsamer Faktor (Hartmann & Blaszczynski, 2018). Chinneck et al. (2016) fanden über vier Wellen keine wechselseitige Vorhersage zwischen Depression und Glücksspielproblemen, Dussault et al. (2011) dagegen wechselseitige Einflüsse ab dem 17. Lebensjahr nach Kontrolle der Impulsivität. Für das Essential passt dies zu den Grundmodellen in 3.1 (gemeinsame Vulnerabilität, bidirektional).\n\nFür spezifische Konstellationen liegen vor: Psychose (Haydock et al., 2015; Corbeil et al., 2024; ergänzend Desai & Potenza, 2009: 19 % Problem-/pathologisches Spielen bei n = 337 ambulanten Patienten mit Schizophrenie oder schizoaffektiver Störung), bipolare Störung (Jones et al., 2015: rund jede zehnte Person, Assoziation mit Suizidalität und Rapid Cycling), ADHS (Dowling et al., 2015a: 9,3 %; Brandt & Fischer, 2019: n = 80, 43 % Kindheits-ADHS, 11 % persistierend) und Suizidalität (Karlsson & Håkansson, 2018; Wardle et al., 2020; ergänzend Wardle & McManus, 2021, Lancet Public Health, 6(1), e39–e49, DOI 10.1016/S2468-2667(20)30232-2: n = 3.549 junge Erwachsene, adjustierte OR für Suizidversuche 9,0 bei Männern und 4,9 bei Frauen mit Problemspielen). Das Telescoping bei Frauen ist komorbiditätsunabhängig (Grant et al., 2012). Für die Computerspielstörung liegt mit Ostinelli et al. (2021) eine belastbare Depressionsschätzung von 32 % vor; González-Bueso et al. (2018) berichten in 24 Studien überwiegend signifikante Korrelationen mit Angst, Depression und ADHS-Symptomen, aber keine gepoolten Prävalenzen.\n\nHinweise zum Suchauftrag: Die angefragte Metaanalyse Grubbs et al. 2018 im Journal of Anxiety Disorders konnte nicht identifiziert werden; die Arbeit mit dieser Autorenliste erschien 2018 in Psychology of Addictive Behaviors, das systematische Review zu PTBS ist Moore & Grubbs (2021, Addictive Behaviors). Hartmann & Blaszczynski (2018) erschien im International Journal of Mental Health and Addiction, nicht im Journal of Gambling Studies. Wardle et al. 2020 erschien in Public Health, die Lancet-Public-Health-Arbeit ist Wardle & McManus 2021. Für die Zotero-Einträge empfiehlt sich eine DOI-Prüfung der unter gaps genannten Felder."
+}

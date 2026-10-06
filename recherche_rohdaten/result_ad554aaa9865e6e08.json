@@ -1,0 +1,223 @@
+{
+ "dimension": "Diagnostik, Differenzialdiagnostik, Fallstricke und Screening bei Verhaltenssüchten (Glücksspielstörung, Computerspielstörung) als Doppeldiagnose",
+ "findings": [
+  {
+   "key": true,
+   "claim": "Das DSM-5-TR verlangt als Kriterium B der Glücksspielstörung, dass das Glücksspielverhalten nicht besser durch eine manische Episode erklärt wird; eine zusätzliche Diagnose Glücksspielstörung ist nur zu stellen, wenn problematisches Spielen auch außerhalb manischer Episoden nachweisbar ist, da manieähnliche Merkmale während des Spielens nach Beendigung des Spielens wieder abklingen können (American Psychiatric Association, 2022).",
+   "citation": "American Psychiatric Association. (2022). Diagnostic and statistical manual of mental disorders (5th ed., text rev.). American Psychiatric Publishing. https://doi.org/10.1176/appi.books.9780890425787",
+   "doi": "10.1176/appi.books.9780890425787",
+   "url": "https://www.psychdb.com/addictions/non-substance/gambling",
+   "source_type": "Klassifikation",
+   "relevance_section": "2.4",
+   "numbers": "Kriterium B (engl. Wortlaut): \"The gambling behavior is not better explained by a manic episode.\" Differenzialdiagnose-Text: zusätzliche Diagnose nur, wenn \"a history of maladaptive gambling behavior at times other than during a manic episode\" vorliegt. Gleicher Wortlaut seit DSM-IV.",
+   "confidence": "high"
+  },
+  {
+   "key": false,
+   "claim": "In einer britischen Stichprobe von 635 Personen mit bipolarer Störung war der Anteil mit moderaten bis schweren Glücksspielproblemen (PGSI) rund viermal höher als in der Allgemeinbevölkerung; etwa jede zehnte Person war betroffen, und Glücksspielprobleme waren mit Bipolar-II-Störung (OR 1,74), Suizidgedanken oder -versuchen (OR 3,44) und Rapid Cycling (OR 2,63) assoziiert (Jones et al., 2015).",
+   "citation": "Jones, L., Metcalf, A., Gordon-Smith, K., Forty, L., Perry, A., Lloyd, J., Geddes, J. R., Goodwin, G. M., Jones, I., Craddock, N., & Rogers, R. D. (2015). Gambling problems in bipolar disorder in the UK: Prevalence and distribution. The British Journal of Psychiatry, 207(4), 328–333. https://doi.org/10.1192/bjp.bp.114.154286",
+   "doi": "10.1192/bjp.bp.114.154286",
+   "url": "https://www.cambridge.org/core/journals/the-british-journal-of-psychiatry/article/gambling-problems-in-bipolar-disorder-in-the-uk-prevalence-anddistribution/FFDC24125902367FCC0EDACB05E025B9",
+   "source_type": "Kohorte/Register",
+   "relevance_section": "4.4",
+   "numbers": "n = 635 Personen mit bipolarer Störung (UK, Bipolar Disorder Research Network); Instrument PGSI; moderate bis schwere Glücksspielprobleme 4-fach häufiger als in der Allgemeinbevölkerung; ca. 1 von 10 Patienten mit moderatem bis schwerem Risiko; OR Bipolar-II 1,74 (p = 0,036), OR Suizidgedanken/-versuch 3,44 (p = 0,02), OR Rapid Cycling 2,63 (p = 0,008).",
+   "confidence": "medium"
+  },
+  {
+   "key": true,
+   "claim": "In der multizentrischen DOMINION-Querschnittsstudie mit 3.090 Parkinson-Patienten fand sich bei 13,6 % mindestens eine Impulskontrollstörung (pathologisches Spielen 5,0 %, zwanghaftes Sexualverhalten 3,5 %, Kaufzwang 5,7 %, Essanfälle 4,3 %); unter Dopaminagonisten lag die Prävalenz bei 17,1 % gegenüber 6,9 % ohne Agonisten, was einem 2- bis 3,5-fach erhöhten Risiko entspricht und eine Medikamentenanamnese bei jeder neu aufgetretenen Verhaltenssucht nahelegt (Weintraub et al., 2010).",
+   "citation": "Weintraub, D., Koester, J., Potenza, M. N., Siderowf, A. D., Stacy, M., Voon, V., Whetteckey, J., Wunderlich, G. R., & Lang, A. E. (2010). Impulse control disorders in Parkinson disease: A cross-sectional study of 3090 patients. Archives of Neurology, 67(5), 589–595. https://doi.org/10.1001/archneurol.2010.65",
+   "doi": "10.1001/archneurol.2010.65",
+   "url": "https://www.sciencedaily.com/releases/2010/05/100510161256.htm",
+   "source_type": "Kohorte/Register",
+   "relevance_section": "2.3",
+   "numbers": "n = 3.090 Parkinson-Patienten, 46 Zentren USA/Kanada, Querschnitt; ICD gesamt 13,6 %; Glücksspiel 5,0 %, zwanghaftes Sexualverhalten 3,5 %, Kaufzwang 5,7 %, Binge Eating 4,3 %; Dopaminagonisten 17,1 % vs. 6,9 % ohne Agonisten; 2- bis 3,5-fach erhöhte Odds unter Agonisten.",
+   "confidence": "high"
+  },
+  {
+   "key": false,
+   "claim": "In der französischen DIGPD-Längsschnittkohorte (411 Parkinson-Patienten mit höchstens fünf Jahren Krankheitsdauer, Rekrutierung 2009–2013 in acht Kliniken, jährliche Nachuntersuchung bis fünf Jahre) betrug die kumulative 5-Jahres-Inzidenz von Impulskontrollstörungen etwa 46 %; das Risiko stieg mit Dosis und Dauer der Dopaminagonisten-Therapie und bildete sich nach Absetzen allmählich zurück (Corvol et al., 2018).",
+   "citation": "Corvol, J.-C., Artaud, F., Cormier-Dequaire, F., Rascol, O., Durif, F., Derkinderen, P., Marques, A.-R., Bourdain, F., Brandel, J.-P., Pico, F., Lacomblez, L., Bonnet, C., Brefel-Courbon, C., Ory-Magne, F., Grabli, D., Klebe, S., Mangone, G., You, H., Mesnage, V., … Elbaz, A. (2018). Longitudinal analysis of impulse control disorders in Parkinson disease. Neurology, 91(3), e189–e201. https://doi.org/10.1212/WNL.0000000000005816",
+   "doi": "10.1212/WNL.0000000000005816",
+   "url": "https://www.mdedge.com/content/impulse-control-disorders-parkinsons-patients-may-be-higher-thought",
+   "source_type": "Kohorte/Register",
+   "relevance_section": "2.3",
+   "numbers": "DIGPD-Kohorte, n = 411, Frankreich, 8 Zentren, Einschluss 2009–2013, Follow-up bis 5 Jahre; kumulative 5-Jahres-Inzidenz von ICD laut Pressedarstellung \"approximately 45 %\" (Abstract nach Erinnerung 46,1 %, 95 %-KI 37,4–55,7); Dosis-Wirkungs- und Dauer-Wirkungs-Beziehung zu Dopaminagonisten; Rückbildung nach Absetzen.",
+   "confidence": "medium"
+  },
+  {
+   "key": true,
+   "claim": "In einer verschachtelten Fall-Kontroll-Studie auf Basis einer US-Krankenversicherungsdatenbank (355 Fälle mit neu diagnostizierter Glücksspielstörung vs. 3.550 Kontrollen; 4.341 Fälle mit Impulskontrollstörung vs. 43.410 Kontrollen) war Aripiprazol nach Adjustierung mit einem 5,2-fach erhöhten Risiko für eine Glücksspielstörung (RR 5,23; 95 %-KI 1,78–15,38) und einem 7,7-fach erhöhten Risiko für Impulskontrollstörungen (RR 7,71; 95 %-KI 5,81–10,34) assoziiert; für Pramipexol/Ropinirol lagen die Werte bei RR 7,61 bzw. 3,28 (Etminan et al., 2017).",
+   "citation": "Etminan, M., Sodhi, M., Samii, A., Procyshyn, R. M., Guo, M., & Carleton, B. C. (2017). Risk of gambling disorder and impulse control disorder with aripiprazole, pramipexole, and ropinirole: A pharmacoepidemiologic study. Journal of Clinical Psychopharmacology, 37(1), 102–104.",
+   "doi": "",
+   "url": "https://www.canada.ca/en/health-canada/services/drugs-health-products/medeffect-canada/safety-reviews/summary-safety-review-abilify-abilify-maintena-aripiprazole-evaluating-risk-certain-impulse-control-behaviours.html",
+   "source_type": "Kohorte/Register",
+   "relevance_section": "2.3",
+   "numbers": "Nested case-control, US-Claims-Datenbank; Glücksspielstörung 355 Fälle / 3.550 Kontrollen; Impulskontrollstörung 4.341 Fälle / 43.410 Kontrollen (je 10 Kontrollen pro Fall, gematcht nach Alter, Follow-up- und Kalenderzeit); Aripiprazol: RR 5,23 (95 %-KI 1,78–15,38) Glücksspielstörung, RR 7,71 (95 %-KI 5,81–10,34) ICD; Pramipexol/Ropinirol: RR 7,61 (2,75–21,07) bzw. 3,28 (2,31–4,66). Hinweis: Der Suchauftrag nennt JAMA Internal Medicine; die Recherche spricht für Journal of Clinical Psychopharmacology 37(1) – bitte prüfen.",
+   "confidence": "medium"
+  },
+  {
+   "key": false,
+   "claim": "Die US-Arzneimittelbehörde FDA identifizierte in ihrer Datenbank FAERS und der Literatur (November 2002 bis Mitte Januar 2016) 184 Fallberichte zu Impulskontrollproblemen unter Aripiprazol (167 FAERS, 17 Literatur), davon 164 pathologisches Spielen, 9 zwanghaftes Sexualverhalten, 4 Kaufzwang, 3 Essanfälle und 4 kombinierte Störungen, und ordnete 2016 entsprechende Warnhinweise in der Fachinformation an, verbunden mit der Empfehlung, Patienten und Angehörige gezielt nach neu aufgetretenen Verhaltensdrängen zu fragen (U.S. Food and Drug Administration, 2016).",
+   "citation": "U.S. Food and Drug Administration. (2016, May 3). FDA Drug Safety Communication: FDA warns about new impulse-control problems associated with mental health drug aripiprazole (Abilify, Abilify Maintena, Aristada). https://www.fda.gov/media/97624/download",
+   "doi": "",
+   "url": "https://www.fda.gov/media/97624/download",
+   "source_type": "Sonstiges",
+   "relevance_section": "2.3",
+   "numbers": "Zeitraum November 2002 bis Mitte Januar 2016; 184 Fallberichte (167 FAERS + 17 Literatur); pathologisches Spielen n = 164, zwanghaftes Sexualverhalten n = 9, Kaufzwang n = 4, zwanghaftes Essen n = 3, mehrere Impulskontrollprobleme n = 4. Gaboriau et al. (2014, Addictive Behaviors) hatten zuvor 8 französische Pharmakovigilanz-Fallberichte publiziert.",
+   "confidence": "high"
+  },
+  {
+   "key": true,
+   "claim": "Billieux et al. (2015) warnen davor, nahezu jede Alltagsaktivität als Sucht zu pathologisieren, wenn atheoretische und konfirmatorische Forschungsansätze ohne klinische Phänomenologie zu einer unbegrenzten Liste neuer Verhaltenssüchte führen, und fordern, dass eine Verhaltenssucht nur bei theoriegeleiteter Prüfung und nachgewiesener funktioneller Beeinträchtigung diagnostiziert wird.",
+   "citation": "Billieux, J., Schimmenti, A., Khazaal, Y., Maurage, P., & Heeren, A. (2015). Are we overpathologizing everyday life? A tenable blueprint for behavioral addiction research. Journal of Behavioral Addictions, 4(3), 119–123. https://doi.org/10.1556/2006.4.2015.009",
+   "doi": "10.1556/2006.4.2015.009",
+   "url": "https://akjournals.com/view/journals/2006/4/3/article-p119.xml",
+   "source_type": "narratives Review",
+   "relevance_section": "2.4",
+   "numbers": "Konzeptpapier ohne eigene Daten; mehrere Kommentare im selben Heft (J Behav Addict 4(3), 2015).",
+   "confidence": "high"
+  },
+  {
+   "key": false,
+   "claim": "In einer Online-Befragung von 442 Spielern von Massively-Multiplayer-Online-Spielen luden nur die Kernkriterien Konflikt, Entzugssymptome, Rückfall/Wiederaufnahme und Verhaltenssalienz auf einem Suchtfaktor, während die peripheren Kriterien kognitive Salienz, Toleranz und Euphorie einen nicht-pathologischen Faktor hohen Engagements bildeten, sodass hohe Spielzeit, Toleranz und gedankliche Beschäftigung allein nicht für eine Störung sprechen (Charlton & Danforth, 2007).",
+   "citation": "Charlton, J. P., & Danforth, I. D. W. (2007). Distinguishing addiction and high engagement in the context of online game playing. Computers in Human Behavior, 23(3), 1531–1548. https://doi.org/10.1016/j.chb.2005.07.002",
+   "doi": "10.1016/j.chb.2005.07.002",
+   "url": "https://ub-ir.bolton.ac.uk/esploro/outputs/journalArticle/Distinguishing-addiction-and-high-engagement-in/999410408841",
+   "source_type": "Survey",
+   "relevance_section": "2.4",
+   "numbers": "n = 442 MMORPG-Spieler, Online-Fragebogen; Suchtfaktor: Konflikt, Entzug, Rückfall/Wiederaufnahme, Verhaltenssalienz; Engagementfaktor: kognitive Salienz, Toleranz, Euphorie.",
+   "confidence": "high"
+  },
+  {
+   "key": false,
+   "claim": "Der Problem Gambling Severity Index (PGSI; 9 Items, Bezugszeitraum 12 Monate) stuft 0 Punkte als unproblematisches, 1–4 Punkte als Spielen mit niedrigem Risiko, 5–7 Punkte als moderates Risiko und 8 oder mehr Punkte als problematisches Glücksspiel ein und zeigt eine eindimensionale Struktur mit guter interner Konsistenz (α = .84–.86) und ausreichender Retest-Reliabilität (r = .78) (Ferris & Wynne, 2001).",
+   "citation": "Ferris, J., & Wynne, H. (2001). The Canadian Problem Gambling Index: Final report. Canadian Centre on Substance Abuse.",
+   "doi": "",
+   "url": "https://novopsych.com/assessments/health/problem-gambling-severity-index-pgsi/",
+   "source_type": "Sonstiges",
+   "relevance_section": "2.5",
+   "numbers": "9 Items, 0–27 Punkte; Kategorien 0 / 1–4 / 5–7 / ≥ 8; α = .84–.86 (Ferris & Wynne 2001; Currie et al. 2013; Holtgraves 2009); Retest r = .78. Eine deutsche Validierungsstudie konnte in dieser Recherche nicht belegt werden; der PGSI wird jedoch in deutschen Studien eingesetzt, der Glücksspielsurvey 2021/2023 nutzt DSM-5-Kriterien.",
+   "confidence": "high"
+  },
+  {
+   "key": false,
+   "claim": "Der Kurzfragebogen zum Glücksspielverhalten (KFG; 20 Aussagen, abgeleitet aus den 20 Fragen der Anonymen Spieler, Bearbeitungszeit 5–10 Minuten) gilt ab einem Cut-off von 16 Punkten als Verdachtsschwelle für pathologisches Glücksspielen und unterscheidet vier Schweregrade (0–15 unauffällig, 16–25 beginnend, 26–45 mittel, 46–60 fortgeschritten); er ist im deutschsprachigen klinischen Bereich das meistverbreitete Screeninginstrument (Petry & Baulig, 1996).",
+   "citation": "Petry, J., & Baulig, T. (1996). Kurzfragebogen zum Glücksspielverhalten (KFG). In J. Petry, Psychotherapie der Glücksspielsucht. Psychologie Verlags Union.",
+   "doi": "",
+   "url": "https://gluecksspielsucht.de/materialien/handout2010/Fachtagung09_Beitrag3_Premper.pdf",
+   "source_type": "Lehrbuch/Kapitel",
+   "relevance_section": "2.5",
+   "numbers": "20 Items, Summenwert 0–60; Cut-off ≥ 16; Schweregrade 0–15 / 16–25 / 26–45 / 46–60; Angaben aus Sekundärquellen (Premper 2009; Hogrefe-Katalog). Reliabilitäts-/Validitätskennwerte der Originalpublikation konnten nicht geprüft werden.",
+   "confidence": "medium"
+  },
+  {
+   "key": false,
+   "claim": "Der Ten-Item Internet Gaming Disorder Test (IGDT-10) bildet die neun DSM-5-Kriterien der Internet Gaming Disorder in zehn Items ab und wurde an 4.887 Online-Gamern (14–64 Jahre, M = 22,2 Jahre, 92,5 % männlich; Rekrutierung über Facebook und ein ungarisches Gaming-Magazin) mittels konfirmatorischer Faktorenanalyse und Item-Response-Theorie validiert, wobei die vom DSM-5 vorgeschlagene Schwelle von fünf erfüllten Kriterien geprüft wurde und die einzelnen Kriterien unterschiedlich schwer und trennscharf waren (Király et al., 2017).",
+   "citation": "Király, O., Sleczka, P., Pontes, H. M., Urbán, R., Griffiths, M. D., & Demetrovics, Z. (2017). Validation of the Ten-Item Internet Gaming Disorder Test (IGDT-10) and evaluation of the nine DSM-5 Internet Gaming Disorder criteria. Addictive Behaviors, 64, 253–260. https://doi.org/10.1016/j.addbeh.2015.11.005",
+   "doi": "10.1016/j.addbeh.2015.11.005",
+   "url": "https://figshare.utas.edu.au/articles/journal_contribution/Validation_of_the_ten-Item_Internet_Gaming_Disorder_Test_IGDT-10_and_evaluation_of_the_nine_DSM-5_internet_gaming_disorder_criteria/22978487",
+   "source_type": "Survey",
+   "relevance_section": "2.5",
+   "numbers": "n = 4.887 Online-Gamer, 14–64 Jahre, M = 22,2, 92,5 % männlich, Ungarn; 10 Items dichotomisiert auf 9 Kriterien; Cut-off ≥ 5 Kriterien (DSM-5-Schwelle); ergänzend: chinesische Validierung fand optimalen Cut-off 5/9 mit Sensitivität 43,8 %, Spezifität 98,3 %; IGDS9-SF (Pontes & Griffiths 2015, 9 Items, 5-stufig) mit klinisch ermitteltem Cut-off 32 (Qin et al. 2020, n = 131, Sensitivität 98,0 %, Spezifität 91,9 %).",
+   "confidence": "medium"
+  },
+  {
+   "key": false,
+   "claim": "Die Gaming Disorder Scale for Adolescents (GADIS-A) ist das erste erfolgreich validierte Selbstbeurteilungsinstrument für die ICD-11-Computerspielstörung im Jugendalter; sie wurde an 819 häufigen Gamern von 10 bis 17 Jahren und deren Bezugspersonen (Online-Survey, Deutschland) entwickelt, bildet die ICD-11-Kriterien in zwei Faktoren ab und zeigte exzellente interne Konsistenz, gute Kriteriumsvalidität (Spielverhalten, emotionale Dysregulation, Schulleistung) und exzellente Diskriminationsfähigkeit in ROC- und Latent-Profile-Analysen (Paschke, Austermann & Thomasius, 2020).",
+   "citation": "Paschke, K., Austermann, M. I., & Thomasius, R. (2020). Assessing ICD-11 gaming disorder in adolescent gamers: Development and validation of the Gaming Disorder Scale for Adolescents (GADIS-A). Journal of Clinical Medicine, 9(4), 993. https://doi.org/10.3390/jcm9040993",
+   "doi": "10.3390/jcm9040993",
+   "url": "https://www.mdpi.com/2077-0383/9/4/993/htm",
+   "source_type": "Survey",
+   "relevance_section": "2.5",
+   "numbers": "n = 819 häufige Gamer, 10–17 Jahre, plus Bezugspersonen; Online-Survey Deutschland (Deutsches Zentrum für Suchtfragen des Kindes- und Jugendalters, UKE Hamburg); zwei Faktoren; ROC- und Latent-Profile-Analysen. Ergänzung für Minderjährige: GADIS-P (Paschke & Thomasius 2021, J Behav Addict 10(1), 159–168) als Elternfremdbeurteilung, weil Einsicht Jugendlicher begrenzt sein kann.",
+   "confidence": "high"
+  },
+  {
+   "key": false,
+   "claim": "Bei 204 schwedischen Spielern aus Behandlungs- und Hilfesuchkontexten, Selbsthilfegruppen und der Allgemeinbevölkerung erfüllten im semistrukturierten Structured Clinical Interview for Gambling Disorder (SCI-GD) 54 % (n = 110) die Kriterien einer Glücksspielstörung gegenüber 71 % (n = 145) im DSM-5-Selbstbeurteilungsfragebogen; die Übereinstimmung auf Kriterienebene war gering (Fleiss' κ 0,31–0,52), was dafür spricht, Selbstbeurteilungsscreenings nicht mit einer klinischen Diagnose gleichzusetzen (Molander et al., 2023).",
+   "citation": "Molander, O., Månsson, V., Berman, A. H., Grant, J. E., & Wennberg, P. (2023). Assessing gambling disorder using semistructured interviews or self-report? Evaluation of the Structured Clinical Interview for Gambling Disorder among Swedish gamblers. Assessment. Advance online publication. https://doi.org/10.1177/10731911221147038",
+   "doi": "10.1177/10731911221147038",
+   "url": "https://knowledge.uchicago.edu/record/5416",
+   "source_type": "Kohorte/Register",
+   "relevance_section": "2.4",
+   "numbers": "n = 204 (Schweden); SCI-GD 54 % (n = 110) vs. Selbstbericht DSM-5 71 % (n = 145); Fleiss' κ 0,31–0,52; r 0,35–0,55. Ergänzung Interviews: Glücksspielstörung ist im SCID-5 in Modul K nur der erweiterten Forschungsversion (SCID-5-RV) enthalten, nicht in der Klinikerversion; MINI 7.0.2 führt kein Glücksspielmodul; CIDI 3.0 enthält pathologisches Glücksspiel (NCS-R, Kessler et al. 2008).",
+   "confidence": "high"
+  },
+  {
+   "key": true,
+   "claim": "Die NICE-Leitlinie NG248 (Januar 2025) empfiehlt, in jedem psychiatrischen Setting – insbesondere bei Suizid- oder Selbstverletzungsgedanken, Depression, Angst, Psychose, bipolarer Störung, PTBS, Persönlichkeitsstörung oder ADHS – sowie bei Alkohol- oder Drogenmissbrauch (vor allem Kokainkonsum) direkt nach Glücksspiel zu fragen, den PGSI einzusetzen (ab 8 Punkten Überweisung an einen spezialisierten Glücksspieldienst) und Betroffene direkt nach Suizidgedanken und -absichten zu fragen, da Glücksspiel auch ohne weitere Risikofaktoren ein dominanter Risikofaktor für Suizidalität sein kann (National Institute for Health and Care Excellence, 2025).",
+   "citation": "National Institute for Health and Care Excellence. (2025). Gambling-related harms: Identification, assessment and management (NICE Guideline NG248). https://www.nice.org.uk/guidance/ng248",
+   "doi": "",
+   "url": "https://www.nice.org.uk/guidance/ng248",
+   "source_type": "Leitlinie",
+   "relevance_section": "2.5",
+   "numbers": "Veröffentlicht 28.01.2025; Zielgruppe ≥ 18 Jahre und Angehörige; direkte Fragen (\"Do you gamble?\", \"Are you worried about your own or another person's gambling?\"); PGSI ≥ 8 → NHS-spezialisierte Glücksspielbehandlung; bei erheblichem/akutem Risiko dringliche Überweisung an Krisendienst. Empfehlungsnummern konnten nicht abgerufen werden (nice.org.uk gesperrt).",
+   "confidence": "medium"
+  },
+  {
+   "key": true,
+   "claim": "Die erste deutsche S1-Leitlinie \"Diagnostik und Therapie von Internetnutzungsstörungen\" (AWMF-Registernummer 076-011, Stand Januar 2025; federführend DG-Sucht, Koordination H.-J. Rumpf und A. Bischof; beteiligt u. a. DGKJ, DGKJP, DGPPN und DGPs) umfasst Computerspiel-, Online-Glücksspiel-, Social-Media-, Pornografie- und Online-Kaufnutzungsstörungen, empfiehlt die Diagnosestellung anhand der ICD-11-Kriterien mit validierten Fragebögen und sieht die Mitbehandlung komorbider Depression und ADHS (bei entsprechender Indikation z. B. Methylphenidat oder Atomoxetin) vor; eine eigene AWMF-Leitlinie zur Glücksspielstörung existiert nach dieser Recherche nicht (Deutsche Gesellschaft für Suchtforschung und Suchttherapie, 2025).",
+   "citation": "Deutsche Gesellschaft für Suchtforschung und Suchttherapie (DG-Sucht) (Hrsg.). (2025). Diagnostik und Therapie von Internetnutzungsstörungen (S1-Leitlinie, AWMF-Registernummer 076-011, Stand 01/2025; Koordination: H.-J. Rumpf & A. Bischof). AWMF. https://register.awmf.org/de/leitlinien/detail/076-011",
+   "doi": "",
+   "url": "https://register.awmf.org/assets/guidelines/076-011l_S1_Diagnostik-Therapie-Internetnutzungstoerungen_2025-01.pdf",
+   "source_type": "Leitlinie",
+   "relevance_section": "2.5",
+   "numbers": "S1 (Expertenkonsens); AWMF 076-011; Stand Januar 2025; nur die Computerspielstörung ist in der ICD-11 als eigene Kategorie kodiert. Volltext konnte nicht abgerufen werden (register.awmf.org gesperrt); konkrete Instrument-Cut-offs daher ungeprüft.",
+   "confidence": "medium"
+  },
+  {
+   "key": true,
+   "claim": "Metaanalytisch zeigen rund 14 % der Patientinnen und Patienten in Suchtbehandlung eine komorbide pathologische Glücksspielstörung und rund 23 % Störungen im breiteren Spektrum problematischen Glücksspielens, wobei die Datenlage überwiegend auf Gelegenheitsstichproben und Selbstbeurteilungsinstrumenten beruht und zwischen aktueller und lebenszeitlicher Komorbidität kaum differenziert; die Autoren leiten daraus einen klaren Bedarf für systematische Identifikation von Glücksspielproblemen in der Suchthilfe ab (Cowlishaw et al., 2014).",
+   "citation": "Cowlishaw, S., Merkouris, S., Chapman, A., & Radermacher, H. (2014). Pathological and problem gambling in substance use treatment: A systematic review and meta-analysis. Journal of Substance Abuse Treatment, 46(2), 98–105. https://doi.org/10.1016/j.jsat.2013.08.019",
+   "doi": "10.1016/j.jsat.2013.08.019",
+   "url": "https://openresearch-repository.anu.edu.au/items/92d95bcc-7bb7-415e-a31e-94f74c0cd595",
+   "source_type": "Metaanalyse",
+   "relevance_section": "2.5",
+   "numbers": "Pathologisches Glücksspiel ca. 14 %, problematisches Glücksspiel (Spektrum) ca. 23 % bei Patienten in Suchtbehandlung; Limitation: Selbstbeurteilung, Gelegenheitsstichproben, wenig Daten zu aktuell vs. lebenszeitlich. Ergänzend aus Bevölkerungssurveys (Lorains et al. 2011, Addiction 106(3), 490–498): Nikotinabhängigkeit 60,1 %, Substanzgebrauchsstörung 57,5 %, affektive Störung 37,9 %, Angststörung 37,4 % bei Problem-/pathologischen Spielern.",
+   "confidence": "high"
+  },
+  {
+   "key": false,
+   "claim": "In zwei US-Bevölkerungssurveys (Gambling Impact and Behavior Study, n = 2.417; NESARC 2001–2002, n = 43.093; mit lebenszeitlicher DSM-IV-Diagnose pathologisches Glücksspielen n = 21 bzw. n = 185) berichteten 36–39 % der Betroffenen im zurückliegenden Jahr keinerlei glücksspielbezogene Probleme, obwohl nur 7–12 % jemals eine formale Behandlung oder Anonyme Spieler aufgesucht hatten, sodass etwa ein Drittel durch natürliche Remission gekennzeichnet war; der Verlauf ist also nicht zwangsläufig chronisch, was für eine Verlaufsperspektive bei der diagnostischen Gewichtung spricht (Slutske, 2006).",
+   "citation": "Slutske, W. S. (2006). Natural recovery and treatment-seeking in pathological gambling: Results of two U.S. national surveys. American Journal of Psychiatry, 163(2), 297–302. https://doi.org/10.1176/appi.ajp.163.2.297",
+   "doi": "10.1176/appi.ajp.163.2.297",
+   "url": "https://psychiatryonline.org/doi/10.1176/appi.ajp.163.2.297",
+   "source_type": "Survey",
+   "relevance_section": "2.2",
+   "numbers": "GIBS n = 2.417 (Lebenszeit-PG n = 21); NESARC n = 43.093 (Lebenszeit-PG n = 185); 36–39 % ohne Probleme im Vorjahr; 7–12 % je Behandlung/GA; ca. ein Drittel natürliche Remission. Ergänzend australische Zwillingsstichprobe (Slutske, Blaszczynski & Martin 2009, Twin Res Hum Genet 12(5)): 104 Lebenszeit-PG, davon 44 ohne Symptome im Vorjahr; laut Sekundärdarstellung 62 % nur eine Episode, M = 2,8 Episoden, längste Episode M = 2,4 Jahre (Zuordnung ungeprüft).",
+   "confidence": "high"
+  },
+  {
+   "key": false,
+   "claim": "Ein systematisches Review zu Autismus, problematischer Internetnutzung und Computerspielstörung fand in der Mehrzahl der eingeschlossenen Studien positive Assoziationen zwischen Autismus-Spektrum-Störung und problematischer Internetnutzung sowie moderate bis starke Effekte für Symptome einer Computerspielstörung; da Gaming bei sozialem Rückzug ein Weg sein kann, sonst eingeschränkte soziale Beziehungen aufrechtzuerhalten, ist differenzialdiagnostisch zwischen kompensatorischer Nutzung und eigenständiger Störung mit Funktionsbeeinträchtigung zu unterscheiden (Murray et al., 2022).",
+   "citation": "Murray, A., Koronczai, B., Király, O., Griffiths, M. D., Mannion, A., Leader, G., & Demetrovics, Z. (2022). Autism, problematic internet use and gaming disorder: A systematic review. Review Journal of Autism and Developmental Disorders, 9, 120–140.",
+   "doi": "",
+   "url": "https://irep.ntu.ac.uk/id/eprint/42653",
+   "source_type": "systematisches Review",
+   "relevance_section": "4.4",
+   "numbers": "Systematisches Review; Mehrheit der Studien mit positiven Assoziationen ASS–PIU; moderate bis starke Effektstärken für Gaming-Disorder-Symptome bei ASS. Ergänzend ADHS: Reviews berichten höhere Prävalenz und Schwere von IGD bei ADHS; in einer japanischen klinischen Querschnittsstudie zu Glücksspielstörung (PCN Reports 2023) werden 5–20 % ADHS bei Glücksspielstörung zitiert; gepoolte Metaanalysezahlen konnten nicht verifiziert werden.",
+   "confidence": "medium"
+  }
+ ],
+ "gaps": [
+  "Etminan et al. 2017: Der Suchauftrag nennt JAMA Internal Medicine; die Recherche spricht für Journal of Clinical Psychopharmacology 37(1), 102–104 – Zeitschrift und DOI bitte am Original prüfen.",
+  "EMA-/BfArM-Maßnahmen (Rote-Hand-Brief, PRAC-Signal) zu Aripiprazol und Impulskontrollstörungen: nicht recherchiert (Suchbudget erschöpft); Health-Canada-Sicherheitsreview und FDA-Warnung 2016 sind belegt.",
+  "Deutsche Validierung des PGSI: keine Primärstudie gefunden; der Glücksspielsurvey (Buth, Meyer, Rosenkranz & Kalke; ISD/Uni Bremen) nutzt seit 2021 DSM-5-Kriterien statt SOGS (2023: 2,4 % Glücksspielstörung, 18–70 Jahre).",
+  "NICE NG248: Empfehlungsnummern und Wortlaut konnten nicht abgerufen werden (nice.org.uk, Guideline-Central, NCBI-Bookshelf gesperrt); Inhalte stammen aus Suchmaschinen-Snippets.",
+  "AWMF: keine eigene Leitlinie zur Glücksspielstörung gefunden; Volltext der S1-Leitlinie 076-011 (empfohlene Instrumente, Cut-offs, Komorbiditätskapitel) nicht abrufbar.",
+  "SOGS (Lesieur & Blume 1987, Am J Psychiatry 144(9), 1184–1188, Cut-off ≥ 5, Entwicklungsstichprobe n = 1.616), Lie/Bet (Johnson et al. 1997, Psychological Reports 80(1), 83–88; Sensitivität .99/Spezifität .91 Pilot, 1.00/.85 Follow-up), BBGS (Gebauer, LaBrie & Shaffer 2010; Sensitivität .96, Spezifität .99) sind belegt, aus Platzgründen nicht als eigene Befunde aufgeführt; NODS-CLiP (Toce-Gerstein, Gerstein & Volberg 2009): Gütekriterien nicht gefunden.",
+  "AICA-S/AICA-C (Wölfling, Beutel & Müller 2012): Primärquelle nicht verifiziert; Cut-offs 7,0 (missbräuchlich) und > 13,0 (süchtig) nur aus Sekundärquelle; CSV-S (Wölfling, Müller & Beutel 2011, PPmP 61(5), 216–224; n = 1.710 Schüler 13–18 J.) belegt; CSAS (Rehbein, Baier, Kleimann & Mößle 2015, Hogrefe; α = .94 CSAS-J/-E) belegt, Cut-offs ungeprüft.",
+  "CIUS (Meerkerk et al. 2009, 14 Items): Cut-off 28 nicht belegt; deutsche Versionen Peukert et al. 2012 (einfaktoriell) und Rumpf et al. (n = 8.132, 14–64 J.) existieren, vollständige Referenzen nicht verifiziert.",
+  "Gaming Disorder Test (Pontes et al. 2021, Int J Ment Health Addict 19, 508–528, 4 ICD-11-Items): Cut-off nicht gefunden.",
+  "Standardwerke (Meyer & Bachmann 2017, Spielsucht, 4. Aufl., Springer, ISBN 978-3-662-54838-7; Petry 2003; Wölfling et al. 2013 Manual): konkrete Anamnesefragen zu Beginn, Episodizität, Spielmotiven und Auslösern nicht im Volltext prüfbar.",
+  "Slutske, Blaszczynski & Martin 2009 (Twin Res Hum Genet 12(5), 425–432): Episodendaten (62 % eine Episode, M = 2,8 Episoden) nur aus Sekundärdarstellung; Zuordnung zur richtigen Publikation (ggf. Slutske et al. 2010, Addiction) ungesichert.",
+  "ICD-11 CDDR: Wortlaut zur Abgrenzung Glücksspielstörung/Bipolar nicht direkt geprüft; für die Computerspielstörung lautet der Boundary-Text laut Sekundärquelle: \"Increased goal-directed activity including impaired ability to control gaming behaviour can occur during Manic, Mixed, or Hypomanic Episodes.\"",
+  "ADHS und Gaming: Metaanalyse mit gepoolten Prävalenzen (z. B. Dullur et al. 2021; Koncz et al. 2023) nicht verifiziert; nur narrative Reviews und Einzelstudien gefunden.",
+  "Strukturiertes Interview für Gaming Disorder: ICD-11-Feldstudie China 2021 (semistrukturiertes Interview, κ 0,545 ICD-11 vs. 0,622 DSM-5) – Autoren nicht erfasst; kein deutsches Standardinterview gefunden.",
+  "Zwanghafte Sexualverhaltensstörung: Kraus et al. 2018 (World Psychiatry 17(1), 109–110, doi 10.1002/wps.20499) belegt die ICD-11-Einordnung unter Impulskontrollstörungen (6C72); Kategorie 6C5Y 'other specified disorders due to addictive behaviours' nicht geprüft.",
+  "Di Nicola et al. 2014 (J Affect Disord 167, 285–298) und Rash, Weinstock & Van Patten 2016 (Subst Abuse Rehabil 7, 3–13): Kernempfehlungen nur aus Abstracts; Details nicht verifiziert.",
+  "Weitere Literatur zu Jugendlichen (Rumpf, Thomasius): Rumpf et al. 2018 (J Behav Addict 7(3), 556–561) zur Begründung der ICD-11-Aufnahme belegt; spezifische Altersgrenzen/Hinweise zur Diagnostik bei Minderjährigen nicht gefunden."
+ ],
+ "notes": "Recherchestand 06.10.2026; Antwort auf Wunsch des Nutzers auf rund 500 Wörter begrenzt. Methode: 43 WebSearch-Abfragen (englisch und deutsch, Standard- und Extended-Modus); danach war das Suchbudget erschöpft. WebFetch war für praktisch alle Hosts (AWMF, NICE, JAMA, Cambridge, Springer, Hogrefe, Repositorien) per Egress-Policy gesperrt, sodass Zahlen überwiegend aus Suchmaschinen-Snippets und Sekundärquellen stammen und nicht an Abstracts gegengeprüft werden konnten. DOIs sind nur eingetragen, wo sie in Suchergebnissen sichtbar waren oder mit hoher Sicherheit bekannt sind; unsichere Felder bleiben leer.\n\nKernbotschaften für das Essential. Erstens Differenzialdiagnose Manie: DSM-5-TR (Kriterium B) und ICD-11 schließen eine eigenständige Glücksspiel- oder Computerspielstörung aus, wenn das Verhalten nur innerhalb (hypo)manischer Episoden auftritt; entscheidend ist die zeitliche Beziehung zu Stimmungsepisoden. Bei bipolaren Patienten sind Glücksspielprobleme dennoch etwa viermal häufiger als in der Allgemeinbevölkerung (Jones et al., 2015), sodass Episodensymptom und komorbide Störung beide aktiv zu prüfen sind. Zweitens Medikamentenanamnese: Dopaminagonisten (DOMINION: 17,1 % vs. 6,9 %; DIGPD: kumulative 5-Jahres-Inzidenz rund 46 %) und Aripiprazol (RR 5,23 für Glücksspielstörung; FDA 2016: 184 Fälle) können Verhaltenssüchte induzieren. Für das Essential folgt daraus, dass bei neu aufgetretenem Glücksspielen, Hypersexualität oder Kaufzwang bei Parkinson, Psychose oder Depression systematisch nach Dopaminagonisten und Partialagonisten gefragt werden sollte, analog zu substanzinduzierten Störungen in Kapitel 2.3. Drittens Fallstrick Überpathologisierung: Billieux et al. (2015), Charlton und Danforth (2007) sowie Király und Demetrovics (2017) begründen, dass Toleranz, Salienz und hohe Nutzungszeit allein nicht ausreichen; Funktionsbeeinträchtigung ist das Kernkriterium, das ICD-11 und GADIS-A umsetzen. Selbstbeurteilungsscreenings überschätzen Diagnosen gegenüber Interviews deutlich (Molander et al., 2023: 71 % vs. 54 %). Viertens Screening: Für Glücksspiel sind PGSI (ab 8 Punkten), SOGS (ab 5), Lie/Bet (2 Items), BBGS (3 Items) und im deutschsprachigen Raum der KFG (ab 16) etabliert; für Gaming IGDT-10, IGDS9-SF (Cut-off 32 in klinischer Stichprobe), GDT (ICD-11, 4 Items), GADIS-A und GADIS-P (Jugendliche, Elternurteil) sowie CSAS und CSV-S/AICA-S. Strukturierte Interviews: Die Glücksspielstörung ist im SCID-5 nur in der Forschungsversion (Modul K) enthalten, im MINI 7.0.2 nicht, im CIDI 3.0 ja; für die Computerspielstörung gibt es noch kein deutsches Standardinterview. Fünftens Leitlinien: NICE NG248 (2025) fordert direktes Fragen nach Glücksspiel in Psychiatrie und Suchthilfe sowie eine Suizidrisikoabklärung; die deutsche S1-Leitlinie Internetnutzungsstörungen (AWMF 076-011, 2025) ist die erste nationale Leitlinie, eine AWMF-Leitlinie zur Glücksspielstörung fehlt. Sechstens Verlauf: Rund ein Drittel der pathologischen Spieler remittiert ohne Behandlung (Slutske, 2006), Verläufe sind häufig episodisch; dies spricht gegen eine automatische Hauptdiagnose Sucht und für Verlaufs- und Funktionsfragen (Beginn, Episoden, Motive, Auslöser) analog zur Substanzanamnese in Kapitel 2.5. Siebtens Jugendliche, ADHS und Autismus: Gaming kann Unteraktivierung und soziale Defizite regulieren (Murray et al., 2022; AWMF-Leitlinie zur ADHS-Komorbidität); die Diagnose sollte Fremdanamnese, Entwicklungsstand und das 12-Monats-Kriterium berücksichtigen. Für eine Zweitprüfung der Zahlen an den Originalabstracts wäre eine Folgeanfrage mit freigeschalteten Verlagshosts nötig."
+}

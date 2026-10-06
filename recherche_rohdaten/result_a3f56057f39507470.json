@@ -1,0 +1,212 @@
+{
+ "dimension": "Therapie und Versorgung bei Verhaltenssüchten als Doppeldiagnose (Psychotherapie, Pharmakotherapie, integrierte Ansätze, Versorgungssystem) – Glücksspielstörung und Computerspielstörung mit weiteren psychischen Störungen",
+ "findings": [
+  {
+   "key": false,
+   "claim": "Das Cochrane-Review zu psychologischen Therapien bei pathologischem und problematischem Glücksspielen (14 Studien) fand in neun Studien Vorteile der KVT unmittelbar nach Behandlungsende und in drei Studien Hinweise auf ein reduziertes Spielverhalten durch Motivierende Gesprächsführung; eine spätere Metaanalyse randomisierter Studien (5 Studien, N = 477) bestätigte für Motivierende Gesprächsführung eine signifikante Reduktion der Spielhäufigkeit bis zu einem Jahr nach der Intervention, der Spielausgaben jedoch nur kurzfristig (1–3 Monate), sodass die Dauerhaftigkeit der Effekte offen bleibt (Cowlishaw et al., 2012; Yakovenko et al., 2015).",
+   "citation": "Cowlishaw, S., Merkouris, S., Dowling, N., Anderson, C., Jackson, A., & Thomas, S. (2012). Psychological therapies for pathological and problem gambling. Cochrane Database of Systematic Reviews, 2012(11), Article CD008937. https://doi.org/10.1002/14651858.CD008937.pub2 | Yakovenko, I., Quigley, L., Hemmelgarn, B. R., Hodgins, D. C., & Ronksley, P. (2015). The efficacy of motivational interviewing for disordered gambling: Systematic review and meta-analysis. Addictive Behaviors, 43, 72–82.",
+   "doi": "10.1002/14651858.CD008937.pub2",
+   "url": "https://www.cochrane.org/evidence/CD008937_psychological-therapies-pathological-and-problem-gambling",
+   "source_type": "Metaanalyse",
+   "relevance_section": "6.3",
+   "confidence": "medium",
+   "numbers": "Cowlishaw 2012: 14 eingeschlossene Studien; 9 KVT-Studien mit Vorteilen post-treatment; 3 MI-Studien; exakte SMD-Werte in dieser Sitzung nicht verifizierbar (Cochrane-Volltext gesperrt). Yakovenko 2015: 8 RCTs (N = 730) im systematischen Review, 5 (N = 477) in der Metaanalyse; Spielhäufigkeit signifikant reduziert bis 12 Monate; Ausgaben nur post-treatment (1–3 Monate); PMID 25577724."
+  },
+  {
+   "key": true,
+   "claim": "In einer Metaanalyse von neun randomisierten Studien (n = 658) reduzierten kognitiv-verhaltenstherapeutische Techniken bei Personen mit Glücksspielproblemen nicht nur das Spielverhalten, sondern zum Behandlungsende auch Angst (g = −0,44) und Depressivität (g = −0,35) und verbesserten die Lebensqualität (g = 0,40), was dafür spricht, dass eine glücksspielbezogene KVT komorbide Symptome mit erfasst (Pfund et al., 2023).",
+   "citation": "Pfund, R. A., King, S. A., Forman, D. P., Zech, J. M., Ginley, M. K., Peter, S. C., McAfee, N. W., Witkiewitz, K., & Whelan, J. P. (2023). Effects of cognitive-behavioral techniques for gambling on recovery defined by gambling, psychological functioning, and quality of life: A systematic review and meta-analysis. Psychology of Addictive Behaviors, 37(7), 936–945. https://doi.org/10.1037/adb0000910",
+   "doi": "10.1037/adb0000910",
+   "url": "https://etsu.elsevierpure.com/en/publications/effects-of-cognitive-behavioral-techniques-for-gambling-on-recove/",
+   "source_type": "Metaanalyse",
+   "relevance_section": "6.3",
+   "confidence": "high",
+   "numbers": "9 Studien, 658 Teilnehmende; 8 Studien mit Depressions-/Angst-Outcomes, 3 mit Substanzkonsum, 6 mit Lebensqualität; post-treatment: Angst g = −0,44; Depression g = −0,35; Lebensqualität g = 0,40. Hinweis: Erschienen in Psychology of Addictive Behaviors (nicht JCCP, wie im Suchauftrag vermutet)."
+  },
+  {
+   "key": true,
+   "claim": "Eine Metaanalyse von 34 offenen und placebokontrollierten Studien (n = 1.340) fand für Pharmakotherapien der Glücksspielstörung große bis mittlere Prä-Post-Effekte auf Gesamtschwere, Spielhäufigkeit und finanzielle Verluste (Hedges' g = 1,35; 1,22; 0,80), aber deutlich kleinere placebokontrollierte Effekte (g = 0,41; 0,11; 0,22), wobei Opioidantagonisten als Erstlinienoption gelten – in einer 18-wöchigen placebokontrollierten Studie mit 77 Personen blieben unter Naltrexon (50–150 mg/Tag) knapp 40 % mindestens einen Monat spielfrei gegenüber 10,5 % unter Placebo – und Lithium bei bipolarem Spektrum sowie Topiramat in Kombination mit kognitiver Intervention als vielversprechend eingestuft werden, ohne dass bislang ein Medikament für diese Indikation zugelassen ist (Goslar et al., 2019; Grant et al., 2008).",
+   "citation": "Goslar, M., Leibetseder, M., Muench, H. M., Hofmann, S. G., & Laireiter, A.-R. (2019). Pharmacological treatments for disordered gambling: A meta-analysis. Journal of Gambling Studies. https://doi.org/10.1007/s10899-018-09815-y | Grant, J. E., Kim, S. W., & Hartman, B. K. (2008). A double-blind, placebo-controlled study of the opiate antagonist naltrexone in the treatment of pathological gambling urges. Journal of Clinical Psychiatry, 69(5), 783–789. https://doi.org/10.4088/JCP.v69n0511",
+   "doi": "10.1007/s10899-018-09815-y",
+   "url": "https://publikationen.uni-tuebingen.de/xmlui/handle/10900/99440",
+   "source_type": "Metaanalyse",
+   "relevance_section": "6.2",
+   "confidence": "high",
+   "numbers": "Goslar 2019: 34 Studien, 1.340 Teilnehmende; Prä-Post Hedges' g = 1,35 (Gesamtschwere), 1,22 (Häufigkeit), 0,80 (finanzieller Verlust); kontrolliert g = 0,41; 0,11; 0,22 (robust nur für Gesamtschwere kurzfristig). Hinweis: erschienen im Journal of Gambling Studies (nicht J Behav Addict); Band/Seiten über DOI ergänzen. Grant 2008: n = 77, 18 Wochen, Naltrexon 50/100/150 mg/Tag vs. Placebo; signifikant stärkere Reduktion von PG-YBOCS, Spieldrang und Spielverhalten; ≥1 Monat Abstinenz ca. 40 % vs. 10,5 %. Ergänzend Grant et al. 2006 (Am J Psychiatry 163, 303–312): Nalmefen, n = 207, 16 Wochen, multizentrisch, hohe Abbruchrate."
+  },
+  {
+   "key": true,
+   "claim": "In einer 10-wöchigen randomisierten, doppelblinden, placebokontrollierten Studie mit 40 pathologischen Spielern mit Störungen des bipolaren Spektrums verbesserte retardiertes Lithium sowohl die Glücksspielsymptomatik als auch die affektive Instabilität signifikant gegenüber Placebo, mit 83 % Respondern (10 von 12 Completern) unter Lithium gegenüber 29 % (5 von 17) unter Placebo, was für eine gemeinsame Behandlung beider Störungen über die Affektstabilisierung spricht (Hollander et al., 2005).",
+   "citation": "Hollander, E., Pallanti, S., Allen, A., Sood, E., & Baldini Rossi, N. (2005). Does sustained-release lithium reduce impulsive gambling and affective instability versus placebo in pathological gamblers with bipolar spectrum disorders? American Journal of Psychiatry, 162(1), 137–145. https://doi.org/10.1176/appi.ajp.162.1.137",
+   "doi": "10.1176/appi.ajp.162.1.137",
+   "url": "https://psychiatryonline.org/doi/10.1176/appi.ajp.162.1.137",
+   "source_type": "RCT",
+   "relevance_section": "6.2",
+   "confidence": "high",
+   "numbers": "n = 40 (pathologisches Glücksspielen + bipolares Spektrum); 10 Wochen; doppelblind, placebokontrolliert; Responder 10/12 (83 %) Lithium SR vs. 5/17 (29 %) Placebo; signifikante Verbesserung von Glücksspiel-Scores und affektiver Instabilität; PMID 15625212."
+  },
+  {
+   "key": false,
+   "claim": "Kleine Studien sprechen dafür, dass die Behandlung der komorbiden Störung die Glücksspielsymptomatik mitbeeinflussen kann: Bei 13 Personen mit pathologischem Glücksspielen und komorbider Angststörung besserten sich unter offenem Escitalopram Glücksspiel- und Angstsymptome und nach doppelblindem Absetzen kam es unter Placebo zum Rückfall; bei 28 Personen mit Nikotinabhängigkeit und pathologischem Glücksspielen unter Verhaltenstherapie zeigte N-Acetylcystein in den ersten 6 Wochen Vorteile für die Nikotinabhängigkeit und in der 3-monatigen Nachbeobachtung zusätzlich für die Glücksspielschwere (Grant & Potenza, 2006; Grant et al., 2014).",
+   "citation": "Grant, J. E., & Potenza, M. N. (2006). Escitalopram treatment of pathological gambling with co-occurring anxiety: An open-label pilot study with double-blind discontinuation. International Clinical Psychopharmacology. | Grant, J. E., et al. (2014). A randomized, placebo-controlled trial of N-acetylcysteine plus imaginal desensitization for nicotine-dependent pathological gamblers. Journal of Clinical Psychiatry. [PMID 24345329; vollständige Autorenliste, Band, Seiten und DOI über PubMed/Zotero ergänzen]",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/24345329",
+   "source_type": "RCT",
+   "relevance_section": "6.2",
+   "confidence": "low",
+   "numbers": "Grant & Potenza 2006: n = 13; offene Phase mit doppelblinder, placebokontrollierter Absetzphase; Besserung unter Escitalopram, Rückfall unter Placebo. Grant et al. 2014: n = 28 (DSM-IV Nikotinabhängigkeit + pathologisches Glücksspielen) unter Verhaltenstherapie; 12 Wochen doppelblind NAC vs. Placebo; signifikanter Vorteil für Nikotinmaße in Wochen 1–6; signifikanter Zusatznutzen für Glücksspielschwere im 3-Monats-Follow-up. Bibliografische Details (Band, Seiten, Autorenliste) in dieser Sitzung nicht verifizierbar."
+  },
+  {
+   "key": true,
+   "claim": "Die britische NICE-Leitlinie NG248 (Januar 2025) empfiehlt bei schädlichem Glücksspiel als Erstes Gruppen-KVT (in der Regel 8–10 Sitzungen) oder Einzel-KVT (6–8 Sitzungen), rät, Naltrexon (Beginn 25 mg/Tag für 3 Tage, dann 50 mg/Tag über 4–6 Monate, begonnen unter fachärztlicher Aufsicht) erst bei unzureichendem Ansprechen oder wiederholten Rückfällen trotz Psychotherapie zu erwägen, und fordert, Menschen mit Suizidgedanken, Depression, Angst, Psychose, bipolarer Störung, PTBS, Persönlichkeitsstörung oder ADHS aktiv nach Glücksspiel zu fragen und die Beziehung zwischen psychischer Störung und Glücksspiel in die Diagnostik einzubeziehen (NICE, 2025).",
+   "citation": "National Institute for Health and Care Excellence. (2025). Gambling-related harms: Identification, assessment and management (NICE guideline NG248). NICE. https://www.nice.org.uk/guidance/ng248",
+   "url": "https://www.nice.org.uk/guidance/ng248",
+   "source_type": "Leitlinie",
+   "relevance_section": "6.2",
+   "confidence": "high",
+   "numbers": "Veröffentlicht 28.01.2025. Gruppen-KVT 8–10 Sitzungen, Einzel-KVT 6–8 Sitzungen; Naltrexon 25 mg/Tag für 3 Tage, dann 50 mg/Tag für 4–6 Monate, nur nach abgeschlossener Psychotherapie ohne gewünschtes Ergebnis oder bei wiederholten Rückfällen; Screening-Empfehlung bei Vorstellung mit psychischen Problemen (Selbstverletzung/Suizidalität, Depression, Angst, Psychose, bipolar, PTBS, Persönlichkeitsstörung, ADHS). Evidenzreviews zu Pharmakotherapie (Review E) und Versorgungsmodellen (Review D) vorhanden; Volltext in dieser Sitzung gesperrt, Angaben aus Sekundärzusammenfassungen."
+  },
+  {
+   "key": false,
+   "claim": "Für Aripiprazol, einen partiellen Dopamin-D2-Agonisten, der bei Psychosen und bipolaren Störungen breit eingesetzt wird, wurde auf Empfehlung des CHMP (Oktober 2012) pathologisches Glücksspielen als Nebenwirkung in die Abschnitte 4.4 und 4.8 der Fachinformation aufgenommen, verbunden mit dem Warnhinweis, dass Patienten mit Glücksspielen in der Vorgeschichte ein erhöhtes Risiko haben und sorgfältig überwacht werden sollten; die FDA warnte im Mai 2016 zusätzlich vor Ess-, Kauf- und Sexualimpulsen, die MHRA (2023) und die AkdÄ (2024) bekräftigten den Hinweis, sodass bei Doppeldiagnosen mit Psychose eine gezielte Medikamentenanamnese naheliegt (EMA, 2012; FDA, 2016; MHRA, 2023; AkdÄ, 2024).",
+   "citation": "European Medicines Agency, Committee for Medicinal Products for Human Use. (2012). Opinions on safety variations adopted during the CHMP meeting 15–18 October 2012. EMA. https://www.ema.europa.eu/en/documents/other/opinions-safety-variations-adopted-during-chmp-meeting-15-18-october-2012_en.pdf | U.S. Food and Drug Administration. (2016, 3. Mai). FDA Drug Safety Communication: FDA warns about new impulse-control problems associated with mental health drug aripiprazole (Abilify, Abilify Maintena, Aristada). https://www.fda.gov/drugs/drugsafety/ucm498662.htm | Medicines and Healthcare products Regulatory Agency. (2023). Aripiprazole (Abilify and generic brands): Risk of pathological gambling. Drug Safety Update, Dezember 2023. https://www.gov.uk/drug-safety-update/aripiprazole-abilify-and-generic-brands-risk-of-pathological-gambling | Arzneimittelkommission der deutschen Ärzteschaft. (2024). Information zu Aripiprazol: Pathologisches Spielen (Drug Safety Mail 2024-02). https://www.akdae.de/arzneimittelsicherheit/drug-safety-mail/newsdetail/drug-safety-mail-2024-02",
+   "url": "https://www.gov.uk/drug-safety-update/aripiprazole-abilify-and-generic-brands-risk-of-pathological-gambling",
+   "source_type": "Sonstiges",
+   "relevance_section": "6.2",
+   "confidence": "medium",
+   "numbers": "EMA/CHMP Oktober 2012: Aufnahme von 'pathological gambling' in SmPC 4.4 (Warnhinweis, erhöhtes Risiko bei Glücksspiel in der Vorgeschichte, sorgfältige Überwachung) und 4.8 (Post-Marketing-Nebenwirkung). FDA Drug Safety Communication 03.05.2016 (Glücksspiel, Essen, Einkaufen, Sex; Rückbildung nach Absetzen/Dosisreduktion). MHRA Drug Safety Update Dezember 2023; AkdÄ Drug Safety Mail 2024-02. Ergänzend: Moore, Glenmullen & Mattison (2014, JAMA Internal Medicine) – 710 Fälle schwerer Impulskontrollstörungen unter Dopaminagonisten in 10 Jahren FDA-Datenbank, Effekte für alle 6 Substanzen. Exakte Wortlaute der Dokumente in dieser Sitzung nicht direkt lesbar; Fachinformation (Rote Liste) und S3-Leitlinie Schizophrenie nicht geprüft."
+  },
+  {
+   "key": false,
+   "claim": "Eine Metaanalyse von 12 KVT-Studien zur Internet Gaming Disorder fand große Prä-Post-Effekte auf die Gaming-Symptomatik (g = 0,92; 95 %-KI 0,50–1,34) und auf Depressivität (g = 0,80; 0,21–1,38) sowie mittlere Effekte auf Angst (g = 0,55; 0,17–0,93), während die Datenlage für eine Reduktion der Spielzeit nicht ausreichte; ein systematisches Review von 22 Behandlungsstudien (8 Medikamente, 7 KVT, 7 andere) mahnt jedoch, dass methodische Mängel derzeit keine belastbaren Wirksamkeitsaussagen für irgendeine Behandlung erlauben (Stevens et al., 2019; Zajac et al., 2020).",
+   "citation": "Stevens, M. W. R., King, D. L., Dorstyn, D., & Delfabbro, P. H. (2019). Cognitive-behavioral therapy for Internet gaming disorder: A systematic review and meta-analysis. Clinical Psychology & Psychotherapy, 26(2), 191–203. | Zajac, K., Ginley, M. K., & Chang, R. (2020). Treatments of internet gaming disorder: A systematic review of the evidence. Expert Review of Neurotherapeutics, 20(1), 85–93.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/30341981/",
+   "source_type": "Metaanalyse",
+   "relevance_section": "6.3",
+   "confidence": "high",
+   "numbers": "Stevens 2019: 12 unabhängige KVT-Studien; Hedges' g IGD-Symptome 0,92 [0,50; 1,34]; Depression 0,80 [0,21; 1,38]; Angst 0,55 [0,17; 0,93] (post-test); keine ausreichende Power für Spielzeit; PMID 30341981. Zajac 2020: 22 Studien (8 Pharmakotherapie, 7 KVT, 7 sonstige psychosoziale); Fazit: methodische Mängel verhindern starke Schlussfolgerungen. DOIs in dieser Sitzung nicht verifizierbar."
+  },
+  {
+   "key": true,
+   "claim": "In der multizentrischen randomisierten STICA-Studie mit 143 Männern mit Internet- und Computerspielsucht aus vier spezialisierten Ambulanzen (72 STICA, 71 Warteliste) erreichten nach 15 wöchentlichen Gruppen- und bis zu 8 Einzelsitzungen manualisierter KVT 50 Patienten (69,4 %) der Behandlungsgruppe eine Remission (AICA-S < 7) gegenüber 17 Patienten (23,9 %) der Wartelistengruppe, womit erstmals in Deutschland ein wirksames Behandlungsprogramm für Computerspielsucht in einer RCT belegt wurde (Wölfling et al., 2019).",
+   "citation": "Wölfling, K., Müller, K. W., Dreier, M., Ruckes, C., Deuster, O., Batra, A., Mann, K., Musalek, M., Schuster, A., Lemenager, T., Hanke, S., & Beutel, M. E. (2019). Efficacy of short-term treatment of internet and computer game addiction: A randomized clinical trial. JAMA Psychiatry, 76(10). [Seiten und DOI über Zotero ergänzen]",
+   "url": "https://alert.psychnews.org/2019/07/cbt-program-reduces-addictive-internet.html",
+   "source_type": "RCT",
+   "relevance_section": "6.3",
+   "confidence": "high",
+   "numbers": "n = 143 Männer; 4 Spezialambulanzen; 72 STICA vs. 71 Warteliste; 15 wöchentliche Gruppensitzungen + bis zu 8 Einzelsitzungen; primärer Endpunkt Remission AICA-S < 7: 50 (69,4 %) vs. 17 (23,9 %); Online-Publikation Juli 2019, Heft Oktober 2019 (76[10]); ClinicalTrials.gov NCT01434589. Versorgungskontext: Die 2008 an der Klinik für Psychosomatische Medizin der Universitätsmedizin Mainz (Beutel/Wölfling) gegründete Ambulanz für Spielsucht gilt als erste deutsche Spezialeinrichtung für Computerspiel-/Internetsucht, nach Presseangaben 400–500 Fälle/Jahr (nicht primär verifiziert)."
+  },
+  {
+   "key": false,
+   "claim": "Bei Kindern mit ADHS und problematischem Online-Spielen senkte eine 8-wöchige offene Behandlung mit OROS-Methylphenidat (n = 62, medikamentennaiv) die Internetsuchtwerte (YIAS-K) und die Nutzungszeit signifikant, wobei die Verbesserung mit der Abnahme der Unaufmerksamkeit korrelierte; in einer 12-wöchigen randomisierten, einfach verblindeten Vergleichsstudie mit 84 männlichen Jugendlichen mit ADHS und Internet Gaming Disorder reduzierten Methylphenidat (n = 44) und Atomoxetin (n = 40) die Gaming-Symptomatik ohne signifikanten Unterschied, vermittelt über eine Abnahme der Impulsivität, was Spielen als Selbstmedikation bei ADHS und die Behandlung der Grunderkrankung als Ansatzpunkt stützt (Han et al., 2009; Park et al., 2016).",
+   "citation": "Han, D. H., Lee, Y. S., Na, C., Ahn, J. Y., Chung, U. S., Daniels, M. A., Haws, C. A., & Renshaw, P. F. (2009). The effect of methylphenidate on Internet video game play in children with attention-deficit/hyperactivity disorder. Comprehensive Psychiatry, 50(3), 251–256. | Park, J. H., Lee, Y. S., Sohn, J. H., & Han, D. H. (2016). Effectiveness of atomoxetine and methylphenidate for problematic online gaming in adolescents with attention deficit hyperactivity disorder. Human Psychopharmacology: Clinical and Experimental. [Band, Seiten, DOI über Zotero ergänzen]",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/19374970",
+   "source_type": "RCT",
+   "relevance_section": "6.2",
+   "confidence": "medium",
+   "numbers": "Han 2009: n = 62 (52 m, 10 w), medikamentennaiv, ADHS + Internet-Videospiel; 8 Wochen OROS-MPH (Concerta), offen, ohne Kontrollgruppe; YIAS-K und Nutzungszeit signifikant reduziert; Änderung YIAS-K korreliert mit Änderung Gesamt-/Unaufmerksamkeitsscore (K-ARS) und Omissionsfehlern (CPT); PMID 19374970. Park 2016: n = 84 männliche Jugendliche, ADHS + IGD; MPH n = 44 vs. ATM n = 40; 12 Wochen; prospektiv, randomisiert, einfach verblindet; beide reduzieren IGD-Symptome (YIAS), kein Gruppenunterschied; Änderung IGD assoziiert mit Änderung Impulsivität. Hinweis: Park 2016 erschien in Human Psychopharmacology (nicht Clin Psychopharmacol Neurosci); Autorenlisten aus Sekundärquellen, nicht final verifiziert."
+  },
+  {
+   "key": true,
+   "claim": "In einer randomisierten, doppelblinden Studie mit 50 Männern mit exzessivem Online-Spielen und komorbider Major Depression reduzierte Bupropion plus Psychoedukation über 8 Wochen die Internetsuchtwerte (YIAS), die Online-Spielzeit und die Depressivität (BDI) signifikant stärker als Placebo plus Psychoedukation; in der 4-wöchigen Nachbeobachtung blieb die Reduktion des Spielens bestehen, während die depressiven Symptome wieder zunahmen, was für eine teilweise Entkopplung beider Störungsverläufe spricht (Han & Renshaw, 2012).",
+   "citation": "Han, D. H., & Renshaw, P. F. (2012). Bupropion in the treatment of problematic online game play in patients with major depressive disorder. Journal of Psychopharmacology, 26(5), 689–696.",
+   "url": "https://scholarworks.bwise.kr/cau/handle/2019.sw.cau/20333",
+   "source_type": "RCT",
+   "relevance_section": "6.2",
+   "confidence": "high",
+   "numbers": "n = 50 Männer (exzessives Online-Spielen + Major Depression); Bupropion + Edukation vs. Placebo + Edukation; 12 Wochen (8 Wochen aktive Behandlung + 4 Wochen Follow-up); YIAS, Spielzeit und BDI im Bupropion-Arm signifikant stärker reduziert; nach Absetzen Spielreduktion persistierend, Depression rezidivierend. Ergänzend Song et al. (2016; 6-wöchige offene Vergleichsstudie, 119 männliche Jugendliche/Erwachsene mit IGD: Bupropion n = 44, Escitalopram n = 42, Beobachtung n = 33–36): YIAS-Abnahme unter beiden Antidepressiva, nicht in der Kontrollgruppe, stärker unter Bupropion; Zeitschrift (vermutlich Psychiatry and Clinical Neurosciences) in dieser Sitzung nicht verifiziert."
+  },
+  {
+   "key": true,
+   "claim": "In einer kontrollierten Pilotstudie mit 44 Patienten mit chronischer Schizophrenie und pathologischem Glücksspielen erzielte eine kognitiv-verhaltenstherapeutische Glücksspielbehandlung (n = 23) gegenüber einer unbehandelten Kontrollgruppe (n = 21) nach 3 Monaten und im Verlauf eine Erfolgsrate von 73,9 % gegenüber 19,0 %, was dafür spricht, dass glücksspielspezifische KVT auch bei schwerer psychotischer Komorbidität anwendbar und wirksam sein kann (Echeburúa et al., 2011).",
+   "citation": "Echeburúa, E., Gómez, M., & Freixa, M. (2011). Cognitive-behavioural treatment of pathological gambling in individuals with chronic schizophrenia: A pilot study. Behaviour Research and Therapy, 49(11), 808–814. https://doi.org/10.1016/j.brat.2011.08.009",
+   "doi": "10.1016/j.brat.2011.08.009",
+   "url": "https://ekoizpen-zientifikoa.ehu.eus/documentos/5ecfb376299952687c55681d?lang=en",
+   "source_type": "RCT",
+   "relevance_section": "6.4",
+   "confidence": "high",
+   "numbers": "n = 44 'duale' Patienten (Schizophrenie + pathologisches Glücksspielen); Experimentalgruppe n = 23 (KVT), Kontrollgruppe n = 21 (keine Intervention), 3 Monate; Erfolgsrate 73,9 % vs. 19,0 % nach Behandlung und im Follow-up. Kontrollierte Pilotstudie; Randomisierungsmodus aus Abstract nicht eindeutig."
+  },
+  {
+   "key": false,
+   "claim": "Störungsspezifische integrative Programme sind für Verhaltenssüchte bislang nur in Pilotstudien geprüft: Die erste Behandlungsstudie zu Seeking Safety bei komorbider PTBS und pathologischem Glücksspielen umfasste nur sieben ambulante Patientinnen und Patienten, und eine 9-wöchige verkürzte Dialektisch-Behaviorale Therapie bei 14 'therapieresistenten' Problemspielern veränderte das Spielverhalten statistisch nicht signifikant, obwohl 83 % danach abstinent waren oder weniger ausgaben und sich psychische Belastung, Achtsamkeit und Stresstoleranz klinisch bedeutsam verbesserten, sodass die aus der Substanzbehandlung bekannten Ansätze als prinzipiell übertragbar, nicht aber als belegt gelten können (Najavits et al., 2013; Christensen et al., 2013).",
+   "citation": "Najavits, L. M., Smylie, D., Johnson, K., Lung, J., Gallop, R. J., & Classen, C. C. (2013). Seeking Safety therapy for pathological gambling and PTSD: A pilot outcome study. Journal of Psychoactive Drugs, 45(1), 10–16. | Christensen, D. R., Dowling, N. A., Jackson, A. C., Brown, M., Russo, J., Francis, K. L., & Umemoto, A. (2013). A proof of concept for using brief dialectical behavior therapy as a treatment for problem gambling. Behaviour Change, 30(2), 117–137. https://doi.org/10.1017/bec.2013.10",
+   "doi": "10.1017/bec.2013.10",
+   "url": "https://acuresearchbank.acu.edu.au/item/88x21/a-proof-of-concept-for-using-brief-dialectical-behavior-therapy-as-a-treatment-for-problem-gambling",
+   "source_type": "Sonstiges",
+   "relevance_section": "6.4",
+   "confidence": "medium",
+   "numbers": "Najavits 2013: n = 7 ambulante Patienten mit aktueller PG + PTBS, beide Geschlechter, 29 % Minderheiten; erste Outcome-Studie dieser Population (Journal of Psychoactive Drugs, nicht J Gambl Stud); Ergebnisdetails in dieser Sitzung nicht abrufbar; PMID 23662327. Christensen 2013: n = 14 therapieresistente Problemspieler, 9 Wochen DBT in Spezialdiensten (Melbourne); keine signifikante Änderung der Spielmaße; 83 % abstinent oder reduzierte Ausgaben prä-post; signifikante Verbesserung von Distress, Achtsamkeit, Stresstoleranz (Behaviour Change, nicht J Gambl Stud)."
+  },
+  {
+   "key": false,
+   "claim": "In einer randomisierten Studie mit 217 Patienten in Suchtbehandlung, die zusätzlich Glücksspielprobleme aufwiesen, gingen Spieltage, verspielte Geldbeträge und Glücksspielprobleme nach allen drei Interventionen (10- bis 15-minütige Psychoedukation, 10- bis 15-minütige Kurzberatung oder vier 50-minütige Sitzungen Motivational Enhancement plus KVT) bis zum Monat 5 deutlich zurück und nahmen bis zur 24-Monats-Katamnese weiter moderat ab, was dafür spricht, dass glücksspielbezogene Kurzinterventionen in die Substanzbehandlung integriert werden können – zumal nach Angaben derselben Arbeitsgruppe bis zu 20–23 % der Patienten in Suchtbehandlung glücksspielbezogene Probleme aufweisen (Petry et al., 2016).",
+   "citation": "Petry, N. M., Rash, C. J., & Alessi, S. M. (2016). A randomized controlled trial of brief interventions for problem gambling in substance abuse treatment patients. Journal of Consulting and Clinical Psychology, 84(10), 874–886.",
+   "url": "https://www.recoveryanswers.org/research-post/rolling-the-dice-brief-interventions-for-problem-gambling-in-substance-use-disorder-treatment/",
+   "source_type": "RCT",
+   "relevance_section": "6.4",
+   "confidence": "high",
+   "numbers": "n = 217 Patienten in Substanzbehandlung mit Glücksspielproblemen; 3 Arme: Psychoedukation (10–15 min), Kurzberatung (10–15 min), MET + KVT (4 × 50 min); Spieltage, Dollar und Glücksspielprobleme in allen Gruppen bis Monat 5 deutlich reduziert; weiter moderate, signifikante Reduktion von Ausgaben und Problemen bis Monat 24. Prävalenzangabe 20–23 % aus Sekundärquelle (recoveryanswers.org) zur Petry-Arbeitsgruppe."
+  },
+  {
+   "key": false,
+   "claim": "In einer vorläufigen Evaluation eines KVT-Programms für Frauen mit pathologischem Glücksspielen, die das Behandlungsziel selbst wählten, erfüllten in der Completer-Analyse 89 % der Teilnehmerinnen mit Abstinenzziel und 82 % mit dem Ziel kontrollierten Spielens am Ende der 6-monatigen Nachbeobachtung die Diagnosekriterien nicht mehr, was kontrolliertes Spielen als alternatives, die Behandlungsbereitschaft erhöhendes Ziel vorläufig stützt, ohne dass Daten speziell für Doppeldiagnose-Patienten vorliegen (Dowling et al., 2009).",
+   "citation": "Dowling, N., Smith, D., & Thomas, T. (2009). A preliminary investigation of abstinence and controlled gambling as self-selected goals of treatment for female pathological gambling. Journal of Gambling Studies, 25(2), 201–214. https://doi.org/10.1007/s10899-009-9116-1",
+   "doi": "10.1007/s10899-009-9116-1",
+   "url": "https://www.springermedicine.com/a-preliminary-investigation-of-abstinence-and-controlled-gamblin/21661402",
+   "source_type": "Sonstiges",
+   "relevance_section": "6.1",
+   "confidence": "medium",
+   "numbers": "Frauen mit pathologischem Glücksspielen; KVT mit selbst gewähltem Ziel Abstinenz vs. kontrolliertes Spielen; Completer-Analyse: 89 % (Abstinenz) vs. 82 % (kontrolliert) ohne Diagnosekriterien am Ende des 6-Monats-Follow-up; vergleichbare Verbesserung beider Gruppen; Stichprobengröße in dieser Sitzung nicht abrufbar. Ergänzend Ladouceur, Lachance & Fournier (2009, 'Is control a viable goal in the treatment of pathological gambling?', Behaviour Research and Therapy): viele Teilnehmende hätten sich bei Abstinenzziel nicht in Behandlung begeben, ein Teil wechselte im Verlauf von Kontrolle zu Abstinenz – Band/Seiten/DOI nicht verifiziert."
+  },
+  {
+   "key": false,
+   "claim": "In der ersten schwedischen Universitätsambulanz für Glücksspielstörung (Malmö/Lund) erhielten 58 % von 106 zwischen Januar 2016 und April 2017 strukturiert untersuchten Patienten mindestens eine weitere psychiatrische Diagnose – am häufigsten Angst-, Belastungs- und somatoforme Störungen (29 %), affektive Störungen (22 %) und Alkohol- oder Drogenstörungen (12 %) –, und 84 % spielten vorwiegend Online-Casino oder Online-Sportwetten, was psychiatrische Komorbidität als Regelfall in der Glücksspielbehandlung und als Behandlungsherausforderung kennzeichnet (Håkansson et al., 2017).",
+   "citation": "Håkansson, A., Mårdhed, E., & Zaar, M. (2017). Who seeks treatment when medicine opens the door to pathological gambling patients—Psychiatric comorbidity and heavy predominance of online gambling. Frontiers in Psychiatry, 8, Article 255. https://doi.org/10.3389/fpsyt.2017.00255",
+   "doi": "10.3389/fpsyt.2017.00255",
+   "url": "https://www.frontiersin.org/articles/10.3389/fpsyt.2017.00255/full",
+   "source_type": "Kohorte/Register",
+   "relevance_section": "5",
+   "confidence": "high",
+   "numbers": "n = 106 Patienten, strukturierte Diagnostik Januar 2016–April 2017; 58 % mit mindestens einer weiteren psychiatrischen Diagnose; Angst/Belastung/somatoform 29 %, affektiv 22 %, Alkohol/Drogen 12 %; Online-Casino/Online-Sportwetten 84 %. Schwedische iCBT-Studien zu Glücksspielstörung (ISRCTN38692394; JMIR 2024, e54754, iCBT in der Routine-Suchtversorgung) existieren, Komorbiditätsergebnisse in dieser Sitzung nicht verifizierbar."
+  },
+  {
+   "key": false,
+   "claim": "Der schwedische HTA-Bericht zu Interventionen bei gleichzeitigen Sucht- und psychischen Störungen (SBU-Bericht 372, Mai 2025) benennt die Behandlung psychischer Störungen bei gleichzeitiger Glücksspielstörung ausdrücklich als Forschungslücke, während er für Substanzstörungen festhält, dass psychologische und psychosoziale Behandlungen Konsum und psychiatrische Symptome reduzieren können, Naltrexon den Alkoholkonsum bei Alkoholabhängigkeit mit psychiatrischer Komorbidität ohne erkennbaren Nachteil für die psychische Störung senken kann und die Evidenz zur Pharmakotherapie insgesamt weitgehend fehlt (SBU, 2025).",
+   "citation": "Statens beredning för medicinsk och social utvärdering. (2025). Interventions for adults with co-occurring addictive and psychiatric disorders: A systematic review including health economic and ethical aspects (SBU Assessment No. 372). SBU. https://www.sbu.se/372en",
+   "url": "https://www.sbu.se/contentassets/b02bb16313ed422c9d503cb5921bc423/english-summary_372.pdf",
+   "source_type": "systematisches Review",
+   "relevance_section": "6.5",
+   "confidence": "medium",
+   "numbers": "Bericht Nr. 372, publiziert 26.05.2025 (schwedischer Titel: 'Behandling och sociala stödinsatser vid samsjuklighet mellan beroende och andra psykiatriska tillstånd'). Forschungsbedarf explizit für: psychische Störungen + Glücksspielstörung; Sucht + Angststörungen, Zwangsstörung, neuropsychiatrische Störungen, Persönlichkeitsstörungen, Essstörungen. Ob Glücksspielstörung in den PICO-Kriterien eingeschlossen und nur keine Studien gefunden wurden, konnte mangels Zugriff auf den Volltext nicht geklärt werden."
+  },
+  {
+   "key": false,
+   "claim": "In Deutschland erkannten die Spitzenverbände der Krankenkassen und Rentenversicherungsträger mit den 'Empfehlungen für die medizinische Rehabilitation bei Pathologischem Glücksspielen' vom 26. März 2001 das pathologische Glücksspielen als eigenständige Krankheit an und regelten erstmals ambulante und stationäre Rehabilitationsleistungen – ohne die bei stoffgebundenen Abhängigkeiten übliche Trennung in Entgiftung und Entwöhnung –, und nach der Deutschen Suchthilfestatistik 2023 (897 ambulante, 156 stationäre Einrichtungen; 331.537 ambulante, 36.868 stationäre Behandlungen) entfallen auf die Hauptdiagnose pathologisches Glücksspielen 3,2 % der ambulanten und 1,4 % der stationären Behandlungen, auf exzessive Mediennutzung/Computerspielen 1,4 % bzw. 0,3 %, sodass Verhaltenssüchte in der Suchthilfe ein kleines, aber etabliertes Segment bilden (Spitzenverbände der Krankenkassen & Rentenversicherungsträger, 2001; IFT, 2024).",
+   "citation": "Spitzenverbände der Krankenkassen & Verband Deutscher Rentenversicherungsträger. (2001). Empfehlungen der Spitzenverbände der Krankenkassen und Rentenversicherungsträger für die medizinische Rehabilitation bei Pathologischem Glücksspielen vom 26. März 2001. https://www.gluecksspielsucht.de/materialien/EMPFEH1D.pdf | IFT Institut für Therapieforschung. (2024). Suchthilfe in Deutschland 2023: Jahresbericht der Deutschen Suchthilfestatistik (DSHS). IFT. https://www.suchthilfestatistik.de/fileadmin/user_upload_dshs/05_publikationen/jahresberichte/DSHS_DJ2023_Jahresbericht.pdf",
+   "url": "https://www.suchthilfestatistik.de/publikationen/jahresberichte.html",
+   "source_type": "Sonstiges",
+   "relevance_section": "6.5",
+   "confidence": "medium",
+   "numbers": "Empfehlungen vom 26.03.2001: Anerkennung als eigenständiges Krankheitsbild innerhalb der psychischen Störungen; Grundlage für Finanzierung ambulanter und stationärer Reha; keine Entgiftungs-/Entwöhnungstrennung; Behandlungs- und Nachsorgeanspruch. DSHS Datenjahr 2023 (Jahresbericht publiziert 30.11.2024): 897 ambulante + 156 stationäre Einrichtungen; 331.537 ambulante + 36.868 stationäre Behandlungen; Hauptdiagnose F63.0 3,2 % ambulant / 1,4 % stationär; exzessive Mediennutzung 1,4 % / 0,3 %. Prozentwerte stammen aus einer Suchzusammenfassung; PDF (dhs.de, suchthilfestatistik.de) in dieser Sitzung gesperrt, Autorenliste des Jahresberichts nicht verifiziert."
+  }
+ ],
+ "gaps": [
+  "Cochrane-Review Cowlishaw et al. 2012: exakte SMD-Werte und Teilnehmerzahl (cochrane.org und alle Spiegel gesperrt).",
+  "NICE NG248: Originalwortlaut der Empfehlungen zu gleichzeitiger Behandlung komorbider psychischer Störungen, Angehörigen-/Carer-Einbezug, Schuldenberatung und zu glücksspielauslösenden Medikamenten (Dopaminagonisten/Aripiprazol) nicht abrufbar; nur KVT-/Naltrexon-/Screening-Empfehlungen aus Sekundärquellen.",
+  "Bartley & Bloch 2013 (Expert Rev Neurother), Kim et al. 2001 (Naltrexon) und einzelne Topiramat-Studien nicht recherchiert (Suchbudget erschöpft); Topiramat nur über Goslar et al. 2019.",
+  "Ladouceur et al. 2009 ('Is control a viable goal...', Behaviour Research and Therapy): Existenz bestätigt, Band/Seiten/DOI und Ergebniszahlen nicht verifizierbar; Ladouceur 2012 nicht gefunden.",
+  "Suchtverlagerung/Cross-Addiction (Zunahme von Glücksspiel nach Substanzabstinenz): keine belastbare empirische Quelle gefunden, nur Klinik-/Laienseiten – als Lücke zu markieren.",
+  "Schuldenberatung als Bestandteil integrierter Glücksspielbehandlung: nur graue Literatur (z. B. Modul 'Existenzsicherungsberatung' Fachstelle Glücksspielsucht Steiermark mit Schuldnerberatung; Beratungskonzept Bremer Fachstelle), keine kontrollierten Studien.",
+  "Angehörigenarbeit bei Glücksspiel-/Computerspielstörung mit psychiatrischer Komorbidität: keine zitierfähige Studie oder Leitlinienaussage gesichert.",
+  "Schwedische Internet-KVT bei Glücksspielstörung mit Komorbidität (Håkansson/Lund, JMIR 2024 e54754; ISRCTN38692394): Design und Ergebnisse nicht verifizierbar.",
+  "Song et al. 2016 (Bupropion vs. Escitalopram): Zeitschrift, Autorenliste und Kontrollgruppengröße (33 vs. 36) nicht eindeutig.",
+  "Zheng et al. (Metaanalyse Pharmakotherapie bei Gaming Disorder) nicht recherchiert.",
+  "SBU 2025: ob Glücksspielstörung formal im Scope (PICO) lag oder nur als Forschungslücke genannt wird, aus der englischen Zusammenfassung nicht eindeutig; Volltext (sbu.se) gesperrt.",
+  "S3-Leitlinie Schizophrenie und deutsche Fachinformation Aripiprazol (Rote Liste) zur Glücksspiel-Warnung nicht geprüft; AkdÄ Drug Safety Mail 2024-02 nur per Titel belegt.",
+  "ICD-11 'other specified disorders due to addictive behaviours' (6C5Y) und Abgrenzung zur zwanghaften Sexualverhaltensstörung (6C72): keine therapiebezogenen Quellen recherchiert (Klassifikationsthema, nicht Teil dieser Dimension).",
+  "Deutsche Suchthilfestatistik 2023: Prozentwerte zu Glücksspiel/Mediennutzung nur aus einer Suchzusammenfassung, Zweitprüfung am PDF nicht möglich; Autorenliste des DSHS-Jahresberichts offen.",
+  "Ambulanz für Spielsucht Mainz: Gründungsjahr 2008 und 400–500 Fälle/Jahr nur aus Presse (Ärzteblatt, Caritas 2009, BARMER-Interview), keine wissenschaftliche Primärquelle.",
+  "Integrierte Behandlung Glücksspiel + Alkohol/Drogen (Ledgerwood, Toneatto): nicht recherchiert; nur Petry et al. 2016 gesichert."
+ ],
+ "notes": "Antwort (ca. 500 Wörter): Die Datenlage zur Therapie von Verhaltenssüchten als Doppeldiagnose ist deutlich dünner als bei Substanzstörungen, lässt sich aber in vier Linien ordnen. Erstens ist die KVT bei Glücksspielstörung die am besten belegte Intervention: Das Cochrane-Review (Cowlishaw et al., 2012) zeigt Vorteile unmittelbar nach Behandlungsende, die Metaanalyse von Pfund et al. (2023; 9 RCTs, n = 658) belegt zusätzlich Effekte auf Angst (g = −0,44), Depression (g = −0,35) und Lebensqualität (g = 0,40) – für Doppeldiagnosen zentral, weil die glücksspielbezogene Behandlung komorbide Symptome mit erfasst. Motivierende Gesprächsführung wirkt vor allem kurzfristig (Yakovenko et al., 2015). NICE NG248 (2025) empfiehlt Gruppen-KVT (8–10 Sitzungen) als Erstlinie und Naltrexon erst bei Nichtansprechen oder wiederholten Rückfällen; zugleich fordert sie, Patientinnen und Patienten mit Depression, Angst, Psychose, bipolarer Störung, PTBS, Persönlichkeitsstörung oder ADHS aktiv nach Glücksspiel zu fragen. Zweitens kommt die Pharmakotherapie ohne zugelassenes Präparat aus: Goslar et al. (2019) zeigen große Prä-Post-, aber kleine placebokontrollierte Effekte; Opioidantagonisten gelten als Erstlinienoption (Grant et al., 2008: ≥1 Monat Abstinenz 40 % vs. 10,5 %). Für Doppeldiagnosen sind die komorbiditätsspezifischen Studien relevant: Lithium retard bei Glücksspiel plus bipolarem Spektrum (Hollander et al., 2005; Responder 83 % vs. 29 %), Escitalopram bei komorbider Angst (Grant & Potenza, 2006) und N-Acetylcystein bei Nikotinabhängigkeit (Grant et al., 2014). Umgekehrt ist die Medikation der psychischen Störung ein Risikofaktor: Für Aripiprazol wurde pathologisches Glücksspielen 2012 in die Fachinformation aufgenommen (EMA/CHMP), die FDA warnte 2016, MHRA (2023) und AkdÄ (2024) bekräftigten den Hinweis. Drittens ist für die Computerspielstörung die KVT wirksam (Stevens et al., 2019: g = 0,92 für Symptome, 0,80 für Depression), in Deutschland belegt durch die STICA-Studie (Wölfling et al., 2019: Remission 69,4 % vs. 23,9 %); Zajac et al. (2020) mahnen methodische Mängel an. Für Gaming plus Depression bzw. ADHS liegen kleine koreanische Studien vor: Bupropion reduzierte Spielzeit und Depressivität (Han & Renshaw, 2012), Methylphenidat und Atomoxetin reduzierten Gaming-Symptome über die Impulsivität (Han et al., 2009; Park et al., 2016). Viertens sind integrierte Ansätze bei Verhaltenssucht nur in Pilotstudien geprüft: KVT bei Schizophrenie plus Glücksspiel (Echeburúa et al., 2011; 73,9 % vs. 19,0 %), Seeking Safety bei PTBS plus Glücksspiel (Najavits et al., 2013; n = 7), DBT bei therapieresistenten Spielern (Christensen et al., 2013) und Kurzinterventionen in der Substanzbehandlung (Petry et al., 2016). Kontrolliertes Spielen als Ziel ist vorläufig gestützt (Dowling et al., 2009). Versorgung: Seit 2001 ist pathologisches Glücksspielen in Deutschland Reha-Indikation; in der Suchthilfestatistik 2023 entfallen 3,2 % (ambulant) bzw. 1,4 % (stationär) der Hauptdiagnosen auf Glücksspiel, 1,4 %/0,3 % auf Mediennutzung. SBU (2025) nennt Glücksspiel plus psychische Störung explizit als Forschungslücke. Methodische Einschränkungen dieser Recherche: 23 WebSearch-Abfragen (englisch und deutsch); sämtliche WebFetch-Zugriffe (Cochrane, NICE, SBU, DHS/Suchthilfestatistik, Wiley, Tandfonline, JAMA, psychiatrist.com, EMA, AkdÄ, Repositorien) waren per Egress-Policy gesperrt, danach war das Suchbudget erschöpft; Zahlen beruhen daher auf Abstract-Zusammenfassungen der Suchergebnisse, DOIs sind nur angegeben, wo sie in einer Quelle sichtbar waren, und unverifizierte Band-/Seitenangaben wurden weggelassen (über Zotero/DOI/PMID ergänzbar). Korrekturen gegenüber dem Suchauftrag: Pfund 2023 erschien in Psychology of Addictive Behaviors (nicht JCCP), Goslar 2019 im Journal of Gambling Studies (nicht J Behav Addict), Najavits 2013 im Journal of Psychoactive Drugs, Christensen 2013 in Behaviour Change, Park 2016 in Human Psychopharmacology; die Goslar-Metaanalyse zu Internet-, Sex- und Kaufsucht ist von 2020 (91 Studien, n = 3.531; Kombination KVT + Medikation Monotherapien überlegen). Ribeiro et al. (2021, BMC Psychiatry, 22 RCTs, n = 1.694; DOI 10.1186/s12888-021-03097-2) bestätigt das KVT-Bild und wurde wegen Überschneidung nicht als eigener Befund aufgenommen."
+}

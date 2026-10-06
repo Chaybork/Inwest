@@ -1,0 +1,217 @@
+{
+ "dimension": "Klassifikation und Nosologie der Verhaltenssüchte (ICD-11, DSM-5-TR) und ihre Einordnung als Doppeldiagnose",
+ "findings": [
+  {
+   "key": true,
+   "claim": "Die ICD-11 definiert die Computerspielstörung (Gaming disorder, 6C51) über drei Kernmerkmale – beeinträchtigte Kontrolle über das Spielen (Beginn, Häufigkeit, Intensität, Dauer, Beendigung, Kontext), zunehmende Priorität des Spielens gegenüber anderen Lebensinteressen und Alltagsaktivitäten sowie Fortsetzung oder Eskalation trotz negativer Konsequenzen –, verlangt eine deutliche Belastung oder Beeinträchtigung in persönlichen, familiären, sozialen, schulischen oder beruflichen Funktionsbereichen und setzt das Verhaltensmuster in der Regel über mindestens 12 Monate voraus, wobei die Dauer bei schwerer Symptomatik und erfüllten übrigen Anforderungen verkürzt werden kann (WHO, 2024).",
+   "citation": "World Health Organization. (2024). Clinical descriptions and diagnostic requirements for ICD-11 mental, behavioural and neurodevelopmental disorders. World Health Organization.",
+   "source_type": "Klassifikation",
+   "relevance_section": "2.1",
+   "confidence": "high",
+   "numbers": "ICD-11 MMS 6C51: Spezifizierer 6C51.0 'Gaming disorder, predominantly online', 6C51.1 'Gaming disorder, predominantly offline', 6C51.Z unspecified; Wortlaut: 'The gaming behaviour and other features are normally evident over a period of at least 12 months in order for a diagnosis to be assigned, although the required duration may be shortened if all diagnostic requirements are met and symptoms are severe.'",
+   "url": "https://icd.who.int/browse/2024-01/mms/en#1448597234",
+   "doi": ""
+  },
+  {
+   "key": true,
+   "claim": "Die Glücksspielstörung (Gambling disorder, 6C50) wird in der ICD-11 mit denselben drei Kernmerkmalen (impaired control, increasing priority, continuation or escalation despite negative consequences) und derselben 12-Monats-Regel definiert, mit Spezifizierern für vorwiegend offline (6C50.0) bzw. vorwiegend online (6C50.1) ausgeübtes Glücksspiel; als Ausschlüsse sind Bipolar-I- (6A60) und Bipolar-II-Störung (6A61) gelistet, sodass Glücksspielverhalten, das ausschließlich im Rahmen manischer Episoden auftritt, nicht als Glücksspielstörung kodiert wird, während eine gemeinsame Kodierung mit Substanzkonsumstörungen und anderen psychischen Störungen nach dem ICD-11-Komorbiditätsprinzip möglich bleibt (WHO, 2024).",
+   "citation": "World Health Organization. (2024). Clinical descriptions and diagnostic requirements for ICD-11 mental, behavioural and neurodevelopmental disorders. World Health Organization.",
+   "source_type": "Klassifikation",
+   "relevance_section": "2.1",
+   "confidence": "medium",
+   "numbers": "ICD-11 MMS Block 6C5 'Disorders due to addictive behaviours' (Kapitel 06, Gruppe 'Disorders due to substance use or addictive behaviours'); 6C50.0 predominantly offline, 6C50.1 predominantly online, 6C50.Z unspecified; Exclusions laut Sekundärquellen: Bipolar type I disorder (6A60), Bipolar type II disorder (6A61). Hinweis: Reihenfolge der Online/Offline-Spezifizierer ist bei 6C50 (.0 offline) und 6C51 (.0 online) unterschiedlich – im ICD-11-Browser prüfen (Host in dieser Sitzung gesperrt).",
+   "url": "https://icd.who.int/browse/2024-01/mms/en",
+   "doi": ""
+  },
+  {
+   "key": false,
+   "claim": "Für Verhaltensmuster unterhalb der Störungsschwelle hält die ICD-11 in Kapitel 24 ('Factors influencing health status or contact with health services') die Kategorien 'Hazardous gambling or betting' (QE21) und 'Hazardous gaming' (QE22) bereit, die zu verwenden sind, wenn das Verhalten die Aufmerksamkeit und Beratung von Gesundheitsfachpersonen rechtfertigt, aber die diagnostischen Anforderungen einer Glücksspiel- bzw. Computerspielstörung nicht erfüllt – eine Doppeldiagnose im engeren Sinn liegt dann nicht vor (WHO, 2024).",
+   "citation": "World Health Organization. (2024). ICD-11 for Mortality and Morbidity Statistics (Version 01/2024). World Health Organization. https://icd.who.int/browse/2024-01/mms/en",
+   "source_type": "Klassifikation",
+   "relevance_section": "2.4",
+   "confidence": "high",
+   "numbers": "QE21/QE22 unter 'Problems associated with health behaviours'; Wortlaut QE22: 'This category may be used when the pattern of gaming behaviour warrants attention and advice from health professionals but does not meet the diagnostic requirements for Gaming Disorder.' Analog QE21 für Gambling Disorder.",
+   "url": "https://icd.who.int/browse/2024-01/mms/en",
+   "doi": ""
+  },
+  {
+   "key": false,
+   "claim": "Neben Glücksspiel- und Computerspielstörung lässt die ICD-11 mit der Restkategorie 'other specified disorders due to addictive behaviours' (6C5Y) Raum für weitere Verhaltenssüchte; nach Brand et al. (2022) liegt für problematischen Pornografiekonsum, problematisches Kaufen und problematische Nutzung sozialer Netzwerke unterschiedlich starke Evidenz vor, die eine Zuordnung zu 6C5Y rechtfertigen kann, wobei die Autoren ausdrücklich davor warnen, alltägliches Verhalten zu überpathologisieren, ohne zugleich klinisch relevante Zustände zu bagatellisieren.",
+   "citation": "Brand, M., Rumpf, H.-J., Demetrovics, Z., Müller, A., Stark, R., King, D. L., Goudriaan, A. E., Mann, K., Trotzke, P., Fineberg, N. A., Chamberlain, S. R., Kraus, S. W., Wegmann, E., Billieux, J., & Potenza, M. N. (2022). Which conditions should be considered as disorders in the International Classification of Diseases (ICD-11) designation of \"other specified disorders due to addictive behaviors\"? Journal of Behavioral Addictions, 11(2), 150–159. https://doi.org/10.1556/2006.2020.00035",
+   "source_type": "narratives Review",
+   "relevance_section": "2.1",
+   "confidence": "medium",
+   "numbers": "Online publiziert 2020, Druckfassung 11(2), 150–159 (2022). Abstract-Wortlaut: 'Varying degrees of support for problematic forms of pornography use, buying and shopping, and use of social networks are available, and these conditions may fit the category of other specified disorders due to addictive behaviors'; 'it is important not to overpathologize everyday-life behavior while concurrently not trivializing conditions that are of clinical importance'. Die vorgeschlagenen Metakriterien (klinische Relevanz/Funktionsbeeinträchtigung, theoretische Einbettung, empirische Evidenz) konnten nicht wörtlich verifiziert werden. Folgedebatte: Brand & Potenza (2023), J Behav Addict, 12(3), 585–589 (drei Debattenpapiere, elf Kommentare, Schwerpunkt CSBD).",
+   "url": "https://uhra.herts.ac.uk/handle/2299/22951",
+   "doi": "10.1556/2006.2020.00035"
+  },
+  {
+   "key": false,
+   "claim": "Die zwanghafte Sexualverhaltensstörung (Compulsive sexual behaviour disorder, 6C72) ist in der ICD-11 bewusst nicht den Störungen durch Suchtverhalten, sondern den Impulskontrollstörungen zugeordnet, weil die WHO-Arbeitsgruppe die Evidenz für eine Einordnung als Suchtstörung als nicht ausreichend bewertete; für den Doppeldiagnose-Begriff bedeutet dies, dass die Kombination aus Substanzkonsumstörung und 6C72 formal eine Komorbidität, aber keine Doppeldiagnose zweier Suchtstörungen darstellt (Kraus et al., 2018).",
+   "citation": "Kraus, S. W., Krueger, R. B., Briken, P., First, M. B., Stein, D. J., Kaplan, M. S., Voon, V., Abdo, C. H. N., Grant, J. E., Atalla, E., & Reed, G. M. (2018). Compulsive sexual behaviour disorder in the ICD-11. World Psychiatry, 17(1), 109–110. https://doi.org/10.1002/wps.20499",
+   "source_type": "Sonstiges",
+   "relevance_section": "2.1",
+   "confidence": "medium",
+   "numbers": "World Psychiatry 17(1), 109–110; ICD-11 6C72 in Block 6C7 'Impulse control disorders'; Zeitkriterium laut ICD-11-Definition: Muster über einen längeren Zeitraum (z. B. 6 Monate oder mehr); Belastung, die ausschließlich auf moralischen Urteilen über sexuelle Impulse beruht, reicht nicht aus (aus Erinnerung, nicht in dieser Sitzung verifiziert). Peer Briken war Mitautor der CSBD-Sektion der WHO-Arbeitsgruppe.",
+   "url": "https://doi.org/10.1002/wps.20499",
+   "doi": "10.1002/wps.20499"
+  },
+  {
+   "key": true,
+   "claim": "Das DSM-5-TR führt die Störung durch Glücksspielen (Gambling disorder) im Kapitel 'Substance-Related and Addictive Disorders' als einzige nicht substanzbezogene Suchtstörung und verlangt mindestens 4 von 9 Kriterien innerhalb eines 12-Monats-Zeitraums, wobei das Verhalten nicht besser durch eine manische Episode erklärbar sein darf; der Schweregrad wird als leicht (4–5 Kriterien), mittel (6–7) oder schwer (8–9) spezifiziert, ergänzt um die Verlaufsspezifizierer episodisch/persistierend sowie frühe/anhaltende Remission (APA, 2022).",
+   "citation": "American Psychiatric Association. (2022). Diagnostic and statistical manual of mental disorders (5th ed., text rev.). American Psychiatric Association Publishing. https://doi.org/10.1176/appi.books.9780890425787",
+   "source_type": "Klassifikation",
+   "relevance_section": "2.1",
+   "confidence": "high",
+   "numbers": "Kriterium A: 'four (or more) of the following in a 12-month period': (1) Toleranz (steigende Einsätze), (2) Unruhe/Reizbarkeit bei Reduktionsversuchen, (3) wiederholt erfolglose Kontrollversuche, (4) gedankliche Eingenommenheit, (5) Spielen bei negativen Gefühlszuständen, (6) 'chasing' von Verlusten, (7) Lügen über das Ausmaß, (8) Gefährdung/Verlust von Beziehung, Arbeit, Ausbildung, (9) finanzielle 'bailouts' durch andere. Kriterium B: 'not better explained by a manic episode'. Severity: mild 4–5, moderate 6–7, severe 8–9.",
+   "url": "https://doi.org/10.1176/appi.books.9780890425787",
+   "doi": "10.1176/appi.books.9780890425787"
+  },
+  {
+   "key": true,
+   "claim": "Die Internet Gaming Disorder ist im DSM-5-TR nicht als etablierte Diagnose, sondern in Sektion III unter 'Conditions for Further Study' mit 9 vorgeschlagenen Kriterien (u. a. gedankliche Eingenommenheit, Entzugssymptome, Toleranz, erfolglose Kontrollversuche, Interessenverlust, Fortsetzung trotz Problemen, Täuschung, Spielen zur Stimmungsregulation, Gefährdung von Beziehungen oder Chancen) gelistet, von denen 5 oder mehr in einem 12-Monats-Zeitraum erfüllt sein sollen; Internet-Glücksspiel ist ausdrücklich ausgeschlossen, sodass eine Doppeldiagnose auf dieser Basis im DSM-System nur als Forschungsdiagnose formulierbar ist (APA, 2022).",
+   "citation": "American Psychiatric Association. (2022). Diagnostic and statistical manual of mental disorders (5th ed., text rev.). American Psychiatric Association Publishing. https://doi.org/10.1176/appi.books.9780890425787",
+   "source_type": "Klassifikation",
+   "relevance_section": "2.1",
+   "confidence": "high",
+   "numbers": "'five (or more) of the following in a 12-month period'; 9 Kriterien, aus den Kriterien für Substanzkonsum- und Glücksspielstörungen abgeleitet; Schweregrad mild/moderate/severe nach Grad der Beeinträchtigung; Sektion III = 'Emerging Measures and Models'.",
+   "url": "https://doi.org/10.1176/appi.books.9780890425787",
+   "doi": "10.1176/appi.books.9780890425787"
+  },
+  {
+   "key": false,
+   "claim": "Mit dem DSM-5 wurde das 'pathologische Spielen' aus den DSM-IV-Impulskontrollstörungen in 'Gambling Disorder' umbenannt, in das Kapitel der substanzbezogenen und Suchtstörungen verschoben, das Kriterium 'illegale Handlungen' gestrichen und die Diagnoseschwelle von 5 auf 4 Kriterien gesenkt; begründet wurde die Neuzuordnung mit Ähnlichkeiten zu Substanzkonsumstörungen in klinischem Erscheinungsbild, Ätiologie, Komorbidität, Physiologie und Behandlung (Petry et al., 2014).",
+   "citation": "Petry, N. M., Blanco, C., Auriacombe, M., Borges, G., Bucholz, K., Crowley, T. J., Grant, B. F., Hasin, D. S., & O'Brien, C. (2014). An overview of and rationale for changes proposed for pathological gambling in DSM-5. Journal of Gambling Studies, 30(2), 493–502. https://doi.org/10.1007/s10899-013-9370-0",
+   "source_type": "narratives Review",
+   "relevance_section": "2.1",
+   "confidence": "high",
+   "numbers": "Wortlaut Abstract: 'the name of the disorder will be altered, the threshold for diagnosis will decrease, and one criterion will be removed'. Empirische Grundlage: Petry, Blanco, Stinchfield & Volberg (2013), Addiction, 108(3), 575–581 – fünf Stichproben (US-Haushaltssurvey n = 2.417, Spielstättenbesucher n = 450, Kurzinterventionsstudien n = 375, Behandlungsprogramme n = 149, RCTs n = 319): Streichung des Kriteriums 'illegale Handlungen' ohne Verlust interner Konsistenz, 4-von-9-System mit gleicher oder leicht besserer Klassifikationsgenauigkeit als 4-von-10. Gleiche Begründung bei Hasin et al. (2013), Am J Psychiatry, 170(8), 834–851, https://doi.org/10.1176/appi.ajp.2013.12060782.",
+   "url": "https://doi.org/10.1007/s10899-013-9370-0",
+   "doi": "10.1007/s10899-013-9370-0"
+  },
+  {
+   "key": false,
+   "claim": "Eine Gruppe von 26 Forschenden aus Psychologie, Psychiatrie und Medienwissenschaft sprach sich gegen die Aufnahme der Computerspielstörung in die ICD-11 aus, weil die empirische Basis unter geringer Forschungsqualität, einer zu stark an Substanz- und Glücksspielkriterien angelehnten Operationalisierung und fehlendem Konsens über Symptomatik und Erfassung leide und eine formale Diagnose Stigmatisierung von Spielenden befördern könne (Aarseth et al., 2017).",
+   "citation": "Aarseth, E., Bean, A. M., Boonen, H., Colder Carras, M., Coulson, M., Das, D., Deleuze, J., Dunkels, E., Edman, J., Ferguson, C. J., Haagsma, M. C., Helmersson Bergmark, K., Hussain, Z., Jansz, J., Kardefelt-Winther, D., Kutner, L., Markey, P., Nielsen, R. K. L., Prause, N., … Van Rooij, A. J. (2017). Scholars' open debate paper on the World Health Organization ICD-11 Gaming Disorder proposal. Journal of Behavioral Addictions, 6(3), 267–270. https://doi.org/10.1556/2006.5.2016.088",
+   "source_type": "Sonstiges",
+   "relevance_section": "4.4",
+   "confidence": "high",
+   "numbers": "Kernargumente laut Abstract: 'low quality of the research base', Operationalisierung 'leans too heavily on substance use and gambling criteria', 'lack of consensus on symptomatology and assessment of problematic gaming'.",
+   "url": "https://doi.org/10.1556/2006.5.2016.088",
+   "doi": "10.1556/2006.5.2016.088"
+  },
+  {
+   "key": false,
+   "claim": "Kritiker der ICD-11-Diagnose argumentieren, dass die Beweislast für die Formalisierung einer Computerspielstörung wegen des realen Missbrauchsrisikos von Diagnosen sehr hoch sein müsse, und plädieren für unvoreingenommene klinische Ansätze, die mögliche zugrunde liegende Probleme wie depressive Verstimmung oder soziale Angst zuerst behandeln – ein Einwand, der unmittelbar die Frage nach primärer und sekundärer Störung bei Doppeldiagnosen berührt (van Rooij et al., 2018).",
+   "citation": "van Rooij, A. J., Ferguson, C. J., Colder Carras, M., Kardefelt-Winther, D., Shi, J., Aarseth, E., Bean, A. M., Helmersson Bergmark, K., Brus, A., Coulson, M., Deleuze, J., Dullur, P., Dunkels, E., Edman, J., Elson, M., Etchells, P. J., Fiskaali, A., Granic, I., Jansz, J., … Przybylski, A. K. (2018). A weak scientific basis for gaming disorder: Let us err on the side of caution. Journal of Behavioral Addictions, 7(1), 1–9. https://doi.org/10.1556/2006.7.2018.19",
+   "source_type": "Sonstiges",
+   "relevance_section": "2.4",
+   "confidence": "high",
+   "numbers": "Forderungen: transparente, präregistrierte Studien; Begründung des Fokus auf Gaming statt eines allgemeinen Verhaltenssucht-Konzepts; 'unbiased clinical approaches that treat potentially underlying issues such as depressive mood or social anxiety first'; Appell an die WHO, 'to err on the side of caution and postpone the formalization'.",
+   "url": "https://doi.org/10.1556/2006.7.2018.19",
+   "doi": "10.1556/2006.7.2018.19"
+  },
+  {
+   "key": false,
+   "claim": "Aus klinischer und Public-Health-Perspektive wird die Aufnahme der Computerspielstörung in die ICD-11 damit begründet, dass die WHO-Empfehlung auf Expertentreffen seit 2014 (Tokio, Seoul, Hongkong, Istanbul) beruht, dass die Kritiker die klinischen und gesundheitspolitischen Erwägungen – Behandlungsbedarf, Versorgungszugang, Prävention und Forschung – nicht hinreichend berücksichtigten und dass eine Diagnose nur bei deutlicher Funktionsbeeinträchtigung vergeben wird (Rumpf et al., 2018).",
+   "citation": "Rumpf, H.-J., Achab, S., Billieux, J., Bowden-Jones, H., Carragher, N., Demetrovics, Z., Higuchi, S., King, D. L., Mann, K., Potenza, M., Saunders, J. B., Abbott, M., Ambekar, A., Aricak, O. T., Assanangkornchai, S., Bahar, N., Borges, G., Brand, M., Chan, E. M.-L., … Poznyak, V. (2018). Including gaming disorder in the ICD-11: The need to do so from a clinical and public health perspective. Journal of Behavioral Addictions, 7(3), 556–561. https://doi.org/10.1556/2006.7.2018.59",
+   "source_type": "Sonstiges",
+   "relevance_section": "4.4",
+   "confidence": "high",
+   "numbers": "Abstract-Wortlaut: 'The recommendation is based on WHO expert meetings held since 2014 in Tokyo, Seoul, Hong Kong, and Istanbul'; 'critics ... fail to recognize the clinical and public health considerations that support the WHO perspective'. Ergänzend Stein et al. (2018), World Psychiatry, 17(3), 363–364 ('Balancing validity, utility and public health considerations in disorders due to addictive behaviours'). Rumpf (Uni Lübeck, idw-Pressemitteilung): lediglich etwa 3 % der Jugendlichen und jungen Erwachsenen erfüllen die ICD-11-Kriterien.",
+   "url": "https://doi.org/10.1556/2006.7.2018.59",
+   "doi": "10.1556/2006.7.2018.59"
+  },
+  {
+   "key": false,
+   "claim": "Eine Übersicht zur Neurobiologie des pathologischen Glücksspielens, verfasst im Vorfeld der ICD-11, kommt zu dem Schluss, dass die Befunde – etwa zu Belohnungsverarbeitung, Cue-Reaktivität, Impulsivität und Entscheidungsverhalten – eher für die Zuordnung zur Kategorie der substanzbezogenen und Suchtstörungen als für den Verbleib bei den Impulskontrollstörungen sprechen, was die DSM-5-Entscheidung stützt und die gemeinsame Betrachtung von Verhaltens- und Substanzsüchten unter dem Doppeldiagnose-Begriff nahelegt (Fauth-Bühler et al., 2017).",
+   "citation": "Fauth-Bühler, M., Mann, K., & Potenza, M. N. (2017). Pathological gambling: A review of the neurobiological evidence relevant for its classification as an addictive disorder. Addiction Biology, 22(4), 885–897. https://doi.org/10.1111/adb.12378",
+   "source_type": "narratives Review",
+   "relevance_section": "3.2",
+   "confidence": "medium",
+   "numbers": "Abstract-Wortlaut: 'Some academic opinion favors leaving pathological gambling in the Impulse Control Disorder category, whereas others argue that new neurobiological data favor allocating it to the category of Substance-related and Addictive Disorders, following the decision in the fifth revision of the DSM.' Einordnung der Autoren als Befürworter der Suchtkategorie aus dem Review-Kontext (Zentralinstitut für Seelische Gesundheit Mannheim); Detailbefunde nicht wörtlich verifiziert.",
+   "url": "https://doi.org/10.1111/adb.12378",
+   "doi": "10.1111/adb.12378"
+  },
+  {
+   "key": true,
+   "claim": "Eine Metaanalyse von 53 Studien aus den Jahren 2009 bis 2019 mit 226.247 Teilnehmenden aus 17 Ländern schätzt die weltweite Prävalenz der Gaming Disorder auf 3,05 % (95 %-KI 2,38–3,91), bei Beschränkung auf Studien mit strengeren Stichprobenverfahren (z. B. geschichtete Zufallsstichproben) auf 1,96 %; das Erhebungsinstrument erklärte 77 % der Varianz, und Männer waren etwa im Verhältnis 2,5:1 häufiger betroffen (Stevens et al., 2021).",
+   "citation": "Stevens, M. W. R., Dorstyn, D., Delfabbro, P. H., & King, D. L. (2021). Global prevalence of gaming disorder: A systematic review and meta-analysis. Australian & New Zealand Journal of Psychiatry, 55(6), 553–568. https://doi.org/10.1177/0004867420962851",
+   "source_type": "Metaanalyse",
+   "relevance_section": "5",
+   "confidence": "high",
+   "numbers": "53 Studien, 226.247 Teilnehmende, 17 Länder; Gesamtprävalenz 3,05 % [2,38; 3,91]; adjustiert 1,96 % bei strengeren Stichprobenkriterien; Screening-Instrument erklärt 77 % der Varianz (höchste Schätzungen mit IGD-9 nach Lemmens, GAIT, PVP); Geschlechterverhältnis ca. 2,5:1 (m:w).",
+   "url": "https://doi.org/10.1177/0004867420962851",
+   "doi": "10.1177/0004867420962851"
+  },
+  {
+   "key": true,
+   "claim": "Im Glücksspiel-Survey 2023 erfüllten 2,4 % der 18- bis 70-jährigen Bevölkerung in Deutschland die DSM-5-Kriterien einer Glücksspielstörung (leichter Schweregrad 1,0 %, mittlerer 0,7 %, schwerer 0,7 %), weitere 6,1 % erfüllten ein bis drei Kriterien im Sinne eines riskanten Spielverhaltens; im Survey 2021 (N = 12.303, 16–70 Jahre, Mixed-Mode) lag die Glücksspielstörung bei 2,3 % (ca. 1,3 Mio. Personen) und riskantes Spielen bei 5,7 % (Buth et al., 2024).",
+   "citation": "Buth, S., Meyer, G., & Kalke, J. (2024). Glücksspielteilnahme und glücksspielbezogene Probleme in der Bevölkerung – Ergebnisse des Glücksspiel-Surveys 2023. Institut für interdisziplinäre Sucht- und Drogenforschung (ISD) Hamburg & Universität Bremen.",
+   "source_type": "Survey",
+   "relevance_section": "5",
+   "confidence": "medium",
+   "numbers": "2023: Glücksspielstörung nach DSM-5 2,4 % der 18–70-Jährigen (leicht 1,0 %, mittel 0,7 %, schwer 0,7 %); 1–3 DSM-5-Kriterien 6,1 %; Mixed-Mode 2/3 Telefon + 1/3 Online; Umstellung von SOGS auf DSM-5. 2021 (Buth, Meyer & Kalke, 2022, ISD-Bericht März 2022): N = 12.303 deutschsprachige Personen 16–70 Jahre, Festnetz/Mobil + Online-Panel; Glücksspielstörung 2,3 % (ca. 1,3 Mio.), riskantes Spielen 5,7 % (ca. 3,25 Mio.). Stichprobengröße 2023 nicht erfasst.",
+   "url": "https://www.presseportal.de/download/document/65e84ccd270000fd2c7e7ff9-2024-03-06-ergebnisb-iel-survey-2023.pdf",
+   "doi": ""
+  },
+  {
+   "key": false,
+   "claim": "In der DAK-Längsschnittstudie des Deutschen Zentrums für Suchtfragen des Kindes- und Jugendalters am UKE (forsa, ca. 1.200 Familien mit 10- bis 17-Jährigen, fünf Erhebungswellen zwischen September 2019 und Juli 2022) erfüllten 2022 6,3 % der Kinder und Jugendlichen (ca. 330.000) die Kriterien einer pathologischen Computerspielnutzung im Sinne der ICD-11-Gaming-Disorder – mehr als doppelt so viele wie vor der Pandemie – und 11,8 % (ca. 620.000) zeigten eine riskante Computerspielnutzung (DAK-Gesundheit, 2023).",
+   "citation": "DAK-Gesundheit. (2023). DAK-Suchtstudie: Nach der Pandemie nutzt jedes vierte Kind soziale Medien riskant [Pressemitteilung zur DAK-Längsschnittstudie Mediensucht mit dem Deutschen Zentrum für Suchtfragen des Kindes- und Jugendalters, UKE]. https://www.dak.de/dak/bundesthemen/dak-suchtstudie-nach-der-pandemie-nutzt-jedes-vierte-kind-soziale-medien-riskant-2640288.html",
+   "source_type": "Survey",
+   "relevance_section": "5",
+   "confidence": "medium",
+   "numbers": "Gaming Disorder (ICD-11-Kriterien, GADIS-A) 2022: 6,3 % (ca. 330.000) der 10–17-Jährigen; riskantes Computerspielen 11,8 % (ca. 620.000); 'mehr als doppelt so viel Betroffene wie noch vor Beginn der Pandemie'. Social Media: riskante Nutzung 8,2 % (2019) auf 24,5 % (2022), pathologische Nutzung 3,2 % auf 6,1 %. Erhebung: forsa, ca. 1.200 Familien, fünf Wellen 09/2019–07/2022. Hinweis: Studienleitung UKE (Thomasius, Paschke), nicht Rumpf; offizieller Berichtstitel und Ausgangswert 2019 für Gaming nicht verifiziert.",
+   "url": "https://www.dak.de/dak/bundesthemen/dak-suchtstudie-nach-der-pandemie-nutzt-jedes-vierte-kind-soziale-medien-riskant-2640288.html",
+   "doi": ""
+  },
+  {
+   "key": true,
+   "claim": "Nach einer Metaanalyse von 11 bevölkerungsrepräsentativen Studien (Literatursuche 1998–2010) weisen Personen mit problematischem oder pathologischem Glücksspiel sehr hohe Komorbiditätsraten auf – Nikotinabhängigkeit 60,1 %, Substanzkonsumstörungen 57,5 %, affektive Störungen 37,9 % und Angststörungen 37,4 % –, was die Glücksspielstörung als typische Doppeldiagnose-Konstellation ausweist (Lorains et al., 2011).",
+   "citation": "Lorains, F. K., Cowlishaw, S., & Thomas, S. A. (2011). Prevalence of comorbid disorders in problem and pathological gambling: Systematic review and meta-analysis of population surveys. Addiction, 106(3), 490–498. https://doi.org/10.1111/j.1360-0443.2010.03300.x",
+   "source_type": "Metaanalyse",
+   "relevance_section": "5",
+   "confidence": "medium",
+   "numbers": "11 eingeschlossene Studien (Suche 01.01.1998–20.09.2010; nur Zufallsstichproben der Allgemeinbevölkerung mit standardisierten Instrumenten); mittlere Prävalenz: Nikotinabhängigkeit 60,1 %, Substanzkonsumstörung 57,5 %, affektive Störung 37,9 %, Angststörung 37,4 %. DOI aus dem Gedächtnis, nicht in dieser Sitzung verifiziert.",
+   "url": "https://research-information.bris.ac.uk/en/publications/prevalence-of-comorbid-disorders-in-problem-and-pathological-gamb/",
+   "doi": "10.1111/j.1360-0443.2010.03300.x"
+  },
+  {
+   "key": false,
+   "claim": "Eine aktuelle Metaanalyse von 12 bevölkerungsbasierten Erwachsenenstudien (Publikationen 1993–2024, Diagnosen nach ICD-10/ICD-11 bzw. DSM-IV/DSM-5) fand bei Personen mit Glücksspielstörung eine gewichtete Prävalenz irgendeiner psychischen Störung von 82,2 % – Substanzkonsumstörungen 34,2 %, affektive Störungen 30,9 %, Angststörungen 29,9 %, Persönlichkeitsstörungen 14,3 %, psychotische Störungen 5,9 % – und ein 10,7-fach erhöhtes Risiko für eine psychische Störung gegenüber der Allgemeinbevölkerung (Galeazzi et al., 2025).",
+   "citation": "Galeazzi, G. M., Marchi, M., & Castagnini, A. C. (2025). Psychiatric morbidity and gambling disorder: A systematic review and meta-analysis of population-based surveys. European Psychiatry. Advance online publication. https://doi.org/10.1192/j.eurpsy.2025.10122",
+   "source_type": "Metaanalyse",
+   "relevance_section": "4.4",
+   "confidence": "medium",
+   "numbers": "454 gesichtete Artikel, 12 eingeschlossen (Europa, Nordamerika, Südostasien); any mental disorder 82,2 %; SUD 34,2 %; mood 30,9 %; anxiety 29,9 %; personality 14,3 %; psychotic 5,9 %; Risiko irgendeiner psychischen Störung 10,7-fach erhöht. Band/Heft/Seiten nicht ermittelt.",
+   "url": "https://doi.org/10.1192/j.eurpsy.2025.10122",
+   "doi": "10.1192/j.eurpsy.2025.10122"
+  },
+  {
+   "key": false,
+   "claim": "In der deutschsprachigen Fachliteratur haben sich für 6C50 und 6C51 die Bezeichnungen 'Glücksspielstörung' und 'Computerspielstörung' etabliert (Rumpf et al.; DG-Sucht), während die amtliche deutsche ICD-11-Übersetzung des BfArM (Entwurfsfassung) für 6C51 offenbar den Begriff 'Computerspielsucht' unter der Gruppe 'Störungen durch Verhaltenssüchte' (Oberkategorie 'Störungen durch Substanzgebrauch oder Verhaltenssüchte') verwendet; die deutsche DSM-5-Ausgabe (Hogrefe) spricht von 'Störung durch Glücksspielen' und 'Störung durch Spielen von Internetspielen' (BfArM, 2024).",
+   "citation": "Bundesinstitut für Arzneimittel und Medizinprodukte. (2024). ICD-11 in Deutsch – Entwurfsfassung. BfArM. https://www.bfarm.de/DE/Kodiersysteme/Klassifikationen/ICD/ICD-11/_node.html",
+   "source_type": "Klassifikation",
+   "relevance_section": "2.1",
+   "confidence": "low",
+   "numbers": "Sekundärquelle (Fuchs, Praxispapier ICD-11 Gaming Disorder, 2025): 'sowohl der Begriff Computerspielsucht (BfArM 2024) als auch Computerspielstörung werden diskutiert; Computerspielstörung wird verwendet, da er näher am englischen Original liegt'. Deutsche Kategorie-Bezeichnung 'Störungen durch Substanzgebrauch oder Verhaltenssüchte' laut Die Psychotherapie (2024, 'Verhaltenssüchte als neue ICD-11-Diagnosen'). BfArM-Bezeichnung für 6C50 ('Glücksspielsucht'?) und 6C5Y nicht verifiziert; icd.who.int und bfarm.de in dieser Sitzung gesperrt. Deutsche DSM-5-TR-Ausgabe: Falkai, P., & Wittchen, H.-U. (Hrsg.). (2025). Diagnostisches und Statistisches Manual Psychischer Störungen – Textrevision – DSM-5-TR. Hogrefe (ISBN 978-3-8017-3217-2) – Terminologie dort nicht geprüft.",
+   "url": "https://www.bfarm.de/DE/Kodiersysteme/Klassifikationen/ICD/ICD-11/_node.html",
+   "doi": ""
+  }
+ ],
+ "gaps": [
+  "Amtliche deutsche ICD-11-Bezeichnungen des BfArM für 6C5, 6C50, 6C51, 6C5Y, QE21/QE22 und 6C72 konnten nicht am Original geprüft werden (icd.who.int/browse/.../de und bfarm.de per Netzwerk-Policy gesperrt); nur Sekundärhinweis auf 'Computerspielsucht' (BfArM 2024).",
+  "Terminologie der deutschen DSM-5-TR-Ausgabe (Falkai & Wittchen, Hogrefe 2025) für Gambling Disorder / Internet Gaming Disorder nicht verifiziert (Leseprobe gesperrt); 'Störung durch Glücksspielen' / 'Störung durch Spielen von Internetspielen' stammen aus der DSM-5-Ausgabe 2015 (aus dem Gedächtnis).",
+  "Wörtlicher CDDR-Text (WHO 2024) zu 'Boundaries with other disorders' und zur Ko-Kodierung von 6C50/6C51 mit Substanzkonsumstörungen, Depression, ADHS usw. nicht zugänglich; die Bipolar-I/II-Ausschlüsse sind nur über Sekundärquellen belegt.",
+  "Medikamenteninduzierte Verhaltenssucht: Weder in ICD-11 noch in DSM-5-TR wurde eine eigene Kategorie 'substanz-/medikamenteninduzierte Glücksspielstörung' gefunden; der DSM-5-TR-Differenzialdiagnose-Hinweis zu dopaminergen Medikamenten (Parkinson; keine Diagnose, wenn Spieldrang nach Dosisreduktion sistiert) konnte nicht wörtlich verifiziert werden; Kodierlösung in ICD-11 (z. B. 6C50 plus Nebenwirkungskode) offen. Sekundärquellen nennen ein ca. 2,7-fach erhöhtes Risiko für Impulskontrollstörungen unter Dopaminagonisten (DOMINION-Studie, Weintraub et al. 2010, nicht geprüft).",
+  "Metakriterien aus Brand et al. (2020/2022) für 6C5Y (klinische Relevanz, theoretische Einbettung, empirische Evidenz) nicht wörtlich verifiziert; Volltext (akjournals.com, uhra.herts.ac.uk) gesperrt.",
+  "Stein et al. (2018, World Psychiatry 17(3), 363–364), Billieux et al. (2015, J Behav Addict 4(3), 119–123) und Billieux et al. (2017, 'Functional impairment matters') nur bibliografisch, nicht inhaltlich mit Zitaten belegt.",
+  "Potenza (2006, Addiction 101 Suppl. 1, 142–151), Clark, Boileau & Zack (2019, Mol Psychiatry 24(5), 674–693) und Yücel et al. (2019, Addiction 114(6), 1095–1109, DOI 10.1111/add.14424; 44 Experten, 7 transdiagnostische Konstrukte mit ≥80 % Zustimmung) nur über Suchtreffer bestätigt, nicht am Volltext.",
+  "Komorbiditätsmetaanalysen zur Gaming Disorder (z. B. Ostinelli et al. 2021 zu Depression; González-Bueso et al. 2018; ADHS) konnten wegen erschöpften Suchbudgets nicht mehr recherchiert werden.",
+  "Glücksspiel-Survey 2023: Stichprobengröße und Erhebungszeitraum nicht erfasst; Glücksspiel-Survey 2025 (Pressemitteilung ISD) nicht ausgewertet.",
+  "DAK-Längsschnittstudie: offizieller Berichtstitel, Autorenliste (Thomasius/Paschke/Arnaud) und Ausgangswert 2019 für Gaming Disorder (vermutlich 2,7 %) nicht verifiziert; die Studie stammt vom UKE, nicht von Rumpf.",
+  "AWMF-S1-Leitlinie 'Diagnostik und Therapie von Internetnutzungsstörungen' (Reg.-Nr. 076-011, Stand 06/2025) gefunden, aber nicht lesbar (awmf.org gesperrt) – potenziell wichtige deutsche Leitlinienquelle für Kapitel 2.5 und 6.5."
+ ],
+ "notes": "Recherchebericht (ca. 500 Wörter). Durchgeführt wurden 27 unterschiedliche WebSearch-Abfragen (englisch und deutsch, Modus standard, eine extended), danach war das sitzungsweite Suchbudget erschöpft. WebFetch war auf sämtlichen 23 angefragten Hosts per EGRESS_BLOCKED gesperrt – auch auf den in der Aufgabe als vermutlich offen genannten Hosts icd.who.int, bfarm.de, awmf.org, springermedizin.de, researchgate.net, akjournals.com, presseportal.de, isd-hamburg.de, uni-hohenheim.de, aerzteblatt.de, psychiatry.org, dak.de, de.wikipedia.org sowie auf Repositorien (uhra.herts.ac.uk, real.mtak.hu, uni-frankfurt). Alle Zahlen stammen daher aus Suchtreffer-Zusammenfassungen, die auf Repositorien-Metadaten, Pressedokumente und Abstracts zurückgehen; eine Zweitprüfung am Volltext war nicht möglich. Entsprechend wurde die Vertrauensstufe bei allen Befunden mit nicht wörtlich geprüften Zahlen auf medium oder low gesetzt. DOIs wurden nur angegeben, wo sie in Suchtreffern erschienen oder mit hoher Sicherheit bekannt sind; bei Lorains et al. (2011), Brand et al. (2022) und Kraus et al. (2018) ist dies vermerkt.\n\nFür das Essential ergibt sich folgendes Bild. Erstens: Die Klassifikationslage ist eindeutig genug, um den bisher vagen Satz in Kapitel 2.1 ('Störungen aufgrund suchtartiger Verhaltensweisen werden differenziert klassifiziert') mit Codes und Kriterien zu füllen. Die ICD-11 führt Glücksspiel- (6C50) und Computerspielstörung (6C51) als 'Disorders due to addictive behaviours' im selben Block wie die Substanzkonsumstörungen, mit identischen drei Kernmerkmalen, 12-Monats-Regel (verkürzbar bei schwerer Symptomatik), Online/Offline-Spezifizierern und Bipolar-I/II-Ausschluss; subklinische Muster erhalten die Z-ähnlichen Kodes QE21/QE22. Das DSM-5-TR verfährt asymmetrisch: Gambling Disorder ist vollwertige Suchtdiagnose (4 von 9 Kriterien in 12 Monaten, Ausschluss Manie, Schweregrade), Internet Gaming Disorder bleibt Forschungsdiagnose in Sektion III (5 von 9). Zweitens: Für den Doppeldiagnose-Begriff folgt daraus eine klare Regel, die in 1.3 und 4.4 aufgenommen werden kann – Verhaltenssucht plus weitere psychische Störung ist nur dann Doppeldiagnose, wenn 6C50/6C51 (bzw. DSM-5-TR Gambling Disorder) formal erfüllt sind; QE21/QE22, Sektion-III-Diagnosen und die zwanghafte Sexualverhaltensstörung (6C72, Impulskontrollstörung, Kraus et al. 2018) fallen nicht darunter. Die Restkategorie 6C5Y (Brand et al. 2022: Pornografie, Kaufen, soziale Netzwerke) ist konzeptionell offen und sollte im Essential als Grauzone markiert werden. Drittens: Die wissenschaftliche Kontroverse (Aarseth 2017, van Rooij 2018 vs. Rumpf 2018, Stein 2018) ist für Kapitel 2.4 und 3.1 anschlussfähig, weil die Kritiker genau die Frage nach primärer Störung (Depression, soziale Angst) und sekundärem Spielen aufwerfen, die das Essential unter 'sekundäre Suchtentwicklung' behandelt. Viertens: Epidemiologisch lassen sich für Kapitel 5 belastbare Zahlen einsetzen – Gaming Disorder global 3,05 % bzw. 1,96 % (Stevens et al. 2021), Glücksspielstörung in Deutschland 2,3 % (2021) bzw. 2,4 % (2023) nach DSM-5 (Buth et al.), pathologisches Gaming bei 10- bis 17-Jährigen 6,3 % (DAK/UKE 2022), und für die Komorbidität der Glücksspielstörung die Metaanalysen von Lorains et al. (2011) und Galeazzi et al. (2025), die Substanzkonsumstörungen bei 34–58 % und affektive Störungen bei 31–38 % ausweisen. Fünftens bleiben die deutschen amtlichen Termini (BfArM) und die Kodierung medikamenteninduzierten Glücksspielens ungeklärt; beides sollte vor Drucklegung direkt im ICD-11-Browser (deutsche Fassung) und im DSM-5-TR-Text zur Differenzialdiagnose geprüft werden. Zusätzliche, nicht als eigene Befunde aufgenommene Belege: Hasin et al. (2013, Am J Psychiatry 170(8), 834–851, DOI 10.1176/appi.ajp.2013.12060782) für die DSM-5-Verschiebung; Brand & Potenza (2023, J Behav Addict 12(3), 585–589) für die fortlaufende ICD-11-Debatte; Yücel et al. (2019) für den transdiagnostischen Ansatz; AWMF-S1-Leitlinie 076-011 (2025) für die deutsche Versorgungsperspektive."
+}

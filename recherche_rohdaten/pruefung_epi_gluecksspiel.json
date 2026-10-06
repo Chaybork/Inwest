@@ -1,0 +1,76 @@
+{
+ "checks": [
+  {
+   "index": 0,
+   "exists": true,
+   "bibliographic_ok": true,
+   "claim_supported": "supported",
+   "confidence": "high",
+   "corrected_citation": "Lorains, F. K., Cowlishaw, S., & Thomas, S. A. (2011). Prevalence of comorbid disorders in problem and pathological gambling: Systematic review and meta-analysis of population surveys. Addiction, 106(3), 490–498. https://doi.org/10.1111/j.1360-0443.2010.03300.x",
+   "correction": "Alle vier Kernzahlen (Nikotinabhängigkeit 60,1 %, irgendeine Substanzkonsumstörung 57,5 %, affektive Störung 37,9 %, Angststörung 37,4 %) und die Zahl von elf eingeschlossenen Bevölkerungssurveys sind im Verlags-/Repositoriums-Abstract bestätigt; es handelt sich um gewichtete mittlere Prävalenzen über die Studien hinweg. Die Schlussfolgerung, die Glücksspielstörung trete 'überwiegend als Doppeldiagnose' auf, ist eine Interpretation der Buchautoren, nicht eine Formulierung der Originalautoren (diese empfehlen Screening auf komorbide Störungen bei Behandlungsbeginn). Die im Feld 'numbers' genannte antisoziale PS (28,8 %, 2 Studien) ist nicht Teil des Abstracts und bleibt ungeprüft; sie sollte nur mit Volltextbeleg verwendet werden.",
+   "evidence_url": "https://research-information.bris.ac.uk/en/publications/prevalence-of-comorbid-disorders-in-problem-and-pathological-gamb/"
+  },
+  {
+   "index": 1,
+   "exists": true,
+   "bibliographic_ok": true,
+   "claim_supported": "supported",
+   "confidence": "high",
+   "corrected_citation": "Dowling, N. A., Cowlishaw, S., Jackson, A. C., Merkouris, S. S., Francis, K. L., & Christensen, D. R. (2015). Prevalence of psychiatric co-morbidity in treatment-seeking problem gamblers: A systematic review and meta-analysis. Australian & New Zealand Journal of Psychiatry, 49(6), 519–539. https://doi.org/10.1177/0004867415575774",
+   "correction": "Alle Zahlen bestätigt: 36 Studien; aktuelle Achse-I-Störung 74,8 % (95 %-KI 36,5–93,9), Lebenszeit 75,5 % (95 %-KI 46,5–91,8); Nikotinabhängigkeit 56,4 % (KI 35,7–75,2), Major Depression 29,9 % (KI 20,5–41,3); affektive Störungen 23,1 %, Alkoholkonsumstörungen 21,2 %, Angststörungen 17,6 %, andere Substanzkonsumstörungen 7,0 %; Einzeldiagnosen Alkoholmissbrauch 18,2 % (KI 13,4–24,2), soziale Phobie 14,9 % (KI 2,0–59,8), GAS 14,4 % (KI 3,9–40,8), PTBS 12,3 % (KI 3,4–35,7), ADHS 9,3 % (KI 4,1–19,6), bipolare Störung 8,8 % (KI 4,4–17,1). Hinweis für den Text: Die Konfidenzintervalle der Einzeldiagnosen sind teils extrem breit (z. B. soziale Phobie 2,0–59,8 %), was die Aussagekraft der Punktschätzer stark einschränkt und im Buch erwähnt werden sollte. Alkoholabhängigkeit 15,2 % wurde nicht separat im Abstract bestätigt (Volltext). Die Schreibweise 'meta-anaylsis' im ACU-Repositoriumstitel ist ein Tippfehler des Repositoriums, nicht des Artikels.",
+   "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/25735959/"
+  },
+  {
+   "index": 2,
+   "exists": true,
+   "bibliographic_ok": true,
+   "claim_supported": "supported",
+   "confidence": "high",
+   "corrected_citation": "Dowling, N. A., Cowlishaw, S., Jackson, A. C., Merkouris, S. S., Francis, K. L., & Christensen, D. R. (2015). The prevalence of comorbid personality disorders in treatment-seeking problem gamblers: A systematic review and meta-analysis. Journal of Personality Disorders, 29(6), 735–754. https://doi.org/10.1521/pedi_2014_28_168",
+   "correction": "Alle Zahlen im Abstract bestätigt: irgendeine Persönlichkeitsstörung 47,9 %; Cluster B 17,6 %, Cluster C 12,6 %, Cluster A 6,1 %; narzisstisch 16,6 %, antisozial 14,0 %, vermeidend 13,4 %, zwanghaft 13,4 %, Borderline 13,1 %. Keine Korrektur nötig. Da beide Dowling-et-al.-Arbeiten von 2015 dieselbe Autorenreihenfolge haben, ist die Kennzeichnung 2015a/2015b im Literaturverzeichnis korrekt und muss konsistent durchgehalten werden (alphabetisch nach Titel: 'Prevalence of psychiatric ...' = 2015a, 'The prevalence of comorbid personality ...' = 2015b, wobei APA 7 den Artikel 'The' bei der Sortierung ignoriert – dann wäre 'The prevalence of comorbid personality' = 2015a und 'Prevalence of psychiatric' = 2015b; bitte prüfen).",
+   "evidence_url": "https://research.monash.edu/en/publications/the-prevalence-of-comorbid-personality-disorders-in-treatment-see/"
+  },
+  {
+   "index": 3,
+   "exists": true,
+   "bibliographic_ok": true,
+   "claim_supported": "supported",
+   "confidence": "high",
+   "corrected_citation": "Cowlishaw, S., Merkouris, S., Chapman, A., & Radermacher, H. (2014). Pathological and problem gambling in substance use treatment: A systematic review and meta-analysis. Journal of Substance Abuse Treatment, 46(2), 98–105. https://doi.org/10.1016/j.jsat.2013.08.019",
+   "correction": "Die Kernzahlen (ca. 14 % pathologisches Glücksspielen, ca. 23 % im breiteren Spektrum problematischen Glücksspielens bei Patienten in Substanzbehandlung) sind im Abstract bestätigt. Die Formulierung 'oft nicht erfasste Zweitdiagnose' ist eine Interpretation; die Autoren formulieren einen 'strong need to identify and manage gambling comorbidity'. Das Abstract nennt ausdrücklich Limitationen, die im Buch erwähnt werden sollten: kaum Daten zu aktueller vs. Lebenszeitkomorbidität, Abhängigkeit von Gelegenheitsstichproben und Selbstbeurteilungsinstrumenten. Die Anzahl der eingeschlossenen Studien (25) wurde nicht im Abstract bestätigt und bleibt ungeprüft.",
+   "evidence_url": "https://openresearch-repository.anu.edu.au/items/92d95bcc-7bb7-415e-a31e-94f74c0cd595"
+  },
+  {
+   "index": 4,
+   "exists": true,
+   "bibliographic_ok": true,
+   "claim_supported": "supported",
+   "confidence": "high",
+   "corrected_citation": "Petry, N. M., Stinson, F. S., & Grant, B. F. (2005). Comorbidity of DSM-IV pathological gambling and other psychiatric disorders: Results from the National Epidemiologic Survey on Alcohol and Related Conditions. Journal of Clinical Psychiatry, 66(5), 564–574. https://doi.org/10.4088/JCP.v66n0504",
+   "correction": "Alle Angaben im Verlags-Abstract bestätigt: NESARC 2001–2002, n = 43.093 (≥ 18 Jahre, Haushalts- und Gemeinschaftsunterkünfte); Lebenszeitprävalenz pathologisches Glücksspielen 0,42 %; Alkoholkonsumstörung 73,2 %, Drogenkonsumstörung 38,1 %, Nikotinabhängigkeit 60,4 %, affektive Störung 49,6 %, Angststörung 41,3 %, Persönlichkeitsstörung 60,8 %; Assoziationen blieben auch nach Kontrolle soziodemografischer und sozioökonomischer Merkmale signifikant. Keine Korrektur nötig. Hinweis: Es handelt sich um Lebenszeitraten; die Odds Ratios stehen nur im Volltext.",
+   "evidence_url": "https://www.psychiatrist.com/wp-content/uploads/2021/02/11967_comorbidity-dsm-iv-pathological-gambling-psychiatric.pdf"
+  },
+  {
+   "index": 5,
+   "exists": true,
+   "bibliographic_ok": true,
+   "claim_supported": "partially",
+   "confidence": "medium",
+   "corrected_citation": "Kessler, R. C., Hwang, I., LaBrie, R., Petukhova, M., Sampson, N. A., Winters, K. C., & Shaffer, H. J. (2008). DSM-IV pathological gambling in the National Comorbidity Survey Replication. Psychological Medicine, 38(9), 1351–1360. https://doi.org/10.1017/S0033291708002900",
+   "correction": "Bestätigt: Lebenszeitprävalenz pathologisches Glücksspielen 0,6 %, problematisches Glücksspielen (mindestens ein Kriterium-A-Symptom) 2,3 %; 96,3 % der Lebenszeit-PG-Fälle erfüllten die Kriterien mindestens einer weiteren DSM-IV-Störung (im Feld 'numbers' als 'nicht verifizierbar' markiert – ist im Abstract/PubMed bestätigt und kann im Text verwendet werden); 49,0 % waren wegen anderer psychischer Störungen behandelt worden, keiner wegen Glücksspielens; Beginn und Persistenz des PG wurden durch vorbestehende Angst-, affektive, Impulskontroll- und Substanzkonsumstörungen vorhergesagt, und PG sagte seinerseits das spätere Auftreten von generalisierter Angststörung, PTBS und Substanzabhängigkeit voraus (bidirektionale Aussage damit belegt). NICHT bestätigt: die spezifischen Anteile 65,1 % (affektiv), 82,1 % (Angst) und 57,4 % (Substanz) für 'Beginn der komorbiden Störung vor dem Glücksspielen'. Diese Zahlen tauchen weder im Abstract noch in den gefundenen zitierenden Quellen auf; sie stammen vermutlich aus einer Volltexttabelle und müssen am Volltext geprüft werden (Suchbudget erschöpft). Empfehlung: entweder am Volltext verifizieren oder die drei Prozentwerte durch die abstract-gestützte qualitative Aussage ersetzen.",
+   "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/18257941/"
+  },
+  {
+   "index": 6,
+   "exists": true,
+   "bibliographic_ok": true,
+   "claim_supported": "supported",
+   "confidence": "high",
+   "corrected_citation": "Bischof, A., Meyer, C., Bischof, G., Kastirke, N., John, U., & Rumpf, H.-J. (2013). Comorbid Axis I-disorders among subjects with pathological, problem, or at-risk gambling recruited from the general population in Germany: Results of the PAGE study. Psychiatry Research, 210(3), 1065–1070. https://doi.org/10.1016/j.psychres.2013.07.026",
+   "correction": "Alle Angaben im Abstract bestätigt: 164 erwachsene Glücksspieler aus einer Zufallsstichprobe von 15.023 Personen vs. Allgemeinbevölkerungsstichprobe; Lebenszeitprävalenz irgendeiner psychischen (Achse-I-)Störung 93,6 % (pathologisch, 5–10 Kriterien), 83,5 % (problematisch, 3–4 Kriterien), 81,0 % (riskant, 1–2 Kriterien); Substanzkonsumstörungen am häufigsten; konditionale Odds Ratios 3,5 (KI 2,6–4,6) riskant, 4,9 (KI 3,3–7,3) problematisch, 4,6 (KI 3,0–6,9) pathologisch. Präzisierung: 'um das 4,6-Fache erhöht' beschreibt eine konditionale Odds Ratio, nicht ein relatives Risiko; zudem ist die OR der problematischen Spieler (4,9) numerisch höher als die der pathologischen (4,6), sodass die von den Autoren genannte 'lineare Assoziation' sich auf die Prävalenzen, nicht strikt auf die ORs bezieht. Im Buchtext sollte 'Odds' statt 'Risiko' stehen.",
+   "evidence_url": "https://research.uni-luebeck.de/en/publications/comorbid-axis-i-disorders-among-subjects-with-pathological-proble/"
+  }
+ ],
+ "overall_notes": "ABSTRACT (Kurzfassung, ca. 500 Wörter)\n\nGeprüft wurden sieben Schlüsselbefunde zur Dimension „Epidemiologie und Verlauf der Komorbidität bei Glücksspielstörung“ mit genau zwölf WebSearch-Aufrufen (Budget vollständig ausgeschöpft; WebFetch war gesperrt). Für alle sieben Quellen konnte die Existenz mit Autoren, Jahr, Titel, Zeitschrift, Band, Heft, Seiten und DOI über Verlags-Abstracts, PubMed oder institutionelle Repositorien (Bristol, Monash, ACU, ANU, Lübeck, Harvard HCP) bestätigt werden. Keine der sieben APA-7-Referenzen muss bibliografisch korrigiert werden; die im Feld corrected_citation eingetragenen Referenzen sind die geprüften Fassungen.\n\nInhaltlich sind sechs von sieben Befunden vollständig gestützt („supported“): Lorains et al. (2011; 60,1 / 57,5 / 37,9 / 37,4 %; elf Surveys), Dowling et al. (2015a; 74,8 / 75,5 % und sämtliche Einzeldiagnosen inklusive Konfidenzintervallen), Dowling et al. (2015b; 47,9 % Persönlichkeitsstörungen, Cluster- und Einzelraten), Cowlishaw et al. (2014; ca. 14 % bzw. 23 % in Substanzbehandlung), Petry et al. (2005; NESARC, n = 43.093, 0,42 %, alle sechs Komorbiditätsraten, Kontrolle soziodemografischer Variablen) und Bischof et al. (2013; PAGE, 93,6 / 83,5 / 81,0 % sowie konditionale ORs 3,5 / 4,9 / 4,6 mit Konfidenzintervallen). Alle genannten Zahlen stehen wörtlich in den jeweiligen Abstracts.\n\nEin Befund ist nur teilweise gestützt („partially“): Kessler et al. (2008). Bestätigt sind Lebenszeitprävalenz 0,6 % (PG) und 2,3 % (Problemspielen), die Gesamtkomorbidität von 96,3 % (im Eingangs-JSON noch als „nicht verifizierbar“ markiert, jetzt am Abstract belegt und verwendbar), der Behandlungsanteil von 49,0 % sowie die bidirektionale Kernaussage (vorbestehende Angst-, affektive, Impulskontroll- und Substanzstörungen sagen PG-Beginn und -Persistenz vorher; PG sagt GAS, PTBS und Substanzabhängigkeit vorher). Nicht bestätigt werden konnten die drei spezifischen Anteile 65,1 % (affektiv), 82,1 % (Angst) und 57,4 % (Substanz) für den Beginn der komorbiden Störung vor dem Glücksspielen; sie erscheinen in keiner gefundenen Fundstelle und stammen vermutlich aus einer Volltexttabelle. Hier ist eine Volltextprüfung erforderlich oder die Ersetzung durch die qualitative Aussage des Abstracts.\n\nEmpfohlene Präzisierungen für den Buchtext: (1) Bei Bischof et al. „Odds“ statt „Risiko“ schreiben, da es sich um konditionale Odds Ratios handelt, und beachten, dass die OR der problematischen Spieler (4,9) höher liegt als die der pathologischen (4,6). (2) Bei Dowling et al. (2015a) auf die teils extrem breiten Konfidenzintervalle der Einzeldiagnosen hinweisen (z. B. soziale Phobie 2,0–59,8 %). (3) Bei Cowlishaw et al. die von den Autoren selbst genannten Limitationen (Gelegenheitsstichproben, Selbstbeurteilung, kaum Daten zu aktueller vs. Lebenszeitkomorbidität) nennen. (4) Die interpretativen Formulierungen „überwiegend als Doppeldiagnose“ (Lorains) und „oft nicht erfasste Zweitdiagnose“ (Cowlishaw) als Schlussfolgerung der Buchautoren kennzeichnen. (5) Die Kennzeichnung 2015a/2015b bei Dowling et al. gemäß APA-7-Sortierregel (Artikel „The“ wird ignoriert) prüfen.\n\nDETAILS ZUR METHODIK UND ZU RESTRISIKEN\n\nSuchstrategie: Je ein gezielter Aufruf pro Befund mit Titel in Anführungszeichen, Erstautor, Jahr und Kernzahlen (7 Aufrufe), anschließend fünf Nachsuchen für Zahlen, die im ersten Durchgang nicht sichtbar waren (Kessler 2× , Bischof ORs, Dowling 2015a Einzeldiagnosen, Petry 0,42 %/Kontrollvariablen). Alle Treffer stammen aus unabhängigen Fundstellen (PubMed, Verlags-PDF psychiatrist.com, Universitäts-Repositorien), nicht aus den im JSON bereits angegebenen URLs allein.\n\nNicht geprüfte Nebenangaben (nur im Feld numbers, nicht im claim): antisoziale PS 28,8 % bei Lorains et al.; 25 eingeschlossene Studien bei Cowlishaw et al.; Alkoholabhängigkeit 15,2 %, Panikstörung 13,7 %, Cannabis 11,5 %, Anpassungsstörung 9,2 %, Zwangsstörung 8,2 % bei Dowling et al. (2015a); Odds Ratios bei Petry et al. Diese Werte sollten vor Verwendung am Volltext belegt werden.\n\nZeitlicher Hinweis: Alle Quellen sind 2005–2015 erschienen und beruhen auf DSM-IV-Kriterien („pathologisches Glücksspielen“, Achse-I/II-Terminologie). Für ein Fachbuch zu Verhaltenssüchten bei Doppeldiagnosen empfiehlt sich ein ergänzender Verweis auf die DSM-5/ICD-11-Umbenennung in „Glücksspielstörung“ und der Hinweis, dass die hier berichteten Komorbiditätsraten unter DSM-IV-Schwellen erhoben wurden.",
+ "searches_used": 12
+}

@@ -1,0 +1,196 @@
+{
+ "dimension": "Epidemiologie und Verlauf der Komorbidität bei Computerspielstörung / Internet Gaming Disorder (und weiteren internetbezogenen Verhaltenssüchten) als Doppeldiagnose mit weiteren psychischen Störungen",
+ "findings": [
+  {
+   "key": true,
+   "claim": "In einem systematischen Review von 24 Studien (21 querschnittlich, 3 prospektiv) zur Internet Gaming Disorder bzw. pathologischem Videospielgebrauch berichteten 92 % der Studien signifikante Zusammenhänge mit Angst, 89 % mit Depression, 85 % mit ADHS-Symptomen und je 75 % mit sozialer Phobie/Angst bzw. Zwangssymptomen, wobei der Mangel an Längsschnittstudien eine Aussage zur Richtung der Zusammenhänge nicht zulässt (González-Bueso et al., 2018).",
+   "citation": "González-Bueso, V., Santamaría, J. J., Fernández, D., Merino, L., Montero, E., & Ribas, J. (2018). Association between Internet Gaming Disorder or pathological video-game use and comorbid psychopathology: A comprehensive review. International Journal of Environmental Research and Public Health, 15(4), 668. https://doi.org/10.3390/ijerph15040668",
+   "doi": "10.3390/ijerph15040668",
+   "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5923710/",
+   "source_type": "systematisches Review",
+   "relevance_section": "5",
+   "numbers": "24 eingeschlossene Studien (21 Querschnitt, 3 prospektiv); Anteil der Studien mit signifikanter Assoziation: Angst 92 %, Depression 89 %, ADHS-Symptome 85 %, soziale Phobie/Angst 75 %, Zwangssymptome 75 %; überwiegend höhere IGD-Raten bei Männern; Literatur bis 2017.",
+   "confidence": "high"
+  },
+  {
+   "key": true,
+   "claim": "Eine Metaanalyse zeigt einen mittelstarken Zusammenhang zwischen dem Schweregrad von Gaming-Disorder-Symptomen und ADHS-Symptomen (r = 0,296), der für Unaufmerksamkeit (r = 0,306) etwas stärker ausfällt als für Hyperaktivität (r = 0,266), weshalb ein ADHS-Screening bei Personen mit Computerspielstörung als sinnvoll gilt (Koncz et al., 2023).",
+   "citation": "Koncz, P., Demetrovics, Z., Takacs, Z. K., Griffiths, M. D., Nagy, T., & Király, O. (2023). The emerging evidence on the association between symptoms of ADHD and gaming disorder: A systematic review and meta-analysis. Clinical Psychology Review, 106, 102343. https://doi.org/10.1016/j.cpr.2023.102343",
+   "doi": "10.1016/j.cpr.2023.102343",
+   "url": "https://irep.ntu.ac.uk/id/eprint/50188",
+   "source_type": "Metaanalyse",
+   "relevance_section": "4.4",
+   "numbers": "Gepoolte Korrelationen: ADHS gesamt r = 0,296; Unaufmerksamkeit r = 0,306; Hyperaktivität r = 0,266 (Angaben aus Abstract bestätigt). Anzahl der eingeschlossenen Studien und Gesamt-N nicht verifiziert. DOI aus dem Gedächtnis ergänzt (Band 106, Artikel 102343 bestätigt).",
+   "confidence": "medium"
+  },
+  {
+   "key": false,
+   "claim": "Ein systematisches Review von 29 Studien fand in allen Studien einen positiven Zusammenhang zwischen ADHS und Gaming Disorder, wobei die berichteten Effektstärken stark variierten (7 Studien klein, 3 mittel, 3 groß; Korrelationen zwischen ADHS- und GD-Skalen von r = 0,12 bis r = 0,45) (Dullur et al., 2021).",
+   "citation": "Dullur, P., Krishnan, V., & Diaz, A. M. (2021). A systematic review on the intersection of attention-deficit hyperactivity disorder and gaming disorder. Journal of Psychiatric Research, 133, 212–222. https://doi.org/10.1016/j.jpsychires.2020.12.026",
+   "doi": "10.1016/j.jpsychires.2020.12.026",
+   "url": "https://adhdevidence.org/blog/systematic-review-finds-association-between-adhd-and-gaming-disorder",
+   "source_type": "systematisches Review",
+   "relevance_section": "4.4",
+   "numbers": "29 Studien, alle mit positiver Assoziation ADHS–GD; Effektstärken: 7 klein, 3 mittel, 3 groß; r = 0,12 bis 0,45 (aus Sekundärquelle bestätigt). Titel, Band 133, Seiten 212–222 und DOI aus dem Gedächtnis ergänzt, nicht per Suche verifiziert.",
+   "confidence": "medium"
+  },
+  {
+   "key": true,
+   "claim": "Ein systematisches Review (21 von 2.286 gescreenten Publikationen) spricht dafür, dass Personen mit Autismus-Spektrum-Störung mit mittleren bis starken Effektstärken häufiger Symptome einer Gaming Disorder zeigen, während problematische Internetnutzung mit subklinischen autistischen Zügen nur schwach bis mittelstark assoziiert ist (Murray et al., 2022).",
+   "citation": "Murray, A., Koronczai, B., Király, O., Griffiths, M. D., Mannion, A., Leader, G., & Demetrovics, Z. (2022). Autism, problematic internet use and gaming disorder: A systematic review. Review Journal of Autism and Developmental Disorders, 9(1), 120–140. https://doi.org/10.1007/s40489-021-00243-0",
+   "doi": "10.1007/s40489-021-00243-0",
+   "url": "https://irep.ntu.ac.uk/id/eprint/42653",
+   "source_type": "systematisches Review",
+   "relevance_section": "4.4",
+   "numbers": "2.286 gescreente Publikationen, 21 eingeschlossen (PRISMA); PIU–autistische Züge: schwache bis mittlere Effektstärken; ASS–GD-Symptome: mittlere bis starke Effektstärken; keine gepoolten Werte. Band 9, S. 120–140 bestätigt; Heftnummer (1) und DOI aus dem Gedächtnis.",
+   "confidence": "medium"
+  },
+  {
+   "key": false,
+   "claim": "Die Datenlage zum gemeinsamen Auftreten von Gaming Disorder und anderen potenziell süchtigen Verhaltensweisen oder Substanzkonsum ist mit nur 20 empirischen Studien schmal; die vorliegenden Befunde sprechen dafür, dass eine Computerspielstörung mit einer Reihe weiterer Suchtformen (z. B. Alkoholkonsumstörung, süchtiger Social-Media-Nutzung) ko-auftreten kann (Burleigh et al., 2019).",
+   "citation": "Burleigh, T. L., Griffiths, M. D., Sumich, A., Stavropoulos, V., & Kuss, D. J. (2019). A systematic review of the co-occurrence of Gaming Disorder and other potentially addictive behaviors. Current Addiction Reports, 6(4), 383–401. https://doi.org/10.1007/s40429-019-00279-7",
+   "doi": "10.1007/s40429-019-00279-7",
+   "url": "https://irep.ntu.ac.uk/id/eprint/37630",
+   "source_type": "systematisches Review",
+   "relevance_section": "5",
+   "numbers": "N = 20 empirische Studien; Ko-Auftreten mit Alkoholkonsumstörung und süchtiger Social-Media-Nutzung genannt; spezifische Prävalenz- oder Odds-Werte für Alkohol, Cannabis, Nikotin, Glücksspiel in der Suche nicht abrufbar. Heftnummer (4) aus dem Gedächtnis.",
+   "confidence": "high"
+  },
+  {
+   "key": true,
+   "claim": "In einer zweijährigen Längsschnittstudie an 3.034 Schülerinnen und Schülern in Singapur (Klassen 3, 4, 7 und 8) erwiesen sich Depression, Angst, soziale Phobie und schlechtere Schulleistungen als Folgen pathologischen Spielens, während höhere Spielzeit, geringere soziale Kompetenz und höhere Impulsivität als Risikofaktoren für dessen Entwicklung wirkten; die Prävalenz pathologischen Spielens lag bei etwa 9 % (Gentile et al., 2011).",
+   "citation": "Gentile, D. A., Choo, H., Liau, A., Sim, T., Li, D., Fung, D., & Khoo, A. (2011). Pathological video game use among youths: A two-year longitudinal study. Pediatrics, 127(2), e319–e329. https://doi.org/10.1542/peds.2010-1353",
+   "doi": "10.1542/peds.2010-1353",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/21242221",
+   "source_type": "Kohorte/Register",
+   "relevance_section": "3.1",
+   "numbers": "n = 3.034, Singapur, allgemeine Grund- und Sekundarschulpopulation, 2 Jahre, Klassen 3/4/7/8; Prävalenz pathologisches Gaming ca. 9 %; Outcome-Variablen: Depression, Angst, soziale Phobie, Schulleistung; Risikofaktoren: Spielzeit, soziale Kompetenz, Impulsivität. Seitenangabe e319–e329 und DOI aus dem Gedächtnis.",
+   "confidence": "high"
+  },
+  {
+   "key": true,
+   "claim": "In einer national repräsentativen norwegischen Kohorte von 3.000 Jugendlichen (17,5 Jahre bei Erstbefragung 2012, jährliche Erhebungen über 3 Jahre) zeigten sich Depression und Einsamkeit reziprok mit pathologischem Spielen verknüpft, physische Aggression als Vorläufer und Angst als Folge, was für ein bidirektionales Modell spricht (Krossbakken et al., 2018).",
+   "citation": "Krossbakken, E., Pallesen, S., Mentzoni, R. A., King, D. L., Molde, H., Finserås, T. R., & Torsheim, T. (2018). A cross-lagged study of developmental trajectories of video game engagement, addiction, and mental health. Frontiers in Psychology, 9, 2239. https://doi.org/10.3389/fpsyg.2018.02239",
+   "doi": "10.3389/fpsyg.2018.02239",
+   "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2018.02239/full",
+   "source_type": "Kohorte/Register",
+   "relevance_section": "3.1",
+   "numbers": "n = 3.000, Norwegen, repräsentativ, Alter 17,5 bei T1 (2012), 3 jährliche Wellen, Cross-lagged-Pfadmodelle; Studie 1: Depression und Einsamkeit reziprok; Aggression Antezedens; Angst Konsequenz. Autorenliste aus dem Gedächtnis ergänzt.",
+   "confidence": "high"
+  },
+  {
+   "key": false,
+   "claim": "Ein systematisches Review von 12 Studien fand durchgängig einen positiven Zusammenhang zwischen problematischem Gaming und Suizidalität, ohne dass bisher ein gepoolter Effektschätzer für Gaming vorliegt; für die Glücksspielstörung liegen demgegenüber metaanalytisch gepoolte Odds Ratios von 2,17 für Suizidgedanken und 2,81 für Suizidversuche vor (Erevik et al., 2022; Kristensen et al., 2024).",
+   "citation": "Erevik, E. K., Landrø, H., Mattson, Å. L., Kristensen, J. H., Kaur, P., & Pallesen, S. (2022). Problem gaming and suicidality: A systematic literature review. Addictive Behaviors Reports, 15, 100419. https://doi.org/10.1016/j.abrep.2022.100419",
+   "doi": "10.1016/j.abrep.2022.100419",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8943245",
+   "source_type": "systematisches Review",
+   "relevance_section": "5",
+   "numbers": "12 Studien, alle mit positiver Assoziation Gaming–Suizidalität; kein gepoolter OR. Vergleich Glücksspiel: Kristensen et al. (2024), Metaanalyse, OR Suizidgedanken 2,17 (95 % KI 1,90–2,48), OR Suizidversuche 2,81 (95 % KI 2,23–3,54) (vollständige Referenz nicht verifiziert, vermutlich BMC Psychiatry 2024, 10.1186/s12888-024-05694-3). Band 15, Artikel 100419 und DOI von Erevik aus dem Gedächtnis.",
+   "confidence": "medium"
+  },
+  {
+   "key": true,
+   "claim": "In einer deutschen bevölkerungsbasierten Teilstichprobe (n = 168 aus n = 15.023, davon 71 mit Internetsucht) wiesen Personen mit Internetsucht mit 29,6 % deutlich häufiger eine Persönlichkeitsstörung auf als Personen ohne Internetsucht (9,3 %), und eine zusätzliche Cluster-B-Persönlichkeitsstörung ging mit geringeren Remissionsraten der Internetsucht einher (Zadra et al., 2016).",
+   "citation": "Zadra, S., Bischof, G., Besser, B., Bischof, A., Meyer, C., John, U., & Rumpf, H.-J. (2016). The association between Internet addiction and personality disorders in a general population-based sample. Journal of Behavioral Addictions, 5(4), 691–699. https://doi.org/10.1556/2006.5.2016.086",
+   "doi": "10.1556/2006.5.2016.086",
+   "url": "https://research.uni-luebeck.de/en/publications/the-association-between-internet-addiction-and-personality-disord/",
+   "source_type": "Survey",
+   "relevance_section": "4.4",
+   "numbers": "Deutsche Teilstichprobe n = 168 (86 Männer; 71 mit IA) aus Bevölkerungsstichprobe n = 15.023 (PINTA-Projekt, Lübeck/Greifswald); Persönlichkeitsstörung 29,6 % (IA) vs. 9,3 % (keine IA); Männer mit IA: mehr Cluster-C-PS; Cluster B: niedrigere Remission. Autorenliste, Heft/Seiten und DOI aus dem Gedächtnis.",
+   "confidence": "medium"
+  },
+  {
+   "key": false,
+   "claim": "Eine Metaanalyse von 40 Studien mit 49 Prävalenzschätzungen aus 16 Ländern (n ≈ 32.000) schätzt die Prävalenz pathologischen Kaufens in repräsentativen Erwachsenenstichproben auf 4,9 % (95 % KI 3,4–6,9 %), mit höheren Werten bei Studierenden (8,3 %), in nicht repräsentativen Erwachsenenstichproben (12,3 %) und in einkaufsspezifischen Stichproben (16,2 %) (Maraz et al., 2016).",
+   "citation": "Maraz, A., Griffiths, M. D., & Demetrovics, Z. (2016). The prevalence of compulsive buying: A meta-analysis. Addiction, 111(3), 408–419. https://doi.org/10.1111/add.13223",
+   "doi": "10.1111/add.13223",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/26517309/",
+   "source_type": "Metaanalyse",
+   "relevance_section": "5",
+   "numbers": "40 Studien, 49 Schätzungen, 16 Länder, n = 32.000; repräsentative Erwachsene 4,9 % (3,4–6,9 %; 8 Schätzungen, 10.102 Personen); Studierende 8,3 % (5,9–11,5 %; 19 Schätzungen, 14.947); nicht repräsentative Erwachsene 12,3 % (7,6–19,1 %; 11 Schätzungen, 3.929); Shopping-Stichproben 16,2 % (8,8–27,8 %; 11 Schätzungen, 4.686). Heft/Seiten und DOI aus dem Gedächtnis.",
+   "confidence": "high"
+  },
+  {
+   "key": false,
+   "claim": "Eine Metaanalyse von 18 Studien mit 9.269 Jugendlichen und jungen Erwachsenen fand moderate, aber signifikante Korrelationen zwischen problematischer Social-Media-Nutzung und Depression (r = 0,273), Angst (r = 0,348) und Stress (r = 0,313), ohne Hinweise auf Moderation durch Alter, Geschlecht oder Publikationsjahr (Shannon et al., 2022).",
+   "citation": "Shannon, H., Bush, K., Villeneuve, P. J., Hellemans, K. G., & Guimond, S. (2022). Problematic social media use in adolescents and young adults: Systematic review and meta-analysis. JMIR Mental Health, 9(4), e33450. https://doi.org/10.2196/33450",
+   "doi": "10.2196/33450",
+   "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9052033/",
+   "source_type": "Metaanalyse",
+   "relevance_section": "4.4",
+   "numbers": "18 Studien, n = 9.269; Depression r = 0,273 (p < .001); Angst r = 0,348 (p < .001); Stress r = 0,313 (p < .001). Ergänzend eine neuere Metaanalyse (38 Studien, n = 29.944; Autoren nicht verifiziert): Depression r = 0,30 (95 % KI 0,26–0,33), Angst r = 0,30 (0,26–0,34), Stress r = 0,29 (0,21–0,36). Autorenliste Shannon et al. aus dem Gedächtnis.",
+   "confidence": "high"
+  },
+  {
+   "key": false,
+   "claim": "In der deutschen Gesundheits- und Sexualitätsbefragung GeSiD (n = 4.633) berichteten 4,9 % der Männer und 3,0 % der Frauen Indikatoren, die mit einer ICD-11-Störung durch zwanghaftes Sexualverhalten (CSBD) vereinbar sind, und diese Gruppe hatte in den vorangegangenen 12 Monaten signifikant häufiger eine psychiatrische Behandlung wegen Depression oder anderer psychischer Probleme in Anspruch genommen (Briken et al., 2022).",
+   "citation": "Briken, P., Wiessner, C., Štulhofer, A., Klein, V., Fuß, J., Reed, G. M., & Dekker, A. (2022). Who feels affected by \"out of control\" sexual behavior? Prevalence and correlates of indicators for ICD-11 compulsive sexual behavior disorder in the German Health and Sexuality Survey (GeSiD). Journal of Behavioral Addictions, 11(3), 900–911. https://doi.org/10.1556/2006.2022.00060",
+   "doi": "10.1556/2006.2022.00060",
+   "url": "https://eprints.soton.ac.uk/474085/1/2063_5303_article_p900.pdf",
+   "source_type": "Survey",
+   "relevance_section": "5",
+   "numbers": "GeSiD, Deutschland, n = 4.633, repräsentativ; CSBD-Indikatoren: Männer 4,9 %, Frauen 3,0 %; häufiger psychiatrische Behandlung in 12 Monaten. Ergänzend aus Sekundärquellen: Prävalenzspanne CSBD 4,4–18,3 % (Männer) bzw. 1,2–7 % (Frauen); klinische Stichprobe (vermutlich Raymond et al., 2003, n klein): 91,2 % mindestens eine Achse-I-Störung, Major Depression 39,7 %, Alkoholmissbrauch 44 %, Alkoholabhängigkeit 16,2 %, Substanzmissbrauch/-abhängigkeit 22,1 %. Heft 11(3), Startseite 900 durch Dateinamen gestützt; Endseite, Autorenliste und DOI aus dem Gedächtnis.",
+   "confidence": "medium"
+  },
+  {
+   "key": true,
+   "claim": "In einer konsekutiven klinischen Stichprobe von 1.813 Patientinnen und Patienten der Mainzer Ambulanz für Spielsucht wiesen 46 Personen eine 'Doppeldiagnose' aus Internetnutzungs- und Glücksspielstörung auf; diese Gruppe hatte eine höhere Anzahl zusätzlicher psychischer Störungen bei insgesamt hoher Symptombelastung, ohne dass sich die Gruppen in den klinischen Inventaren signifikant unterschieden (Wölfling et al., 2022).",
+   "citation": "Wölfling, K., Dreier, M., Beutel, M. E., & Müller, K. W. (2022). Inanspruchnehmende einer Spielsuchtambulanz mit „Doppeldiagnosen\": Eine psychologische Charakterisierung der Gruppe von Patientinnen und Patienten mit gleichzeitig auftretender Internetnutzungs- und Glücksspielstörung. SUCHT, 68(5), 251–262.",
+   "doi": "",
+   "url": "https://openscience.ub.uni-mainz.de/bitstream/20.500.12030/8873/1/inanspruchnehmende_einer_spie-20230224121001076.pdf",
+   "source_type": "Kohorte/Register",
+   "relevance_section": "5",
+   "numbers": "Konsekutive ambulante Stichprobe n = 1.813 (Ambulanz für Spielsucht, Universitätsmedizin Mainz); 46 Patient:innen mit Internetnutzungs- + Glücksspielstörung; höhere Zahl zusätzlicher psychischer Störungen; hohe Symptombelastung; keine signifikanten Gruppenunterschiede in Inventaren. Prozentwerte zu Depression/Angst/ADHS/PS nicht abrufbar (Volltext nicht zugänglich). DOI nicht verifiziert, daher leer.",
+   "confidence": "medium"
+  },
+  {
+   "key": false,
+   "claim": "In der DAK/UKE-Längsschnittstudie zur Mediennutzung von Kindern und Jugendlichen (rund 1.200 Familien, fünf Messzeitpunkte) stieg der Anteil der 10- bis 17-Jährigen mit einer Computerspielstörung nach WHO-Kriterien von 2,7 % (2019) auf 6,3 % (Juni 2022), was etwa 330.000 Betroffenen entspricht; parallel verdoppelte sich die Social-Media-Nutzungsstörung von 3,2 % auf 6,7 % (DAK-Gesundheit & UKE, 2023).",
+   "citation": "DAK-Gesundheit & Deutsches Zentrum für Suchtfragen des Kindes- und Jugendalters (DZSKJ), Universitätsklinikum Hamburg-Eppendorf. (2023). DAK-Studie: In Pandemie hat sich Mediensucht verdoppelt [Pressemitteilung/Studienbericht; Studienleitung R. Thomasius, K. Paschke]. https://www.dak.de/presse/bundesthemen/kinder-jugendgesundheit/dak-studie-in-pandemie-hat-sich-mediensucht-verdoppelt_48672",
+   "doi": "",
+   "url": "https://www.dak.de/presse/bundesthemen/kinder-jugendgesundheit/dak-studie-in-pandemie-hat-sich-mediensucht-verdoppelt_48672",
+   "source_type": "Survey",
+   "relevance_section": "5",
+   "numbers": "Längsschnitt seit 2019, ca. 1.200 Familien, 5 Messzeitpunkte über 4 Jahre; Gaming Disorder (WHO-Kriterien): 2,7 % (2019) → 6,3 % (Juni 2022) ≈ 330.000 Kinder/Jugendliche; Social-Media-Nutzungsstörung 3,2 % → 6,7 % ≈ 350.000; ca. 2,2 Mio. mit problematischer Nutzung (riskant oder pathologisch) von Gaming, Social Media oder Streaming. Altersbereich 10–17 Jahre aus dem Gedächtnis; peer-reviewte Publikation der Zahlen nicht verifiziert (graue Literatur).",
+   "confidence": "medium"
+  },
+  {
+   "key": false,
+   "claim": "In einer repräsentativen deutschen Stichprobe von 1.531 12- bis 25-Jährigen (Erhebung September 2016, Internet Gaming Disorder Scale) erfüllten 5,7 % die Kriterien einer Internet Gaming Disorder nach DSM-5, was die Störung auch für das junge Erwachsenenalter in Deutschland als relevant ausweist (Wartberg et al., 2017).",
+   "citation": "Wartberg, L., Kriston, L., & Thomasius, R. (2017). The prevalence and psychosocial correlates of Internet Gaming Disorder: Analysis in a nationally representative sample of 12- to 25-year-olds. Deutsches Ärzteblatt International, 114(25), 419–424. https://doi.org/10.3238/arztebl.2017.0419",
+   "doi": "10.3238/arztebl.2017.0419",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5508060",
+   "source_type": "Survey",
+   "relevance_section": "5",
+   "numbers": "n = 1.531, Deutschland, repräsentativ, 12–25 Jahre, September 2016, IGDS (bestätigt); Band 114, S. 419–424 (bestätigt). Prävalenz 5,7 % AUS DEM GEDÄCHTNIS, in den Suchergebnissen nicht bestätigt. Ergänzend aus dem Gedächtnis, ungeprüft: Wartberg, Kriston & Thomasius (2020), Computers in Human Behavior, 103, 31–36: repräsentative deutsche Jugendliche, IGD ca. 4 %, problematische Social-Media-Nutzung ca. 3 %, beide mit erhöhter depressiver Symptomatik.",
+   "confidence": "low"
+  },
+  {
+   "key": false,
+   "claim": "Zur Kombination von Computerspielstörung und psychotischen Störungen liegen nach einem Scoping Review (8 von 242 identifizierten Arbeiten) bislang keine Prävalenz- oder Inzidenzdaten für Patientinnen und Patienten mit psychotischen Störungen vor; einzelne Fallberichte deuten darauf hin, dass exzessives Spielen oder dessen abruptes Beenden bei manchen Personen psychotische Episoden auslösen könnte, sodass diese Konstellation als Evidenzlücke zu kennzeichnen ist (Scoping Review, Psychopathology, 2023).",
+   "citation": "[Autorenliste nicht verifiziert]. (2023). Gaming disorder and psychotic disorders: A scoping review. Psychopathology, 56(4), 315–.",
+   "doi": "",
+   "url": "https://karger.com/psp/article-abstract/56/4/315/836334",
+   "source_type": "systematisches Review",
+   "relevance_section": "6.5",
+   "numbers": "Levac-Methodik, 7 Datenbanken, 242 Treffer, 8 eingeschlossene Arbeiten (überwiegend Fallberichte, 1 empirische Studie); keine Studie zur Prävalenz/Inzidenz von GD bei psychotischen Störungen. Hinweis: In den Suchergebnissen genannte Raten (7,5 % behandlungssuchend, 11 % Community mit beiden Diagnosen) stammen vermutlich aus der Glücksspiel-Psychose-Literatur (Granero et al., 2021) und sind für Gaming NICHT belastbar. Autoren, Endseite und DOI nicht ermittelt, daher leer.",
+   "confidence": "low"
+  }
+ ],
+ "gaps": [
+  "Burleigh et al. (2019): spezifische Ko-Auftretensraten der Gaming Disorder mit Alkohol-, Cannabis-, Nikotinkonsum und Glücksspiel nicht abrufbar (nur Gesamtbefund: 20 Studien, Ko-Auftreten mit Alkoholkonsumstörung und süchtiger Social-Media-Nutzung).",
+  "Metaanalyse mit gepoolten Werten für Angst bzw. soziale Angst bei Gaming Disorder nicht belastbar gefunden; Männikkö et al. (2020, Journal of Health Psychology, 25(1), 67–81; 50 Studien) berichten signifikante Zusammenhänge mit Depression, Angst, Zwang und Somatisierung, die gepoolten Korrelationen konnten aber nicht verifiziert werden.",
+  "Gepoolter Effektschätzer (OR/r) für Suizidalität bei Gaming Disorder: nicht vorhanden; Erevik et al. (2022) liefern nur ein narratives Review (12 Studien). Ko et al. nicht recherchiert (Budget).",
+  "Richtung Depression ↔ Gaming: Richard et al. (2020, J Behav Addict 9(3), 497–533, DOI 10.1556/2006.2020.00045) und Teng et al. (2021, J Behav Addict 10(1), 169–180) existieren, ihre konkreten Richtungsbefunde konnten nicht abgerufen werden; Lemmens, Valkenburg & Peter (2011) nicht recherchiert. Die angekündigte Metaanalyse längsschnittlicher Studien (Amendola et al., ZHAW-Projekt 2022–2023) konnte nicht als publiziert verifiziert.",
+  "Mainzer Ambulanz für Spielsucht: konkrete Komorbiditätsanteile (Depression, Angst, ADHS, Persönlichkeitsstörungen) aus Müller, Beutel & Wölfling (2014, Comprehensive Psychiatry, 55(4), 770–777) und aus Wölfling et al. (2022) nicht abrufbar (Volltexte nicht zugänglich); nur qualitative Befunde.",
+  "Dalbudak et al. (2014): Zusammenhang Internetsucht–Borderline-Züge bei türkischen Studierenden bestätigt, aber ohne verifizierte Kennzahlen.",
+  "Müller, Mitchell & de Zwaan (2015, American Journal on Addictions, 24(2), 132–137): Komorbiditätsraten pathologischen Kaufens mit Depression/Angst/Substanzstörungen nicht abrufbar.",
+  "Grubbs et al. zu Pornografienutzungsstörung/CSBD: nicht spezifisch gefunden; Komorbiditätsraten für CSBD stammen aus kleinen klinischen Stichproben (vermutlich Raymond et al., 2003) und sind nicht an deutsche Daten angebunden.",
+  "Psychose und Gaming Disorder: keine belastbaren Prävalenzdaten (explizite Evidenzlücke laut Scoping Review 2023).",
+  "Deutsche Erwachsenenprävalenz der Computerspielstörung nach ICD-11 (Rumpf et al.): keine konkrete Zahl verifiziert; Wartberg et al. (2017) 5,7 % und Wartberg et al. (2020) Werte nur aus dem Gedächtnis.",
+  "Social-Media-Nutzungsstörung: Komorbiditätsraten mit ADHS und Substanzstörungen nicht gefunden (nur Korrelationen mit Depression/Angst/Stress).",
+  "Suchbudget (30 WebSearch-Aufrufe) vollständig ausgeschöpft; WebFetch gesperrt, daher keine Volltextprüfung."
+ ],
+ "notes": "Methodik: 30 WebSearch-Aufrufe (alle 'standard'), Budget exakt ausgeschöpft; WebFetch war gesperrt, daher basieren alle Angaben auf Abstract-/Snippet-Ebene. Mit 'aus dem Gedächtnis' gekennzeichnete Felder (v. a. DOIs, Heftnummern, Autorenlisten) sollten vor Drucklegung in Zotero/CrossRef geprüft werden. Zusammenfassende Einordnung für das Essential: (1) Querschnittlich ist die Komorbidität der Computerspielstörung mit Depression, Angst, ADHS und sozialer Angst sehr konsistent belegt (González-Bueso 2018; Koncz 2023; Dullur 2021); ADHS ist mit r ≈ 0,30 der am besten quantifizierte Zusammenhang. (2) Zur Richtung: Gentile et al. (2011) stützen Gaming → Depression/Angst/soziale Phobie; Krossbakken et al. (2018) sprechen für reziproke Beziehungen (Depression, Einsamkeit) mit Angst als Folge; eine in den Suchergebnissen referierte Cross-lagged-Studie fand konsistentere Effekte für Depression → Gaming (Vulnerabilitätsmodell), und eine Längsschnittstudie an chinesischen Studierenden (vermutlich Liu et al., 2018, Frontiers in Psychiatry, 9, 154) fand wechselseitige Vorhersage. Fazit: bidirektional ist die am besten gestützte Lesart; eine eindeutige Dominanz einer Richtung ist derzeit nicht belegt. Dies passt zum bidirektionalen Grundmodell in Kap. 3.1. (3) Für Verhaltenssüchte als Doppeldiagnose im engeren Sinne (zwei Suchtdiagnosen) ist Wölfling et al. (2022) die einzige gefundene deutsche klinische Quelle mit dem Begriff 'Doppeldiagnose' (46/1.813 = ca. 2,5 % der Inanspruchnehmenden; Prozentwert selbst berechnet). (4) Vergleichswert Glücksspiel: Kristensen et al. (2024) Metaanalyse Suizidalität (OR 2,17 Ideation; OR 2,81 Versuche) ist nicht Gaming, kann aber im Kap. 5 als Kontrast dienen. (5) Nicht als Befund aufgenommen, aber aus Suchergebnissen: gepoolte IGD-Prävalenz 6,1 % (95 % KI 5,03–7,40) bei jungen Erwachsenen bzw. 6,2 % bei Medizinstudierenden (Metaanalysen ohne verifizierte Referenz); globale GD-Prävalenz 3,3 % (vermutlich Kim et al., 2022, Addictive Behaviors, 126, 107183) bzw. 3,05 % (Stevens et al., 2021, ANZJP 55(6), 553–568) – beide aus dem Gedächtnis."
+}

@@ -1,0 +1,76 @@
+{
+ "checks": [
+  {
+   "index": 0,
+   "exists": true,
+   "bibliographic_ok": true,
+   "claim_supported": "supported",
+   "confidence": "high",
+   "corrected_citation": "World Health Organization. (2024). Clinical descriptions and diagnostic requirements for ICD-11 mental, behavioural and neurodevelopmental disorders. World Health Organization. – Ergänzend für den zitierten Wortlaut: World Health Organization. (2024). ICD-11 for Mortality and Morbidity Statistics (Version 2024-01), 6C51 Gaming disorder. https://icd.who.int/browse/2024-01/mms/en#1448597234",
+   "correction": "Inhalt vollständig bestätigt: drei Kernmerkmale (impaired control inkl. onset, frequency, intensity, duration, termination, context; increasing priority; continuation or escalation despite negative consequences), 'marked distress or significant impairment in personal, family, social, educational, occupational, or other important areas of functioning', 12-Monats-Regel mit Verkürzungsklausel bei schwerer Symptomatik; 6C51.0 = predominantly online, 6C51.1 = predominantly offline. Hinweis: Der im Feld 'numbers' zitierte englische Wortlaut stammt aus der ICD-11-MMS-Browserbeschreibung (Version 2024-01), nicht wörtlich aus dem CDDR-Band; inhaltlich sind beide deckungsgleich, aber für ein wörtliches Zitat sollte die MMS als Quelle angegeben werden (oder das CDDR-Kapitel mit Seitenzahl).",
+   "evidence_url": "https://findacode.com/icd-11/code-1448597234.html"
+  },
+  {
+   "index": 1,
+   "exists": true,
+   "bibliographic_ok": true,
+   "claim_supported": "supported",
+   "confidence": "high",
+   "corrected_citation": "World Health Organization. (2024). Clinical descriptions and diagnostic requirements for ICD-11 mental, behavioural and neurodevelopmental disorders. World Health Organization. – Ergänzend: World Health Organization. (2024). ICD-11 for Mortality and Morbidity Statistics (Version 2024-01), 6C50 Gambling disorder. https://icd.who.int/browse/2024-01/mms/en#1041487064",
+   "correction": "Bestätigt: dieselben drei Kernmerkmale wie bei 6C51, gleiche 12-Monats-Regel mit Verkürzungsklausel; Spezifizierer 6C50.0 'Gambling disorder, predominantly offline', 6C50.1 'Gambling disorder, predominantly online', 6C50.Z unspecified. Die Exklusionen auf Ebene des Elterncodes 6C50 lauten 'Bipolar type I disorder (6A60)' und 'Bipolar type II disorder (6A61)' (bestätigt über ICD-11-Spiegelseiten und die Übersichtsarbeit zu bipolarer Störung und Gaming Disorder, PMC10573592). Die in 'numbers' angesprochene unterschiedliche Reihenfolge der Online/Offline-Spezifizierer (6C50.0 = offline, 6C51.0 = online) ist korrekt. Hinweis: Auf Ebene der Subcodes (6C50.0/.1) ist nur 'Hazardous gambling or betting (QE21)' als Exklusion gelistet; die Bipolar-Exklusion steht beim Elterncode. Die Formulierung zum ICD-11-Komorbiditätsprinzip (gemeinsame Kodierung mit Substanzkonsumstörungen möglich) ist eine Ableitung aus den CDDR-Abschnitten 'Boundaries with other disorders' und wurde in dieser Sitzung nicht wörtlich geprüft.",
+   "evidence_url": "https://findacode.com/icd-11/code-1041487064.html"
+  },
+  {
+   "index": 5,
+   "exists": true,
+   "bibliographic_ok": true,
+   "claim_supported": "supported",
+   "confidence": "high",
+   "corrected_citation": "American Psychiatric Association. (2022). Diagnostic and statistical manual of mental disorders (5th ed., text rev.). American Psychiatric Association Publishing. https://doi.org/10.1176/appi.books.9780890425787",
+   "correction": "Alle Angaben bestätigt: Kriterium A '4 (or more) of the following in a 12-month period' mit den neun aufgeführten Kriterien; Kriterium B 'not better explained by a manic episode'; Schweregrad mild (4–5), moderate (6–7), severe (8–9); Verlaufsspezifizierer episodic/persistent und in early/sustained remission; Gambling disorder ist im Kapitel 'Substance-Related and Addictive Disorders' die einzige nicht substanzbezogene Störung. Hinweis: Die geprüften Sekundärquellen (u. a. Nevada Council, CT DMHAS, PsychDB) geben die DSM-5-Kriterien wieder; die Kriterien sind im DSM-5-TR (2022) unverändert, sodass die Zitation korrekt ist. DOI des DSM-5-TR bestätigt.",
+   "evidence_url": "https://www.nevadacouncil.org/diagnostic-criteria-gambling-disorder"
+  },
+  {
+   "index": 6,
+   "exists": true,
+   "bibliographic_ok": true,
+   "claim_supported": "supported",
+   "confidence": "high",
+   "corrected_citation": "American Psychiatric Association. (2022). Diagnostic and statistical manual of mental disorders (5th ed., text rev.). American Psychiatric Association Publishing. https://doi.org/10.1176/appi.books.9780890425787",
+   "correction": "Bestätigt: Internet Gaming Disorder steht in Sektion III ('Emerging Measures and Models') unter 'Conditions for Further Study'; neun vorgeschlagene Kriterien, Schwelle 'five (or more) ... in a 12-month period'; Internet-Glücksspiel sowie allgemeine Internetnutzung und Social Media sind ausdrücklich nicht eingeschlossen ('Internet gambling is not included'); Schweregrad nach Grad der Beeinträchtigung. Keine Korrektur nötig. Hinweis: Die geprüften Fundstellen (APA-Factsheet, Petry et al./PMC4701686) beziehen sich auf DSM-5; der Abschnitt wurde im DSM-5-TR nicht geändert.",
+   "evidence_url": "https://psychiatry.org/File%20Library/Psychiatrists/Practice/DSM/APA_DSM-5-Internet-Gaming-Disorder.pdf"
+  },
+  {
+   "index": 12,
+   "exists": true,
+   "bibliographic_ok": true,
+   "claim_supported": "supported",
+   "confidence": "high",
+   "corrected_citation": "Stevens, M. W. R., Dorstyn, D., Delfabbro, P. H., & King, D. L. (2021). Global prevalence of gaming disorder: A systematic review and meta-analysis. Australian & New Zealand Journal of Psychiatry, 55(6), 553–568. https://doi.org/10.1177/0004867420962851 (Online-first Oktober 2020; PMID 33028074)",
+   "correction": "Alle Zahlen bestätigt (53 Studien 2009–2019, 226.247 Teilnehmende, 17 Länder, 3,05 % [2,38; 3,91], 1,96 % bei strengeren Stichprobenverfahren, Screening-Instrument erklärt 77 % der Varianz mit höchsten Schätzungen bei Lemmens IGD-9, GAIT und PVP, Geschlechterverhältnis ca. 2,5:1). Zwei Ergänzungen: (1) Die adjustierte Schätzung von 1,96 % hat ein sehr breites 95 %-KI [0,19; 17,12], das im Buchtext genannt werden sollte. (2) Es existiert ein Corrigendum (ANZJP 2023, PMC9872525): nach Ausschluss zweier Studien, die die DSM-5-Empfehlungen nicht korrekt umsetzten, beträgt das Männer-Frauen-Verhältnis 2,3:1 statt 2,5:1; das Corrigendum sollte mitzitiert oder der Wert angepasst werden. Jahresangabe: Online-first 2020, Heftjahr 2021 – APA-7-Zitation mit 2021 ist korrekt.",
+   "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/33028074/"
+  },
+  {
+   "index": 13,
+   "exists": true,
+   "bibliographic_ok": false,
+   "claim_supported": "supported",
+   "confidence": "high",
+   "corrected_citation": "Buth, S., Meyer, G., Rosenkranz, M., & Kalke, J. (2024). Glücksspielteilnahme und glücksspielbezogene Probleme in der Bevölkerung – Ergebnisse des Glücksspiel-Surveys 2023. Institut für interdisziplinäre Sucht- und Drogenforschung (ISD) & Universität Bremen. https://www.presseportal.de/download/document/65e84ccd270000fd2c7e7ff9-2024-03-06-ergebnisb-iel-survey-2023.pdf – Für die 2021-Zahlen: Buth, S., Meyer, G., & Kalke, J. (2022). Glücksspielteilnahme und glücksspielbezogene Probleme in der Bevölkerung – Ergebnisse des Glücksspiel-Surveys 2021. ISD & Universität Bremen.",
+   "correction": "Zahlen vollständig bestätigt: 2023 Glücksspielstörung nach DSM-5 2,4 % [95 %-KI 2,1–2,7] der 18- bis 70-Jährigen (leicht 1,0 %, mittel 0,7 %, schwer 0,7 %), 6,1 % mit 1–3 DSM-5-Kriterien (riskantes Spielverhalten); 2021 N = 12.303, 16–70 Jahre, Mixed-Mode, Glücksspielstörung 2,3 % (ca. 1,3 Mio.), riskantes Spielen 5,7 % (ca. 3,25 Mio.). Bibliographische Korrektur: Der Ergebnisbericht 2023 hat vier Autoren – Moritz Rosenkranz fehlt in der Zitation (Buth, Meyer, Rosenkranz & Kalke, 2024). Außerdem Hinweis für den Text: Die Altersgruppen unterscheiden sich (2021: 16–70 Jahre; 2023: 18–70 Jahre) und der Survey 2023 wurde vom Deutschen Lotto- und Totoblock (DLTB) finanziert – beides sollte bei einem Vergleich der Jahre genannt werden. Die 2021-Zahlen sind über die Hayer-Präsentation (FAGS 2022) und Bremer Bürgerschaftsdrucksache 21/567 als Sekundärfundstellen bestätigt.",
+   "evidence_url": "https://www.presseportal.de/download/document/65e84ccd270000fd2c7e7ff9-2024-03-06-ergebnisb-iel-survey-2023.pdf"
+  },
+  {
+   "index": 15,
+   "exists": true,
+   "bibliographic_ok": true,
+   "claim_supported": "supported",
+   "confidence": "medium-high",
+   "corrected_citation": "Lorains, F. K., Cowlishaw, S., & Thomas, S. A. (2011). Prevalence of comorbid disorders in problem and pathological gambling: Systematic review and meta-analysis of population surveys. Addiction, 106(3), 490–498. https://doi.org/10.1111/j.1360-0443.2010.03300.x",
+   "correction": "Autoren, Jahr, Titel, Zeitschrift, Band 106, Heft 3, Seiten 490–498 (März 2011) und die vier zentralen Prävalenzwerte (Nikotinabhängigkeit 60,1 %, Substanzkonsumstörung 57,5 %, affektive Störung 37,9 %, Angststörung 37,4 %) sind über das Bristol-Repositorium und die Greo/McMaster-Zusammenfassung bestätigt. Nicht unabhängig bestätigt werden konnten im Rahmen des Budgets: die Zahl von 11 eingeschlossenen Studien, das Suchfenster 01.01.1998–20.09.2010 sowie die DOI (die DOI entspricht dem Wiley-Schema der Addiction-Jahrgänge 2010/2011 und ist nach Kenntnisstand korrekt, wurde aber in keiner Fundstelle dieser Sitzung explizit angezeigt). Formulierungshinweis: Die Werte sind gepoolte mittlere Prävalenzen über 'problem and pathological gamblers' aus Bevölkerungsstichproben, nicht Werte für klinische Stichproben.",
+   "evidence_url": "https://research-information.bris.ac.uk/en/publications/prevalence-of-comorbid-disorders-in-problem-and-pathological-gamb/"
+  }
+ ],
+ "overall_notes": "Alle sieben Befunde existieren und sind inhaltlich belegt; keine Zahl musste verworfen werden. Prüfstand: (1) Klassifikationsbefunde 0, 1, 5, 6 sind über ICD-11-Spiegelseiten (findacode/worldoftaxonomy, Wortlaut der MMS 2024-01), die PMC-Übersicht zu bipolaren Störungen und Gaming Disorder sowie APA-Factsheet/Sekundärquellen zu DSM-5-Kriterien bestätigt; der WHO-Browser selbst ist in dieser Umgebung gesperrt. Zu beachten: Die Bipolar-Exklusionen (6A60, 6A61) stehen am Elterncode 6C50, die Subcodes listen nur 'Hazardous gambling or betting'. (2) Stevens et al. 2021: alle Zahlen bestätigt, aber ein Corrigendum (2023) korrigiert das Geschlechterverhältnis auf 2,3:1; das 95 %-KI der adjustierten 1,96 % ist extrem breit [0,19; 17,12]. (3) Buth et al. 2024: Zahlen bestätigt, Autorenliste unvollständig (Rosenkranz fehlt); Altersgrenzen 2021 (16–70) vs. 2023 (18–70) differieren. (4) Lorains et al. 2011: Hauptzahlen und bibliographische Daten bestätigt; DOI, '11 Studien' und Suchfenster konnten im Budget nicht mehr unabhängig gegengeprüft werden (als plausibel/aus Kenntnisstand korrekt markiert). Suchbudget vollständig ausgeschöpft (12/12); WebFetch nicht verwendet.",
+ "searches_used": 12
+}

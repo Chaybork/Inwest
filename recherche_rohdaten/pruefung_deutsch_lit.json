@@ -1,0 +1,76 @@
+{
+ "checks": [
+  {
+   "index": 0,
+   "exists": true,
+   "bibliographic_ok": false,
+   "claim_supported": "partially",
+   "confidence": "medium",
+   "corrected_citation": "Deutsche Gesellschaft für Suchtforschung und Suchttherapie e. V. (DG-Sucht) (Hrsg.). (2025). Diagnostik und Therapie von Internetnutzungsstörungen: S1-Leitlinie (AWMF-Registernummer 076-011; Version 01/2025, Stand 20.11.2024; wissenschaftliche Leitung und Koordination: H.-J. Rumpf; Redaktion: A. Bischof). AWMF. https://register.awmf.org/de/leitlinien/detail/076-011",
+   "correction": "Bestätigt: Titel, AWMF-Reg.-Nr. 076-011, Herausgeberschaft DG-Sucht, Rumpf (wissenschaftliche Leitung/Koordination) und Bischof (Redaktion), beide Universität zu Lübeck; Mitwirkung u. a. DGKJ, DGKJP, DGPPN, DGPs; Fertigstellung 20.11.2024, Veröffentlichung Anfang 2025 (Pressemeldung ptaheute 26.02.2025 spricht von der 'ersten Leitlinie' zu Internetnutzungsstörungen). NICHT bestätigt: Eine 'aktualisierte Fassung 06/2025' (PDF ..._2025-06.pdf) ließ sich über die Suche nicht nachweisen – gefunden wurde nur die Fassung 2025-01. Bis zur Einsichtnahme in das Register sollte die Zitation nur 'Version 01/2025, Stand 20.11.2024' nennen und als URL die Registerseite bzw. das 2025-01-PDF. Ebenfalls nicht in den Treffern verifiziert: die Mitwirkung des 'Bundesverbands Suchthilfe' sowie die explizite Aufzählung der fünf Störungsformen (Computerspiel-, Soziale-Netzwerke-, Pornografie-, Shopping-, Online-Glücksspiel-Nutzungsstörung) im Leitlinientext – inhaltlich plausibel (entspricht der Terminologie von Rumpf et al. 2021), aber am PDF zu prüfen. Die vom Leitlinienpapier empfohlene Zitierweise bleibt ungeprüft.",
+   "evidence_url": "https://register.awmf.org/assets/guidelines/076-011l_S1_Diagnostik-Therapie-Internetnutzungstoerungen_2025-01.pdf"
+  },
+  {
+   "index": 1,
+   "exists": true,
+   "bibliographic_ok": false,
+   "claim_supported": "supported",
+   "confidence": "high",
+   "corrected_citation": "Buth, S., Meyer, G., Rosenkranz, M., & Kalke, J. (2024). Glücksspielteilnahme und glücksspielbezogene Probleme in der Bevölkerung: Ergebnisse des Glücksspiel-Surveys 2023. Institut für interdisziplinäre Sucht- und Drogenforschung (ISD) & Universität Bremen. https://www.presseportal.de/download/document/65e84ccd270000fd2c7e7ff9-2024-03-06-ergebnisb-iel-survey-2023.pdf",
+   "correction": "Zentrale Zahlen bestätigt: 2,4 % der 18- bis 70-Jährigen erfüllen die DSM-5-Kriterien einer Störung durch Glücksspielen (leicht 1,0 %, mittel 0,7 %, schwer 0,7 %). Ergänzungen aus dem Ergebnisbericht: n = 12.308 vollständige Interviews, Erhebung 01.08.–16.10.2023, Mixed-Mode (65,1 % Telefon, 34,9 % online), Durchführung ISD Hamburg und Universität Bremen, Finanzierung Deutscher Lotto- und Totoblock. Korrekturbedarf bei der Autorenreihenfolge: Der Ergebnisbericht nennt laut Suchtreffer die Reihenfolge Buth, Meyer, Rosenkranz, Kalke – nicht Buth, Kalke, Rosenkranz, Meyer wie im Befund. Die exakte Titelfassung des Berichts ('Glücksspielteilnahme und glücksspielbezogene Probleme in der Bevölkerung – Ergebnisse des Glücksspiel-Surveys 2023') entspricht dem Projekttitel der Universität Bremen, wurde aber nicht am Deckblatt verifiziert. Bei Verlaufsvergleichen mit 2021 auf den Methodenwechsel (Mixed-Mode, DSM-5 statt SOGS) hinweisen.",
+   "evidence_url": "https://www.presseportal.de/download/document/65e84ccd270000fd2c7e7ff9-2024-03-06-ergebnisb-iel-survey-2023.pdf"
+  },
+  {
+   "index": 3,
+   "exists": true,
+   "bibliographic_ok": false,
+   "claim_supported": "partially",
+   "confidence": "medium",
+   "corrected_citation": "Institut für interdisziplinäre Sucht- und Drogenforschung (ISD) & Universität Bremen. (2026, 11. März). Glücksspiel-Survey 2025: Zentrale Ergebnisse [Pressemitteilung]. https://gerhard.meyer.uni-bremen.de/downloads/PM_ISD_Gluecksspielsurvey_2025.pdf – Vollbericht (Titel und Autorenreihenfolge analog zu 2023 angenommen, nicht verifiziert): Buth, S., Meyer, G., Rosenkranz, M., & Kalke, J. (2026). Glücksspielteilnahme und glücksspielbezogene Probleme in der Bevölkerung: Ergebnisse des Glücksspiel-Surveys 2025. ISD & Universität Bremen.",
+   "correction": "Bestätigt: 12.340 Interviews, Erhebungszeitraum 04.08.–26.11.2025, deutschsprachige Bevölkerung 16–70 Jahre, Mixed-Mode (Telefon/online, Feldarbeit INFO GmbH Berlin), 12-Monats-Teilnahme an mindestens einem Glücksspiel 36,4 %, glücksspielassoziierte Störung Männer 3,2 % vs. Frauen 1,1 %, Finanzierung Deutscher Lotto- und Totoblock. FALSCH ist das Veröffentlichungsdatum: Die Pressemitteilung von ISD und Universität Bremen datiert vom 11.03.2026 (Berichterstattung bei Spektrum/Nordkurier am 11.03., SBC News am 12.03.2026), nicht vom 17.03.2026. Eine Gesamtprävalenz über beide Geschlechter wurde in den Treffern nicht ausgewiesen. Wichtig für Vergleiche mit 2023: Die Grundgesamtheit wurde von 18–70 auf 16–70 Jahre erweitert, Prävalenzen sind daher nicht unmittelbar vergleichbar. Ob der vollständige Ergebnisbericht bereits erschienen ist und wie er exakt heißt, konnte nicht geprüft werden – bis dahin die Pressemitteilung zitieren.",
+   "evidence_url": "https://www.spektrum.de/news/gluecksspiel-survey-2025-maenner-sind-anfaelliger-fuer-gluecksspielsucht/2314412"
+  },
+  {
+   "index": 4,
+   "exists": true,
+   "bibliographic_ok": false,
+   "claim_supported": "partially",
+   "confidence": "medium",
+   "corrected_citation": "Paschke, K., & Thomasius, R. (2024). Problematische Mediennutzung bei Kindern und Jugendlichen in der post-pandemischen Phase: DAK-Studie Mediensucht 2023/24. DAK-Gesundheit & Deutsches Zentrum für Suchtfragen des Kindes- und Jugendalters (DZSKJ), Universitätsklinikum Hamburg-Eppendorf. https://www.dak.de/dak/unternehmen/reporte-forschung/dak-studie-mediensucht-2023-24_56536 (Autorennennung/-reihenfolge am Bericht nicht verifiziert)",
+   "correction": "Bestätigt: Gemeinsame Längsschnittstudie DAK-Gesundheit/DZSKJ (UKE, Leitung Thomasius), rund 1.200 Familien, sechs Erhebungswellen seit 2019; Gaming-Disorder-Prävalenz (WHO-Kriterien) 2,7 % (2019) → 6,3 % (Juni 2022, hochgerechnet ca. 330.000); Berichtstitel 'Problematische Mediennutzung bei Kindern und Jugendlichen in der post-pandemischen Phase' (DAK-Studie Mediensucht 2023/24, Pressekonferenz 22.02.2024). NICHT unabhängig bestätigt (Budget erschöpft): der Wert 4,3 % für September 2023, die Geschlechterverteilung Jungen 5,6 % vs. Mädchen 3,1 %, 'riskante Nutzung 11,1 %' sowie die Nutzungszeiten (98/168 Min.). Die DAK-Seite zur Folgewelle (Mediensucht-Studie 2024) spricht von einem 'fortgesetzten' Rückgang pathologischen Gamings auf 3,4 % (September 2024), was einen vorherigen Rückgang 2023 stützt, die konkrete Zahl 4,3 % aber nicht belegt. Hinweis für das Buch: Inzwischen liegt die Welle 2024 (3,4 %, nahe Vor-Pandemie-Niveau 2,7 %) vor – ggf. aktualisieren. Autorennennung des DAK-Berichts am Deckblatt prüfen.",
+   "evidence_url": "https://www.dak.de/dak/unternehmen/reporte-forschung/dak-studie-mediensucht-2023-24_56536"
+  },
+  {
+   "index": 5,
+   "exists": true,
+   "bibliographic_ok": true,
+   "claim_supported": "supported",
+   "confidence": "high",
+   "corrected_citation": "Müller, K. W., & Wölfling, K. (2025). Internetnutzungsstörungen – Bestandsaufnahme, Trends und Perspektiven. In Deutsche Hauptstelle für Suchtfragen e. V. (Hrsg.), DHS Jahrbuch Sucht 2025 (Kap. 2.6, S. 137–149). Pabst. https://doi.org/10.2440/012-0023",
+   "correction": "Kapitel 2.6, Beginn S. 137, Titel, DOI 10.2440/012-0023, Verlag Pabst (Lengerich) und Jahr 2025 durch das DHS-Kapitel-PDF und die DHS-Literaturliste bestätigt. Einziger Prüfpunkt: Die DHS-Bibliotheksliste führt die Autoren in der Reihenfolge 'Wölfling, Klaus; Müller, Kai W.', der Befund nennt Müller & Wölfling – Reihenfolge am Kapitel-Deckblatt prüfen. Die Endseite 149 wurde nicht separat verifiziert.",
+   "evidence_url": "https://www.dhs.de/fileadmin/user_upload/pdf/Jahrbuch_Sucht/JBS25_S137_Kap2-6_WEB.pdf"
+  },
+  {
+   "index": 7,
+   "exists": true,
+   "bibliographic_ok": false,
+   "claim_supported": "supported",
+   "confidence": "high",
+   "corrected_citation": "Rumpf, H.-J., Batra, A., Bischof, A., Hoch, E., Lindenberg, K., Mann, K., Montag, C., Müller, A., Müller, K. W., Rehbein, F., Stark, R., te Wildt, B., Thomasius, R., Wölfling, K., & Brand, M. (2021). Vereinheitlichung der Bezeichnungen für Verhaltenssüchte. SUCHT, 67(4), 181–185. https://doi.org/10.1024/0939-5911/a000720",
+   "correction": "Titel, Zeitschrift SUCHT 67(4), S. 181–185, Jahr 2021 und DOI über UKE-Forschungsportal und Frankfurter Repositorium bestätigt. Autorenliste korrigieren: Statt 'Schneider, L.' gehört Rudolf Stark (Stark, R.) in die Liste; alle übrigen 14 Namen stimmen. Inhaltlich bestätigt: Expertenkonsens im Rahmen der Leitlinienentwicklung auf ICD-11-Basis mit den Bezeichnungen Computerspielstörung (Gaming Disorder), Glücksspielstörung (Gambling Disorder), Soziale-Netzwerke-Nutzungsstörung, Shoppingstörung und Pornografie-Nutzungsstörung. Der genaue Wortlaut des Oberbegriffs ('Störungen aufgrund von Verhaltenssüchten') war in den Treffern nicht sichtbar und sollte am Volltext geprüft werden.",
+   "evidence_url": "https://fis.uke.de/portal/en/publications/vereinheitlichung-der-bezeichnungen-fur-verhaltenssuchte(f1e3ba42-50b5-4585-98da-d54445198bfb).html"
+  },
+  {
+   "index": 8,
+   "exists": true,
+   "bibliographic_ok": true,
+   "claim_supported": "unverifiable",
+   "confidence": "low",
+   "corrected_citation": "Rumpf, H.-J., Trachte, A., & Bischof, G. (2019). Glücksspielabhängigkeit. PSYCH up2date, 13(1), 79–91. https://doi.org/10.1055/a-0630-9844 (Seitenangabe, DOI und Vorname/Initial des dritten Autors nicht verifiziert)",
+   "correction": "Existenz bestätigt: Das Thieme-Inhaltsverzeichnis von PSYCH up2date, Band 13, Heft 01 (Januar 2019), führt in der Rubrik 'Abhängigkeitserkrankungen' den CME-Beitrag 'Glücksspielabhängigkeit' von Rumpf, Trachte und Bischof. NICHT bestätigt: Seiten 79–91 und die DOI 10.1055/a-0630-9844 (in keinem Treffer dem Beitrag zugeordnet) sowie ob 'Bischof' hier Gallus oder Anja Bischof ist. Die inhaltlichen Aussagen (Risikofaktoren männliches Geschlecht, junges Alter, niedrige Bildung, Arbeitslosigkeit, Migrationshintergrund, psychiatrische Komorbidität; gut belegte Wirksamkeit KVT-/MI-basierter Psychotherapie) konnten mangels zugänglichem Abstract nicht geprüft werden – sie sind fachlich plausibel und entsprechen dem Stand der Literatur, müssen aber am Volltext belegt werden. Das Erscheinungsjahr 2019 ist korrekt (nicht 2023–2026).",
+   "evidence_url": "https://www.thieme-connect.de/products/ejournals/issue/10.1055/s-009-42246?lang=en"
+  }
+ ],
+ "overall_notes": "ABSTRACT (Kurzfassung). Geprüft wurden sieben Schlüsselbefunde zur deutschsprachigen Literatur über Verhaltenssüchte und ihre Komorbidität mit genau 12 WebSearch-Aufrufen (Budget vollständig ausgeschöpft; WebFetch gesperrt, daher beruhen alle Prüfungen auf Suchmaschinen-Snippets und -Zusammenfassungen, nicht auf Volltexten). Alle sieben Quellen existieren. Zwei Befunde sind voll bestätigt: der Glücksspiel-Survey 2023 (Index 1: 2,4 % DSM-5-Störung durch Glücksspielen, Schweregrade 1,0/0,7/0,7 %, n = 12.308, Erhebung 01.08.–16.10.2023) und das DHS-Jahrbuch-Kapitel 2.6 von Müller und Wölfling (Index 5: Titel, Seiten, DOI bestätigt). Der Terminologie-Konsens Rumpf et al. 2021 (Index 7) ist inhaltlich und bibliographisch bestätigt, enthält aber einen Fehler in der Autorenliste: Rudolf Stark statt eines nicht existierenden 'L. Schneider'. Teilweise bestätigt sind die S1-Leitlinie Internetnutzungsstörungen (Index 0: alles Wesentliche belegt, aber keine Spur einer 'Fassung 06/2025' – nur die Version 01/2025 nachweisbar), der Glücksspiel-Survey 2025 (Index 3: alle Kennzahlen inklusive Geschlechterdifferenz 3,2 % vs. 1,1 % belegt, aber das Veröffentlichungsdatum ist falsch – 11.03.2026 statt 17.03.2026; Berichtstitel und Autorenreihenfolge unverifiziert; Altersgrenze auf 16–70 erweitert) und die DAK-Längsschnittstudie (Index 4: 2,7 % → 6,3 %, 1.200 Familien, sechs Wellen und Berichtstitel bestätigt; die zentralen Werte 4,3 % für 2023 und 5,6 % vs. 3,1 % nach Geschlecht konnten nicht unabhängig belegt werden; die Folgewelle 2024 nennt 3,4 %). Der CME-Beitrag Rumpf, Trachte und Bischof (Index 8) ist als Artikel in PSYCH up2date 13(1), Januar 2019, nachgewiesen; Seiten, DOI und der inhaltliche Anspruch (Komorbidität als Risikofaktor, Wirksamkeit von KVT/MI) bleiben jedoch unverifiziert, weil kein Abstract zugänglich war. Konkrete Korrekturen für die Literaturliste: (1) Index 7 Autorenliste 'Stark, R.' statt 'Schneider, L.'; (2) Index 1 Autorenreihenfolge laut Ergebnisbericht Buth, Meyer, Rosenkranz, Kalke; (3) Index 3 Datum 11.03.2026 und vorerst die Pressemitteilung statt eines unverifizierten Vollberichts zitieren; (4) Index 0 nur 'Version 01/2025, Stand 20.11.2024' angeben; (5) Index 5 Autorenreihenfolge (DHS-Liste nennt Wölfling, Müller) am Deckblatt prüfen; (6) Index 8 Seiten/DOI/Initial des dritten Autors am Thieme-Eintrag prüfen. Insgesamt: keine Quelle erfunden, keine Kernzahl widerlegt, aber vier bibliographische Details und ein Datum korrekturbedürftig; zwei Zahlensätze (DAK 2023, PSYCH up2date-Inhalt) bleiben offen.\n\nDETAILS ZUR METHODIK. Suche 1–7: je eine gezielte Suche pro Befund (Titel/Autoren/Kennzahlen). Suche 8–12: Nachprüfungen zu Index 3 (Geschlechterwerte, Datum), Index 4 (4,3 %, Geschlecht), Index 8 (Existenz im Thieme-Heftverzeichnis), Index 5 (dhs.de-Domänensuche) und Index 0 (Version 2025-06). Für Index 4 reichte das Budget nicht für eine dritte Suche nach der DAK-Pressemitteilung vom 22.02.2024, in der die 4,3 % und die Geschlechterwerte vermutlich stehen; sie sind daher als 'Budget/unverifiziert' gekennzeichnet, nicht als falsch. Einschränkung: Autorenreihenfolgen (Index 1, 5) stammen aus Suchmaschinen-Zusammenfassungen der jeweiligen Dokumente und sollten vor Drucklegung am Original gegengeprüft werden. Für die Leitlinie (Index 0) wäre zusätzlich die im Leitlinienpapier selbst empfohlene Zitierweise zu übernehmen.",
+ "searches_used": 12
+}

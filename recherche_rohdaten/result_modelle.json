@@ -1,0 +1,196 @@
+{
+ "dimension": "Erklärungsmodelle für die Komorbidität von Verhaltenssüchten (Glücksspielstörung, Computerspielstörung/Gaming Disorder, ICD-11 \"other specified disorders due to addictive behaviours\") mit weiteren psychischen Störungen – Übertragbarkeit der vier Grundmodelle des Essentials (gemeinsame ätiologische Faktoren, sekundäre Suchtentwicklung/Selbstmedikation, sekundäre psychische Störung, bidirektional)",
+ "findings": [
+  {
+   "key": true,
+   "claim": "Nach dem Syndrommodell der Sucht sind substanzbezogene und verhaltensbezogene Süchte (etwa Glücksspielen oder Kaufen) keine voneinander unabhängigen Störungen, sondern unterschiedliche Ausdrucksformen eines gemeinsamen zugrunde liegenden Suchtsyndroms mit geteilter neurobiologischer, genetischer und psychosozialer Vulnerabilität, wobei das konkrete Suchtobjekt von Exposition und Risikofaktoren abhängt und im Verlauf wechseln kann (Shaffer et al., 2004).",
+   "citation": "Shaffer, H. J., LaPlante, D. A., LaBrie, R. A., Kidman, R. C., Donato, A. N., & Stanton, M. V. (2004). Toward a syndrome model of addiction: Multiple expressions, common etiology. Harvard Review of Psychiatry, 12(6), 367–374. https://doi.org/10.1080/10673220490905705",
+   "doi": "10.1080/10673220490905705",
+   "url": "https://faculty.buffalostate.edu/macleamg/440/Shaffer%202004%20HRP.pdf",
+   "source_type": "narratives Review",
+   "relevance_section": "3.1",
+   "confidence": "high",
+   "numbers": "Theoretisches Modell ohne eigene Kennzahlen. Bibliografische Angaben (Band 12, Heft 6, S. 367–374, Nov. 2004) per Suche bestätigt; DOI aus dem Gedächtnis ergänzt. Der Begriff 'addiction hopping' (Objektwechsel) ist eine Zuspitzung, die im Text als Substitution/Wechsel des Suchtobjekts beschrieben wird – Wortlaut nicht geprüft."
+  },
+  {
+   "key": true,
+   "claim": "Das I-PACE-Modell verortet psychische Störungen (z. B. Depression, soziale Angst, ADHS) zusammen mit genetischen Faktoren, frühen Belastungen und Temperament (etwa Impulsivität) unter den prädisponierenden Personmerkmalen, die über affektive und kognitive Reaktionen auf innere und äußere Auslöser (Craving, Nutzungserwartungen, Coping-Stil, implizite Assoziationen) und bei verminderter Inhibitionskontrolle und Exekutivfunktion in eine spezifische Internetnutzungsstörung münden können – Komorbidität wird damit primär als Vulnerabilität und nicht als Folge der Verhaltenssucht modelliert (Brand et al., 2016).",
+   "citation": "Brand, M., Young, K. S., Laier, C., Wölfling, K., & Potenza, M. N. (2016). Integrating psychological and neurobiological considerations regarding the development and maintenance of specific Internet-use disorders: An Interaction of Person-Affect-Cognition-Execution (I-PACE) model. Neuroscience & Biobehavioral Reviews, 71, 252–266. https://doi.org/10.1016/j.neubiorev.2016.08.033",
+   "doi": "10.1016/j.neubiorev.2016.08.033",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8987428",
+   "source_type": "narratives Review",
+   "relevance_section": "3.1",
+   "confidence": "high",
+   "numbers": "Theoretisches Modell ohne Kennzahlen. Band 71, S. 252–266 per Suche bestätigt; DOI aus dem Gedächtnis. Update: Brand, M., Wegmann, E., Stark, R., Müller, A., Wölfling, K., Robbins, T. W., & Potenza, M. N. (2019). The Interaction of Person-Affect-Cognition-Execution (I-PACE) model for addictive behaviors: Update, generalization to addictive behaviors beyond Internet-use disorders, and specification of the process character of addictive behaviors. Neuroscience & Biobehavioral Reviews, 104, 1–10 (Autoren, Band, Seiten per Suche bestätigt; DOI 10.1016/j.neubiorev.2019.06.032 aus dem Gedächtnis). Das Update generalisiert das Modell auf Glücksspiel-, Kauf-, Pornografie- und Social-Networking-Störungen und beschreibt den Prozesscharakter (frühe Phase: Gratifikation/positive Verstärkung; spätere Phase: Kompensation/negative Verstärkung, Gewohnheitsbildung) – diese Phasenbeschreibung aus dem Gedächtnis, nicht geprüft."
+  },
+  {
+   "key": true,
+   "claim": "Das Pathways-Modell unterscheidet drei Entwicklungswege zur Glücksspielstörung: einen rein verhaltenskonditionierten Pfad ohne prämorbide Psychopathologie, einen emotional vulnerablen Pfad, auf dem Glücksspielen bei vorbestehender Depression, Angst, Traumatisierung und defizitärer Stressbewältigung der Affektregulation dient (Entsprechung zur Selbstmedikationshypothese), und einen antisozial-impulsiven Pfad mit Impulsivität, ADHS-Merkmalen und antisozialen Zügen als gemeinsamen neuropsychologischen Vulnerabilitätsfaktoren (Blaszczynski & Nower, 2002).",
+   "citation": "Blaszczynski, A., & Nower, L. (2002). A pathways model of problem and pathological gambling. Addiction, 97(5), 487–499. https://doi.org/10.1046/j.1360-0443.2002.00015.x",
+   "doi": "10.1046/j.1360-0443.2002.00015.x",
+   "url": "",
+   "source_type": "narratives Review",
+   "relevance_section": "3.1",
+   "confidence": "medium",
+   "numbers": "Theoretisches Modell ohne Kennzahlen. Bibliografische Angaben (Addiction 97(5), 487–499) und DOI aus dem Gedächtnis; nicht per Suche geprüft (Suchbudget), aber durch Nower et al. (2022) als Vorlage indirekt bestätigt."
+  },
+  {
+   "key": false,
+   "claim": "In der Revision des Pathways-Modells ergab eine latente Klassenanalyse an 1.168 behandlungssuchenden Problemspielern aus Kanada, Australien und den USA (Gelegenheitsstichprobe, ≥ 18 Jahre) eine Drei-Klassen-Lösung: Klasse 1 (44,3 %) mit den niedrigsten ätiologischen Risikofaktoren, Klasse 2 (39,5 %) mit den höchsten Raten von Angst und Depression und ausgeprägtem Stress-Coping-Spielen sowie Klasse 3 (16,3 %) mit hoher Impulsivität, Risikobereitschaft und antisozialen Zügen – die Mehrheit der Behandlungssuchenden lässt sich damit Pfaden zuordnen, in denen eine weitere psychische Störung ätiologisch beteiligt ist (Nower et al., 2022).",
+   "citation": "Nower, L., Blaszczynski, A., & Anthony, W. L. (2022). Clarifying gambling subtypes: The revised pathways model of problem gambling. Addiction, 117(7), 2000–2008. https://doi.org/10.1111/add.15745",
+   "doi": "10.1111/add.15745",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9310607/",
+   "source_type": "Kohorte/Register",
+   "relevance_section": "4.4",
+   "confidence": "high",
+   "numbers": "n = 1.168 behandlungssuchende Problemspieler (Behandlungseinrichtungen in Kanada, Australien, USA; Erhebungsjahr in den Suchergebnissen nicht genannt); Latent Class Analysis; Klasse 1: 44,3 %; Klasse 2: 39,5 % (Angst/Depression, Stress-Coping-Spielen); Klasse 3: 16,3 % (Impulsivität, Risikobereitschaft, antisoziale Züge, Spielen für Sinn/Stressabbau). Band 117(7), S. 2000–2008 per Suche bestätigt; DOI aus dem Gedächtnis."
+  },
+  {
+   "key": false,
+   "claim": "Auf Basis affektiver Spielmotive lassen sich pathologische Glücksspieler clusteranalytisch in Enhancement-Spieler, Coping-Spieler und Spieler mit geringer Emotionsregulationsmotivation unterteilen; Coping-Spieler, die spielen, um negative Affekte zu dämpfen, zeigten die höchsten Werte bei Glücksspielaktivität, Glücksspielproblemen, Trinkhäufigkeit, Trinkproblemen und Coping-Trinkmotiven, was als motivationales Analogon zur Selbstmedikationshypothese für Verhaltenssüchte gelesen werden kann (Stewart et al., 2008).",
+   "citation": "Stewart, S. H., Zack, M., Collins, P., & Klein, R. M. (2008). Subtyping pathological gamblers on the basis of affective motivations for gambling: Relations to gambling problems, drinking problems, and affective motivations for drinking. Psychology of Addictive Behaviors, 22(2), 257–268. https://doi.org/10.1037/0893-164X.22.2.257",
+   "doi": "10.1037/0893-164X.22.2.257",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3000875",
+   "source_type": "Survey",
+   "relevance_section": "3.1",
+   "confidence": "medium",
+   "numbers": "Drei Cluster (enhancement / coping / low emotion regulation); Stichprobengröße und Setting in den Suchergebnissen nicht genannt (nicht aus dem Gedächtnis ergänzt). Messinstrument: Stewart, S. H., & Zack, M. (2008). Development and psychometric evaluation of a three-dimensional Gambling Motives Questionnaire. Addiction, 103(7), 1110–1117 (15 Items, Faktoren Enhancement, Coping, Social; Angaben per Suche bestätigt; DOI 10.1111/j.1360-0443.2008.02235.x aus dem Gedächtnis). DOI des PAB-Artikels aus dem Gedächtnis."
+  },
+  {
+   "key": false,
+   "claim": "Die Theorie der kompensatorischen Internetnutzung deutet exzessive Internet- und Spielnutzung nicht als eigenständige Pathologie, sondern als Versuch, negative Lebenssituationen und unbefriedigte Bedürfnisse (etwa Einsamkeit, Stress, soziale Angst) online zu kompensieren, sodass psychische Belastung als treibende Variable und exzessive Nutzung als deren Folge gelten – eine konzeptuelle Entsprechung zum Modell der sekundären Suchtentwicklung (Kardefelt-Winther, 2014).",
+   "citation": "Kardefelt-Winther, D. (2014). A conceptual and methodological critique of internet addiction research: Towards a model of compensatory internet use. Computers in Human Behavior, 31, 351–354. https://doi.org/10.1016/j.chb.2013.10.059",
+   "doi": "10.1016/j.chb.2013.10.059",
+   "url": "https://researchonline.lse.ac.uk/id/eprint/132068/1/Kardefelt-Winther_Excessive_internet_use.pdf",
+   "source_type": "narratives Review",
+   "relevance_section": "3.1",
+   "confidence": "high",
+   "numbers": "Theoretischer Beitrag ohne Kennzahlen; Titel, Band 31, S. 351–354 per Suche bestätigt; DOI aus dem Gedächtnis."
+  },
+  {
+   "key": false,
+   "claim": "In einer Online-Befragung von Online-Spielern hatte psychiatrische Belastung sowohl einen direkten Effekt auf problematisches Online-Spielen als auch einen indirekten, über die Spielmotive Escape (Flucht) und Wettbewerb vermittelten Effekt, was Flucht vor negativen Affekten als zentralen Mechanismus zwischen psychischer Störung und Computerspielstörung stützt (Király et al., 2015); Escapism erwies sich auch über verschiedene Spielgenres hinweg als gemeinsamer Prädiktor der Gaming Disorder (Laconi et al., 2017).",
+   "citation": "Király, O., Urbán, R., Griffiths, M. D., Ágoston, C., Nagygyörgy, K., Kökönyei, G., & Demetrovics, Z. (2015). The mediating effect of gaming motivation between psychiatric symptoms and problematic online gaming: An online survey. Journal of Medical Internet Research, 17(4), e88. https://doi.org/10.2196/jmir.3515",
+   "doi": "10.2196/jmir.3515",
+   "url": "https://jmir.org/2015/4/e88/",
+   "source_type": "Survey",
+   "relevance_section": "4.4",
+   "confidence": "high",
+   "numbers": "Online-Survey ungarischer Online-Spieler; Stichprobengröße in Suchergebnissen nicht genannt (aus dem Gedächtnis: n ≈ 3.186 – ungeprüft); Mediatoren: Escape- und Wettbewerbsmotiv. Ergänzend: Laconi, S., Pirès, S., & Chabrol, H. (2017). Internet gaming disorder, motives, game genres and psychopathology. Computers in Human Behavior, 75, 652–659 (Band/Seiten per Suche bestätigt; DOI nicht ermittelt)."
+  },
+  {
+   "key": true,
+   "claim": "In der Zwillingsstudie des Vietnam Era Twin Registry (männliche Zwillinge) betrug die genetische Korrelation zwischen Glücksspielstörung und Alkoholabhängigkeit rG = 0,45, und 75 % der Gesamtassoziation beider Störungen ließen sich auf gemeinsame genetische Faktoren zurückführen; die national-populationsbasierte australische Zwillingsstudie replizierte dies für Männer und Frauen mit genetischen Korrelationen von 0,29 bis 0,44 und einem genetisch bedingten Anteil der Assoziation von etwa der Hälfte bis zwei Dritteln (Slutske et al., 2000, 2013), was für eine geteilte Vulnerabilität von Verhaltens- und Substanzsucht spricht.",
+   "citation": "Slutske, W. S., Eisen, S., True, W. R., Lyons, M. J., Goldberg, J., & Tsuang, M. (2000). Common genetic vulnerability for pathological gambling and alcohol dependence in men. Archives of General Psychiatry, 57(7), 666–673. https://doi.org/10.1001/archpsyc.57.7.666",
+   "doi": "10.1001/archpsyc.57.7.666",
+   "url": "https://jamanetwork.com/journals/jamapsychiatry/fullarticle/481631",
+   "source_type": "Kohorte/Register",
+   "relevance_section": "3.1",
+   "confidence": "medium",
+   "numbers": "VET Registry, männliche Zwillingspaare (Registerbasis: 3.359 Paare laut Sekundärquellen; Interviews 1992 – Jahr aus dem Gedächtnis); rG = 0,45 und '75 % der Gesamtassoziation genetisch' laut Suchergebnis; Sekundärquellen nennen teils '64 %' – Diskrepanz nicht aufgelöst; die in der Literatur zitierten Anteile '12–20 % der genetischen Varianz der Glücksspielstörung durch das Alkoholrisiko erklärt' stammen aus dem Gedächtnis und sind ungeprüft. Replikation: Slutske, W. S., Ellingson, J. M., Richmond-Rakerd, L. S., Zhu, G., & Martin, N. G. (2013). Shared genetic vulnerability for disordered gambling and alcohol use disorder in men and women: Evidence from a national community-based Australian twin study. Twin Research and Human Genetics, 16(2), 525–534 (Band/Seiten per Suche bestätigt; Koautoren und DOI 10.1017/thg.2013.11 aus dem Gedächtnis): rG 0,29–0,44, bei dimensionalen Phänotypen signifikant höhere genetische Korrelation bei Männern."
+  },
+  {
+   "key": true,
+   "claim": "Eine Metaanalyse von Fall-Kontroll-Studien zeigte bei Glücksspielstörung erhöhte Impulsivität über mehrere kognitive Domänen hinweg – motorische Inhibition g = 0,39–0,48, Aufmerksamkeitsinhibition g = 0,55, Delay Discounting g = 0,66 und Entscheidungsverhalten g = 0,63 –, wobei Entscheidungsimpulsivität möglicherweise bereits bei riskantem Spielen vorliegt; dies stützt Impulsivität als transdiagnostischen Vulnerabilitätsfaktor, der die Glücksspielstörung mit ADHS, Borderline- und antisozialer Persönlichkeitsstörung verbinden kann (Ioannidis et al., 2019).",
+   "citation": "Ioannidis, K., Hook, R., Wickham, K., Grant, J. E., & Chamberlain, S. R. (2019). Impulsivity in gambling disorder and problem gambling: A meta-analysis. Neuropsychopharmacology, 44(8), 1354–1361. https://doi.org/10.1038/s41386-019-0393-9",
+   "doi": "10.1038/s41386-019-0393-9",
+   "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6588525/",
+   "source_type": "Metaanalyse",
+   "relevance_section": "3.2",
+   "confidence": "high",
+   "numbers": "Random-effects-Metaanalyse von Fall-Kontroll-Studien; Hedges' g: motorische Inhibition 0,39–0,48; Aufmerksamkeitsinhibition 0,55; Discounting 0,66; Decision-making 0,63; Zahl der Primärstudien in Suchergebnissen nicht genannt. Korrektur zum Suchauftrag: Die Arbeit erschien in Neuropsychopharmacology 44(8), nicht in Neuroscience & Biobehavioral Reviews 107."
+  },
+  {
+   "key": false,
+   "claim": "In einem internationalen Delphi-Konsens von 44 Suchtexperten aus Australien, Asien, Europa und Amerika wurden sieben neuropsychologische Konstrukte von mindestens 80 % der Experten als primär für süchtiges Verhalten eingestuft – Belohnungsbewertung, Erwartung, Handlungsauswahl, Belohnungslernen, Gewohnheit (Positive Valence System), Reaktionsauswahl/-hemmung (Cognitive Control) und Kompulsivität –, was einen transdiagnostisch-dimensionalen Rahmen bietet, in dem substanzbezogene und verhaltensbezogene Süchte sowie ihre Komorbiditäten über gemeinsame Mechanismen statt über Diagnosekategorien beschrieben werden (Yücel et al., 2019).",
+   "citation": "Yücel, M., Oldenhof, E., Ahmed, S. H., Belin, D., Billieux, J., Bowden-Jones, H., Carter, A., Chamberlain, S. R., Clark, L., Connor, J., Daglish, M., Dom, G., Dannon, P., Duka, T., Fernandez-Serrano, M. J., Field, M., Franken, I., Goldstein, R. Z., Gonzalez, R., … Verdejo-Garcia, A. (2019). A transdiagnostic dimensional approach towards a neuropsychological assessment for addiction: An international Delphi consensus study. Addiction, 114(6), 1095–1109. https://doi.org/10.1111/add.14424",
+   "doi": "10.1111/add.14424",
+   "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6386631/",
+   "source_type": "Sonstiges",
+   "relevance_section": "3.2",
+   "confidence": "high",
+   "numbers": "44 Experten; Delphi-Verfahren; 7 Konstrukte mit ≥ 80 % Zustimmung; Band 114(6), S. 1095–1109, DOI per Suche bestätigt. Vollständige Autorenliste (über die ersten 19 hinaus) aus dem Gedächtnis gekürzt – für Zotero per DOI importieren."
+  },
+  {
+   "key": false,
+   "claim": "Der Review der neurobiologischen Evidenz spricht dafür, dass die Glücksspielstörung in Belohnungsverarbeitung (ventrales Striatum), Cue-Reaktivität, Impulsivität und genetischer Disposition substanzbezogenen Störungen ähnelt und deshalb in ICD-11 den Störungen durch Suchtverhalten statt den Impulskontrollstörungen zugeordnet wurde; da bei Verhaltenssüchten keine Substanztoxizität vorliegt, können beobachtete neurobiologische und psychische Auffälligkeiten nicht auf eine Neurotoxizität zurückgeführt werden, weshalb das Modell der substanzinduzierten (sekundären) psychischen Störung auf Verhaltenssüchte nur eingeschränkt übertragbar ist (Fauth-Bühler et al., 2017).",
+   "citation": "Fauth-Bühler, M., Mann, K., & Potenza, M. N. (2017). Pathological gambling: A review of the neurobiological evidence relevant for its classification as an addictive disorder. Addiction Biology, 22(4), 885–897. https://doi.org/10.1111/adb.12378",
+   "doi": "10.1111/adb.12378",
+   "url": "https://heibib.ub.uni-heidelberg.de/search/Record/1575458470",
+   "source_type": "narratives Review",
+   "relevance_section": "3.2",
+   "confidence": "medium",
+   "numbers": "Narrativer Review ohne gepoolte Kennzahlen; Band 22(4), S. 885–897, DOI per Suche bestätigt. Das Argument 'keine Substanztoxizität' ist in der Literatur (u. a. Clark, Boileau & Zack, 2019, Molecular Psychiatry, 24(5), 674–693; Band/Seiten per Suche bestätigt, DOI 10.1038/s41380-018-0230-2 aus dem Gedächtnis) als Begründung für die Glücksspielstörung als 'Modellstörung' der Sucht etabliert; dass Fauth-Bühler et al. es wörtlich so formulieren, wurde nicht geprüft. Clark et al. (2019) betonen zudem, dass die Befunde zur striatalen Belohnungsreaktivität bei Glücksspielstörung uneinheitlich (Hypo- vs. Hyperreaktivität) sind – aus dem Gedächtnis."
+  },
+  {
+   "key": false,
+   "claim": "Eine systematische Übersicht von 34 Studien (10 qualitative Studien, 17 psychometrische Arbeiten, 7 Behandlungsstudien) kam zu dem Schluss, dass die Evidenz für ein Entzugssyndrom bei Computerspielstörung sehr unterentwickelt ist und am konsistentesten Reizbarkeit und Unruhe nach Beendigung des Spielens berichtet werden, sodass affektive Symptome nach Nutzungsstopp nur mit Vorsicht als 'entzugsbedingt' und damit analog zu substanzinduzierten Störungen interpretiert werden sollten (Kaptsis et al., 2016).",
+   "citation": "Kaptsis, D., King, D. L., Delfabbro, P. H., & Gradisar, M. (2016). Withdrawal symptoms in internet gaming disorder: A systematic review. Clinical Psychology Review, 43, 58–66. https://doi.org/10.1016/j.cpr.2015.11.006",
+   "doi": "10.1016/j.cpr.2015.11.006",
+   "url": "https://researchnow.flinders.edu.au/en/publications/withdrawal-symptoms-in-internet-gaming-disorder-a-systematic-revi/",
+   "source_type": "systematisches Review",
+   "relevance_section": "2.3",
+   "confidence": "high",
+   "numbers": "34 Studien (10 qualitativ, 17 psychometrisch, 7 Behandlungsstudien); häufigste Entzugsbeschreibungen: 'irritability', 'restlessness'; Band 43, S. 58–66 per Suche bestätigt; DOI aus dem Gedächtnis."
+  },
+  {
+   "key": true,
+   "claim": "In einer zweijährigen Längsschnittstudie an 3.034 Schulkindern der Klassen 3, 4, 7 und 8 in Singapur (Prävalenz pathologischen Spielens rund 9 %) erwiesen sich höhere Spielzeit, geringere soziale Kompetenz und höhere Impulsivität als Risikofaktoren für die Entwicklung pathologischen Spielens, während Depression, Angst, soziale Phobie und schlechtere Schulleistungen eher als Folgen des pathologischen Spielens auftraten – ein Befund, der das Modell der sekundären psychischen Störung auch für Verhaltenssüchte stützt (Gentile et al., 2011).",
+   "citation": "Gentile, D. A., Choo, H., Liau, A., Sim, T., Li, D., Fung, D., & Khoo, A. (2011). Pathological video game use among youths: A two-year longitudinal study. Pediatrics, 127(2), e319–e329. https://doi.org/10.1542/peds.2010-1353",
+   "doi": "10.1542/peds.2010-1353",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/21242221",
+   "source_type": "Kohorte/Register",
+   "relevance_section": "3.1",
+   "confidence": "high",
+   "numbers": "n = 3.034; Singapur; Klassen 3, 4, 7, 8; 2-Jahres-Panel (3 Messzeitpunkte; Erhebungsjahre ca. 2007–2009 – aus dem Gedächtnis); Prävalenz ~9 %; Pediatrics 127(2), Februar 2011; Seitenangabe e319–e329, Koautoren und DOI aus dem Gedächtnis."
+  },
+  {
+   "key": false,
+   "claim": "In einer bevölkerungsrepräsentativen norwegischen Längsschnittstudie (3.000 aus dem Bevölkerungsregister gezogene 17,5-jährige Jugendliche, Ziehung 2012, drei jährliche Erhebungswellen) waren Depression und Einsamkeit mit pathologischem Spielen wechselseitig verbunden, physische Aggression ging dem pathologischen Spielen voraus und Angst folgte ihm, was ein bidirektionales Modell nahelegt, in dem je nach Störung Vorläufer-, Folge- und Wechselwirkungsbeziehungen nebeneinander bestehen (Krossbakken et al., 2018).",
+   "citation": "Krossbakken, E., Pallesen, S., Mentzoni, R. A., King, D. L., Molde, H., Finserås, T. R., & Torsheim, T. (2018). A cross-lagged study of developmental trajectories of video game engagement, addiction, and mental health. Frontiers in Psychology, 9, 2239. https://doi.org/10.3389/fpsyg.2018.02239",
+   "doi": "10.3389/fpsyg.2018.02239",
+   "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6258776/",
+   "source_type": "Kohorte/Register",
+   "relevance_section": "3.1",
+   "confidence": "high",
+   "numbers": "Norwegen; 3.000 eingeladene Jugendliche (17,5 Jahre), Registerziehung 2012, 3 Jahreswellen; Cross-lagged-Pfadmodelle; Depression und Einsamkeit reziprok, Aggression Antezedens, Angst Konsequenz; DOI per Suche bestätigt; Koautoren aus dem Gedächtnis. Konvergierend: Lemmens, J. S., Valkenburg, P. M., & Peter, J. (2011). Psychosocial causes and consequences of pathological gaming. Computers in Human Behavior, 27(1), 144–152 (Band/Seiten per Suche bestätigt; DOI 10.1016/j.chb.2010.07.015 aus dem Gedächtnis): 851 niederländische Jugendliche (543 Spieler), zwei Wellen im Abstand von 6 Monaten; geringere soziale Kompetenz, geringeres Selbstwertgefühl und Einsamkeit sagten pathologisches Spielen vorher, Einsamkeit war zugleich Folge. Teng, Z., Pontes, H. M., Nie, Q., Griffiths, M. D., & Guo, C. (2021). Depression and anxiety symptoms associated with internet gaming disorder before and during the COVID-19 pandemic: A longitudinal study. Journal of Behavioral Addictions, 10(1), 169–180 (Heft/Seiten und DOI 10.1556/2006.2021.00016 aus dem Gedächtnis): 1.778 Kinder und Jugendliche in Südwestchina; Depressions-/Angstsymptome zu T1 sagten Gaming Disorder zu T2 vermittelt über wahrgenommene COVID-19-Belastung vorher (kompensatorische Hypothese, I-PACE)."
+  },
+  {
+   "key": true,
+   "claim": "Eine Metaanalyse von elf bevölkerungsrepräsentativen Studien ergab bei Problem- und pathologischen Glücksspielern mittlere Prävalenzen von 60,1 % für Nikotinabhängigkeit, 57,5 % für eine Substanzgebrauchsstörung, 37,9 % für eine affektive Störung und 37,4 % für eine Angststörung bei moderater Heterogenität, sodass die Glücksspielstörung in der Allgemeinbevölkerung mehrheitlich als Doppeldiagnose auftritt (Lorains et al., 2011); in Behandlungsstichproben (36 Studien) lag die aktuelle Achse-I-Komorbidität bei 74,8 % (Dowling et al., 2015).",
+   "citation": "Lorains, F. K., Cowlishaw, S., & Thomas, S. A. (2011). Prevalence of comorbid disorders in problem and pathological gambling: Systematic review and meta-analysis of population surveys. Addiction, 106(3), 490–498. https://doi.org/10.1111/j.1360-0443.2010.03300.x",
+   "doi": "10.1111/j.1360-0443.2010.03300.x",
+   "url": "https://research-information.bris.ac.uk/en/publications/prevalence-of-comorbid-disorders-in-problem-and-pathological-gamb/",
+   "source_type": "Metaanalyse",
+   "relevance_section": "5",
+   "confidence": "high",
+   "numbers": "11 bevölkerungsrepräsentative Surveys; Nikotinabhängigkeit 60,1 %; Substanzgebrauchsstörung 57,5 %; affektive Störung 37,9 %; Angststörung 37,4 %; moderate Heterogenität; Addiction 106(3) per Suche bestätigt; Seiten 490–498, Titelzusatz und DOI aus dem Gedächtnis. Ergänzend Dowling, N. A., Cowlishaw, S., Jackson, A. C., Merkouris, S. S., Francis, K. L., & Christensen, D. R. (2015). Prevalence of psychiatric co-morbidity in treatment-seeking problem gamblers: A systematic review and meta-analysis. Australian & New Zealand Journal of Psychiatry, 49(6), 519–539, https://doi.org/10.1177/0004867415575774 (DOI aus Such-URL; Koautoren aus dem Gedächtnis): 36 Studien; aktuelle Achse-I-Störung 74,8 % (95 % KI 36,5–93,9); Lebenszeit 75,5 %; aktuell: affektive Störungen 23,1 %, Alkoholgebrauchsstörungen 21,2 %, Angststörungen 17,6 %, Substanzgebrauchsstörungen (ohne Alkohol) 7,0 %; Nikotinabhängigkeit 56,4 %; Major Depression 29,9 %; PTBS 12,3 %; ADHS 9,3 %; bipolare Störung 8,8 %."
+  },
+  {
+   "key": false,
+   "claim": "Eine systematische Übersicht von 23 Studien fand eine Assoziation zwischen Kindesmisshandlung (körperliche und sexuelle Gewalt, Vernachlässigung, psychische Misshandlung) und Glücksspielproblemen im Erwachsenenalter, die jedoch bei Kontrolle komorbider affektiver und Angststörungen nicht bestehen blieb, was frühe Traumatisierung eher als gemeinsamen distalen Risikofaktor für Glücksspielstörung und weitere psychische Störungen denn als spezifische Ursache der Glücksspielstörung ausweist (Lane et al., 2016).",
+   "citation": "Lane, W., Sacco, P., Downton, K., Ludeman, E., Levy, L., & Tracy, J. K. (2016). Child maltreatment and problem gambling: A systematic review. Child Abuse & Neglect, 58, 24–38. https://doi.org/10.1016/j.chiabu.2016.06.003",
+   "doi": "10.1016/j.chiabu.2016.06.003",
+   "url": "https://www.mdproblemgambling.com/wp-content/uploads/2023/02/Child-Maltreatment-and-Problem-Gambling-A-Systematic-Review-Lane.pdf",
+   "source_type": "systematisches Review",
+   "relevance_section": "4.2",
+   "confidence": "medium",
+   "numbers": "23 eingeschlossene Artikel; systematische Übersicht OHNE gepoolte Effektstärken (Korrektur zum Suchauftrag: keine Metaanalyse); Band 58, S. 24–38 per Suche bestätigt; DOI aus dem Gedächtnis. Primärstudie: Hodgins, D. C., Schopflocher, D. P., el-Guebaly, N., Casey, D. M., Smith, G. J., Williams, R. J., & Wood, R. T. (2010). The association between childhood maltreatment and gambling problems in a community sample of adult men and women. Psychology of Addictive Behaviors, 24(3), 548–554 (Heft/Seiten und DOI 10.1037/a0019946 aus dem Gedächtnis): 1.145 Erwachsene, Random-Digit-Dialing, Alberta/Kanada; Misshandlung in der Kindheit war auch nach Kontrolle individueller und sozialer Kovariaten mit häufigerem Spielen und mehr Glücksspielproblemen assoziiert. Petry & Steinberg (2005): Prozentwerte nicht ermittelt."
+  }
+ ],
+ "gaps": [
+  "Slutske et al. (2000): Die exakten Abstract-Werte (Anteil der genetischen Varianz der Glücksspielstörung, der durch das Alkoholrisiko erklärt wird, ca. 12–20 %; umgekehrt 3–8 %) konnten nicht verifiziert werden; Sekundärquellen nennen uneinheitlich 64 % bzw. 75 % der Gesamtassoziation als genetisch – vor Zitation im Volltext prüfen.",
+  "Blanco et al. (2012, Psychological Medicine, 'developmental model') nicht gefunden; stattdessen existiert ein NESARC-basiertes Entwicklungsmodell nach Kendler (22 Risikofaktoren in 5 Entwicklungsstufen), vermutlich Blanco et al. (2015), Addiction (PMC4503473) – Autoren, Jahr und Zeitschrift ungeprüft.",
+  "Lane et al. (2016) ist ein systematisches Review ohne Metaanalyse; gepoolte Effektstärken für Kindesmisshandlung und Glücksspielstörung liegen daraus nicht vor. Petry & Steinberg (2005) wurde nicht mit Kennzahlen gefunden.",
+  "Jacobs (1986, General theory of addictions; J Gambl Behav 2(1), 15–31, DOI 10.1007/BF01019931) und Grant, Potenza, Weinstein & Gorelick (2010, Am J Drug Alcohol Abuse 36(5), 233–241, DOI 10.3109/00952990.2010.491884) wurden aus Budgetgründen nicht recherchiert; Angaben nur aus dem Gedächtnis, Kernaussagen (Dissoziation/Flucht bei Jacobs; Definition Verhaltenssucht bei Grant) ungeprüft.",
+  "Chowdhury et al. (2017, Metaanalyse motorische Impulsivität) und Potenza (2014) nicht recherchiert.",
+  "Ioannidis et al. (2019): Zahl der eingeschlossenen Primärstudien nicht ermittelt; die im Suchauftrag genannte Quelle 'Neuroscience & Biobehavioral Reviews 107' ist falsch – Metaanalyse erschien in Neuropsychopharmacology 44(8).",
+  "Stewart et al. (2008): Stichprobengröße und Setting der Clusteranalyse nicht ermittelt; Laconi et al. (2017): DOI nicht ermittelt.",
+  "Brand et al. (2019): Inhalt des Updates (Phasen Gratifikation/Kompensation, Prozesscharakter) nur aus dem Gedächtnis; nicht per Suche inhaltlich bestätigt.",
+  "Keine deutschsprachigen Quellen zu Verhaltenssüchten gefunden/gesucht (z. B. Glücksspiel-Survey 2021/2023 von Buth, Meyer & Kalke; deutsche Leitlinien zu Glücksspiel- oder Computerspielstörung) – für das Kapitel 5 und 6.5 wäre eine eigene Recherche nötig.",
+  "ICD-11-Kategorie 'other specified disorders due to addictive behaviours' (Code 6C5Y) nicht recherchiert; Codeangabe aus dem Gedächtnis.",
+  "Keine Metaanalyse von Längsschnittstudien zur Richtung des Zusammenhangs Gaming Disorder ↔ Depression/Angst gefunden; Evidenz zur Bidirektionalität beruht auf Einzelstudien (Gentile 2011; Lemmens 2011; Krossbakken 2018; Teng 2021). Ostinelli et al. (2021, J Affect Disord 284, 136–142, DOI 10.1016/j.jad.2021.02.014): 92 Studien, 15.148 Teilnehmer, gepoolte Depressionsrate bei Gaming Disorder 0,32 (95 % KI 0,21–0,43) – querschnittlich, keine Richtungsaussage.",
+  "Zu Komorbidität von Verhaltenssüchten mit Psychose, bipolarer Störung oder Borderline-Persönlichkeitsstörung (Erklärungsmodelle) wurden keine spezifischen Quellen recherchiert."
+ ],
+ "notes": "ABSTRACT (Übertragbarkeit der vier Grundmodelle auf Verhaltenssüchte): (1) Gemeinsame ätiologische Faktoren – am besten belegt: Syndrommodell (Shaffer 2004), geteilte genetische Varianz Glücksspiel/Alkohol (Slutske 2000, 2013: rG 0,29–0,45; Hälfte bis drei Viertel der Assoziation genetisch), transdiagnostische Impulsivität (Ioannidis 2019: g 0,39–0,66), Delphi-Konsens zu gemeinsamen neuropsychologischen Konstrukten (Yücel 2019), frühe Traumatisierung als distaler Faktor (Lane 2016; Hodgins 2010); im Pathways-Modell entspricht Pfad 3 (antisozial-impulsiv) diesem Modell. (2) Sekundäre Suchtentwicklung/Selbstmedikation – gut belegt über Pfad 2 des Pathways-Modells (Blaszczynski & Nower 2002; Nower 2022: 39,5 % der Behandlungssuchenden mit höchsten Angst-/Depressionsraten und Stress-Coping-Spielen), Coping-Spieler (Stewart 2008), kompensatorische Internetnutzung (Kardefelt-Winther 2014), Escape-Motiv als Mediator (Király 2015; Laconi 2017), Teng 2021 längsschnittlich. (3) Sekundäre psychische Störung – bei Verhaltenssüchten nur eingeschränkt übertragbar: keine Substanztoxizität, also keine 'substanzinduzierte' Störung im engen Sinn (Fauth-Bühler 2017; Clark 2019); Entzugsevidenz bei Gaming dünn (Kaptsis 2016); dennoch längsschnittlich Depression/Angst/soziale Phobie als Folge pathologischen Spielens (Gentile 2011), vermittelt über psychosoziale Folgen (Schule, Einsamkeit, Verlust) statt über Pharmakologie. (4) Bidirektional – gestützt durch Cross-lagged-Studien (Krossbakken 2018: Depression und Einsamkeit reziprok; Lemmens 2011: Einsamkeit Ursache und Folge). Integrativ bündelt I-PACE (Brand 2016, 2019) alle vier Perspektiven: Psychopathologie als prädisponierende Variable, affektive/kognitive Reaktionen (Craving, Erwartungen, Coping) als Mediatoren, Inhibitionsdefizite als Moderator, mit Phasenwechsel von Gratifikation zu Kompensation. Für den Verhaltenssucht-Absatz in 4.4 lässt sich damit formulieren: Die Grundmodelle 1, 2 und 4 sind gut übertragbar; Modell 3 ist nur in einer psychosozial vermittelten Variante anwendbar. Epidemiologische Grundlage: Lorains 2011 (Allgemeinbevölkerung) und Dowling 2015 (Behandlungsstichproben, 74,8 % aktuelle Achse-I-Komorbidität; PTBS 12,3 %, ADHS 9,3 %, bipolar 8,8 %). METHODIK: 30 WebSearch-Aufrufe (29 standard, 1 extended), Budget vollständig genutzt; WebFetch nicht verwendet. Bibliografische Angaben wurden, soweit per Suche bestätigt, so übernommen; DOIs und Koautorenlisten sind vielfach aus dem Gedächtnis ergänzt und im Feld numbers entsprechend gekennzeichnet – vor Zotero-Import per DOI/PubMed verifizieren. Zusätzliche, in numbers eingebettete Referenzen (für Zotero): Brand et al. 2019 (NBR 104, 1–10); Slutske et al. 2013 (TRHG 16(2), 525–534); Stewart & Zack 2008 (Addiction 103(7), 1110–1117); Laconi et al. 2017 (CHB 75, 652–659); Clark, Boileau & Zack 2019 (Mol Psychiatry 24(5), 674–693); Lemmens et al. 2011 (CHB 27(1), 144–152); Teng et al. 2021 (JBA 10(1), 169–180); Dowling et al. 2015 (ANZJP 49(6), 519–539); Hodgins et al. 2010 (PAB 24(3), 548–554); Ostinelli et al. 2021 (JAD 284, 136–142). Kapitelzuordnung: 3.1 (Shaffer; Brand; Blaszczynski & Nower; Stewart; Kardefelt-Winther; Slutske; Gentile; Krossbakken), 3.2 (Ioannidis; Yücel; Fauth-Bühler), 2.3 (Kaptsis), 4.2 (Lane), 4.4 (Nower 2022; Király), 5 (Lorains/Dowling)."
+}

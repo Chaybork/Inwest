@@ -128,7 +128,7 @@ Wichtiger Unterschied zu Substanzen, der in 3.2 (neurobiologische Ergänzungen) 
 
 - Glücksspiel-Survey 2025: Buth, S., Meyer, G., Rosenkranz, M., & Kalke, J. (2026). Glücksspielteilnahme und glücksspielbezogene Probleme in der Bevölkerung: Ergebnisse des Glücksspiel-Surveys 2025. ISD Hamburg & Universität Bremen (Pressemitteilung 11.03.2026) – 12 340 Interviews, 16- bis 70-Jährige, Erhebung 04.08.–26.11.2025, Mixed-Mode: 12-Monats-Teilnahme 36,4 %; Störung durch Glücksspielen nach DSM-5 2,2 % [95 %-KI 1,9–2,5] (leicht 0,9 %, mittel 0,6 %, schwer 0,6 %); Männer 3,2 %, Frauen 1,1 %; finanziert vom Deutschen Lotto- und Totoblock. **[V]** (Zahlen, Gegenprüfung) / **[T]** (Autorenreihenfolge am Bericht prüfen)
 - Glücksspielatlas Deutschland 2023 als Datenkompendium: Schütze, C., Kalke, J., Möller, V., Turowski, T., & Hayer, T. (2023). Glücksspielatlas Deutschland 2023: Zahlen, Daten, Fakten. ISD, DHS & Arbeitseinheit Glücksspielforschung der Universität Bremen. **[T]**
-- Glücksspiel-Survey 2023: Buth, S., Meyer, G., Rosenkranz, M., & Kalke, J. (2024). Glücksspielteilnahme und glücksspielbezogene Probleme in der Bevölkerung – Ergebnisse des Glücksspiel-Survey 2023. ISD Hamburg & Universität Bremen – 2,4 % (95 %-KI 2,1–2,7) der 18- bis 70-Jährigen nach DSM-5 (leicht 1,0 %, mittel 0,7 %, schwer 0,7 %), 6,1 % mit 1–3 Kriterien; Survey 2021 (N = 12 303, 16–70 Jahre): 2,3 %. **[V]** (Gegenprüfung: vier Autoren inkl. Rosenkranz bestätigt; Hinweis: Altersgruppen 2021 und 2023 unterscheiden sich, Survey 2023 vom Deutschen Lotto- und Totoblock finanziert). DHS Jahrbuch Sucht 2025 übernimmt die 2,4 %. **[V]**
+- Glücksspiel-Survey 2023: Buth, S., Meyer, G., Rosenkranz, M., & Kalke, J. (2024). Glücksspielteilnahme und glücksspielbezogene Probleme in der Bevölkerung – Ergebnisse des Glücksspiel-Survey 2023. ISD Hamburg & Universität Bremen – 2,4 % (95 %-KI 2,1–2,7) der 18- bis 70-Jährigen nach DSM-5 (leicht 1,0 %, mittel 0,7 %, schwer 0,7 %), 6,1 % mit 1–3 Kriterien; Survey 2021 (N = 12 303, 16–70 Jahre): 2,3 %. **[V]** (Gegenprüfung: vier Autoren inkl. Rosenkranz bestätigt; Hinweis: Altersgruppen 2021 und 2023 unterscheiden sich, Survey 2023 vom Deutschen Lotto- und Totoblock finanziert). DHS Jahrbuch Sucht 2025 (Deutsche Hauptstelle für Suchtfragen, Hrsg., Pabst) übernimmt die 2,4 %, nennt 36,5 % Teilnahme und knapp 63,5 Mrd. Euro legalen Glücksspielumsatz 2023; Kapitel 2.6: Müller, K. W., & Wölfling, K. (2025). Internetnutzungsstörungen – Bestandsaufnahme, Trends und Perspektiven (S. 137–149). https://doi.org/10.2440/012-0023 **[V]**
 
 **Computerspielstörung / Internetnutzungsstörungen**
 
@@ -199,7 +199,7 @@ Wichtiger Unterschied zu Substanzen, der in 3.2 (neurobiologische Ergänzungen) 
 
 ---
 
-## 8. Strukturierte Ergebnisse der vier Rechercheagenten
+## 8. Strukturierte Ergebnisse der sieben Rechercheagenten
 
 Sieben Rechercheagenten (Klassifikation, Epidemiologie Glücksspiel, Diagnostik, Therapie, Epidemiologie Gaming, Erklärungsmodelle, deutschsprachige Literatur) haben je 27 bis 64 Websuchen durchgeführt und ihre Befunde strukturiert abgeliefert. ★ markiert die vom Agenten als Schlüsselbefund eingestuften Einträge. Die Spalte „Vertrauen" ist die Selbsteinschätzung des Agenten (high = Zahlen und Zitation in Suchtreffern bestätigt; medium = teilweise; low = unsicher). Die skeptische Gegenprüfung der jeweils sieben Schlüsselbefunde durch eine zweite Agentenstufe steht in Abschnitt 9.
 

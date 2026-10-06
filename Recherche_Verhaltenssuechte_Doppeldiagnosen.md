@@ -229,7 +229,7 @@ Vier Rechercheagenten (Klassifikation, Epidemiologie Glücksspiel, Diagnostik, T
 - DAK-Längsschnittstudie: offizieller Berichtstitel, Autorenliste (Thomasius/Paschke/Arnaud) und Ausgangswert 2019 für Gaming Disorder (vermutlich 2,7 %) nicht verifiziert; die Studie stammt vom UKE, nicht von Rumpf.
 - AWMF-S1-Leitlinie 'Diagnostik und Therapie von Internetnutzungsstörungen' (Reg.-Nr. 076-011, Stand 06/2025) gefunden, aber nicht lesbar (awmf.org gesperrt) – potenziell wichtige deutsche Leitlinienquelle für Kapitel 2.5 und 6.5.
 
-### 8.1 Epidemiologie und Verlauf der Komorbidität bei Glücksspielstörung (Agent 2)
+### 8.2 Epidemiologie und Verlauf der Komorbidität bei Glücksspielstörung (Agent 2)
 
 *Hinweis des Agenten:* Antwort (ca. 500 Wörter). Die Recherche stützt sich auf 47 WebSearch-Abfragen in Englisch und Deutsch; sämtliche WebFetch-Zugriffe auf Verlags- und Repositoriumsseiten wurden durch die Netzwerk-Policy blockiert, und das Suchbudget war vor der letzten Verifikationsrunde erschöpft. Zahlen stammen daher aus Abstract-Wiedergaben in Suchergebnissen; wo nur Sekundärquellen vorlagen, ist dies im Feld numbers vermerkt. Bibliografische Felder, die nicht am Original geprüft werden konnten, sind unter gaps aufgeführt und sollten vor der Zotero-Übernahme gegengeprüft werden.
 
@@ -269,7 +269,7 @@ Vier Rechercheagenten (Klassifikation, Epidemiologie Glücksspiel, Diagnostik, T
 - ICD-11 'other specified disorders due to addictive behaviours' (6C5Y) und Abgrenzung zur zwanghaften Sexualverhaltensstörung (6C72): keine epidemiologischen Komorbiditätsdaten im Suchbudget recherchiert; Computerspielstörung außer Depression (Ostinelli 2021) nur mit Korrelationsübersicht (González-Bueso et al. 2018, 24 Studien, ohne gepoolte Prävalenzen) belegt.
 - Netzwerk: alle WebFetch-Zugriffe (Wiley, Sage, Springer, Cambridge, Elsevier, Thieme, Frontiers, ResearchGate, Universitätsrepositorien, ISD Hamburg, gluecksspielsucht.de, presseportal.de) wurden blockiert; Suchbudget vor der letzten Verifikationsrunde erschöpft. DOIs/Seitenzahlen bei Lorains 2011, Cowlishaw 2014, Bischof 2013, Haydock 2015, Jones 2015, Hartmann & Blaszczynski 2018 sowie Autorenlisten bei Kessler 2008, Jones 2015 und Afifi 2016 stammen aus Erinnerung und sollten vor der Zotero-Übernahme geprüft werden.
 
-### 8.1 Diagnostik, Differenzialdiagnostik, Fallstricke und Screening (Agent 3)
+### 8.3 Diagnostik, Differenzialdiagnostik, Fallstricke und Screening (Agent 3)
 
 *Hinweis des Agenten:* Recherchestand 06.10.2026; Antwort auf Wunsch des Nutzers auf rund 500 Wörter begrenzt. Methode: 43 WebSearch-Abfragen (englisch und deutsch, Standard- und Extended-Modus); danach war das Suchbudget erschöpft. WebFetch war für praktisch alle Hosts (AWMF, NICE, JAMA, Cambridge, Springer, Hogrefe, Repositorien) per Egress-Policy gesperrt, sodass Zahlen überwiegend aus Suchmaschinen-Snippets und Sekundärquellen stammen und nicht an Abstracts gegengeprüft werden konnten. DOIs sind nur eingetragen, wo sie in Suchergebnissen sichtbar waren oder mit hoher Sicherheit bekannt sind; unsichere Felder bleiben leer.
 
@@ -313,7 +313,7 @@ Vier Rechercheagenten (Klassifikation, Epidemiologie Glücksspiel, Diagnostik, T
 - Di Nicola et al. 2014 (J Affect Disord 167, 285–298) und Rash, Weinstock & Van Patten 2016 (Subst Abuse Rehabil 7, 3–13): Kernempfehlungen nur aus Abstracts; Details nicht verifiziert.
 - Weitere Literatur zu Jugendlichen (Rumpf, Thomasius): Rumpf et al. 2018 (J Behav Addict 7(3), 556–561) zur Begründung der ICD-11-Aufnahme belegt; spezifische Altersgrenzen/Hinweise zur Diagnostik bei Minderjährigen nicht gefunden.
 
-### 8.1 Therapie und Versorgung (Agent 4)
+### 8.4 Therapie und Versorgung (Agent 4)
 
 *Hinweis des Agenten:* Antwort (ca. 500 Wörter): Die Datenlage zur Therapie von Verhaltenssüchten als Doppeldiagnose ist deutlich dünner als bei Substanzstörungen, lässt sich aber in vier Linien ordnen. Erstens ist die KVT bei Glücksspielstörung die am besten belegte Intervention: Das Cochrane-Review (Cowlishaw et al., 2012) zeigt Vorteile unmittelbar nach Behandlungsende, die Metaanalyse von Pfund et al. (2023; 9 RCTs, n = 658) belegt zusätzlich Effekte auf Angst (g = −0,44), Depression (g = −0,35) und Lebensqualität (g = 0,40) – für Doppeldiagnosen zentral, weil die glücksspielbezogene Behandlung komorbide Symptome mit erfasst. Motivierende Gesprächsführung wirkt vor allem kurzfristig (Yakovenko et al., 2015). N
 
